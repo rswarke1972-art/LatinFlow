@@ -1,0 +1,1939 @@
+{
+  "language": "Italian",
+  "stories": {
+  "story1": {
+    "title": "Una Giornata Semplice",
+    "content": [
+      { "word": "Ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "giorno", "meaning": "day", "sound": "jor-no" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "I (myself)", "sound": "mi" },
+      { "word": "sveglio", "meaning": "wake up", "sound": "zve-lyo" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "mattina", "meaning": "morning", "sound": "mat-ti-na" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Bevo", "meaning": "I drink", "sound": "be-vo" },
+      { "word": "acqua", "meaning": "water", "sound": "a-qua" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "faccio", "meaning": "I do/make", "sound": "fat-cho" },
+      { "word": "colazione", "meaning": "breakfast", "sound": "co-la-tsyo-ne" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Poi", "meaning": "then", "sound": "poi" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "vado", "meaning": "I go", "sound": "va-do" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "scuola", "meaning": "school", "sound": "skwo-la" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "A", "meaning": "at", "sound": "a" },
+      { "word": "scuola", "meaning": "school", "sound": "skwo-la" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "studio", "meaning": "I study", "sound": "stu-dyo" },
+      { "word": "italiano", "meaning": "Italian", "sound": "i-ta-lya-no" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mi", "meaning": "I (myself)", "sound": "mi" },
+      { "word": "piace", "meaning": "I like", "sound": "pya-che" },
+      { "word": "studiare", "meaning": "to study", "sound": "stu-dya-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dopo", "meaning": "after", "sound": "do-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "torno", "meaning": "I return", "sound": "tor-no" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "casa", "meaning": "home", "sound": "ka-sa" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "La", "meaning": "the", "sound": "la" },
+      { "word": "sera", "meaning": "evening", "sound": "se-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "I (myself)", "sound": "mi" },
+      { "word": "rilasso", "meaning": "relax", "sound": "ri-las-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "È", "meaning": "is", "sound": "e" },
+      { "word": "una", "meaning": "a", "sound": "u-na" },
+      { "word": "giornata", "meaning": "day", "sound": "jor-na-ta" },
+      { "word": "bella", "meaning": "beautiful", "sound": "bel-la" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story2": {
+    "title": "Una Giornata a Scuola",
+    "content": [
+      { "word": "Oggi", "meaning": "today", "sound": "od-ji" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "vado", "meaning": "I go", "sound": "va-do" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "scuola", "meaning": "school", "sound": "skwo-la" },
+      { "word": "presto", "meaning": "early", "sound": "pre-sto" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Incontro", "meaning": "I meet", "sound": "in-kon-tro" },
+      { "word": "i", "meaning": "the (plural)", "sound": "i" },
+      { "word": "miei", "meaning": "my", "sound": "my-ei" },
+      { "word": "amici", "meaning": "friends", "sound": "a-mi-chi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parliamo", "meaning": "we talk", "sound": "par-lya-mo" },
+      { "word": "insieme", "meaning": "together", "sound": "in-sye-me" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "In", "meaning": "in", "sound": "in" },
+      { "word": "classe", "meaning": "class", "sound": "klas-se" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "l’insegnante", "meaning": "the teacher", "sound": "lin-se-nyan-te" },
+      { "word": "spiega", "meaning": "explains", "sound": "spye-ga" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "lezione", "meaning": "lesson", "sound": "le-tsyo-ne" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Io", "meaning": "I", "sound": "io" },
+      { "word": "ascolto", "meaning": "listen", "sound": "a-skol-to" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "capisco", "meaning": "understand", "sound": "ka-pis-ko" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dopo", "meaning": "after", "sound": "do-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mangio", "meaning": "I eat", "sound": "man-jo" },
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "i", "meaning": "the", "sound": "i" },
+      { "word": "miei", "meaning": "my", "sound": "my-ei" },
+      { "word": "amici", "meaning": "friends", "sound": "a-mi-chi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Siamo", "meaning": "we are", "sound": "sya-mo" },
+      { "word": "felici", "meaning": "happy", "sound": "fe-li-chi" },
+      { "word": "oggi", "meaning": "today", "sound": "od-ji" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story3": {
+    "title": "Un Momento con gli Amici",
+    "content": [
+      { "word": "Oggi", "meaning": "today", "sound": "od-ji" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "incontro", "meaning": "I meet", "sound": "in-kon-tro" },
+      { "word": "i", "meaning": "the", "sound": "i" },
+      { "word": "miei", "meaning": "my", "sound": "my-ei" },
+      { "word": "amici", "meaning": "friends", "sound": "a-mi-chi" },
+      { "word": "al", "meaning": "at the", "sound": "al" },
+      { "word": "parco", "meaning": "park", "sound": "par-ko" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Camminiamo", "meaning": "we walk", "sound": "kam-mi-nya-mo" },
+      { "word": "insieme", "meaning": "together", "sound": "in-sye-me" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parliamo", "meaning": "we talk", "sound": "par-lya-mo" },
+      { "word": "di", "meaning": "about", "sound": "di" },
+      { "word": "molte", "meaning": "many", "sound": "mol-te" },
+      { "word": "cose", "meaning": "things", "sound": "ko-ze" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Io", "meaning": "I", "sound": "io" },
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "sento", "meaning": "feel", "sound": "sen-to" },
+      { "word": "felice", "meaning": "happy", "sound": "fe-li-che" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "tranquillo", "meaning": "calm", "sound": "tran-kwil-lo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dopo", "meaning": "after", "sound": "do-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ci", "meaning": "we each other", "sound": "chi" },
+      { "word": "sediamo", "meaning": "we sit", "sound": "se-dya-mo" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "guardiamo", "meaning": "we look/watch", "sound": "gwar-dya-mo" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "cielo", "meaning": "sky", "sound": "che-lo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "La", "meaning": "the", "sound": "la" },
+      { "word": "giornata", "meaning": "day", "sound": "jor-na-ta" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "molto", "meaning": "very", "sound": "mol-to" },
+      { "word": "bella", "meaning": "beautiful", "sound": "bel-la" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story4": {
+    "title": "Una Nuova Esperienza",
+    "content": [
+      { "word": "Ieri", "meaning": "yesterday", "sound": "ye-ri" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "provato", "meaning": "tried", "sound": "pro-va-to" },
+      { "word": "qualcosa", "meaning": "something", "sound": "kwal-ko-sa" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "nuovo", "meaning": "new", "sound": "nuo-vo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Sono", "meaning": "I am", "sound": "so-no" },
+      { "word": "andato", "meaning": "gone", "sound": "an-da-to" },
+      { "word": "in", "meaning": "to/in", "sound": "in" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "posto", "meaning": "place", "sound": "pos-to" },
+      { "word": "nuovo", "meaning": "new", "sound": "nuo-vo" },
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "i", "meaning": "the", "sound": "i" },
+      { "word": "miei", "meaning": "my", "sound": "my-ei" },
+      { "word": "amici", "meaning": "friends", "sound": "a-mi-chi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "All’inizio", "meaning": "at the beginning", "sound": "al-li-ni-tsyo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "sentivo", "meaning": "felt", "sound": "sen-ti-vo" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "po’", "meaning": "a little", "sound": "po" },
+      { "word": "nervoso", "meaning": "nervous", "sound": "ner-vo-zo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dopo", "meaning": "after", "sound": "do-po" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "po’", "meaning": "a bit", "sound": "po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "iniziato", "meaning": "started", "sound": "i-ni-tsya-to" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "divertirmi", "meaning": "have fun", "sound": "di-ver-tir-mi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Abbiamo", "meaning": "we have", "sound": "ab-bya-mo" },
+      { "word": "visto", "meaning": "seen", "sound": "vis-to" },
+      { "word": "molte", "meaning": "many", "sound": "mol-te" },
+      { "word": "cose", "meaning": "things", "sound": "ko-ze" },
+      { "word": "interessanti", "meaning": "interesting", "sound": "in-te-res-san-ti" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Alla", "meaning": "at the", "sound": "al-la" },
+      { "word": "fine", "meaning": "end", "sound": "fi-ne" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "sono", "meaning": "I am", "sound": "so-no" },
+      { "word": "sentito", "meaning": "felt", "sound": "sen-ti-to" },
+      { "word": "felice", "meaning": "happy", "sound": "fe-li-che" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "orgoglioso", "meaning": "proud", "sound": "or-yo-lyo-zo" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story5": {
+    "title": "Una Piccola Lezione",
+    "content": [
+      { "word": "Un", "meaning": "one/a", "sound": "un" },
+      { "word": "giorno", "meaning": "day", "sound": "jor-no" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "avuto", "meaning": "had", "sound": "a-vu-to" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "problema", "meaning": "problem", "sound": "pro-ble-ma" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Non", "meaning": "not", "sound": "non" },
+      { "word": "capivo", "meaning": "understood", "sound": "ka-pi-vo" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "lezione", "meaning": "lesson", "sound": "le-tsyo-ne" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "All’inizio", "meaning": "at the beginning", "sound": "al-li-ni-tsyo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "sentivo", "meaning": "felt", "sound": "sen-ti-vo" },
+      { "word": "frustrato", "meaning": "frustrated", "sound": "frus-tra-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "deciso", "meaning": "decided", "sound": "de-chi-zo" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "continuare", "meaning": "continue", "sound": "kon-ti-nu-a-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ho", "meaning": "I have", "sound": "o" },
+      { "word": "studiato", "meaning": "studied", "sound": "stu-dya-to" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "più", "meaning": "more", "sound": "pyu" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Piano", "meaning": "slowly", "sound": "pya-no" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "iniziato", "meaning": "started", "sound": "i-ni-tsya-to" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "capire", "meaning": "understand", "sound": "ka-pi-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Alla", "meaning": "at the", "sound": "al-la" },
+      { "word": "fine", "meaning": "end", "sound": "fi-ne" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ero", "meaning": "I was", "sound": "e-ro" },
+      { "word": "felice", "meaning": "happy", "sound": "fe-li-che" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ho", "meaning": "I have", "sound": "o" },
+      { "word": "imparato", "meaning": "learned", "sound": "im-pa-ra-to" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "devo", "meaning": "I must", "sound": "de-vo" },
+      { "word": "arrendermi", "meaning": "give up", "sound": "ar-ren-der-mi" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story6": {
+    "title": "Imparare con Pazienza",
+    "content": [
+      { "word": "Imparare", "meaning": "to learn", "sound": "im-pa-ra-re" },
+      { "word": "una", "meaning": "a", "sound": "u-na" },
+      { "word": "lingua", "meaning": "language", "sound": "lin-gwa" },
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "facile", "meaning": "easy", "sound": "fa-chi-le" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "All’inizio", "meaning": "at the beginning", "sound": "al-li-ni-tsyo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ci", "meaning": "there/ourselves", "sound": "chi" },
+      { "word": "sono", "meaning": "there are", "sound": "so-no" },
+      { "word": "molte", "meaning": "many", "sound": "mol-te" },
+      { "word": "difficoltà", "meaning": "difficulties", "sound": "dif-fi-kol-ta" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Io", "meaning": "I", "sound": "io" },
+      { "word": "spesso", "meaning": "often", "sound": "spes-so" },
+      { "word": "facevo", "meaning": "used to make", "sound": "fa-che-vo" },
+      { "word": "errori", "meaning": "mistakes", "sound": "er-ro-ri" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "A", "meaning": "at", "sound": "a" },
+      { "word": "volte", "meaning": "times", "sound": "vol-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "sentivo", "meaning": "felt", "sound": "sen-ti-vo" },
+      { "word": "confuso", "meaning": "confused", "sound": "kon-fu-zo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "mai", "meaning": "never", "sound": "mai" },
+      { "word": "smesso", "meaning": "stopped", "sound": "smes-so" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "studiare", "meaning": "study", "sound": "stu-dya-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Piano", "meaning": "slowly", "sound": "pya-no" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "iniziato", "meaning": "started", "sound": "i-ni-tsya-to" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "capire", "meaning": "understand", "sound": "ka-pi-re" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "più", "meaning": "more", "sound": "pyu" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "so", "meaning": "I know", "sound": "so" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "pazienza", "meaning": "patience", "sound": "pa-tsy-en-tsa" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "molto", "meaning": "very", "sound": "mol-to" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story7": {
+    "title": "Il Valore del Tempo",
+    "content": [
+      { "word": "Con", "meaning": "with", "sound": "kon" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "imparato", "meaning": "learned", "sound": "im-pa-ra-to" },
+      { "word": "molte", "meaning": "many", "sound": "mol-te" },
+      { "word": "cose", "meaning": "things", "sound": "ko-ze" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "All’inizio", "meaning": "at the beginning", "sound": "al-li-ni-tsyo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "pensavo", "meaning": "I thought", "sound": "pen-sa-vo" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "tutto", "meaning": "everything", "sound": "tut-to" },
+      { "word": "dovesse", "meaning": "had to", "sound": "do-ves-se" },
+      { "word": "succedere", "meaning": "happen", "sound": "suk-che-de-re" },
+      { "word": "subito", "meaning": "immediately", "sound": "su-bi-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Volevo", "meaning": "I wanted", "sound": "vo-le-vo" },
+      { "word": "risultati", "meaning": "results", "sound": "ri-zul-ta-ti" },
+      { "word": "veloci", "meaning": "fast", "sound": "ve-lo-chi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "l’esperienza", "meaning": "experience", "sound": "les-pe-ryen-tsa" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "capito", "meaning": "understood", "sound": "ka-pi-to" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "cose", "meaning": "things", "sound": "ko-ze" },
+      { "word": "importanti", "meaning": "important", "sound": "im-por-tan-ti" },
+      { "word": "richiedono", "meaning": "require", "sound": "ri-kye-do-no" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "A", "meaning": "at", "sound": "a" },
+      { "word": "volte", "meaning": "times", "sound": "vol-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ero", "meaning": "I was", "sound": "e-ro" },
+      { "word": "impaziente", "meaning": "impatient", "sound": "im-pa-tsyen-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ma", "meaning": "but", "sound": "ma" },
+      { "word": "ora", "meaning": "now", "sound": "o-ra" },
+      { "word": "cerco", "meaning": "I try", "sound": "cher-ko" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "essere", "meaning": "be", "sound": "es-se-re" },
+      { "word": "più", "meaning": "more", "sound": "pyu" },
+      { "word": "calmo", "meaning": "calm", "sound": "kal-mo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "So", "meaning": "I know", "sound": "so" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "passo", "meaning": "step", "sound": "pas-so" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story8": {
+    "title": "Il Potere delle Abitudini",
+    "content": [
+      { "word": "Credo", "meaning": "I believe", "sound": "kre-do" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "piccole", "meaning": "small", "sound": "pik-ko-le" },
+      { "word": "abitudini", "meaning": "habits", "sound": "a-bi-tu-di-ni" },
+      { "word": "possano", "meaning": "can (subjunctive)", "sound": "pos-sa-no" },
+      { "word": "cambiare", "meaning": "change", "sound": "kam-bya-re" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "giorno", "meaning": "day", "sound": "jor-no" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cerco", "meaning": "I try", "sound": "cher-ko" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "fare", "meaning": "do", "sound": "fa-re" },
+      { "word": "qualcosa", "meaning": "something", "sound": "kwal-ko-sa" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "utile", "meaning": "useful", "sound": "u-ti-le" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "All’inizio", "meaning": "at the beginning", "sound": "al-li-ni-tsyo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "era", "meaning": "it was", "sound": "e-ra" },
+      { "word": "difficile", "meaning": "difficult", "sound": "dif-fi-chi-le" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "A", "meaning": "at", "sound": "a" },
+      { "word": "volte", "meaning": "times", "sound": "vol-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "volevo", "meaning": "I wanted", "sound": "vo-le-vo" },
+      { "word": "smettere", "meaning": "stop", "sound": "smet-te-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "continuato", "meaning": "continued", "sound": "kon-ti-nu-a-to" },
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "pazienza", "meaning": "patience", "sound": "pa-tsy-en-tsa" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Piano", "meaning": "slowly", "sound": "pya-no" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "visto", "meaning": "seen", "sound": "vis-to" },
+      { "word": "dei", "meaning": "some", "sound": "dei" },
+      { "word": "cambiamenti", "meaning": "changes", "sound": "kam-bya-men-ti" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "sento", "meaning": "feel", "sound": "sen-to" },
+      { "word": "più", "meaning": "more", "sound": "pyu" },
+      { "word": "forte", "meaning": "strong", "sound": "for-te" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "motivato", "meaning": "motivated", "sound": "mo-ti-va-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ho", "meaning": "I have", "sound": "o" },
+      { "word": "capito", "meaning": "understood", "sound": "ka-pi-to" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "piccole", "meaning": "small", "sound": "pik-ko-le" },
+      { "word": "azioni", "meaning": "actions", "sound": "a-tsyo-ni" },
+      { "word": "portano", "meaning": "bring", "sound": "por-ta-no" },
+      { "word": "grandi", "meaning": "big", "sound": "gran-di" },
+      { "word": "risultati", "meaning": "results", "sound": "ri-zul-ta-ti" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story9": {
+    "title": "Il Significato della Pazienza",
+    "content": [
+      { "word": "Nella", "meaning": "in the", "sound": "nel-la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "tutto", "meaning": "everything", "sound": "tut-to" },
+      { "word": "succede", "meaning": "happens", "sound": "suk-che-de" },
+      { "word": "subito", "meaning": "immediately", "sound": "su-bi-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "A", "meaning": "at", "sound": "a" },
+      { "word": "volte", "meaning": "times", "sound": "vol-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dobbiamo", "meaning": "we must", "sound": "dob-bya-mo" },
+      { "word": "aspettare", "meaning": "wait", "sound": "as-pet-ta-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Io", "meaning": "I", "sound": "io" },
+      { "word": "prima", "meaning": "before", "sound": "pri-ma" },
+      { "word": "ero", "meaning": "was", "sound": "e-ro" },
+      { "word": "molto", "meaning": "very", "sound": "mol-to" },
+      { "word": "impaziente", "meaning": "impatient", "sound": "im-pa-tsyen-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Volevo", "meaning": "I wanted", "sound": "vo-le-vo" },
+      { "word": "tutto", "meaning": "everything", "sound": "tut-to" },
+      { "word": "subito", "meaning": "immediately", "sound": "su-bi-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "capito", "meaning": "understood", "sound": "ka-pi-to" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "pazienza", "meaning": "patience", "sound": "pa-tsy-en-tsa" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "necessaria", "meaning": "necessary", "sound": "ne-ches-sa-ria" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Quando", "meaning": "when", "sound": "kwan-do" },
+      { "word": "aspettiamo", "meaning": "we wait", "sound": "as-pet-tya-mo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "possiamo", "meaning": "we can", "sound": "pos-sya-mo" },
+      { "word": "capire", "meaning": "understand", "sound": "ka-pi-re" },
+      { "word": "meglio", "meaning": "better", "sound": "me-lyo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cerco", "meaning": "I try", "sound": "cher-ko" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "essere", "meaning": "be", "sound": "es-se-re" },
+      { "word": "più", "meaning": "more", "sound": "pyu" },
+      { "word": "paziente", "meaning": "patient", "sound": "pa-tsyen-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "So", "meaning": "I know", "sound": "so" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "cosa", "meaning": "thing", "sound": "ko-sa" },
+      { "word": "arriva", "meaning": "arrives", "sound": "ar-ri-va" },
+      { "word": "al", "meaning": "at the", "sound": "al" },
+      { "word": "momento", "meaning": "moment", "sound": "mo-men-to" },
+      { "word": "giusto", "meaning": "right", "sound": "jus-to" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story10": {
+    "title": "Il Viaggio Interiore",
+    "content": [
+      { "word": "Nella", "meaning": "in the", "sound": "nel-la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ognuno", "meaning": "everyone", "sound": "o-nyu-no" },
+      { "word": "ha", "meaning": "has", "sound": "a" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "percorso", "meaning": "path", "sound": "per-kor-so" },
+      { "word": "diverso", "meaning": "different", "sound": "di-ver-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Non", "meaning": "not", "sound": "non" },
+      { "word": "tutti", "meaning": "everyone", "sound": "tut-ti" },
+      { "word": "i", "meaning": "the", "sound": "i" },
+      { "word": "cammini", "meaning": "paths", "sound": "kam-mi-ni" },
+      { "word": "sono", "meaning": "are", "sound": "so-no" },
+      { "word": "facili", "meaning": "easy", "sound": "fa-chi-li" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Anch’io", "meaning": "I too", "sound": "an-kyo" },
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "sono", "meaning": "have", "sound": "so-no" },
+      { "word": "sentito", "meaning": "felt", "sound": "sen-ti-to" },
+      { "word": "perso", "meaning": "lost", "sound": "per-so" },
+      { "word": "a", "meaning": "at", "sound": "a" },
+      { "word": "volte", "meaning": "times", "sound": "vol-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Non", "meaning": "not", "sound": "non" },
+      { "word": "sapevo", "meaning": "I knew", "sound": "sa-pe-vo" },
+      { "word": "cosa", "meaning": "what", "sound": "ko-sa" },
+      { "word": "fare", "meaning": "do", "sound": "fa-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "col", "meaning": "with the", "sound": "kol" },
+      { "word": "passare", "meaning": "passing", "sound": "pas-sa-re" },
+      { "word": "del", "meaning": "of the", "sound": "del" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "iniziato", "meaning": "started", "sound": "i-ni-tsya-to" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "capire", "meaning": "understand", "sound": "ka-pi-re" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "stesso", "meaning": "self", "sound": "stes-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ho", "meaning": "I have", "sound": "o" },
+      { "word": "capito", "meaning": "understood", "sound": "ka-pi-to" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "errore", "meaning": "mistake", "sound": "er-ro-re" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "parte", "meaning": "part", "sound": "par-te" },
+      { "word": "del", "meaning": "of the", "sound": "del" },
+      { "word": "processo", "meaning": "process", "sound": "pro-ches-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "più", "meaning": "anymore", "sound": "pyu" },
+      { "word": "paura", "meaning": "fear", "sound": "pa-u-ra" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Voglio", "meaning": "I want", "sound": "vo-lyo" },
+      { "word": "continuare", "meaning": "continue", "sound": "kon-ti-nu-a-re" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "crescere", "meaning": "grow", "sound": "kre-she-re" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "migliorare", "meaning": "improve", "sound": "mi-lyo-ra-re" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story11": {
+    "title": "La Ricerca del Significato",
+    "content": [
+      { "word": "Molte", "meaning": "many", "sound": "mol-te" },
+      { "word": "persone", "meaning": "people", "sound": "per-so-ne" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "durante", "meaning": "during", "sound": "du-ran-te" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cercano", "meaning": "search", "sound": "cher-ka-no" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "significato", "meaning": "meaning", "sound": "si-gni-fi-ka-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pensano", "meaning": "they think", "sound": "pen-sa-no" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "felicità", "meaning": "happiness", "sound": "fe-li-chi-ta" },
+      { "word": "si", "meaning": "itself", "sound": "si" },
+      { "word": "trovi", "meaning": "is found", "sound": "tro-vi" },
+      { "word": "all’esterno", "meaning": "outside", "sound": "al-les-ter-no" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Anch’io", "meaning": "I too", "sound": "an-kyo" },
+      { "word": "pensavo", "meaning": "thought", "sound": "pen-sa-vo" },
+      { "word": "così", "meaning": "so", "sound": "ko-zi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cercavo", "meaning": "I searched", "sound": "cher-ka-vo" },
+      { "word": "risposte", "meaning": "answers", "sound": "ri-spo-ste" },
+      { "word": "ovunque", "meaning": "everywhere", "sound": "o-vun-kwe" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "col", "meaning": "with the", "sound": "kol" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "capito", "meaning": "understood", "sound": "ka-pi-to" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "vero", "meaning": "true", "sound": "ve-ro" },
+      { "word": "significato", "meaning": "meaning", "sound": "si-gni-fi-ka-to" },
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "si", "meaning": "itself", "sound": "si" },
+      { "word": "trova", "meaning": "is found", "sound": "tro-va" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ma", "meaning": "but", "sound": "ma" },
+      { "word": "si", "meaning": "itself", "sound": "si" },
+      { "word": "crea", "meaning": "is created", "sound": "kre-a" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "azione", "meaning": "action", "sound": "a-tsyo-ne" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "anche", "meaning": "even", "sound": "an-ke" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "più", "meaning": "most", "sound": "pyu" },
+      { "word": "piccola", "meaning": "small", "sound": "pik-ko-la" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ha", "meaning": "has", "sound": "a" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "valore", "meaning": "value", "sound": "va-lo-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "cerco", "meaning": "search", "sound": "cher-ko" },
+      { "word": "più", "meaning": "anymore", "sound": "pyu" },
+      { "word": "risposte", "meaning": "answers", "sound": "ri-spo-ste" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Creo", "meaning": "I create", "sound": "kre-o" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "mio", "meaning": "my", "sound": "mi-o" },
+      { "word": "significato", "meaning": "meaning", "sound": "si-gni-fi-ka-to" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story12": {
+    "title": "Accettare Se Stessi",
+    "content": [
+      { "word": "Per", "meaning": "for", "sound": "per" },
+      { "word": "molto", "meaning": "a long", "sound": "mol-to" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "cercato", "meaning": "searched", "sound": "cher-ka-to" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "essere", "meaning": "be", "sound": "es-se-re" },
+      { "word": "qualcun", "meaning": "someone", "sound": "kwal-kun" },
+      { "word": "altro", "meaning": "else", "sound": "al-tro" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mi", "meaning": "myself", "sound": "mi" },
+      { "word": "confrontavo", "meaning": "compared", "sound": "kon-fron-ta-vo" },
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "gli", "meaning": "the", "sound": "lyi" },
+      { "word": "altri", "meaning": "others", "sound": "al-tri" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pensavo", "meaning": "I thought", "sound": "pen-sa-vo" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "essere", "meaning": "be", "sound": "es-se-re" },
+      { "word": "abbastanza", "meaning": "enough", "sound": "ab-bas-tan-za" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Questi", "meaning": "these", "sound": "kwe-sti" },
+      { "word": "pensieri", "meaning": "thoughts", "sound": "pen-sye-ri" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "però", "meaning": "however", "sound": "pe-ro" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "facevano", "meaning": "made", "sound": "fa-che-va-no" },
+      { "word": "soffrire", "meaning": "suffer", "sound": "sof-fri-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Col", "meaning": "with the", "sound": "kol" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "iniziato", "meaning": "started", "sound": "i-ni-tsya-to" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "riflettere", "meaning": "reflect", "sound": "ri-flet-te-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ho", "meaning": "I have", "sound": "o" },
+      { "word": "capito", "meaning": "understood", "sound": "ka-pi-to" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "ognuno", "meaning": "everyone", "sound": "o-nyu-no" },
+      { "word": "ha", "meaning": "has", "sound": "a" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "proprio", "meaning": "own", "sound": "pro-pryo" },
+      { "word": "percorso", "meaning": "path", "sound": "per-kor-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Non", "meaning": "not", "sound": "non" },
+      { "word": "ha", "meaning": "has", "sound": "a" },
+      { "word": "senso", "meaning": "sense", "sound": "sen-so" },
+      { "word": "paragonarsi", "meaning": "compare oneself", "sound": "pa-ra-go-nar-si" },
+      { "word": "agli", "meaning": "to the", "sound": "al-yi" },
+      { "word": "altri", "meaning": "others", "sound": "al-tri" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "sto", "meaning": "I am", "sound": "sto" },
+      { "word": "imparando", "meaning": "learning", "sound": "im-pa-ran-do" },
+      { "word": "ad", "meaning": "to", "sound": "ad" },
+      { "word": "accettarmi", "meaning": "accept myself", "sound": "at-chet-tar-mi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Credo", "meaning": "I believe", "sound": "kre-do" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "essere", "meaning": "being", "sound": "es-se-re" },
+      { "word": "se", "meaning": "oneself", "sound": "se" },
+      { "word": "stessi", "meaning": "selves", "sound": "stes-si" },
+      { "word": "sia", "meaning": "is (subjunctive)", "sound": "si-a" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "cosa", "meaning": "thing", "sound": "ko-sa" },
+      { "word": "più", "meaning": "most", "sound": "pyu" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story13": {
+    "title": "Creare il Proprio Significato",
+    "content": [
+      { "word": "Molte", "meaning": "many", "sound": "mol-te" },
+      { "word": "persone", "meaning": "people", "sound": "per-so-ne" },
+      { "word": "passano", "meaning": "spend", "sound": "pas-sa-no" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": "cercando", "meaning": "searching", "sound": "cher-kan-do" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "significato", "meaning": "meaning", "sound": "si-gni-fi-ka-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pensano", "meaning": "they think", "sound": "pen-sa-no" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "questo", "meaning": "this", "sound": "kwe-sto" },
+      { "word": "significato", "meaning": "meaning", "sound": "si-gni-fi-ka-to" },
+      { "word": "sia", "meaning": "is (subjunctive)", "sound": "si-a" },
+      { "word": "già", "meaning": "already", "sound": "ja" },
+      { "word": "definito", "meaning": "defined", "sound": "de-fi-ni-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Anch’io", "meaning": "I too", "sound": "an-kyo" },
+      { "word": "credevo", "meaning": "believed", "sound": "kre-de-vo" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "questa", "meaning": "this", "sound": "kwe-sta" },
+      { "word": "idea", "meaning": "idea", "sound": "i-de-a" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cercavo", "meaning": "I searched", "sound": "cher-ka-vo" },
+      { "word": "risposte", "meaning": "answers", "sound": "ri-spo-ste" },
+      { "word": "all’esterno", "meaning": "outside", "sound": "al-les-ter-no" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "nelle", "meaning": "in the", "sound": "nel-le" },
+      { "word": "opinioni", "meaning": "opinions", "sound": "o-pi-nyo-ni" },
+      { "word": "degli", "meaning": "of the", "sound": "de-lyi" },
+      { "word": "altri", "meaning": "others", "sound": "al-tri" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "capito", "meaning": "understood", "sound": "ka-pi-to" },
+      { "word": "qualcosa", "meaning": "something", "sound": "kwal-ko-sa" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Il", "meaning": "the", "sound": "il" },
+      { "word": "significato", "meaning": "meaning", "sound": "si-gni-fi-ka-to" },
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "qualcosa", "meaning": "something", "sound": "kwal-ko-sa" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "si", "meaning": "itself", "sound": "si" },
+      { "word": "trova", "meaning": "is found", "sound": "tro-va" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "È", "meaning": "is", "sound": "e" },
+      { "word": "qualcosa", "meaning": "something", "sound": "kwal-ko-sa" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "si", "meaning": "itself", "sound": "si" },
+      { "word": "costruisce", "meaning": "is built", "sound": "kos-tru-i-she" },
+      { "word": "giorno", "meaning": "day", "sound": "jor-no" },
+      { "word": "dopo", "meaning": "after", "sound": "do-po" },
+      { "word": "giorno", "meaning": "day", "sound": "jor-no" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "scelta", "meaning": "choice", "sound": "shel-ta" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "azione", "meaning": "action", "sound": "a-tsyo-ne" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "contribuisce", "meaning": "contributes", "sound": "kon-tri-bu-i-she" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "dare", "meaning": "give", "sound": "da-re" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "senso", "meaning": "meaning", "sound": "sen-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "aspetto", "meaning": "wait", "sound": "as-pet-to" },
+      { "word": "più", "meaning": "anymore", "sound": "pyu" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "trovare", "meaning": "find", "sound": "tro-va-re" },
+      { "word": "risposte", "meaning": "answers", "sound": "ri-spo-ste" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Le", "meaning": "them", "sound": "le" },
+      { "word": "creo", "meaning": "I create", "sound": "kre-o" },
+      { "word": "attraverso", "meaning": "through", "sound": "at-tra-ver-so" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "mia", "meaning": "my", "sound": "mi-a" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story14": {
+    "title": "Essere Se Stessi",
+    "content": [
+      { "word": "Nel", "meaning": "in the", "sound": "nel" },
+      { "word": "corso", "meaning": "course", "sound": "kor-so" },
+      { "word": "della", "meaning": "of the", "sound": "del-la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "molte", "meaning": "many", "sound": "mol-te" },
+      { "word": "persone", "meaning": "people", "sound": "per-so-ne" },
+      { "word": "cercano", "meaning": "try/search", "sound": "cher-ka-no" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "essere", "meaning": "be", "sound": "es-se-re" },
+      { "word": "qualcun", "meaning": "someone", "sound": "kwal-kun" },
+      { "word": "altro", "meaning": "else", "sound": "al-tro" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Si", "meaning": "one/they", "sound": "si" },
+      { "word": "confrontano", "meaning": "compare", "sound": "kon-fron-ta-no" },
+      { "word": "costantemente", "meaning": "constantly", "sound": "kos-tan-te-men-te" },
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "gli", "meaning": "the", "sound": "lyi" },
+      { "word": "altri", "meaning": "others", "sound": "al-tri" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Anch’io", "meaning": "I too", "sound": "an-kyo" },
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "fatto", "meaning": "done", "sound": "fat-to" },
+      { "word": "lo", "meaning": "the", "sound": "lo" },
+      { "word": "stesso", "meaning": "same", "sound": "stes-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pensavo", "meaning": "I thought", "sound": "pen-sa-vo" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "fossi", "meaning": "was (subjunctive)", "sound": "fos-si" },
+      { "word": "abbastanza", "meaning": "enough", "sound": "ab-bas-tan-za" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Questo", "meaning": "this", "sound": "kwe-sto" },
+      { "word": "modo", "meaning": "way", "sound": "mo-do" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "pensare", "meaning": "thinking", "sound": "pen-sa-re" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "però", "meaning": "however", "sound": "pe-ro" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mi", "meaning": "myself", "sound": "mi" },
+      { "word": "faceva", "meaning": "made", "sound": "fa-che-va" },
+      { "word": "sentire", "meaning": "feel", "sound": "sen-ti-re" },
+      { "word": "perso", "meaning": "lost", "sound": "per-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Col", "meaning": "with the", "sound": "kol" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "iniziato", "meaning": "started", "sound": "i-ni-tsya-to" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "capire", "meaning": "understand", "sound": "ka-pi-re" },
+      { "word": "qualcosa", "meaning": "something", "sound": "kwal-ko-sa" },
+      { "word": "di", "meaning": "of", "sound": "di" },
+      { "word": "fondamentale", "meaning": "fundamental", "sound": "fon-da-men-ta-le" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Non", "meaning": "not", "sound": "non" },
+      { "word": "ha", "meaning": "has", "sound": "a" },
+      { "word": "senso", "meaning": "sense", "sound": "sen-so" },
+      { "word": "cercare", "meaning": "to try", "sound": "cher-ka-re" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "essere", "meaning": "be", "sound": "es-se-re" },
+      { "word": "qualcun", "meaning": "someone", "sound": "kwal-kun" },
+      { "word": "altro", "meaning": "else", "sound": "al-tro" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ognuno", "meaning": "everyone", "sound": "o-nyu-no" },
+      { "word": "ha", "meaning": "has", "sound": "a" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "valore", "meaning": "value", "sound": "va-lo-re" },
+      { "word": "unico", "meaning": "unique", "sound": "u-ni-ko" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cerco", "meaning": "I try", "sound": "cher-ko" },
+      { "word": "di", "meaning": "to", "sound": "di" },
+      { "word": "accettarmi", "meaning": "accept myself", "sound": "at-chet-tar-mi" },
+      { "word": "per", "meaning": "for", "sound": "per" },
+      { "word": "quello", "meaning": "what", "sound": "kwel-lo" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "sono", "meaning": "I am", "sound": "so-no" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Credo", "meaning": "I believe", "sound": "kre-do" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "questa", "meaning": "this", "sound": "kwe-sta" },
+      { "word": "sia", "meaning": "is (subjunctive)", "sound": "si-a" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "vera", "meaning": "true", "sound": "ve-ra" },
+      { "word": "libertà", "meaning": "freedom", "sound": "li-ber-ta" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story15": {
+    "title": "Il Senso della Vita",
+    "content": [
+      { "word": "Alla", "meaning": "at the", "sound": "al-la" },
+      { "word": "fine", "meaning": "end", "sound": "fi-ne" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "tutti", "meaning": "everyone", "sound": "tut-ti" },
+      { "word": "si", "meaning": "themselves", "sound": "si" },
+      { "word": "pongono", "meaning": "ask themselves", "sound": "pon-go-no" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "stessa", "meaning": "same", "sound": "stes-sa" },
+      { "word": "domanda", "meaning": "question", "sound": "do-man-da" },
+      { "word": ":", "meaning": "", "sound": "" },
+
+      { "word": "qual", "meaning": "what", "sound": "kwal" },
+      { "word": "è", "meaning": "is", "sound": "e" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "senso", "meaning": "meaning", "sound": "sen-so" },
+      { "word": "della", "meaning": "of the", "sound": "del-la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": "?", "meaning": "", "sound": "" },
+
+      { "word": "Per", "meaning": "for", "sound": "per" },
+      { "word": "molto", "meaning": "a long", "sound": "mol-to" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "cercato", "meaning": "searched", "sound": "cher-ka-to" },
+      { "word": "una", "meaning": "a", "sound": "u-na" },
+      { "word": "risposta", "meaning": "answer", "sound": "ri-spo-sta" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pensavo", "meaning": "I thought", "sound": "pen-sa-vo" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "ci", "meaning": "there", "sound": "chi" },
+      { "word": "fosse", "meaning": "was (subjunctive)", "sound": "fos-se" },
+      { "word": "una", "meaning": "a", "sound": "u-na" },
+      { "word": "verità", "meaning": "truth", "sound": "ve-ri-ta" },
+      { "word": "assoluta", "meaning": "absolute", "sound": "as-so-lu-ta" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ma", "meaning": "but", "sound": "ma" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "con", "meaning": "with", "sound": "kon" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ho", "meaning": "I have", "sound": "o" },
+      { "word": "compreso", "meaning": "understood deeply", "sound": "kom-pre-so" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "esiste", "meaning": "exists", "sound": "e-zi-ste" },
+      { "word": "una", "meaning": "a", "sound": "u-na" },
+      { "word": "sola", "meaning": "single", "sound": "so-la" },
+      { "word": "risposta", "meaning": "answer", "sound": "ri-spo-sta" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Il", "meaning": "the", "sound": "il" },
+      { "word": "senso", "meaning": "meaning", "sound": "sen-so" },
+      { "word": "della", "meaning": "of the", "sound": "del-la" },
+      { "word": "vita", "meaning": "life", "sound": "vi-ta" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "in", "meaning": "in", "sound": "in" },
+      { "word": "realtà", "meaning": "reality", "sound": "re-al-ta" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cambia", "meaning": "changes", "sound": "kam-bya" },
+      { "word": "per", "meaning": "for", "sound": "per" },
+      { "word": "ognuno", "meaning": "everyone", "sound": "o-nyu-no" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "È", "meaning": "is", "sound": "e" },
+      { "word": "qualcosa", "meaning": "something", "sound": "kwal-ko-sa" },
+      { "word": "che", "meaning": "that", "sound": "ke" },
+      { "word": "si", "meaning": "itself", "sound": "si" },
+      { "word": "costruisce", "meaning": "is built", "sound": "kos-tru-i-she" },
+      { "word": "attraverso", "meaning": "through", "sound": "at-tra-ver-so" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "esperienze", "meaning": "experiences", "sound": "es-pe-ryen-tse" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "errore", "meaning": "mistake", "sound": "er-ro-re" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ogni", "meaning": "every", "sound": "o-nyi" },
+      { "word": "successo", "meaning": "success", "sound": "suk-ches-so" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "contribuisce", "meaning": "contributes", "sound": "kon-tri-bu-i-she" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "definirlo", "meaning": "define it", "sound": "de-fi-nir-lo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ora", "meaning": "now", "sound": "o-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "non", "meaning": "not", "sound": "non" },
+      { "word": "cerco", "meaning": "search", "sound": "cher-ko" },
+      { "word": "più", "meaning": "anymore", "sound": "pyu" },
+      { "word": "una", "meaning": "a", "sound": "u-na" },
+      { "word": "risposta", "meaning": "answer", "sound": "ri-spo-sta" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Vivo", "meaning": "I live", "sound": "vi-vo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "imparo", "meaning": "I learn", "sound": "im-pa-ro" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "creo", "meaning": "create", "sound": "kre-o" },
+      { "word": "il", "meaning": "the", "sound": "il" },
+      { "word": "mio", "meaning": "my", "sound": "mi-o" },
+      { "word": "significato", "meaning": "meaning", "sound": "si-gni-fi-ka-to" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  }
+  },
+  
+  "sentences": [
+
+    {
+      "id": 1,
+      "english": {
+        "present": "I am Manoj",
+        "past": "I was Manoj",
+        "future": "I will be Manoj"
+      },
+      "italian": {
+        "present": ["Io", "sono", "Manoj"],
+        "past": ["Io", "ero", "Manoj"],
+        "future": ["Io", "sarò", "Manoj"]
+      }
+    },
+
+    {
+      "id": 2,
+      "english": {
+        "present": "I am happy",
+        "past": "I was happy",
+        "future": "I will be happy"
+      },
+      "italian": {
+        "present": ["Io", "sono", "felice"],
+        "past": ["Io", "ero", "felice"],
+        "future": ["Io", "sarò", "felice"]
+      }
+    },
+
+    {
+      "id": 3,
+      "english": {
+        "present": "I go home",
+        "past": "I went home",
+        "future": "I will go home"
+      },
+      "italian": {
+        "present": ["Io", "vado", "a", "casa"],
+        "past": ["Io", "sono", "andato", "a", "casa"],
+        "future": ["Io", "andrò", "a", "casa"]
+      }
+    },
+
+    {
+      "id": 4,
+      "english": {
+        "present": "I eat food",
+        "past": "I ate food",
+        "future": "I will eat food"
+      },
+      "italian": {
+        "present": ["Io", "mangio"],
+        "past": ["Io", "ho", "mangiato"],
+        "future": ["Io", "mangerò"]
+      }
+    },
+
+    {
+      "id": 5,
+      "english": {
+        "present": "I drink water",
+        "past": "I drank water",
+        "future": "I will drink water"
+      },
+      "italian": {
+        "present": ["Io", "bevo", "acqua"],
+        "past": ["Io", "ho", "bevuto", "acqua"],
+        "future": ["Io", "berrò", "acqua"]
+      }
+    },
+
+    {
+      "id": 6,
+      "english": {
+        "present": "I see him",
+        "past": "I saw him",
+        "future": "I will see him"
+      },
+      "italian": {
+        "present": ["Io", "lo", "vedo"],
+        "past": ["Io", "l’ho", "visto"],
+        "future": ["Io", "lo", "vedrò"]
+      }
+    },
+
+    {
+      "id": 7,
+      "english": {
+        "present": "I like this",
+        "past": "I liked this",
+        "future": "I will like this"
+      },
+      "italian": {
+        "present": ["Mi", "piace", "questo"],
+        "past": ["Mi", "è", "piaciuto", "questo"],
+        "future": ["Mi", "piacerà", "questo"]
+      }
+    },
+
+    {
+      "id": 8,
+      "english": {
+        "present": "I study Italian",
+        "past": "I studied Italian",
+        "future": "I will study Italian"
+      },
+      "italian": {
+        "present": ["Io", "studio", "italiano"],
+        "past": ["Io", "ho", "studiato", "italiano"],
+        "future": ["Io", "studierò", "italiano"]
+      }
+    },
+
+    {
+      "id": 9,
+      "english": {
+        "present": "I work",
+        "past": "I worked",
+        "future": "I will work"
+      },
+      "italian": {
+        "present": ["Io", "lavoro"],
+        "past": ["Io", "ho", "lavorato"],
+        "future": ["Io", "lavorerò"]
+      }
+    },
+
+    {
+      "id": 10,
+      "english": {
+        "present": "I live here",
+        "past": "I lived here",
+        "future": "I will live here"
+      },
+      "italian": {
+        "present": ["Io", "vivo", "qui"],
+        "past": ["Io", "ho", "vissuto", "qui"],
+        "future": ["Io", "vivrò", "qui"]
+      }
+    },
+
+    {
+      "id": 11,
+      "english": {
+        "present": "I am eating now",
+        "past": "I was eating earlier",
+        "future": "I will be eating later"
+      },
+      "italian": {
+        "present": ["Io", "sto", "mangiando", "ora"],
+        "past": ["Io", "stavo", "mangiando", "prima"],
+        "future": ["Io", "starò", "mangiando", "dopo"]
+      }
+    },
+
+    {
+      "id": 12,
+      "english": {
+        "present": "She has already finished",
+        "past": "She had already finished",
+        "future": "She will have already finished"
+      },
+      "italian": {
+        "present": ["Lei", "ha", "già", "finito"],
+        "past": ["Lei", "aveva", "già", "finito"],
+        "future": ["Lei", "avrà", "già", "finito"]
+      }
+    },
+
+    {
+      "id": 13,
+      "english": {
+        "present": "We are studying together",
+        "past": "We were studying together",
+        "future": "We will be studying together"
+      },
+      "italian": {
+        "present": ["Noi", "stiamo", "studiando", "insieme"],
+        "past": ["Noi", "stavamo", "studiando", "insieme"],
+        "future": ["Noi", "staremo", "studiando", "insieme"]
+      }
+    },
+
+    {
+      "id": 14,
+      "english": {
+        "present": "I have already seen this",
+        "past": "I had already seen this",
+        "future": "I will have already seen this"
+      },
+      "italian": {
+        "present": ["Io", "ho", "già", "visto", "questo"],
+        "past": ["Io", "avevo", "già", "visto", "questo"],
+        "future": ["Io", "avrò", "già", "visto", "questo"]
+      }
+    },
+
+    {
+      "id": 15,
+      "english": {
+        "present": "They are working now",
+        "past": "They were working before",
+        "future": "They will be working later"
+      },
+      "italian": {
+        "present": ["Loro", "stanno", "lavorando", "ora"],
+        "past": ["Loro", "stavano", "lavorando", "prima"],
+        "future": ["Loro", "staranno", "lavorando", "dopo"]
+      }
+    },
+
+    {
+      "id": 16,
+      "english": {
+        "present": "I have already understood",
+        "past": "I had already understood",
+        "future": "I will have already understood"
+      },
+      "italian": {
+        "present": ["Io", "ho", "già", "capito"],
+        "past": ["Io", "avevo", "già", "capito"],
+        "future": ["Io", "avrò", "già", "capito"]
+      }
+    },
+
+    {
+      "id": 17,
+      "english": {
+        "present": "She is writing now",
+        "past": "She was writing earlier",
+        "future": "She will be writing later"
+      },
+      "italian": {
+        "present": ["Lei", "sta", "scrivendo", "ora"],
+        "past": ["Lei", "stava", "scrivendo", "prima"],
+        "future": ["Lei", "starà", "scrivendo", "dopo"]
+      }
+    },
+
+    {
+      "id": 18,
+      "english": {
+        "present": "We have already watched it",
+        "past": "We had already watched it",
+        "future": "We will have already watched it"
+      },
+      "italian": {
+        "present": ["Noi", "abbiamo", "già", "visto"],
+        "past": ["Noi", "avevamo", "già", "visto"],
+        "future": ["Noi", "avremo", "già", "visto"]
+      }
+    },
+
+    {
+      "id": 19,
+      "english": {
+        "present": "I am thinking now",
+        "past": "I was thinking before",
+        "future": "I will be thinking later"
+      },
+      "italian": {
+        "present": ["Io", "sto", "pensando", "ora"],
+        "past": ["Io", "stavo", "pensando", "prima"],
+        "future": ["Io", "starò", "pensando", "dopo"]
+      }
+    },
+
+    {
+      "id": 20,
+      "english": {
+        "present": "He has already changed",
+        "past": "He had already changed",
+        "future": "He will have already changed"
+      },
+      "italian": {
+        "present": ["Lui", "è", "già", "cambiato"],
+        "past": ["Lui", "era", "già", "cambiato"],
+        "future": ["Lui", "sarà", "già", "cambiato"]
+      }
+    },
+
+    {
+      "id": 21,
+      "english": {
+        "present": "I want to learn Italian",
+        "past": "I wanted to learn Italian",
+        "future": "I will want to learn Italian"
+      },
+      "italian": {
+        "present": ["Io", "voglio", "imparare", "italiano"],
+        "past": ["Io", "volevo", "imparare", "italiano"],
+        "future": ["Io", "vorrò", "imparare", "italiano"]
+      }
+    },
+
+    {
+      "id": 22,
+      "english": {
+        "present": "She wants to go home",
+        "past": "She wanted to go home",
+        "future": "She will want to go home"
+      },
+      "italian": {
+        "present": ["Lei", "vuole", "andare", "a", "casa"],
+        "past": ["Lei", "voleva", "andare", "a", "casa"],
+        "future": ["Lei", "vorrà", "andare", "a", "casa"]
+      }
+    },
+
+    {
+      "id": 23,
+      "english": {
+        "present": "We must study every day",
+        "past": "We had to study every day",
+        "future": "We will have to study every day"
+      },
+      "italian": {
+        "present": ["Noi", "dobbiamo", "studiare", "ogni", "giorno"],
+        "past": ["Noi", "dovevamo", "studiare", "ogni", "giorno"],
+        "future": ["Noi", "dovremo", "studiare", "ogni", "giorno"]
+      }
+    },
+
+    {
+      "id": 24,
+      "english": {
+        "present": "I can speak Italian",
+        "past": "I could speak Italian",
+        "future": "I will be able to speak Italian"
+      },
+      "italian": {
+        "present": ["Io", "posso", "parlare", "italiano"],
+        "past": ["Io", "potevo", "parlare", "italiano"],
+        "future": ["Io", "potrò", "parlare", "italiano"]
+      }
+    },
+
+    {
+      "id": 25,
+      "english": {
+        "present": "He wants to improve",
+        "past": "He wanted to improve",
+        "future": "He will want to improve"
+      },
+      "italian": {
+        "present": ["Lui", "vuole", "migliorare"],
+        "past": ["Lui", "voleva", "migliorare"],
+        "future": ["Lui", "vorrà", "migliorare"]
+      }
+    },
+
+    {
+      "id": 26,
+      "english": {
+        "present": "This is more important",
+        "past": "This was more important",
+        "future": "This will be more important"
+      },
+      "italian": {
+        "present": ["Questo", "è", "più", "importante"],
+        "past": ["Questo", "era", "più", "importante"],
+        "future": ["Questo", "sarà", "più", "importante"]
+      }
+    },
+
+    {
+      "id": 27,
+      "english": {
+        "present": "I feel better today",
+        "past": "I felt better today",
+        "future": "I will feel better today"
+      },
+      "italian": {
+        "present": ["Io", "mi", "sento", "meglio", "oggi"],
+        "past": ["Io", "mi", "sentivo", "meglio", "oggi"],
+        "future": ["Io", "mi", "sentirò", "meglio", "oggi"]
+      }
+    },
+
+    {
+      "id": 28,
+      "english": {
+        "present": "They want to work harder",
+        "past": "They wanted to work harder",
+        "future": "They will want to work harder"
+      },
+      "italian": {
+        "present": ["Loro", "vogliono", "lavorare", "di", "più"],
+        "past": ["Loro", "volevano", "lavorare", "di", "più"],
+        "future": ["Loro", "vorranno", "lavorare", "di", "più"]
+      }
+    },
+
+    {
+      "id": 29,
+      "english": {
+        "present": "We can do this together",
+        "past": "We could do this together",
+        "future": "We will be able to do this together"
+      },
+      "italian": {
+        "present": ["Noi", "possiamo", "fare", "questo", "insieme"],
+        "past": ["Noi", "potevamo", "fare", "questo", "insieme"],
+        "future": ["Noi", "potremo", "fare", "questo", "insieme"]
+      }
+    },
+
+    {
+      "id": 30,
+      "english": {
+        "present": "I want to become better",
+        "past": "I wanted to become better",
+        "future": "I will want to become better"
+      },
+      "italian": {
+        "present": ["Io", "voglio", "diventare", "migliore"],
+        "past": ["Io", "volevo", "diventare", "migliore"],
+        "future": ["Io", "vorrò", "diventare", "migliore"]
+      }
+    },
+
+    {
+      "id": 31,
+      "english": {
+        "present": "I am happy because I am learning",
+        "past": "I was happy because I was learning",
+        "future": "I will be happy because I will be learning"
+      },
+      "italian": {
+        "present": ["Io", "sono", "felice", "perché", "sto", "imparando"],
+        "past": ["Io", "ero", "felice", "perché", "stavo", "imparando"],
+        "future": ["Io", "sarò", "felice", "perché", "starò", "imparando"]
+      }
+    },
+
+    {
+      "id": 32,
+      "english": {
+        "present": "She studies because she wants to improve",
+        "past": "She studied because she wanted to improve",
+        "future": "She will study because she will want to improve"
+      },
+      "italian": {
+        "present": ["Lei", "studia", "perché", "vuole", "migliorare"],
+        "past": ["Lei", "ha", "studiato", "perché", "voleva", "migliorare"],
+        "future": ["Lei", "studierà", "perché", "vorrà", "migliorare"]
+      }
+    },
+
+    {
+      "id": 33,
+      "english": {
+        "present": "If I try, I can succeed",
+        "past": "If I tried, I could succeed",
+        "future": "If I try, I will succeed"
+      },
+      "italian": {
+        "present": ["Se", "provo", ",", "posso", "riuscire"],
+        "past": ["Se", "provavo", ",", "potevo", "riuscire"],
+        "future": ["Se", "proverò", ",", "riuscirò"]
+      }
+    },
+
+    {
+      "id": 34,
+      "english": {
+        "present": "I work hard because I have a goal",
+        "past": "I worked hard because I had a goal",
+        "future": "I will work hard because I will have a goal"
+      },
+      "italian": {
+        "present": ["Io", "lavoro", "molto", "perché", "ho", "un", "obiettivo"],
+        "past": ["Io", "ho", "lavorato", "molto", "perché", "avevo", "un", "obiettivo"],
+        "future": ["Io", "lavorerò", "molto", "perché", "avrò", "un", "obiettivo"]
+      }
+    },
+
+    {
+      "id": 35,
+      "english": {
+        "present": "If we study together, we understand better",
+        "past": "If we studied together, we understood better",
+        "future": "If we study together, we will understand better"
+      },
+      "italian": {
+        "present": ["Se", "studiamo", "insieme", ",", "capiamo", "meglio"],
+        "past": ["Se", "studiavamo", "insieme", ",", "capivamo", "meglio"],
+        "future": ["Se", "studieremo", "insieme", ",", "capiremo", "meglio"]
+      }
+    },
+
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired because I work too much",
+        "past": "I felt tired because I worked too much",
+        "future": "I will feel tired because I will work too much"
+      },
+      "italian": {
+        "present": ["Io", "mi", "sento", "stanco", "perché", "lavoro", "troppo"],
+        "past": ["Io", "mi", "sentivo", "stanco", "perché", "lavoravo", "troppo"],
+        "future": ["Io", "mi", "sentirò", "stanco", "perché", "lavorerò", "troppo"]
+      }
+    },
+
+    {
+      "id": 37,
+      "english": {
+        "present": "If she believes in herself, she can grow",
+        "past": "If she believed in herself, she could grow",
+        "future": "If she believes in herself, she will grow"
+      },
+      "italian": {
+        "present": ["Se", "crede", "in", "se", "stessa", ",", "può", "crescere"],
+        "past": ["Se", "credeva", "in", "se", "stessa", ",", "poteva", "crescere"],
+        "future": ["Se", "crederà", "in", "se", "stessa", ",", "crescerà"]
+      }
+    },
+
+    {
+      "id": 38,
+      "english": {
+        "present": "We are strong because we keep trying",
+        "past": "We were strong because we kept trying",
+        "future": "We will be strong because we will keep trying"
+      },
+      "italian": {
+        "present": ["Noi", "siamo", "forti", "perché", "continuiamo", "a", "provare"],
+        "past": ["Noi", "eravamo", "forti", "perché", "continuavamo", "a", "provare"],
+        "future": ["Noi", "saremo", "forti", "perché", "continueremo", "a", "provare"]
+      }
+    },
+
+    {
+      "id": 39,
+      "english": {
+        "present": "If I fail, I will learn from it",
+        "past": "If I failed, I learned from it",
+        "future": "If I fail, I will learn from it"
+      },
+      "italian": {
+        "present": ["Se", "fallisco", ",", "imparo", "da", "questo"],
+        "past": ["Se", "fallivo", ",", "imparavo", "da", "questo"],
+        "future": ["Se", "fallirò", ",", "imparerò", "da", "questo"]
+      }
+    },
+
+    {
+      "id": 40,
+      "english": {
+        "present": "I improve because I practice every day",
+        "past": "I improved because I practiced every day",
+        "future": "I will improve because I will practice every day"
+      },
+      "italian": {
+        "present": ["Io", "miglioro", "perché", "mi", "alleno", "ogni", "giorno"],
+        "past": ["Io", "sono", "migliorato", "perché", "mi", "allenavo", "ogni", "giorno"],
+        "future": ["Io", "migliorerò", "perché", "mi", "allenerò", "ogni", "giorno"]
+      }
+    },
+
+    {
+      "id": 41,
+      "english": {
+        "present": "I think this is important",
+        "past": "I thought this was important",
+        "future": "I will think this is important"
+      },
+      "italian": {
+        "present": ["Io", "penso", "che", "questo", "sia", "importante"],
+        "past": ["Io", "pensavo", "che", "questo", "fosse", "importante"],
+        "future": ["Io", "penserò", "che", "questo", "sia", "importante"]
+      }
+    },
+
+    {
+      "id": 42,
+      "english": {
+        "present": "In my opinion, this is better",
+        "past": "In my opinion, this was better",
+        "future": "In my opinion, this will be better"
+      },
+      "italian": {
+        "present": ["Secondo", "me", ",", "questo", "è", "meglio"],
+        "past": ["Secondo", "me", ",", "questo", "era", "meglio"],
+        "future": ["Secondo", "me", ",", "questo", "sarà", "meglio"]
+      }
+    },
+
+    {
+      "id": 43,
+      "english": {
+        "present": "I believe everything happens for a reason",
+        "past": "I believed everything happened for a reason",
+        "future": "I will believe everything happens for a reason"
+      },
+      "italian": {
+        "present": ["Io", "credo", "che", "tutto", "accada", "per", "una", "ragione"],
+        "past": ["Io", "credevo", "che", "tutto", "accadesse", "per", "una", "ragione"],
+        "future": ["Io", "crederò", "che", "tutto", "accada", "per", "una", "ragione"]
+      }
+    },
+
+    {
+      "id": 44,
+      "english": {
+        "present": "Life is not always easy",
+        "past": "Life was not always easy",
+        "future": "Life will not always be easy"
+      },
+      "italian": {
+        "present": ["La", "vita", "non", "è", "sempre", "facile"],
+        "past": ["La", "vita", "non", "era", "sempre", "facile"],
+        "future": ["La", "vita", "non", "sarà", "sempre", "facile"]
+      }
+    },
+
+    {
+      "id": 45,
+      "english": {
+        "present": "But we can learn from every experience",
+        "past": "But we could learn from every experience",
+        "future": "But we will be able to learn from every experience"
+      },
+      "italian": {
+        "present": ["Ma", "possiamo", "imparare", "da", "ogni", "esperienza"],
+        "past": ["Ma", "potevamo", "imparare", "da", "ogni", "esperienza"],
+        "future": ["Ma", "potremo", "imparare", "da", "ogni", "esperienza"]
+      }
+    },
+
+    {
+      "id": 46,
+      "english": {
+        "present": "I feel that I am growing every day",
+        "past": "I felt that I was growing every day",
+        "future": "I will feel that I am growing every day"
+      },
+      "italian": {
+        "present": ["Io", "sento", "che", "sto", "crescendo", "ogni", "giorno"],
+        "past": ["Io", "sentivo", "che", "stavo", "crescendo", "ogni", "giorno"],
+        "future": ["Io", "sentirò", "che", "starò", "crescendo", "ogni", "giorno"]
+      }
+    },
+
+    {
+      "id": 47,
+      "english": {
+        "present": "Sometimes we need time to understand things",
+        "past": "Sometimes we needed time to understand things",
+        "future": "Sometimes we will need time to understand things"
+      },
+      "italian": {
+        "present": ["A", "volte", ",", "abbiamo", "bisogno", "di", "tempo", "per", "capire"],
+        "past": ["A", "volte", ",", "avevamo", "bisogno", "di", "tempo", "per", "capire"],
+        "future": ["A", "volte", ",", "avremo", "bisogno", "di", "tempo", "per", "capire"]
+      }
+    },
+
+    {
+      "id": 48,
+      "english": {
+        "present": "I realize that change takes time",
+        "past": "I realized that change took time",
+        "future": "I will realize that change takes time"
+      },
+      "italian": {
+        "present": ["Io", "mi", "rendo", "conto", "che", "il", "cambiamento", "richiede", "tempo"],
+        "past": ["Io", "mi", "rendevo", "conto", "che", "il", "cambiamento", "richiedeva", "tempo"],
+        "future": ["Io", "mi", "renderò", "conto", "che", "il", "cambiamento", "richiederà", "tempo"]
+      }
+    },
+
+    {
+      "id": 49,
+      "english": {
+        "present": "The most important thing is to keep going",
+        "past": "The most important thing was to keep going",
+        "future": "The most important thing will be to keep going"
+      },
+      "italian": {
+        "present": ["La", "cosa", "più", "importante", "è", "continuare"],
+        "past": ["La", "cosa", "più", "importante", "era", "continuare"],
+        "future": ["La", "cosa", "più", "importante", "sarà", "continuare"]
+      }
+    },
+
+    {
+      "id": 50,
+      "english": {
+        "present": "In the end, we create our own meaning",
+        "past": "In the end, we created our own meaning",
+        "future": "In the end, we will create our own meaning"
+      },
+      "italian": {
+        "present": ["Alla", "fine", ",", "creiamo", "il", "nostro", "significato"],
+        "past": ["Alla", "fine", ",", "abbiamo", "creato", "il", "nostro", "significato"],
+        "future": ["Alla", "fine", ",", "creeremo", "il", "nostro", "significato"]
+      }
+    }
+
+  ]
+}

@@ -1,0 +1,2001 @@
+{
+  "language": "French",
+  "stories": {
+  "story1": {
+    "title": "Un nouveau départ",
+    "content": [
+      { "word": "Aujourd'hui", "meaning": "today", "sound": "o-jour-dui" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "commence", "meaning": "start", "sound": "co-mans" },
+      { "word": "une", "meaning": "a", "sound": "une" },
+      { "word": "nouvelle", "meaning": "new", "sound": "nou-velle" },
+      { "word": "vie", "meaning": "life", "sound": "vie" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "peu", "meaning": "little", "sound": "peu" },
+      { "word": "nervieux", "meaning": "nervous", "sound": "ner-vieux" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "aussi", "meaning": "also", "sound": "au-si" },
+      { "word": "excité", "meaning": "excited", "sound": "ex-ci-té" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "apprendre", "meaning": "learn", "sound": "a-pren-dre" },
+      { "word": "quelque", "meaning": "something", "sound": "quel-que" },
+      { "word": "chose", "meaning": "thing", "sound": "chose" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "nouveau", "meaning": "new", "sound": "nou-veau" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "c'est", "meaning": "it is", "sound": "c'est" },
+      { "word": "difficile", "meaning": "difficult", "sound": "di-fi-cile" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "continue", "meaning": "continue", "sound": "con-ti-nue" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "crois", "meaning": "believe", "sound": "crois" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "pas", "meaning": "step", "sound": "pas" },
+      { "word": "est", "meaning": "is", "sound": "est" },
+      { "word": "important", "meaning": "important", "sound": "im-por-tant" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+},
+  "story2": {
+    "title": "Une journée spéciale",
+    "content": [
+      { "word": "Aujourd'hui", "meaning": "today", "sound": "o-jour-dui" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "c'est", "meaning": "it is", "sound": "c'est" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": "spécial", "meaning": "special", "sound": "spé-cial" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "réveille", "meaning": "wake up", "sound": "ré-ve-ille" },
+      { "word": "tôt", "meaning": "early", "sound": "tôt" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "prépare", "meaning": "prepare", "sound": "pré-pa-re" },
+      { "word": "mon", "meaning": "my", "sound": "mon" },
+      { "word": "petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "déjeuner", "meaning": "breakfast", "sound": "dé-jeu-ner" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Après", "meaning": "after", "sound": "a-prè" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "vais", "meaning": "go", "sound": "vais" },
+      { "word": "au", "meaning": "to the", "sound": "au" },
+      { "word": "parc", "meaning": "park", "sound": "parc" },
+      { "word": "avec", "meaning": "with", "sound": "a-vec" },
+      { "word": "mes", "meaning": "my", "sound": "mes" },
+      { "word": "amis", "meaning": "friends", "sound": "a-mis" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Nous", "meaning": "we", "sound": "nous" },
+      { "word": "parlons", "meaning": "talk", "sound": "par-lons" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "nous", "meaning": "we", "sound": "nous" },
+      { "word": "rions", "meaning": "laugh", "sound": "ri-ons" },
+      { "word": "beaucoup", "meaning": "a lot", "sound": "beau-coup" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Le", "meaning": "the", "sound": "le" },
+      { "word": "soir", "meaning": "evening", "sound": "soir" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "regarde", "meaning": "watch", "sound": "re-gar-de" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "film", "meaning": "movie", "sound": "film" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "heureux", "meaning": "happy", "sound": "heu-reux" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  "story3": {
+    "title": "Un moment de réflexion",
+    "content": [
+      { "word": "Un", "meaning": "a", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "marche", "meaning": "walk", "sound": "mar-che" },
+      { "word": "seul", "meaning": "alone", "sound": "seul" },
+      { "word": "dans", "meaning": "in", "sound": "dans" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "ville", "meaning": "city", "sound": "ville" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Le", "meaning": "the", "sound": "le" },
+      { "word": "temps", "meaning": "weather/time", "sound": "temps" },
+      { "word": "est", "meaning": "is", "sound": "est" },
+      { "word": "calme", "meaning": "calm", "sound": "cal-me" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "pense", "meaning": "think", "sound": "pen-se" },
+      { "word": "à", "meaning": "about", "sound": "à" },
+      { "word": "ma", "meaning": "my", "sound": "ma" },
+      { "word": "vie", "meaning": "life", "sound": "vie" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "perdu", "meaning": "lost", "sound": "per-du" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "continue", "meaning": "continue", "sound": "con-ti-nue" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "avancer", "meaning": "move forward", "sound": "a-van-cer" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "sais", "meaning": "know", "sound": "sais" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": "est", "meaning": "is", "sound": "est" },
+      { "word": "une", "meaning": "a", "sound": "une" },
+      { "word": "nouvelle", "meaning": "new", "sound": "nou-velle" },
+      { "word": "chance", "meaning": "chance", "sound": "chan-ce" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  "story4": {
+    "title": "Un changement important",
+    "content": [
+      { "word": "Un", "meaning": "a", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "décide", "meaning": "decide", "sound": "dé-ci-de" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "changer", "meaning": "change", "sound": "chan-ger" },
+      { "word": "ma", "meaning": "my", "sound": "ma" },
+      { "word": "vie", "meaning": "life", "sound": "vie" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Avant", "meaning": "before", "sound": "a-van" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "passais", "meaning": "spent", "sound": "pa-sais" },
+      { "word": "beaucoup", "meaning": "a lot", "sound": "beau-coup" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "temps", "meaning": "time", "sound": "temps" },
+      { "word": "sans", "meaning": "without", "sound": "sans" },
+      { "word": "but", "meaning": "goal", "sound": "but" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "but", "sound": "mais" },
+      { "word": "maintenant", "meaning": "now", "sound": "main-te-nant" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "apprendre", "meaning": "learn", "sound": "a-pren-dre" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "nouvelles", "meaning": "new", "sound": "nou-velles" },
+      { "word": "choses", "meaning": "things", "sound": "cho-ses" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "matin", "meaning": "morning", "sound": "ma-tin" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "lève", "meaning": "wake up", "sound": "lève" },
+      { "word": "tôt", "meaning": "early", "sound": "tôt" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "travaille", "meaning": "work", "sound": "tra-vaille" },
+      { "word": "sur", "meaning": "on", "sound": "sur" },
+      { "word": "mes", "meaning": "my", "sound": "mes" },
+      { "word": "objectifs", "meaning": "goals", "sound": "ob-jec-tifs" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ce", "meaning": "this", "sound": "ce" },
+      { "word": "n'est", "meaning": "is not", "sound": "n'est" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "facile", "meaning": "easy", "sound": "fa-cile" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "suis", "meaning": "am", "sound": "suis" },
+      { "word": "déterminé", "meaning": "determined", "sound": "dé-ter-mi-né" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "crois", "meaning": "believe", "sound": "crois" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "peux", "meaning": "can", "sound": "peux" },
+      { "word": "réussir", "meaning": "succeed", "sound": "ré-u-ssir" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story5": {
+    "title": "Un rêve à poursuivre",
+    "content": [
+      { "word": "Depuis", "meaning": "since", "sound": "de-puis" },
+      { "word": "longtemps", "meaning": "a long time", "sound": "long-temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "j'ai", "meaning": "I have", "sound": "j'ai" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "rêve", "meaning": "dream", "sound": "rêve" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "voyager", "meaning": "travel", "sound": "vo-ya-ger" },
+      { "word": "dans", "meaning": "in", "sound": "dans" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "monde", "meaning": "world", "sound": "mon-de" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "découvrir", "meaning": "discover", "sound": "dé-cou-vrir" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "nouvelles", "meaning": "new", "sound": "nou-velles" },
+      { "word": "cultures", "meaning": "cultures", "sound": "cul-tures" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cependant", "meaning": "however", "sound": "ce-pen-dant" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ce", "meaning": "this", "sound": "ce" },
+      { "word": "n'est", "meaning": "is not", "sound": "n'est" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "facile", "meaning": "easy", "sound": "fa-cile" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Il", "meaning": "it", "sound": "il" },
+      { "word": "faut", "meaning": "must", "sound": "faut" },
+      { "word": "du", "meaning": "some", "sound": "du" },
+      { "word": "temps", "meaning": "time", "sound": "temps" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "du", "meaning": "some", "sound": "du" },
+      { "word": "courage", "meaning": "courage", "sound": "cou-rage" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "doute", "meaning": "doubt", "sound": "dou-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "continue", "meaning": "continue", "sound": "con-ti-nue" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "pas", "meaning": "step", "sound": "pas" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "rapproche", "meaning": "brings closer", "sound": "ra-pro-che" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "mon", "meaning": "my", "sound": "mon" },
+      { "word": "objectif", "meaning": "goal", "sound": "ob-jec-tif" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "crois", "meaning": "believe", "sound": "crois" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "peux", "meaning": "can", "sound": "peux" },
+      { "word": "réaliser", "meaning": "achieve", "sound": "ré-a-li-ser" },
+      { "word": "ce", "meaning": "this", "sound": "ce" },
+      { "word": "rêve", "meaning": "dream", "sound": "rêve" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story6": {
+    "title": "Un pas vers l'avenir",
+    "content": [
+      { "word": "Ces", "meaning": "these", "sound": "ces" },
+      { "word": "derniers", "meaning": "last", "sound": "der-niers" },
+      { "word": "temps", "meaning": "times", "sound": "temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "réfléchis", "meaning": "reflect", "sound": "ré-flé-chis" },
+      { "word": "beaucoup", "meaning": "a lot", "sound": "beau-coup" },
+      { "word": "à", "meaning": "about", "sound": "à" },
+      { "word": "mon", "meaning": "my", "sound": "mon" },
+      { "word": "avenir", "meaning": "future", "sound": "a-ve-nir" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "demande", "meaning": "ask myself", "sound": "de-man-de" },
+      { "word": "quel", "meaning": "which", "sound": "quel" },
+      { "word": "chemin", "meaning": "path", "sound": "che-min" },
+      { "word": "choisir", "meaning": "to choose", "sound": "choi-sir" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "ressens", "meaning": "feel", "sound": "re-sens" },
+      { "word": "de", "meaning": "some", "sound": "de" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "peur", "meaning": "fear", "sound": "peur" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "car", "meaning": "because", "sound": "car" },
+      { "word": "l'avenir", "meaning": "the future", "sound": "a-ve-nir" },
+      { "word": "est", "meaning": "is", "sound": "est" },
+      { "word": "incertain", "meaning": "uncertain", "sound": "in-cer-tain" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "but", "sound": "mais" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "sais", "meaning": "know", "sound": "sais" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "dois", "meaning": "must", "sound": "dois" },
+      { "word": "avancer", "meaning": "move forward", "sound": "a-van-cer" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "expérience", "meaning": "experience", "sound": "ex-pé-ri-ence" },
+      { "word": "m'apprend", "meaning": "teaches me", "sound": "ma-prend" },
+      { "word": "quelque", "meaning": "something", "sound": "quel-que" },
+      { "word": "chose", "meaning": "thing", "sound": "chose" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Même", "meaning": "even", "sound": "mê-me" },
+      { "word": "les", "meaning": "the", "sound": "les" },
+      { "word": "erreurs", "meaning": "mistakes", "sound": "er-reurs" },
+      { "word": "sont", "meaning": "are", "sound": "sont" },
+      { "word": "importantes", "meaning": "important", "sound": "im-por-tantes" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "petit", "meaning": "little", "sound": "pe-tit" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "deviens", "meaning": "become", "sound": "de-viens" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "fort", "meaning": "strong", "sound": "fort" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story7": {
+    "title": "Un défi inattendu",
+    "content": [
+      { "word": "Un", "meaning": "a", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "reçois", "meaning": "receive", "sound": "re-çois" },
+      { "word": "une", "meaning": "a", "sound": "une" },
+      { "word": "opportunité", "meaning": "opportunity", "sound": "op-por-tu-ni-té" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tante" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Au", "meaning": "at the", "sound": "au" },
+      { "word": "début", "meaning": "beginning", "sound": "dé-but" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "suis", "meaning": "am", "sound": "suis" },
+      { "word": "très", "meaning": "very", "sound": "très" },
+      { "word": "excité", "meaning": "excited", "sound": "ex-ci-té" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "aussi", "meaning": "also", "sound": "au-si" },
+      { "word": "inquiet", "meaning": "worried", "sound": "in-qui-et" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "C'est", "meaning": "it is", "sound": "c'est" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "défi", "meaning": "challenge", "sound": "dé-fi" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "n'ai", "meaning": "have not", "sound": "n'ai" },
+      { "word": "jamais", "meaning": "never", "sound": "ja-mais" },
+      { "word": "rencontré", "meaning": "faced", "sound": "ren-con-tré" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pendant", "meaning": "during", "sound": "pen-dant" },
+      { "word": "quelques", "meaning": "some", "sound": "quel-ques" },
+      { "word": "jours", "meaning": "days", "sound": "jours" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "réfléchis", "meaning": "reflect", "sound": "ré-flé-chis" },
+      { "word": "beaucoup", "meaning": "a lot", "sound": "beau-coup" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "demande", "meaning": "ask myself", "sound": "de-man-de" },
+      { "word": "si", "meaning": "if", "sound": "si" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "suis", "meaning": "am", "sound": "suis" },
+      { "word": "prêt", "meaning": "ready", "sound": "prêt" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Finalement", "meaning": "finally", "sound": "fi-na-le-ment" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "décide", "meaning": "decide", "sound": "dé-ci-de" },
+      { "word": "d'essayer", "meaning": "to try", "sound": "d'es-say-er" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Même", "meaning": "even", "sound": "mê-me" },
+      { "word": "si", "meaning": "if", "sound": "si" },
+      { "word": "j'ai", "meaning": "I have", "sound": "j'ai" },
+      { "word": "peur", "meaning": "fear", "sound": "peur" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "progresser", "meaning": "progress", "sound": "pro-gre-ser" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "les", "meaning": "the", "sound": "les" },
+      { "word": "grandes", "meaning": "big", "sound": "gran-des" },
+      { "word": "choses", "meaning": "things", "sound": "cho-ses" },
+      { "word": "commencent", "meaning": "begin", "sound": "com-men-cent" },
+      { "word": "toujours", "meaning": "always", "sound": "tou-jours" },
+      { "word": "par", "meaning": "by", "sound": "par" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "pas", "meaning": "step", "sound": "pas" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  "story8": {
+    "title": "Entre doute et espoir",
+    "content": [
+      { "word": "Ces", "meaning": "these", "sound": "ces" },
+      { "word": "jours-ci", "meaning": "days", "sound": "jours-ci" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "ressens", "meaning": "feel", "sound": "re-sens" },
+      { "word": "beaucoup", "meaning": "a lot", "sound": "beau-coup" },
+      { "word": "d'émotions", "meaning": "of emotions", "sound": "dé-mo-tions" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "perdu", "meaning": "lost", "sound": "per-du" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "comme", "meaning": "like", "sound": "com-me" },
+      { "word": "si", "meaning": "if", "sound": "si" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "ne", "meaning": "not", "sound": "ne" },
+      { "word": "savais", "meaning": "knew", "sound": "sa-vais" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "quoi", "meaning": "what", "sound": "quoi" },
+      { "word": "faire", "meaning": "to do", "sound": "fai-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "but", "sound": "mais" },
+      { "word": "en", "meaning": "in", "sound": "en" },
+      { "word": "même", "meaning": "same", "sound": "mê-me" },
+      { "word": "temps", "meaning": "time", "sound": "temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "il", "meaning": "it", "sound": "il" },
+      { "word": "y", "meaning": "there", "sound": "y" },
+      { "word": "a", "meaning": "is", "sound": "a" },
+      { "word": "une", "meaning": "a", "sound": "une" },
+      { "word": "petite", "meaning": "small", "sound": "pe-tite" },
+      { "word": "voix", "meaning": "voice", "sound": "voix" },
+      { "word": "en", "meaning": "in", "sound": "en" },
+      { "word": "moi", "meaning": "me", "sound": "moi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Elle", "meaning": "she/it", "sound": "elle" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "dit", "meaning": "tells", "sound": "dit" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "continuer", "meaning": "continue", "sound": "con-ti-nuer" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "même", "meaning": "even", "sound": "mê-me" },
+      { "word": "si", "meaning": "if", "sound": "si" },
+      { "word": "c'est", "meaning": "it is", "sound": "c'est" },
+      { "word": "difficile", "meaning": "difficult", "sound": "di-fi-cile" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Alors", "meaning": "so", "sound": "a-lors" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "fais", "meaning": "do", "sound": "fais" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "pas", "meaning": "step", "sound": "pas" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Peut-être", "meaning": "maybe", "sound": "peut-être" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ce", "meaning": "this", "sound": "ce" },
+      { "word": "n'est", "meaning": "is not", "sound": "n'est" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "parfait", "meaning": "perfect", "sound": "par-fait" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "c'est", "meaning": "it is", "sound": "c'est" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "début", "meaning": "beginning", "sound": "dé-but" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  "story9": {
+    "title": "Une décision difficile",
+    "content": [
+      { "word": "Un", "meaning": "a", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "trouve", "meaning": "find", "sound": "trou-ve" },
+      { "word": "face", "meaning": "facing", "sound": "face" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "choix", "meaning": "choice", "sound": "choix" },
+      { "word": "important", "meaning": "important", "sound": "im-por-tant" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "D'un", "meaning": "on one hand", "sound": "d'un" },
+      { "word": "côté", "meaning": "side", "sound": "cô-té" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "peux", "meaning": "can", "sound": "peux" },
+      { "word": "rester", "meaning": "stay", "sound": "res-ter" },
+      { "word": "dans", "meaning": "in", "sound": "dans" },
+      { "word": "ma", "meaning": "my", "sound": "ma" },
+      { "word": "zone", "meaning": "zone", "sound": "zone" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "confort", "meaning": "comfort", "sound": "con-fort" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "De", "meaning": "on the other hand", "sound": "de" },
+      { "word": "l'autre", "meaning": "the other", "sound": "l'au-tre" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "peux", "meaning": "can", "sound": "peux" },
+      { "word": "prendre", "meaning": "take", "sound": "pren-dre" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "risque", "meaning": "risk", "sound": "ris-que" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ce", "meaning": "this", "sound": "ce" },
+      { "word": "choix", "meaning": "choice", "sound": "choix" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "fait", "meaning": "makes", "sound": "fait" },
+      { "word": "peur", "meaning": "fear", "sound": "peur" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "car", "meaning": "because", "sound": "car" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "ne", "meaning": "not", "sound": "ne" },
+      { "word": "sais", "meaning": "know", "sound": "sais" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "ce", "meaning": "what", "sound": "ce" },
+      { "word": "qui", "meaning": "that", "sound": "qui" },
+      { "word": "va", "meaning": "will", "sound": "va" },
+      { "word": "se", "meaning": "itself", "sound": "se" },
+      { "word": "passer", "meaning": "happen", "sound": "pas-ser" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "but", "sound": "mais" },
+      { "word": "en", "meaning": "in", "sound": "en" },
+      { "word": "réfléchissant", "meaning": "thinking", "sound": "ré-flé-chi-ssant" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "rester", "meaning": "to stay", "sound": "res-ter" },
+      { "word": "immobile", "meaning": "still", "sound": "im-mo-bile" },
+      { "word": "n'est", "meaning": "is not", "sound": "n'est" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "une", "meaning": "a", "sound": "une" },
+      { "word": "solution", "meaning": "solution", "sound": "so-lu-tion" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Alors", "meaning": "so", "sound": "a-lors" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "décide", "meaning": "decide", "sound": "dé-ci-de" },
+      { "word": "d'avancer", "meaning": "to move forward", "sound": "d'a-van-cer" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Même", "meaning": "even", "sound": "mê-me" },
+      { "word": "si", "meaning": "if", "sound": "si" },
+      { "word": "c'est", "meaning": "it is", "sound": "c'est" },
+      { "word": "difficile", "meaning": "difficult", "sound": "di-fi-cile" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "essayer", "meaning": "try", "sound": "es-say-er" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  "story10": {
+    "title": "Le chemin vers soi-même",
+    "content": [
+      { "word": "Pendant", "meaning": "during", "sound": "pen-dant" },
+      { "word": "longtemps", "meaning": "a long time", "sound": "long-temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "cherche", "meaning": "search", "sound": "cher-che" },
+      { "word": "ma", "meaning": "my", "sound": "ma" },
+      { "word": "place", "meaning": "place", "sound": "place" },
+      { "word": "dans", "meaning": "in", "sound": "dans" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "monde", "meaning": "world", "sound": "mon-de" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "compare", "meaning": "compare", "sound": "com-pa-re" },
+      { "word": "souvent", "meaning": "often", "sound": "sou-vent" },
+      { "word": "ma", "meaning": "my", "sound": "ma" },
+      { "word": "vie", "meaning": "life", "sound": "vie" },
+      { "word": "avec", "meaning": "with", "sound": "a-vec" },
+      { "word": "celle", "meaning": "that", "sound": "cel-le" },
+      { "word": "des", "meaning": "of the", "sound": "des" },
+      { "word": "autres", "meaning": "others", "sound": "au-tres" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cela", "meaning": "this", "sound": "ce-la" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "rend", "meaning": "makes", "sound": "rend" },
+      { "word": "parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": "triste", "meaning": "sad", "sound": "tris-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "car", "meaning": "because", "sound": "car" },
+      { "word": "j'ai", "meaning": "I have", "sound": "j'ai" },
+      { "word": "l'impression", "meaning": "the impression", "sound": "im-pres-sion" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "ne", "meaning": "not", "sound": "ne" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "avancer", "meaning": "move forward", "sound": "a-van-cer" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "but", "sound": "mais" },
+      { "word": "un", "meaning": "one", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "quelque", "meaning": "something", "sound": "quel-que" },
+      { "word": "chose", "meaning": "thing", "sound": "chose" },
+      { "word": "d'important", "meaning": "important", "sound": "d'im-por-tant" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "personne", "meaning": "person", "sound": "per-son-ne" },
+      { "word": "a", "meaning": "has", "sound": "a" },
+      { "word": "son", "meaning": "their", "sound": "son" },
+      { "word": "propre", "meaning": "own", "sound": "pro-pre" },
+      { "word": "chemin", "meaning": "path", "sound": "che-min" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "n'ai", "meaning": "have not", "sound": "n'ai" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "besoin", "meaning": "need", "sound": "be-soin" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "comparer", "meaning": "compare", "sound": "com-pa-rer" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Depuis", "meaning": "since", "sound": "de-puis" },
+      { "word": "ce", "meaning": "this", "sound": "ce" },
+      { "word": "moment", "meaning": "moment", "sound": "mo-ment" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "libre", "meaning": "free", "sound": "li-bre" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "confiant", "meaning": "confident", "sound": "con-fi-ant" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "continue", "meaning": "continue", "sound": "con-ti-nue" },
+      { "word": "mon", "meaning": "my", "sound": "mon" },
+      { "word": "chemin", "meaning": "path", "sound": "che-min" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "pas", "meaning": "step", "sound": "pas" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "pas", "meaning": "step", "sound": "pas" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story11": {
+    "title": "Trouver son propre rythme",
+    "content": [
+      { "word": "Dans", "meaning": "in", "sound": "dans" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "vie", "meaning": "life", "sound": "vie" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "on", "meaning": "one/we", "sound": "on" },
+      { "word": "se", "meaning": "oneself", "sound": "se" },
+      { "word": "sent", "meaning": "feels", "sound": "sent" },
+      { "word": "souvent", "meaning": "often", "sound": "sou-vent" },
+      { "word": "pressé", "meaning": "rushed", "sound": "pres-sé" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "On", "meaning": "we", "sound": "on" },
+      { "word": "voit", "meaning": "see", "sound": "voit" },
+      { "word": "les", "meaning": "the", "sound": "les" },
+      { "word": "autres", "meaning": "others", "sound": "au-tres" },
+      { "word": "réussir", "meaning": "succeed", "sound": "ré-u-ssir" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "avancer", "meaning": "move forward", "sound": "a-van-cer" },
+      { "word": "rapidement", "meaning": "quickly", "sound": "ra-pi-de-ment" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "on", "meaning": "we", "sound": "on" },
+      { "word": "se", "meaning": "oneself", "sound": "se" },
+      { "word": "compare", "meaning": "compare", "sound": "com-pa-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cela", "meaning": "this", "sound": "ce-la" },
+      { "word": "peut", "meaning": "can", "sound": "peut" },
+      { "word": "créer", "meaning": "create", "sound": "cré-er" },
+      { "word": "du", "meaning": "some", "sound": "du" },
+      { "word": "stress", "meaning": "stress", "sound": "stress" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "frustration", "meaning": "frustration", "sound": "frus-tra-tion" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "but", "sound": "mais" },
+      { "word": "en", "meaning": "in", "sound": "en" },
+      { "word": "réalité", "meaning": "reality", "sound": "ré-a-li-té" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "chacun", "meaning": "each person", "sound": "cha-cun" },
+      { "word": "avance", "meaning": "moves forward", "sound": "a-van-ce" },
+      { "word": "à", "meaning": "at", "sound": "à" },
+      { "word": "son", "meaning": "their", "sound": "son" },
+      { "word": "propre", "meaning": "own", "sound": "pro-pre" },
+      { "word": "rythme", "meaning": "rhythm", "sound": "ryth-me" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Il", "meaning": "it", "sound": "il" },
+      { "word": "est", "meaning": "is", "sound": "est" },
+      { "word": "important", "meaning": "important", "sound": "im-por-tant" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "respecter", "meaning": "respect", "sound": "res-pec-ter" },
+      { "word": "son", "meaning": "one's", "sound": "son" },
+      { "word": "temps", "meaning": "time", "sound": "temps" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Quand", "meaning": "when", "sound": "quand" },
+      { "word": "on", "meaning": "we", "sound": "on" },
+      { "word": "accepte", "meaning": "accept", "sound": "ac-cep-te" },
+      { "word": "cela", "meaning": "this", "sound": "ce-la" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "on", "meaning": "we", "sound": "on" },
+      { "word": "se", "meaning": "oneself", "sound": "se" },
+      { "word": "sent", "meaning": "feel", "sound": "sent" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "calme", "meaning": "calm", "sound": "cal-me" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "concentré", "meaning": "focused", "sound": "con-cen-tré" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ainsi", "meaning": "thus", "sound": "ain-si" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "on", "meaning": "we", "sound": "on" },
+      { "word": "peut", "meaning": "can", "sound": "peut" },
+      { "word": "avancer", "meaning": "move forward", "sound": "a-van-cer" },
+      { "word": "avec", "meaning": "with", "sound": "a-vec" },
+      { "word": "confiance", "meaning": "confidence", "sound": "con-fi-an-ce" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story12": {
+    "title": "Apprendre à lâcher prise",
+    "content": [
+      { "word": "Pendant", "meaning": "during", "sound": "pen-dant" },
+      { "word": "longtemps", "meaning": "a long time", "sound": "long-temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "tout", "meaning": "everything", "sound": "tout" },
+      { "word": "contrôler", "meaning": "control", "sound": "con-trô-ler" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "planifie", "meaning": "plan", "sound": "pla-ni-fie" },
+      { "word": "chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "détail", "meaning": "detail", "sound": "dé-tail" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "chaque", "meaning": "each", "sound": "cha-que" },
+      { "word": "moment", "meaning": "moment", "sound": "mo-ment" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cependant", "meaning": "however", "sound": "ce-pen-dant" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "vie", "meaning": "life", "sound": "vie" },
+      { "word": "ne", "meaning": "not", "sound": "ne" },
+      { "word": "suit", "meaning": "follows", "sound": "suit" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "toujours", "meaning": "always", "sound": "tou-jours" },
+      { "word": "mes", "meaning": "my", "sound": "mes" },
+      { "word": "plans", "meaning": "plans", "sound": "plans" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cela", "meaning": "this", "sound": "ce-la" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "frustre", "meaning": "frustrates", "sound": "frus-tre" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "perdu", "meaning": "lost", "sound": "per-du" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Un", "meaning": "one", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "quelque", "meaning": "something", "sound": "quel-que" },
+      { "word": "chose", "meaning": "thing", "sound": "chose" },
+      { "word": "d'essentiel", "meaning": "essential", "sound": "d'es-sen-tiel" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "ne", "meaning": "not", "sound": "ne" },
+      { "word": "peux", "meaning": "can", "sound": "peux" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "tout", "meaning": "everything", "sound": "tout" },
+      { "word": "contrôler", "meaning": "control", "sound": "con-trô-ler" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Alors", "meaning": "so", "sound": "a-lors" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "j'apprends", "meaning": "I learn", "sound": "ja-prends" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "lâcher", "meaning": "let go", "sound": "lâ-cher" },
+      { "word": "prise", "meaning": "grip/control", "sound": "pri-se" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "petit", "meaning": "little", "sound": "pe-tit" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "libre", "meaning": "free", "sound": "li-bre" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Et", "meaning": "and", "sound": "et" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "commence", "meaning": "start", "sound": "com-mence" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "profiter", "meaning": "enjoy", "sound": "pro-fi-ter" },
+      { "word": "du", "meaning": "of the", "sound": "du" },
+      { "word": "moment", "meaning": "moment", "sound": "mo-ment" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story13": {
+    "title": "Devenir la personne que l’on veut être",
+    "content": [
+      { "word": "Pendant", "meaning": "during", "sound": "pen-dant" },
+      { "word": "longtemps", "meaning": "a long time", "sound": "long-temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "demande", "meaning": "ask myself", "sound": "de-man-de" },
+      { "word": "qui", "meaning": "who", "sound": "qui" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "devenir", "meaning": "become", "sound": "de-ve-nir" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "regarde", "meaning": "look", "sound": "re-garde" },
+      { "word": "les", "meaning": "the", "sound": "les" },
+      { "word": "autres", "meaning": "others", "sound": "au-tres" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "leurs", "meaning": "their", "sound": "leurs" },
+      { "word": "succès", "meaning": "success", "sound": "suc-cès" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "leurs", "meaning": "their", "sound": "leurs" },
+      { "word": "choix", "meaning": "choices", "sound": "choix" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "doute", "meaning": "doubt", "sound": "dou-te" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "moi", "meaning": "myself", "sound": "moi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "demande", "meaning": "ask myself", "sound": "de-man-de" },
+      { "word": "si", "meaning": "if", "sound": "si" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "suis", "meaning": "am", "sound": "suis" },
+      { "word": "sur", "meaning": "on", "sound": "sur" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "bon", "meaning": "right", "sound": "bon" },
+      { "word": "chemin", "meaning": "path", "sound": "che-min" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "but", "sound": "mais" },
+      { "word": "avec", "meaning": "with", "sound": "a-vec" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "temps", "meaning": "time", "sound": "temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "n'ai", "meaning": "have not", "sound": "n'ai" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "besoin", "meaning": "need", "sound": "be-soin" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "suivre", "meaning": "follow", "sound": "sui-vre" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "même", "meaning": "same", "sound": "mê-me" },
+      { "word": "chemin", "meaning": "path", "sound": "che-min" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Chacun", "meaning": "each person", "sound": "cha-cun" },
+      { "word": "a", "meaning": "has", "sound": "a" },
+      { "word": "sa", "meaning": "their", "sound": "sa" },
+      { "word": "propre", "meaning": "own", "sound": "pro-pre" },
+      { "word": "histoire", "meaning": "story", "sound": "his-toire" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Alors", "meaning": "so", "sound": "a-lors" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "décide", "meaning": "decide", "sound": "dé-ci-de" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "faire", "meaning": "make", "sound": "fai-re" },
+      { "word": "confiance", "meaning": "trust", "sound": "con-fi-an-ce" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Même", "meaning": "even", "sound": "mê-me" },
+      { "word": "si", "meaning": "if", "sound": "si" },
+      { "word": "le", "meaning": "the", "sound": "le" },
+      { "word": "chemin", "meaning": "path", "sound": "che-min" },
+      { "word": "est", "meaning": "is", "sound": "est" },
+      { "word": "long", "meaning": "long", "sound": "long" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "continue", "meaning": "continue", "sound": "con-ti-nue" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story14": {
+    "title": "Se comprendre soi-même",
+    "content": [
+      { "word": "Pendant", "meaning": "during", "sound": "pen-dant" },
+      { "word": "longtemps", "meaning": "a long time", "sound": "long-temps" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "ne", "meaning": "not", "sound": "ne" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "mes", "meaning": "my", "sound": "mes" },
+      { "word": "émotions", "meaning": "emotions", "sound": "é-mo-tions" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Elles", "meaning": "they", "sound": "elles" },
+      { "word": "changent", "meaning": "change", "sound": "chan-gent" },
+      { "word": "souvent", "meaning": "often", "sound": "sou-vent" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "confus", "meaning": "confused", "sound": "con-fus" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Parfois", "meaning": "sometimes", "sound": "par-fois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "réagis", "meaning": "react", "sound": "ré-a-gis" },
+      { "word": "sans", "meaning": "without", "sound": "sans" },
+      { "word": "réfléchir", "meaning": "thinking", "sound": "ré-flé-chir" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Puis", "meaning": "then", "sound": "puis" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "regrette", "meaning": "regret", "sound": "re-grette" },
+      { "word": "mes", "meaning": "my", "sound": "mes" },
+      { "word": "actions", "meaning": "actions", "sound": "ac-tions" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Un", "meaning": "one", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "décide", "meaning": "decide", "sound": "dé-ci-de" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "prendre", "meaning": "take", "sound": "pren-dre" },
+      { "word": "du", "meaning": "some", "sound": "du" },
+      { "word": "temps", "meaning": "time", "sound": "temps" },
+      { "word": "pour", "meaning": "for", "sound": "pour" },
+      { "word": "moi", "meaning": "myself", "sound": "moi" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "commence", "meaning": "start", "sound": "com-mence" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "observer", "meaning": "observe", "sound": "ob-ser-ver" },
+      { "word": "mes", "meaning": "my", "sound": "mes" },
+      { "word": "pensées", "meaning": "thoughts", "sound": "pen-sées" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "petit", "meaning": "little", "sound": "pe-tit" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "mieux", "meaning": "better", "sound": "mieux" },
+      { "word": "ce", "meaning": "what", "sound": "ce" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "ressens", "meaning": "feel", "sound": "re-sens" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cela", "meaning": "this", "sound": "ce-la" },
+      { "word": "m'aide", "meaning": "helps me", "sound": "m'aide" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "changer", "meaning": "change", "sound": "chan-ger" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "deviens", "meaning": "become", "sound": "de-viens" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "calme", "meaning": "calm", "sound": "cal-me" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "conscient", "meaning": "aware", "sound": "con-sci-ent" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Maintenant", "meaning": "now", "sound": "main-te-nant" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "comprends", "meaning": "understand", "sound": "com-prends" },
+      { "word": "un", "meaning": "a", "sound": "un" },
+      { "word": "peu", "meaning": "little", "sound": "peu" },
+      { "word": "mieux", "meaning": "better", "sound": "mieux" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story15": {
+    "title": "Accepter qui l’on est",
+    "content": [
+      { "word": "Pendant", "meaning": "during", "sound": "pen-dant" },
+      { "word": "des", "meaning": "some", "sound": "des" },
+      { "word": "années", "meaning": "years", "sound": "an-nées" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "cherche", "meaning": "search", "sound": "cher-che" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "devenir", "meaning": "become", "sound": "de-ve-nir" },
+      { "word": "quelqu'un", "meaning": "someone", "sound": "quel-qu'un" },
+      { "word": "d'autre", "meaning": "else", "sound": "d'au-tre" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "pense", "meaning": "think", "sound": "pen-se" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "dois", "meaning": "must", "sound": "dois" },
+      { "word": "changer", "meaning": "change", "sound": "chan-ger" },
+      { "word": "pour", "meaning": "to", "sound": "pour" },
+      { "word": "être", "meaning": "be", "sound": "être" },
+      { "word": "accepté", "meaning": "accepted", "sound": "ac-cep-té" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cela", "meaning": "this", "sound": "ce-la" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "fatigue", "meaning": "tire", "sound": "fa-ti-gue" },
+      { "word": "et", "meaning": "and", "sound": "et" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "rend", "meaning": "makes", "sound": "rend" },
+      { "word": "triste", "meaning": "sad", "sound": "tris-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Un", "meaning": "one", "sound": "un" },
+      { "word": "jour", "meaning": "day", "sound": "jour" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "réalise", "meaning": "realize", "sound": "ré-a-lise" },
+      { "word": "quelque", "meaning": "something", "sound": "quel-que" },
+      { "word": "chose", "meaning": "thing", "sound": "chose" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "profond", "meaning": "deep", "sound": "pro-fond" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "n'ai", "meaning": "have not", "sound": "n'ai" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "besoin", "meaning": "need", "sound": "be-soin" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "changer", "meaning": "change", "sound": "chan-ger" },
+      { "word": "pour", "meaning": "to", "sound": "pour" },
+      { "word": "plaire", "meaning": "please", "sound": "plai-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "dois", "meaning": "must", "sound": "dois" },
+      { "word": "apprendre", "meaning": "learn", "sound": "a-pren-dre" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "m'accepter", "meaning": "accept myself", "sound": "m'ac-cep-ter" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ce", "meaning": "this", "sound": "ce" },
+      { "word": "n'est", "meaning": "is not", "sound": "n'est" },
+      { "word": "pas", "meaning": "not", "sound": "pas" },
+      { "word": "facile", "meaning": "easy", "sound": "fa-cile" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "but", "sound": "mais" },
+      { "word": "c'est", "meaning": "it is", "sound": "c'est" },
+      { "word": "nécessaire", "meaning": "necessary", "sound": "né-ces-saire" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Petit", "meaning": "small", "sound": "pe-tit" },
+      { "word": "à", "meaning": "to", "sound": "à" },
+      { "word": "petit", "meaning": "little", "sound": "pe-tit" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sens", "meaning": "feel", "sound": "son" },
+      { "word": "plus", "meaning": "more", "sound": "plus" },
+      { "word": "en", "meaning": "in", "sound": "en" },
+      { "word": "paix", "meaning": "peace", "sound": "paix" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Je", "meaning": "I", "sound": "je" },
+      { "word": "devient", "meaning": "become", "sound": "de-vient" },
+      { "word": "la", "meaning": "the", "sound": "la" },
+      { "word": "personne", "meaning": "person", "sound": "per-son-ne" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "je", "meaning": "I", "sound": "je" },
+      { "word": "veux", "meaning": "want", "sound": "veux" },
+      { "word": "être", "meaning": "be", "sound": "être" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  }
+  },
+  "sentences": [
+
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "french": {
+        "present": ["Je", "mange", "une", "pomme"],
+        "past": ["J'", "ai", "mangé", "une", "pomme"],
+        "future": ["Je", "mangerai", "une", "pomme"]
+      }
+    },
+
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "french": {
+        "present": ["Elle", "lit", "un", "livre"],
+        "past": ["Elle", "a", "lu", "un", "livre"],
+        "future": ["Elle", "lira", "un", "livre"]
+      }
+    },
+
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "french": {
+        "present": ["Nous", "allons", "à", "l'école"],
+        "past": ["Nous", "sommes", "allés", "à", "l'école"],
+        "future": ["Nous", "irons", "à", "l'école"]
+      }
+    },
+
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "french": {
+        "present": ["Il", "boit", "de", "l'eau"],
+        "past": ["Il", "a", "bu", "de", "l'eau"],
+        "future": ["Il", "boira", "de", "l'eau"]
+      }
+    },
+
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "french": {
+        "present": ["Ils", "jouent", "au", "football"],
+        "past": ["Ils", "ont", "joué", "au", "football"],
+        "future": ["Ils", "joueront", "au", "football"]
+      }
+    },
+
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "french": {
+        "present": ["J'", "écris", "une", "lettre"],
+        "past": ["J'", "ai", "écrit", "une", "lettre"],
+        "future": ["J'", "écrirai", "une", "lettre"]
+      }
+    },
+
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "french": {
+        "present": ["Elle", "mange", "du", "riz"],
+        "past": ["Elle", "a", "mangé", "du", "riz"],
+        "future": ["Elle", "mangera", "du", "riz"]
+      }
+    },
+
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "french": {
+        "present": ["Nous", "regardons", "un", "film"],
+        "past": ["Nous", "avons", "regardé", "un", "film"],
+        "future": ["Nous", "regarderons", "un", "film"]
+      }
+    },
+
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "french": {
+        "present": ["Il", "ouvre", "la", "porte"],
+        "past": ["Il", "a", "ouvert", "la", "porte"],
+        "future": ["Il", "ouvrira", "la", "porte"]
+      }
+    },
+
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "french": {
+        "present": ["Ils", "achètent", "de", "la", "nourriture"],
+        "past": ["Ils", "ont", "acheté", "de", "la", "nourriture"],
+        "future": ["Ils", "achèteront", "de", "la", "nourriture"]
+      }
+},
+
+{
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "french": {
+        "present": ["Je", "mange", "une", "pomme", "et", "je", "bois", "de", "l'eau"],
+        "past": ["J'", "ai", "mangé", "une", "pomme", "et", "j'", "ai", "bu", "de", "l'eau"],
+        "future": ["Je", "mangerai", "une", "pomme", "et", "je", "boirai", "de", "l'eau"]
+      }
+    },
+
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "french": {
+        "present": ["Elle", "lit", "un", "livre", "parce", "qu'", "elle", "aime", "les", "histoires"],
+        "past": ["Elle", "a", "lu", "un", "livre", "parce", "qu'", "elle", "aimait", "les", "histoires"],
+        "future": ["Elle", "lira", "un", "livre", "parce", "qu'", "elle", "aime", "les", "histoires"]
+      }
+    },
+
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "french": {
+        "present": ["Nous", "allons", "à", "l'école", "et", "nous", "étudions", "ensemble"],
+        "past": ["Nous", "sommes", "allés", "à", "l'école", "et", "nous", "avons", "étudié", "ensemble"],
+        "future": ["Nous", "irons", "à", "l'école", "et", "nous", "étudierons", "ensemble"]
+      }
+    },
+
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "french": {
+        "present": ["Il", "boit", "de", "l'eau", "mais", "il", "mange", "de", "la", "nourriture", "rapide"],
+        "past": ["Il", "a", "bu", "de", "l'eau", "mais", "il", "a", "mangé", "de", "la", "nourriture", "rapide"],
+        "future": ["Il", "boira", "de", "l'eau", "mais", "il", "mangera", "de", "la", "nourriture", "rapide"]
+      }
+    },
+
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "french": {
+        "present": ["Ils", "jouent", "au", "football", "et", "courent", "dans", "le", "parc"],
+        "past": ["Ils", "ont", "joué", "au", "football", "et", "ont", "couru", "dans", "le", "parc"],
+        "future": ["Ils", "joueront", "au", "football", "et", "courront", "dans", "le", "parc"]
+      }
+    },
+
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "french": {
+        "present": ["J'", "écris", "une", "lettre", "parce", "que", "tu", "me", "manques"],
+        "past": ["J'", "ai", "écrit", "une", "lettre", "parce", "que", "tu", "me", "manquais"],
+        "future": ["J'", "écrirai", "une", "lettre", "parce", "que", "tu", "me", "manques"]
+      }
+    },
+
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "french": {
+        "present": ["Elle", "mange", "du", "riz", "et", "cuisine", "chaque", "jour"],
+        "past": ["Elle", "a", "mangé", "du", "riz", "et", "a", "cuisiné", "chaque", "jour"],
+        "future": ["Elle", "mangera", "du", "riz", "et", "cuisinera", "chaque", "jour"]
+      }
+    },
+
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "french": {
+        "present": ["Nous", "regardons", "un", "film", "mais", "nous", "dormons", "tard"],
+        "past": ["Nous", "avons", "regardé", "un", "film", "mais", "nous", "avons", "dormi", "tard"],
+        "future": ["Nous", "regarderons", "un", "film", "mais", "nous", "dormirons", "tard"]
+      }
+    },
+
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "french": {
+        "present": ["Il", "ouvre", "la", "porte", "et", "salue", "les", "gens"],
+        "past": ["Il", "a", "ouvert", "la", "porte", "et", "a", "salué", "les", "gens"],
+        "future": ["Il", "ouvrira", "la", "porte", "et", "saluerá", "les", "gens"]
+      }
+    },
+
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "french": {
+        "present": ["Ils", "achètent", "de", "la", "nourriture", "parce", "qu'", "ils", "ont", "faim"],
+        "past": ["Ils", "ont", "acheté", "de", "la", "nourriture", "parce", "qu'", "ils", "avaient", "faim"],
+        "future": ["Ils", "achèteront", "de", "la", "nourriture", "parce", "qu'", "ils", "ont", "faim"]
+      }
+    },
+
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "french": {
+        "present": ["Je", "prends", "le", "petit-déjeuner", "le", "matin"],
+        "past": ["J'", "ai", "pris", "le", "petit-déjeuner", "le", "matin"],
+        "future": ["Je", "prendrai", "le", "petit-déjeuner", "le", "matin"]
+      }
+    },
+
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "french": {
+        "present": ["Elle", "étudie", "à", "la", "maison", "chaque", "jour"],
+        "past": ["Elle", "a", "étudié", "à", "la", "maison", "chaque", "jour"],
+        "future": ["Elle", "étudiera", "à", "la", "maison", "chaque", "jour"]
+      }
+    },
+
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "french": {
+        "present": ["Nous", "marchons", "dans", "le", "parc", "le", "soir"],
+        "past": ["Nous", "avons", "marché", "dans", "le", "parc", "le", "soir"],
+        "future": ["Nous", "marcherons", "dans", "le", "parc", "le", "soir"]
+      }
+    },
+
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "french": {
+        "present": ["Il", "travaille", "dans", "un", "bureau", "en", "ville"],
+        "past": ["Il", "a", "travaillé", "dans", "un", "bureau", "en", "ville"],
+        "future": ["Il", "travaillera", "dans", "un", "bureau", "en", "ville"]
+      }
+    },
+
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "french": {
+        "present": ["Ils", "voyagent", "dans", "un", "autre", "pays", "chaque", "année"],
+        "past": ["Ils", "ont", "voyagé", "dans", "un", "autre", "pays", "chaque", "année"],
+        "future": ["Ils", "voyageront", "dans", "un", "autre", "pays", "chaque", "année"]
+      }
+    },
+
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "french": {
+        "present": ["Je", "lis", "un", "livre", "la", "nuit", "avant", "de", "dormir"],
+        "past": ["J'", "ai", "lu", "un", "livre", "la", "nuit", "avant", "de", "dormir"],
+        "future": ["Je", "lirai", "un", "livre", "la", "nuit", "avant", "de", "dormir"]
+      }
+    },
+
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "french": {
+        "present": ["Elle", "boit", "du", "café", "le", "matin", "à", "la", "maison"],
+        "past": ["Elle", "a", "bu", "du", "café", "le", "matin", "à", "la", "maison"],
+        "future": ["Elle", "boira", "du", "café", "le", "matin", "à", "la", "maison"]
+      }
+    },
+
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "french": {
+        "present": ["Nous", "voyons", "des", "amis", "au", "restaurant", "ce", "soir"],
+        "past": ["Nous", "avons", "vu", "des", "amis", "au", "restaurant", "ce", "soir"],
+        "future": ["Nous", "verrons", "des", "amis", "au", "restaurant", "ce", "soir"]
+      }
+    },
+
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies French at school every day",
+        "past": "He studied French at school every day",
+        "future": "He will study French at school every day"
+      },
+      "french": {
+        "present": ["Il", "étudie", "le", "français", "à", "l'école", "chaque", "jour"],
+        "past": ["Il", "a", "étudié", "le", "français", "à", "l'école", "chaque", "jour"],
+        "future": ["Il", "étudiera", "le", "français", "à", "l'école", "chaque", "jour"]
+      }
+    },
+
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "french": {
+        "present": ["Ils", "regardent", "la", "télévision", "le", "soir", "à", "la", "maison"],
+        "past": ["Ils", "ont", "regardé", "la", "télévision", "le", "soir", "à", "la", "maison"],
+        "future": ["Ils", "regarderont", "la", "télévision", "le", "soir", "à", "la", "maison"]
+      }
+    },
+
+    {
+      "id": 31,
+      "english": {
+        "present": "I feel happy today",
+        "past": "I felt happy today",
+        "future": "I will feel happy today"
+      },
+      "french": {
+        "present": ["Je", "me", "sens", "heureux", "aujourd'hui"],
+        "past": ["Je", "me", "suis", "senti", "heureux", "aujourd'hui"],
+        "future": ["Je", "me", "sentirai", "heureux", "aujourd'hui"]
+      }
+    },
+
+    {
+      "id": 32,
+      "english": {
+        "present": "She thinks that this is a good idea",
+        "past": "She thought that this was a good idea",
+        "future": "She will think that this is a good idea"
+      },
+      "french": {
+        "present": ["Elle", "pense", "que", "c'", "est", "une", "bonne", "idée"],
+        "past": ["Elle", "a", "pensé", "que", "c'", "était", "une", "bonne", "idée"],
+        "future": ["Elle", "pensera", "que", "c'", "est", "une", "bonne", "idée"]
+      }
+    },
+
+    {
+      "id": 33,
+      "english": {
+        "present": "We want to learn French",
+        "past": "We wanted to learn French",
+        "future": "We will want to learn French"
+      },
+      "french": {
+        "present": ["Nous", "voulons", "apprendre", "le", "français"],
+        "past": ["Nous", "avons", "voulu", "apprendre", "le", "français"],
+        "future": ["Nous", "voudrons", "apprendre", "le", "français"]
+      }
+    },
+
+    {
+      "id": 34,
+      "english": {
+        "present": "He feels tired after work",
+        "past": "He felt tired after work",
+        "future": "He will feel tired after work"
+      },
+      "french": {
+        "present": ["Il", "se", "sent", "fatigué", "après", "le", "travail"],
+        "past": ["Il", "s'", "est", "senti", "fatigué", "après", "le", "travail"],
+        "future": ["Il", "se", "sentira", "fatigué", "après", "le", "travail"]
+      }
+    },
+
+    {
+      "id": 35,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "french": {
+        "present": ["Ils", "croient", "que", "tout", "est", "possible"],
+        "past": ["Ils", "ont", "cru", "que", "tout", "était", "possible"],
+        "future": ["Ils", "croiront", "que", "tout", "est", "possible"]
+      }
+    },
+
+    {
+      "id": 36,
+      "english": {
+        "present": "I want to travel around the world",
+        "past": "I wanted to travel around the world",
+        "future": "I will want to travel around the world"
+      },
+      "french": {
+        "present": ["Je", "veux", "voyager", "autour", "du", "monde"],
+        "past": ["J'", "ai", "voulu", "voyager", "autour", "du", "monde"],
+        "future": ["Je", "voudrai", "voyager", "autour", "du", "monde"]
+      }
+    },
+
+    {
+      "id": 37,
+      "english": {
+        "present": "She feels nervous before the exam",
+        "past": "She felt nervous before the exam",
+        "future": "She will feel nervous before the exam"
+      },
+      "french": {
+        "present": ["Elle", "se", "sent", "nerveuse", "avant", "l'", "examen"],
+        "past": ["Elle", "s'", "est", "sentie", "nerveuse", "avant", "l'", "examen"],
+        "future": ["Elle", "se", "sentira", "nerveuse", "avant", "l'", "examen"]
+      }
+    },
+
+    {
+      "id": 38,
+      "english": {
+        "present": "We think that learning is important",
+        "past": "We thought that learning was important",
+        "future": "We will think that learning is important"
+      },
+      "french": {
+        "present": ["Nous", "pensons", "que", "apprendre", "est", "important"],
+        "past": ["Nous", "avons", "pensé", "que", "apprendre", "était", "important"],
+        "future": ["Nous", "penserons", "que", "apprendre", "est", "important"]
+      }
+    },
+
+    {
+      "id": 39,
+      "english": {
+        "present": "He wants to become a better person",
+        "past": "He wanted to become a better person",
+        "future": "He will want to become a better person"
+      },
+      "french": {
+        "present": ["Il", "veut", "devenir", "une", "meilleure", "personne"],
+        "past": ["Il", "a", "voulu", "devenir", "une", "meilleure", "personne"],
+        "future": ["Il", "voudra", "devenir", "une", "meilleure", "personne"]
+      }
+    },
+
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel confident about their future",
+        "past": "They felt confident about their future",
+        "future": "They will feel confident about their future"
+      },
+      "french": {
+        "present": ["Ils", "se", "sentent", "confiants", "dans", "leur", "avenir"],
+        "past": ["Ils", "se", "sont", "sentis", "confiants", "dans", "leur", "avenir"],
+        "future": ["Ils", "se", "sentiront", "confiants", "dans", "leur", "avenir"]
+      }
+    },
+
+    {
+      "id": 41,
+      "english": {
+        "present": "I think that learning a new language is very useful",
+        "past": "I thought that learning a new language was very useful",
+        "future": "I will think that learning a new language is very useful"
+      },
+      "french": {
+        "present": ["Je", "pense", "que", "apprendre", "une", "nouvelle", "langue", "est", "très", "utile"],
+        "past": ["J'", "ai", "pensé", "que", "apprendre", "une", "nouvelle", "langue", "était", "très", "utile"],
+        "future": ["Je", "penserai", "que", "apprendre", "une", "nouvelle", "langue", "est", "très", "utile"]
+      }
+    },
+
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to travel because she loves discovering new places",
+        "past": "She wanted to travel because she loved discovering new places",
+        "future": "She will want to travel because she loves discovering new places"
+      },
+      "french": {
+        "present": ["Elle", "veut", "voyager", "parce", "qu'", "elle", "aime", "découvrir", "de", "nouveaux", "endroits"],
+        "past": ["Elle", "a", "voulu", "voyager", "parce", "qu'", "elle", "aimait", "découvrir", "de", "nouveaux", "endroits"],
+        "future": ["Elle", "voudra", "voyager", "parce", "qu'", "elle", "aime", "découvrir", "de", "nouveaux", "endroits"]
+      }
+    },
+
+    {
+      "id": 43,
+      "english": {
+        "present": "We study every day so that we can succeed in the future",
+        "past": "We studied every day so that we could succeed in the future",
+        "future": "We will study every day so that we can succeed in the future"
+      },
+      "french": {
+        "present": ["Nous", "étudions", "chaque", "jour", "pour", "pouvoir", "réussir", "dans", "le", "futur"],
+        "past": ["Nous", "avons", "étudié", "chaque", "jour", "pour", "pouvoir", "réussir", "dans", "le", "futur"],
+        "future": ["Nous", "étudierons", "chaque", "jour", "pour", "pouvoir", "réussir", "dans", "le", "futur"]
+      }
+    },
+
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard even if he feels tired",
+        "past": "He worked hard even if he felt tired",
+        "future": "He will work hard even if he feels tired"
+      },
+      "french": {
+        "present": ["Il", "travaille", "dur", "même", "s'", "il", "se", "sent", "fatigué"],
+        "past": ["Il", "a", "travaillé", "dur", "même", "s'", "il", "se", "sentait", "fatigué"],
+        "future": ["Il", "travaillera", "dur", "même", "s'", "il", "se", "sent", "fatigué"]
+      }
+    },
+
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that practice helps them improve quickly",
+        "past": "They believed that practice helped them improve quickly",
+        "future": "They will believe that practice helps them improve quickly"
+      },
+      "french": {
+        "present": ["Ils", "croient", "que", "la", "pratique", "les", "aide", "à", "s'", "améliorer", "rapidement"],
+        "past": ["Ils", "ont", "cru", "que", "la", "pratique", "les", "aidait", "à", "s'", "améliorer", "rapidement"],
+        "future": ["Ils", "croiront", "que", "la", "pratique", "les", "aide", "à", "s'", "améliorer", "rapidement"]
+      }
+    },
+
+    {
+      "id": 46,
+      "english": {
+        "present": "I try to stay calm when I face difficulties",
+        "past": "I tried to stay calm when I faced difficulties",
+        "future": "I will try to stay calm when I face difficulties"
+      },
+      "french": {
+        "present": ["J'", "essaie", "de", "rester", "calme", "quand", "je", "fais", "face", "à", "des", "difficultés"],
+        "past": ["J'", "ai", "essayé", "de", "rester", "calme", "quand", "j'", "ai", "fait", "face", "à", "des", "difficultés"],
+        "future": ["J'", "essaierai", "de", "rester", "calme", "quand", "je", "ferai", "face", "à", "des", "difficultés"]
+      }
+    },
+
+    {
+      "id": 47,
+      "english": {
+        "present": "She feels proud because she has achieved her goals",
+        "past": "She felt proud because she had achieved her goals",
+        "future": "She will feel proud because she has achieved her goals"
+      },
+      "french": {
+        "present": ["Elle", "se", "sent", "fière", "parce", "qu'", "elle", "a", "atteint", "ses", "objectifs"],
+        "past": ["Elle", "s'", "est", "sentie", "fière", "parce", "qu'", "elle", "avait", "atteint", "ses", "objectifs"],
+        "future": ["Elle", "se", "sentira", "fière", "parce", "qu'", "elle", "aura", "atteint", "ses", "objectifs"]
+      }
+    },
+
+    {
+      "id": 48,
+      "english": {
+        "present": "We understand that success takes time and effort",
+        "past": "We understood that success took time and effort",
+        "future": "We will understand that success takes time and effort"
+      },
+      "french": {
+        "present": ["Nous", "comprenons", "que", "le", "succès", "prend", "du", "temps", "et", "des", "efforts"],
+        "past": ["Nous", "avons", "compris", "que", "le", "succès", "prenait", "du", "temps", "et", "des", "efforts"],
+        "future": ["Nous", "comprendrons", "que", "le", "succès", "prend", "du", "temps", "et", "des", "efforts"]
+      }
+    },
+
+    {
+      "id": 49,
+      "english": {
+        "present": "He wants to improve himself so that he can achieve his dreams",
+        "past": "He wanted to improve himself so that he could achieve his dreams",
+        "future": "He will want to improve himself so that he can achieve his dreams"
+      },
+      "french": {
+        "present": ["Il", "veut", "s'", "améliorer", "pour", "pouvoir", "réaliser", "ses", "rêves"],
+        "past": ["Il", "a", "voulu", "s'", "améliorer", "pour", "pouvoir", "réaliser", "ses", "rêves"],
+        "future": ["Il", "voudra", "s'", "améliorer", "pour", "pouvoir", "réaliser", "ses", "rêves"]
+      }
+    },
+
+    {
+      "id": 50,
+      "english": {
+        "present": "They feel confident because they work hard every day",
+        "past": "They felt confident because they worked hard every day",
+        "future": "They will feel confident because they work hard every day"
+      },
+      "french": {
+        "present": ["Ils", "se", "sentent", "confiants", "parce", "qu'", "ils", "travaillent", "dur", "chaque", "jour"],
+        "past": ["Ils", "se", "sont", "sentis", "confiants", "parce", "qu'", "ils", "travaillaient", "dur", "chaque", "jour"],
+        "future": ["Ils", "se", "sentiront", "confiants", "parce", "qu'", "ils", "travaillent", "dur", "chaque", "jour"]
+      }
+    }
+
+
+  ]
+}

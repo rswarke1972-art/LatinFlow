@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story | IndieFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">
+  <button class="back-btn" onclick="goBack()">⬅ Back</button>
+  <h2 id="langTitle">Loading...</h2>
+</div>
+
+<div class="container">
+  <h1 id="storyTitle">📖 Story</h1>
+
+  <!-- PROGRESS -->
+  <p id="progress">Progress: 0%</p>
+
+  <!-- STORY CONTENT -->
+  <div id="storyContainer" class="story-container"></div>
+</div>
+
+<!-- POPUP -->
+<div id="popup" class="popup"></div>
+
+<!-- SCRIPTS -->
+<script src="config.js"></script>
+<script src="storyViewer.js"></script>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
+</body>
+</html>

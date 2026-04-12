@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | IndieFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">
+  <button class="back-btn" onclick="goBack()">⬅ Back</button>
+  <h2 id="langTitle">Loading...</h2>
+</div>
+
+<div class="container contact-container">
+  <h1>Contact IndieFlow 📩</h1>
+
+  <p id="descText">
+    Have feedback, suggestions, or found an issue?
+  </p>
+
+  <form id="contactForm" class="contact-form">
+
+    <input type="text" id="name" placeholder="Your name" required>
+
+    <input type="email" id="email" placeholder="Your email" required>
+
+    <textarea id="message" placeholder="Write your message..." required></textarea>
+
+    <button type="submit" class="contact-btn">Send Message</button>
+
+  </form>
+
+  <p id="status"></p>
+</div>
+
+<!-- EmailJS -->
+<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+
+<script>
+(function(){
+  emailjs.init("WOOkqRSQ0vMflbWWI");
+})();
+</script>
+
+<!-- Scripts -->
+<script src="config.js"></script>
+<script src="contact.js"></script>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
+</body>
+</html>

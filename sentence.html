@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentence Builder | IndieFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="topbar">
+  <button class="back-btn" onclick="goBack()">⬅ Back</button>
+  <h2 id="langTitle">Loading...</h2>
+</div>
+
+<div class="container">
+
+  <h1>Sentence Builder 🧩</h1>
+
+  <!-- TENSE SELECT -->
+  <div class="tense-buttons">
+    <button onclick="setTense('present')">Present</button>
+    <button onclick="setTense('past')">Past</button>
+    <button onclick="setTense('future')">Future</button>
+  </div>
+
+  <!-- ENGLISH SENTENCE -->
+  <h2 id="englishSentence">Loading...</h2>
+
+  <!-- SELECTED WORDS -->
+  <div id="selectedWords" class="drop-zone"></div>
+
+  <!-- WORD BANK -->
+  <div id="wordBank" class="word-bank"></div>
+
+  <p id="result"></p>
+
+  <!-- ACTIONS -->
+  <button class="action-btn" onclick="checkSentence()">Check</button>
+
+  <div class="nav-buttons">
+    <button onclick="prevSentence()">⬅️ Previous</button>
+    <button onclick="nextSentence()">Next ➡️</button>
+  </div>
+
+</div>
+
+<script src="config.js"></script>
+<script src="sentence.js"></script>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+
+function setTense(t) {
+  localStorage.setItem("tense", t);
+  location.reload();
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1981 @@
+{
+  "language": "German",
+  "stories": {
+  "story1": {
+    "title": "Ein einfacher Tag",
+    "content": [
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "wache", "meaning": "wake", "sound": "va-khe" },
+      { "word": "am", "meaning": "in the", "sound": "am" },
+      { "word": "Morgen", "meaning": "morning", "sound": "mor-gen" },
+      { "word": "auf", "meaning": "up", "sound": "auf" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "esse", "meaning": "eat", "sound": "es-se" },
+      { "word": "Frühstück", "meaning": "breakfast", "sound": "früh-shtück" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dann", "meaning": "then", "sound": "dan" },
+      { "word": "gehe", "meaning": "go", "sound": "ge-he" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "zur", "meaning": "to the", "sound": "zur" },
+      { "word": "Schule", "meaning": "school", "sound": "shu-le" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "lerne", "meaning": "learn", "sound": "ler-ne" },
+      { "word": "Deutsch", "meaning": "German", "sound": "doych" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Am", "meaning": "in the", "sound": "am" },
+      { "word": "Nachmittag", "meaning": "afternoon", "sound": "nah-mit-tag" },
+      { "word": "spiele", "meaning": "play", "sound": "shpee-le" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Am", "meaning": "in the", "sound": "am" },
+      { "word": "Abend", "meaning": "evening", "sound": "a-bent" },
+      { "word": "ruhe", "meaning": "rest", "sound": "ru-he" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Es", "meaning": "it", "sound": "es" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "guter", "meaning": "good", "sound": "gu-ter" },
+      { "word": "Tag", "meaning": "day", "sound": "tag" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story2": {
+    "title": "Mein Alltag",
+    "content": [
+      { "word": "Jeden", "meaning": "every", "sound": "ye-den" },
+      { "word": "Tag", "meaning": "day", "sound": "tag" },
+      { "word": "stehe", "meaning": "get up", "sound": "shte-he" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "früh", "meaning": "early", "sound": "früh" },
+      { "word": "auf", "meaning": "up", "sound": "auf" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "trinke", "meaning": "drink", "sound": "trin-ke" },
+      { "word": "Kaffee", "meaning": "coffee", "sound": "ka-fe" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "esse", "meaning": "eat", "sound": "es-se" },
+      { "word": "Brot", "meaning": "bread", "sound": "brot" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Danach", "meaning": "after that", "sound": "da-nakh" },
+      { "word": "gehe", "meaning": "go", "sound": "ge-he" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "zur", "meaning": "to the", "sound": "zur" },
+      { "word": "Universität", "meaning": "university", "sound": "u-ni-ver-si-tet" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dort", "meaning": "there", "sound": "dort" },
+      { "word": "lerne", "meaning": "learn", "sound": "ler-ne" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "neue", "meaning": "new", "sound": "noy-e" },
+      { "word": "Dinge", "meaning": "things", "sound": "din-ge" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "spreche", "meaning": "speak", "sound": "shpre-che" },
+      { "word": "mit", "meaning": "with", "sound": "mit" },
+      { "word": "meinen", "meaning": "my", "sound": "mai-nen" },
+      { "word": "Freunden", "meaning": "friends", "sound": "froyn-den" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Am", "meaning": "in the", "sound": "am" },
+      { "word": "Nachmittag", "meaning": "afternoon", "sound": "nah-mit-tag" },
+      { "word": "gehe", "meaning": "go", "sound": "ge-he" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "nach", "meaning": "to", "sound": "nakh" },
+      { "word": "Hause", "meaning": "home", "sound": "hau-ze" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Am", "meaning": "in the", "sound": "am" },
+      { "word": "Abend", "meaning": "evening", "sound": "a-bent" },
+      { "word": "sehe", "meaning": "watch", "sound": "ze-he" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "fern", "meaning": "TV (part)", "sound": "fern" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dann", "meaning": "then", "sound": "dan" },
+      { "word": "gehe", "meaning": "go", "sound": "ge-he" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "schlafen", "meaning": "sleep", "sound": "shla-fen" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story3": {
+    "title": "Mein Lieblingsort",
+    "content": [
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "einen", "meaning": "a", "sound": "ai-nen" },
+      { "word": "Lieblingsort", "meaning": "favorite place", "sound": "lee-blings-ort" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Es", "meaning": "it", "sound": "es" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "kleiner", "meaning": "small", "sound": "klai-ner" },
+      { "word": "Park", "meaning": "park", "sound": "park" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "gehe", "meaning": "go", "sound": "ge-he" },
+      { "word": "oft", "meaning": "often", "sound": "oft" },
+      { "word": "dorthin", "meaning": "there", "sound": "dor-tin" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dort", "meaning": "there", "sound": "dort" },
+      { "word": "fühle", "meaning": "feel", "sound": "fü-le" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "ruhig", "meaning": "calm", "sound": "ru-hig" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "glücklich", "meaning": "happy", "sound": "glück-likh" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "sitze", "meaning": "sit", "sound": "zit-ze" },
+      { "word": "auf", "meaning": "on", "sound": "auf" },
+      { "word": "einer", "meaning": "a", "sound": "ai-ner" },
+      { "word": "Bank", "meaning": "bench", "sound": "bank" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "lese", "meaning": "read", "sound": "le-ze" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "Buch", "meaning": "book", "sound": "bukh" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Manchmal", "meaning": "sometimes", "sound": "manch-mal" },
+      { "word": "höre", "meaning": "listen", "sound": "hö-re" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "Musik", "meaning": "music", "sound": "mu-zik" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dieser", "meaning": "this", "sound": "di-zer" },
+      { "word": "Ort", "meaning": "place", "sound": "ort" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": "sehr", "meaning": "very", "sound": "zehr" },
+      { "word": "wichtig", "meaning": "important", "sound": "vikh-tig" },
+      { "word": "für", "meaning": "for", "sound": "für" },
+      { "word": "mich", "meaning": "me", "sound": "mikh" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story4": {
+    "title": "Ein besonderer Tag",
+    "content": [
+      { "word": "Letzte", "meaning": "last", "sound": "letz-te" },
+      { "word": "Woche", "meaning": "week", "sound": "vo-khe" },
+      { "word": "hatte", "meaning": "had", "sound": "hat-te" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "einen", "meaning": "a", "sound": "ai-nen" },
+      { "word": "besonderen", "meaning": "special", "sound": "be-zon-de-ren" },
+      { "word": "Tag", "meaning": "day", "sound": "tag" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "bin", "meaning": "am", "sound": "bin" },
+      { "word": "mit", "meaning": "with", "sound": "mit" },
+      { "word": "meinen", "meaning": "my", "sound": "mai-nen" },
+      { "word": "Freunden", "meaning": "friends", "sound": "froyn-den" },
+      { "word": "in", "meaning": "to", "sound": "in" },
+      { "word": "die", "meaning": "the", "sound": "dee" },
+      { "word": "Stadt", "meaning": "city", "sound": "shtat" },
+      { "word": "gegangen", "meaning": "gone", "sound": "ge-gan-gen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Zuerst", "meaning": "first", "sound": "tsu-erst" },
+      { "word": "haben", "meaning": "have", "sound": "ha-ben" },
+      { "word": "wir", "meaning": "we", "sound": "veer" },
+      { "word": "in", "meaning": "in", "sound": "in" },
+      { "word": "einem", "meaning": "a", "sound": "ai-nem" },
+      { "word": "Restaurant", "meaning": "restaurant", "sound": "res-tau-rant" },
+      { "word": "gegessen", "meaning": "eaten", "sound": "ge-ges-sen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Danach", "meaning": "after that", "sound": "da-nakh" },
+      { "word": "sind", "meaning": "are", "sound": "zint" },
+      { "word": "wir", "meaning": "we", "sound": "veer" },
+      { "word": "durch", "meaning": "through", "sound": "durkh" },
+      { "word": "die", "meaning": "the", "sound": "dee" },
+      { "word": "Straßen", "meaning": "streets", "sound": "shtra-sen" },
+      { "word": "gelaufen", "meaning": "walked", "sound": "ge-lau-fen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Wir", "meaning": "we", "sound": "veer" },
+      { "word": "haben", "meaning": "have", "sound": "ha-ben" },
+      { "word": "viel", "meaning": "a lot", "sound": "feel" },
+      { "word": "gelacht", "meaning": "laughed", "sound": "ge-lakht" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "gesprochen", "meaning": "talked", "sound": "ge-shpro-khen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Am", "meaning": "in the", "sound": "am" },
+      { "word": "Abend", "meaning": "evening", "sound": "a-bent" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "sehr", "meaning": "very", "sound": "zehr" },
+      { "word": "glücklich", "meaning": "happy", "sound": "glück-likh" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dieser", "meaning": "this", "sound": "di-zer" },
+      { "word": "Tag", "meaning": "day", "sound": "tag" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "unvergesslich", "meaning": "unforgettable", "sound": "un-fer-ges-lich" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story5": {
+    "title": "Ein neuer Anfang",
+    "content": [
+      { "word": "Vor", "meaning": "before", "sound": "for" },
+      { "word": "einigen", "meaning": "some", "sound": "ai-ni-gen" },
+      { "word": "Monaten", "meaning": "months", "sound": "mo-na-ten" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "eine", "meaning": "a", "sound": "ai-ne" },
+      { "word": "wichtige", "meaning": "important", "sound": "vikh-ti-ge" },
+      { "word": "Entscheidung", "meaning": "decision", "sound": "ent-shai-dung" },
+      { "word": "getroffen", "meaning": "made", "sound": "ge-trof-fen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "wollte", "meaning": "wanted", "sound": "vol-te" },
+      { "word": "mein", "meaning": "my", "sound": "main" },
+      { "word": "Leben", "meaning": "life", "sound": "le-ben" },
+      { "word": "ändern", "meaning": "change", "sound": "en-dern" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Am", "meaning": "in the", "sound": "am" },
+      { "word": "Anfang", "meaning": "beginning", "sound": "an-fang" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "es", "meaning": "it", "sound": "es" },
+      { "word": "schwierig", "meaning": "difficult", "sound": "shve-rig" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "hatte", "meaning": "had", "sound": "hat-te" },
+      { "word": "Angst", "meaning": "fear", "sound": "angst" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "Zweifel", "meaning": "doubts", "sound": "tsvai-fel" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Aber", "meaning": "but", "sound": "a-ber" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "weitergemacht", "meaning": "continued", "sound": "vai-ter-ge-makht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Jeden", "meaning": "every", "sound": "ye-den" },
+      { "word": "Tag", "meaning": "day", "sound": "tag" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "etwas", "meaning": "something", "sound": "et-vas" },
+      { "word": "Neues", "meaning": "new", "sound": "noy-es" },
+      { "word": "gelernt", "meaning": "learned", "sound": "ge-lernt" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Jetzt", "meaning": "now", "sound": "yetst" },
+      { "word": "fühle", "meaning": "feel", "sound": "fü-le" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "stärker", "meaning": "stronger", "sound": "shter-ker" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "glaube", "meaning": "believe", "sound": "glau-be" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mein", "meaning": "my", "sound": "main" },
+      { "word": "Ziel", "meaning": "goal", "sound": "tsiel" },
+      { "word": "erreichen", "meaning": "achieve", "sound": "er-raikh-en" },
+      { "word": "kann", "meaning": "can", "sound": "kan" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  "story6": {
+    "title": "Ein schwieriger Moment",
+    "content": [
+      { "word": "Vor", "meaning": "before", "sound": "for" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "paar", "meaning": "few", "sound": "paar" },
+      { "word": "Tagen", "meaning": "days", "sound": "ta-gen" },
+      { "word": "hatte", "meaning": "had", "sound": "hat-te" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "Problem", "meaning": "problem", "sound": "pro-blem" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "sehr", "meaning": "very", "sound": "zehr" },
+      { "word": "nervös", "meaning": "nervous", "sound": "ner-vös" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "weil", "meaning": "because", "sound": "vail" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "wusste", "meaning": "knew", "sound": "vus-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "was", "meaning": "what", "sound": "vas" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "tun", "meaning": "do", "sound": "toon" },
+      { "word": "sollte", "meaning": "should", "sound": "zol-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Zuerst", "meaning": "first", "sound": "tsu-erst" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "versucht", "meaning": "tried", "sound": "fer-zukht" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "alleine", "meaning": "alone", "sound": "a-lai-ne" },
+      { "word": "eine", "meaning": "a", "sound": "ai-ne" },
+      { "word": "Lösung", "meaning": "solution", "sound": "lö-zung" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "finden", "meaning": "find", "sound": "fin-den" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Aber", "meaning": "but", "sound": "a-ber" },
+      { "word": "es", "meaning": "it", "sound": "es" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "einfach", "meaning": "easy", "sound": "ain-fakh" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dann", "meaning": "then", "sound": "dan" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mit", "meaning": "with", "sound": "mit" },
+      { "word": "einem", "meaning": "a", "sound": "ai-nem" },
+      { "word": "Freund", "meaning": "friend", "sound": "froind" },
+      { "word": "gesprochen", "meaning": "spoken", "sound": "ge-shpro-khen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Er", "meaning": "he", "sound": "er" },
+      { "word": "hat", "meaning": "has", "sound": "hat" },
+      { "word": "mir", "meaning": "me", "sound": "meer" },
+      { "word": "geholfen", "meaning": "helped", "sound": "ge-hol-fen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Am", "meaning": "in the", "sound": "am" },
+      { "word": "Ende", "meaning": "end", "sound": "en-de" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "alles", "meaning": "everything", "sound": "al-les" },
+      { "word": "gut", "meaning": "good", "sound": "gut" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Jetzt", "meaning": "now", "sound": "yetst" },
+      { "word": "weiß", "meaning": "know", "sound": "vais" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "alleine", "meaning": "alone", "sound": "a-lai-ne" },
+      { "word": "bin", "meaning": "am", "sound": "bin" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story7": {
+    "title": "Ein wichtiger Schritt",
+    "content": [
+      { "word": "Vor", "meaning": "before", "sound": "for" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "paar", "meaning": "few", "sound": "paar" },
+      { "word": "Monaten", "meaning": "months", "sound": "mo-na-ten" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "sehr", "meaning": "very", "sound": "zehr" },
+      { "word": "unsicher", "meaning": "insecure", "sound": "un-zi-kher" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "wusste", "meaning": "knew", "sound": "vus-te" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "was", "meaning": "what", "sound": "vas" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mit", "meaning": "with", "sound": "mit" },
+      { "word": "meinem", "meaning": "my", "sound": "mai-nem" },
+      { "word": "Leben", "meaning": "life", "sound": "le-ben" },
+      { "word": "machen", "meaning": "do", "sound": "ma-khen" },
+      { "word": "sollte", "meaning": "should", "sound": "zol-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Jeden", "meaning": "every", "sound": "ye-den" },
+      { "word": "Tag", "meaning": "day", "sound": "tag" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "darüber", "meaning": "about it", "sound": "da-rü-ber" },
+      { "word": "nachgedacht", "meaning": "thought", "sound": "nakh-ge-dakht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Es", "meaning": "it", "sound": "es" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "einfach", "meaning": "easy", "sound": "ain-fakh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "weil", "meaning": "because", "sound": "vail" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "Angst", "meaning": "fear", "sound": "angst" },
+      { "word": "vor", "meaning": "of", "sound": "for" },
+      { "word": "Fehlern", "meaning": "mistakes", "sound": "feh-lern" },
+      { "word": "hatte", "meaning": "had", "sound": "hat-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Aber", "meaning": "but", "sound": "a-ber" },
+      { "word": "dann", "meaning": "then", "sound": "dan" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "verstanden", "meaning": "understood", "sound": "fer-shtan-den" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "Fehler", "meaning": "mistakes", "sound": "feh-ler" },
+      { "word": "wichtig", "meaning": "important", "sound": "vikh-tig" },
+      { "word": "sind", "meaning": "are", "sound": "zint" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Seitdem", "meaning": "since then", "sound": "zait-dem" },
+      { "word": "versuche", "meaning": "try", "sound": "fer-zu-khe" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mutiger", "meaning": "braver", "sound": "mu-ti-ger" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "sein", "meaning": "be", "sound": "zain" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "kleine", "meaning": "small", "sound": "klai-ne" },
+      { "word": "Schritte", "meaning": "steps", "sound": "shrit-te" },
+      { "word": "gemacht", "meaning": "made", "sound": "ge-makht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Und", "meaning": "and", "sound": "und" },
+      { "word": "jetzt", "meaning": "now", "sound": "yetst" },
+      { "word": "fühle", "meaning": "feel", "sound": "fü-le" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "stärker", "meaning": "stronger", "sound": "shter-ker" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "sicherer", "meaning": "more confident", "sound": "zi-kher-er" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story8": {
+    "title": "Die Bedeutung von Zeit",
+    "content": [
+      { "word": "Früher", "meaning": "earlier/before", "sound": "frü-er" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "verstanden", "meaning": "understood", "sound": "fer-shtan-den" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "wie", "meaning": "how", "sound": "vee" },
+      { "word": "wichtig", "meaning": "important", "sound": "vikh-tig" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "viel", "meaning": "a lot", "sound": "feel" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "verschwendet", "meaning": "wasted", "sound": "fer-shven-det" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Manchmal", "meaning": "sometimes", "sound": "manch-mal" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "nichts", "meaning": "nothing", "sound": "nikhts" },
+      { "word": "gemacht", "meaning": "done", "sound": "ge-makht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Aber", "meaning": "but", "sound": "a-ber" },
+      { "word": "jetzt", "meaning": "now", "sound": "yetst" },
+      { "word": "weiß", "meaning": "know", "sound": "vais" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "sehr", "meaning": "very", "sound": "zehr" },
+      { "word": "wertvoll", "meaning": "valuable", "sound": "vert-foll" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "versuche", "meaning": "try", "sound": "fer-zu-khe" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "meine", "meaning": "my", "sound": "mai-ne" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "besser", "meaning": "better", "sound": "bes-ser" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "nutzen", "meaning": "use", "sound": "nut-sen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "plane", "meaning": "plan", "sound": "pla-ne" },
+      { "word": "meinen", "meaning": "my", "sound": "mai-nen" },
+      { "word": "Tag", "meaning": "day", "sound": "tag" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "arbeite", "meaning": "work", "sound": "ar-bai-te" },
+      { "word": "konzentriert", "meaning": "focused", "sound": "kon-tsen-triert" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Natürlich", "meaning": "of course", "sound": "na-tür-likh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mache", "meaning": "do", "sound": "ma-khe" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "auch", "meaning": "also", "sound": "aukh" },
+      { "word": "Pausen", "meaning": "breaks", "sound": "pau-sen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "glaube", "meaning": "believe", "sound": "glau-be" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "gutes", "meaning": "good", "sound": "gu-tes" },
+      { "word": "Zeitmanagement", "meaning": "time management", "sound": "tsait-ma-na-ge-ment" },
+      { "word": "wichtig", "meaning": "important", "sound": "vikh-tig" },
+      { "word": "für", "meaning": "for", "sound": "für" },
+      { "word": "Erfolg", "meaning": "success", "sound": "er-folg" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story9": {
+    "title": "Ein Moment der Veränderung",
+    "content": [
+      { "word": "Manchmal", "meaning": "sometimes", "sound": "manch-mal" },
+      { "word": "kommt", "meaning": "comes", "sound": "kommt" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "Moment", "meaning": "moment", "sound": "mo-ment" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "der", "meaning": "that", "sound": "der" },
+      { "word": "alles", "meaning": "everything", "sound": "al-les" },
+      { "word": "verändert", "meaning": "changes", "sound": "fer-en-dert" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Für", "meaning": "for", "sound": "für" },
+      { "word": "mich", "meaning": "me", "sound": "mikh" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "es", "meaning": "it", "sound": "es" },
+      { "word": "ein", "meaning": "a", "sound": "ain" },
+      { "word": "Gespräch", "meaning": "conversation", "sound": "ge-shpräch" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ein", "meaning": "a", "sound": "ain" },
+      { "word": "Freund", "meaning": "friend", "sound": "froind" },
+      { "word": "hat", "meaning": "has", "sound": "hat" },
+      { "word": "mir", "meaning": "me", "sound": "meer" },
+      { "word": "ehrlich", "meaning": "honestly", "sound": "ehr-likh" },
+      { "word": "gesagt", "meaning": "said", "sound": "ge-zagt" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mehr", "meaning": "more", "sound": "mehr" },
+      { "word": "an", "meaning": "on", "sound": "an" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "glauben", "meaning": "believe", "sound": "glau-ben" },
+      { "word": "sollte", "meaning": "should", "sound": "zol-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Zuerst", "meaning": "first", "sound": "tsu-erst" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "überrascht", "meaning": "surprised", "sound": "ü-ber-rasht" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "weil", "meaning": "because", "sound": "vail" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "immer", "meaning": "always", "sound": "im-mer" },
+      { "word": "an", "meaning": "in", "sound": "an" },
+      { "word": "mir", "meaning": "myself", "sound": "meer" },
+      { "word": "gezweifelt", "meaning": "doubted", "sound": "ge-tsvai-felt" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Aber", "meaning": "but", "sound": "a-ber" },
+      { "word": "dann", "meaning": "then", "sound": "dan" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "lange", "meaning": "long", "sound": "lan-ge" },
+      { "word": "darüber", "meaning": "about it", "sound": "da-rü-ber" },
+      { "word": "nachgedacht", "meaning": "thought", "sound": "nakh-ge-dakht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "verstanden", "meaning": "understood", "sound": "fer-shtan-den" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "ändern", "meaning": "change", "sound": "en-dern" },
+      { "word": "muss", "meaning": "must", "sound": "mus" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Seitdem", "meaning": "since then", "sound": "zait-dem" },
+      { "word": "arbeite", "meaning": "work", "sound": "ar-bai-te" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "an", "meaning": "on", "sound": "an" },
+      { "word": "mir", "meaning": "myself", "sound": "meer" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "fühle", "meaning": "feel", "sound": "fü-le" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "jetzt", "meaning": "now", "sound": "yetst" },
+      { "word": "sicherer", "meaning": "more confident", "sound": "zi-kher-er" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "stärker", "meaning": "stronger", "sound": "shter-ker" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story10": {
+    "title": "Der Weg zu sich selbst",
+    "content": [
+      { "word": "Lange", "meaning": "for a long time", "sound": "lan-ge" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "versucht", "meaning": "tried", "sound": "fer-zukht" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "wie", "meaning": "like", "sound": "vee" },
+      { "word": "andere", "meaning": "others", "sound": "an-de-re" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "sein", "meaning": "be", "sound": "zain" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "oft", "meaning": "often", "sound": "oft" },
+      { "word": "verglichen", "meaning": "compared", "sound": "fer-gli-khen" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "war", "meaning": "was", "sound": "var" },
+      { "word": "nie", "meaning": "never", "sound": "nee" },
+      { "word": "zufrieden", "meaning": "satisfied", "sound": "tsu-frie-den" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Das", "meaning": "this", "sound": "das" },
+      { "word": "hat", "meaning": "has", "sound": "hat" },
+      { "word": "mich", "meaning": "me", "sound": "mikh" },
+      { "word": "traurig", "meaning": "sad", "sound": "trau-rig" },
+      { "word": "gemacht", "meaning": "made", "sound": "ge-makht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eines", "meaning": "one (day)", "sound": "ai-nes" },
+      { "word": "Tages", "meaning": "day", "sound": "ta-ges" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "verstanden", "meaning": "understood", "sound": "fer-shtan-den" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "jeder", "meaning": "everyone", "sound": "ye-der" },
+      { "word": "seinen", "meaning": "his/her", "sound": "zai-nen" },
+      { "word": "eigenen", "meaning": "own", "sound": "ai-ge-nen" },
+      { "word": "Weg", "meaning": "path", "sound": "veg" },
+      { "word": "hat", "meaning": "has", "sound": "hat" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Seitdem", "meaning": "since then", "sound": "zait-dem" },
+      { "word": "höre", "meaning": "listen", "sound": "hö-re" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mehr", "meaning": "more", "sound": "mehr" },
+      { "word": "auf", "meaning": "to", "sound": "auf" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "versuche", "meaning": "try", "sound": "fer-zu-khe" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "meine", "meaning": "my", "sound": "mai-ne" },
+      { "word": "eigenen", "meaning": "own", "sound": "ai-ge-nen" },
+      { "word": "Entscheidungen", "meaning": "decisions", "sound": "ent-shai-dun-gen" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "treffen", "meaning": "make", "sound": "tref-fen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Das", "meaning": "this", "sound": "das" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "immer", "meaning": "always", "sound": "im-mer" },
+      { "word": "einfach", "meaning": "easy", "sound": "ain-fakh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "aber", "meaning": "but", "sound": "a-ber" },
+      { "word": "es", "meaning": "it", "sound": "es" },
+      { "word": "fühlt", "meaning": "feels", "sound": "fült" },
+      { "word": "sich", "meaning": "itself", "sound": "zikh" },
+      { "word": "richtig", "meaning": "right", "sound": "rikh-tig" },
+      { "word": "an", "meaning": "feels (part)", "sound": "an" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story11": {
+    "title": "Zwischen Zweifel und Vertrauen",
+    "content": [
+      { "word": "Es", "meaning": "it", "sound": "es" },
+      { "word": "gibt", "meaning": "there is", "sound": "gibt" },
+      { "word": "Momente", "meaning": "moments", "sound": "mo-men-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "in", "meaning": "in", "sound": "in" },
+      { "word": "denen", "meaning": "which", "sound": "de-nen" },
+      { "word": "man", "meaning": "one/you", "sound": "man" },
+      { "word": "an", "meaning": "in", "sound": "an" },
+      { "word": "sich", "meaning": "oneself", "sound": "zikh" },
+      { "word": "zweifelt", "meaning": "doubts", "sound": "tsvai-felt" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "solche", "meaning": "such", "sound": "zol-khe" },
+      { "word": "Momente", "meaning": "moments", "sound": "mo-men-te" },
+      { "word": "oft", "meaning": "often", "sound": "oft" },
+      { "word": "erlebt", "meaning": "experienced", "sound": "er-lebt" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Manchmal", "meaning": "sometimes", "sound": "manch-mal" },
+      { "word": "fühlt", "meaning": "feels", "sound": "fült" },
+      { "word": "es", "meaning": "it", "sound": "es" },
+      { "word": "sich", "meaning": "itself", "sound": "zikh" },
+      { "word": "so", "meaning": "so", "sound": "zo" },
+      { "word": "an", "meaning": "feels (part)", "sound": "an" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "als", "meaning": "as if", "sound": "als" },
+      { "word": "ob", "meaning": "if", "sound": "ob" },
+      { "word": "man", "meaning": "one/you", "sound": "man" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "gut", "meaning": "good", "sound": "gut" },
+      { "word": "genug", "meaning": "enough", "sound": "ge-nug" },
+      { "word": "wäre", "meaning": "were", "sound": "veh-re" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Doch", "meaning": "however", "sound": "dokh" },
+      { "word": "mit", "meaning": "with", "sound": "mit" },
+      { "word": "der", "meaning": "the", "sound": "der" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "gelernt", "meaning": "learned", "sound": "ge-lernt" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mir", "meaning": "myself", "sound": "meer" },
+      { "word": "mehr", "meaning": "more", "sound": "mehr" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "vertrauen", "meaning": "trust", "sound": "fer-trau-en" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "verstehe", "meaning": "understand", "sound": "fer-shte-he" },
+      { "word": "jetzt", "meaning": "now", "sound": "yetst" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "Fehler", "meaning": "mistakes", "sound": "feh-ler" },
+      { "word": "Teil", "meaning": "part", "sound": "tail" },
+      { "word": "des", "meaning": "of the", "sound": "des" },
+      { "word": "Weges", "meaning": "path", "sound": "ve-ges" },
+      { "word": "sind", "meaning": "are", "sound": "zint" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ohne", "meaning": "without", "sound": "oh-ne" },
+      { "word": "sie", "meaning": "them", "sound": "zee" },
+      { "word": "kann", "meaning": "can", "sound": "kan" },
+      { "word": "man", "meaning": "one", "sound": "man" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "wachsen", "meaning": "grow", "sound": "vak-sen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Heute", "meaning": "today", "sound": "hoy-te" },
+      { "word": "versuche", "meaning": "try", "sound": "fer-zu-khe" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ruhiger", "meaning": "calmer", "sound": "ru-i-ger" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "bleiben", "meaning": "stay", "sound": "blai-ben" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "weiterzugehen", "meaning": "move forward", "sound": "vai-ter-tsu-ge-en" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story12": {
+    "title": "Was wirklich zählt",
+    "content": [
+      { "word": "Im", "meaning": "in the", "sound": "im" },
+      { "word": "Leben", "meaning": "life", "sound": "le-ben" },
+      { "word": "denkt", "meaning": "thinks", "sound": "denkt" },
+      { "word": "man", "meaning": "one/you", "sound": "man" },
+      { "word": "oft", "meaning": "often", "sound": "oft" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "Erfolg", "meaning": "success", "sound": "er-folg" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "Geld", "meaning": "money", "sound": "gelt" },
+      { "word": "das", "meaning": "the", "sound": "das" },
+      { "word": "Wichtigste", "meaning": "most important", "sound": "vikh-tig-ste" },
+      { "word": "sind", "meaning": "are", "sound": "zint" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Auch", "meaning": "also", "sound": "aukh" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "lange", "meaning": "long", "sound": "lan-ge" },
+      { "word": "so", "meaning": "so", "sound": "zo" },
+      { "word": "gedacht", "meaning": "thought", "sound": "ge-dakht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "viel", "meaning": "a lot", "sound": "feel" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "in", "meaning": "in", "sound": "in" },
+      { "word": "Arbeit", "meaning": "work", "sound": "ar-bait" },
+      { "word": "investiert", "meaning": "invested", "sound": "in-ves-tiert" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Doch", "meaning": "however", "sound": "dokh" },
+      { "word": "irgendwann", "meaning": "at some point", "sound": "ir-gend-van" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "gemerkt", "meaning": "realized", "sound": "ge-merkt" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "mir", "meaning": "to me", "sound": "meer" },
+      { "word": "etwas", "meaning": "something", "sound": "et-vas" },
+      { "word": "fehlt", "meaning": "is missing", "sound": "fehlt" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "hatte", "meaning": "had", "sound": "hat-te" },
+      { "word": "keine", "meaning": "no", "sound": "kai-ne" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "für", "meaning": "for", "sound": "für" },
+      { "word": "meine", "meaning": "my", "sound": "mai-ne" },
+      { "word": "Familie", "meaning": "family", "sound": "fa-mi-li-e" },
+      { "word": "oder", "meaning": "or", "sound": "o-der" },
+      { "word": "Freunde", "meaning": "friends", "sound": "froy-nde" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Das", "meaning": "this", "sound": "das" },
+      { "word": "hat", "meaning": "has", "sound": "hat" },
+      { "word": "mich", "meaning": "me", "sound": "mikh" },
+      { "word": "nachdenklich", "meaning": "thoughtful", "sound": "nakh-denk-likh" },
+      { "word": "gemacht", "meaning": "made", "sound": "ge-makht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Heute", "meaning": "today", "sound": "hoy-te" },
+      { "word": "weiß", "meaning": "know", "sound": "vais" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "mit", "meaning": "with", "sound": "mit" },
+      { "word": "Menschen", "meaning": "people", "sound": "men-shen" },
+      { "word": "viel", "meaning": "much", "sound": "feel" },
+      { "word": "wichtiger", "meaning": "more important", "sound": "vikh-ti-ger" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "als", "meaning": "than", "sound": "als" },
+      { "word": "alles", "meaning": "everything", "sound": "al-les" },
+      { "word": "andere", "meaning": "else", "sound": "an-de-re" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story13": {
+    "title": "Der Sinn des Weges",
+    "content": [
+      { "word": "Viele", "meaning": "many", "sound": "fee-le" },
+      { "word": "Menschen", "meaning": "people", "sound": "men-shen" },
+      { "word": "denken", "meaning": "think", "sound": "den-ken" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "das", "meaning": "the", "sound": "das" },
+      { "word": "Ziel", "meaning": "goal", "sound": "tsiel" },
+      { "word": "das", "meaning": "the", "sound": "das" },
+      { "word": "Wichtigste", "meaning": "most important", "sound": "vikh-tig-ste" },
+      { "word": "im", "meaning": "in the", "sound": "im" },
+      { "word": "Leben", "meaning": "life", "sound": "le-ben" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Auch", "meaning": "also", "sound": "aukh" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "früher", "meaning": "earlier", "sound": "frü-er" },
+      { "word": "so", "meaning": "so", "sound": "zo" },
+      { "word": "gedacht", "meaning": "thought", "sound": "ge-dakht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "wollte", "meaning": "wanted", "sound": "vol-te" },
+      { "word": "schnell", "meaning": "quickly", "sound": "shnell" },
+      { "word": "Erfolg", "meaning": "success", "sound": "er-folg" },
+      { "word": "haben", "meaning": "have", "sound": "ha-ben" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Dabei", "meaning": "in doing so", "sound": "da-bai" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "oft", "meaning": "often", "sound": "oft" },
+      { "word": "vergessen", "meaning": "forgotten", "sound": "fer-ges-sen" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "den", "meaning": "the", "sound": "den" },
+      { "word": "Weg", "meaning": "path", "sound": "veg" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "genießen", "meaning": "enjoy", "sound": "ge-nie-sen" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mit", "meaning": "with", "sound": "mit" },
+      { "word": "der", "meaning": "the", "sound": "der" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "verstanden", "meaning": "understood", "sound": "fer-shtan-den" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "der", "meaning": "the", "sound": "der" },
+      { "word": "Weg", "meaning": "path", "sound": "veg" },
+      { "word": "genauso", "meaning": "just as", "sound": "ge-nau-zo" },
+      { "word": "wichtig", "meaning": "important", "sound": "vikh-tig" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "wie", "meaning": "as", "sound": "vee" },
+      { "word": "das", "meaning": "the", "sound": "das" },
+      { "word": "Ziel", "meaning": "goal", "sound": "tsiel" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Jeder", "meaning": "everyone", "sound": "ye-der" },
+      { "word": "Schritt", "meaning": "step", "sound": "shrit" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "auch", "meaning": "even", "sound": "aukh" },
+      { "word": "wenn", "meaning": "if", "sound": "ven" },
+      { "word": "er", "meaning": "he/it", "sound": "er" },
+      { "word": "schwierig", "meaning": "difficult", "sound": "shve-rig" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "bringt", "meaning": "brings", "sound": "bringt" },
+      { "word": "uns", "meaning": "us", "sound": "uns" },
+      { "word": "weiter", "meaning": "forward", "sound": "vai-ter" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Heute", "meaning": "today", "sound": "hoy-te" },
+      { "word": "versuche", "meaning": "try", "sound": "fer-zu-khe" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "bewusster", "meaning": "more consciously", "sound": "be-vus-ter" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "leben", "meaning": "live", "sound": "le-ben" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "möchte", "meaning": "would like", "sound": "mökh-te" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "nur", "meaning": "only", "sound": "nur" },
+      { "word": "ankommen", "meaning": "arrive", "sound": "an-kom-men" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "sondern", "meaning": "but rather", "sound": "zon-dern" },
+      { "word": "auch", "meaning": "also", "sound": "aukh" },
+      { "word": "den", "meaning": "the", "sound": "den" },
+      { "word": "Weg", "meaning": "path", "sound": "veg" },
+      { "word": "wirklich", "meaning": "truly", "sound": "virk-likh" },
+      { "word": "erleben", "meaning": "experience", "sound": "er-le-ben" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  "story14": {
+    "title": "Die Suche nach dem eigenen Weg",
+    "content": [
+      { "word": "Jeder", "meaning": "everyone", "sound": "ye-der" },
+      { "word": "Mensch", "meaning": "person", "sound": "men-sh" },
+      { "word": "stellt", "meaning": "asks", "sound": "shtelt" },
+      { "word": "sich", "meaning": "oneself", "sound": "zikh" },
+      { "word": "irgendwann", "meaning": "at some point", "sound": "ir-gend-van" },
+      { "word": "die", "meaning": "the", "sound": "dee" },
+      { "word": "Frage", "meaning": "question", "sound": "fra-ge" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "wer", "meaning": "who", "sound": "ver" },
+      { "word": "er", "meaning": "he", "sound": "er" },
+      { "word": "wirklich", "meaning": "really", "sound": "virk-likh" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Auch", "meaning": "also", "sound": "aukh" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "lange", "meaning": "long", "sound": "lan-ge" },
+      { "word": "nach", "meaning": "for", "sound": "nakh" },
+      { "word": "einer", "meaning": "a", "sound": "ai-ner" },
+      { "word": "Antwort", "meaning": "answer", "sound": "ant-vort" },
+      { "word": "gesucht", "meaning": "searched", "sound": "ge-zukht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Früher", "meaning": "earlier", "sound": "frü-er" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "oft", "meaning": "often", "sound": "oft" },
+      { "word": "an", "meaning": "to", "sound": "an" },
+      { "word": "anderen", "meaning": "others", "sound": "an-de-ren" },
+      { "word": "orientiert", "meaning": "oriented", "sound": "o-ri-en-tiert" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "dachte", "meaning": "thought", "sound": "dakh-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "so", "meaning": "like this", "sound": "zo" },
+      { "word": "sein", "meaning": "be", "sound": "zain" },
+      { "word": "muss", "meaning": "must", "sound": "mus" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "wie", "meaning": "like", "sound": "vee" },
+      { "word": "sie", "meaning": "they", "sound": "zee" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Doch", "meaning": "however", "sound": "dokh" },
+      { "word": "je", "meaning": "the more", "sound": "ye" },
+      { "word": "mehr", "meaning": "more", "sound": "mehr" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "darüber", "meaning": "about it", "sound": "da-rü-ber" },
+      { "word": "nachgedacht", "meaning": "thought", "sound": "nakh-ge-dakht" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "desto", "meaning": "the more", "sound": "des-to" },
+      { "word": "klarer", "meaning": "clearer", "sound": "kla-rer" },
+      { "word": "wurde", "meaning": "became", "sound": "vur-de" },
+      { "word": "mir", "meaning": "to me", "sound": "meer" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "jeder", "meaning": "everyone", "sound": "ye-der" },
+      { "word": "seinen", "meaning": "his/her", "sound": "zai-nen" },
+      { "word": "eigenen", "meaning": "own", "sound": "ai-ge-nen" },
+      { "word": "Weg", "meaning": "path", "sound": "veg" },
+      { "word": "finden", "meaning": "find", "sound": "fin-den" },
+      { "word": "muss", "meaning": "must", "sound": "mus" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Heute", "meaning": "today", "sound": "hoy-te" },
+      { "word": "versuche", "meaning": "try", "sound": "fer-zu-khe" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "ehrlich", "meaning": "honest", "sound": "ehr-likh" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "mir", "meaning": "myself", "sound": "meer" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "sein", "meaning": "be", "sound": "zain" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "höre", "meaning": "listen", "sound": "hö-re" },
+      { "word": "mehr", "meaning": "more", "sound": "mehr" },
+      { "word": "auf", "meaning": "to", "sound": "auf" },
+      { "word": "meine", "meaning": "my", "sound": "mai-ne" },
+      { "word": "innere", "meaning": "inner", "sound": "in-ne-re" },
+      { "word": "Stimme", "meaning": "voice", "sound": "shtim-me" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Auch", "meaning": "also", "sound": "aukh" },
+      { "word": "wenn", "meaning": "even if", "sound": "ven" },
+      { "word": "der", "meaning": "the", "sound": "der" },
+      { "word": "Weg", "meaning": "path", "sound": "veg" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "einfach", "meaning": "easy", "sound": "ain-fakh" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "weiß", "meaning": "know", "sound": "vais" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "er", "meaning": "it", "sound": "er" },
+      { "word": "mein", "meaning": "my", "sound": "main" },
+      { "word": "eigener", "meaning": "own", "sound": "ai-ge-ner" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+
+  "story15": {
+    "title": "Sich selbst akzeptieren",
+    "content": [
+      { "word": "Lange", "meaning": "for a long time", "sound": "lan-ge" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "versucht", "meaning": "tried", "sound": "fer-zukht" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "jemand", "meaning": "someone", "sound": "ye-mand" },
+      { "word": "anderes", "meaning": "else", "sound": "an-de-res" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "sein", "meaning": "be", "sound": "zain" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "dachte", "meaning": "thought", "sound": "dakh-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "dass", "meaning": "that", "sound": "dass" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "ändern", "meaning": "change", "sound": "en-dern" },
+      { "word": "muss", "meaning": "must", "sound": "mus" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "um", "meaning": "to", "sound": "um" },
+      { "word": "akzeptiert", "meaning": "accepted", "sound": "ak-tsep-tiert" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "werden", "meaning": "become", "sound": "ver-den" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Das", "meaning": "this", "sound": "das" },
+      { "word": "hat", "meaning": "has", "sound": "hat" },
+      { "word": "mich", "meaning": "me", "sound": "mikh" },
+      { "word": "erschöpft", "meaning": "exhausted", "sound": "er-shöpft" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "unglücklich", "meaning": "unhappy", "sound": "un-glück-likh" },
+      { "word": "gemacht", "meaning": "made", "sound": "ge-makht" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eines", "meaning": "one (day)", "sound": "ai-nes" },
+      { "word": "Tages", "meaning": "day", "sound": "ta-ges" },
+      { "word": "habe", "meaning": "have", "sound": "ha-be" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "etwas", "meaning": "something", "sound": "et-vas" },
+      { "word": "Wichtiges", "meaning": "important", "sound": "vikh-ti-ges" },
+      { "word": "verstanden", "meaning": "understood", "sound": "fer-shtan-den" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "muss", "meaning": "must", "sound": "mus" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "perfekt", "meaning": "perfect", "sound": "per-fekt" },
+      { "word": "sein", "meaning": "be", "sound": "zain" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "muss", "meaning": "must", "sound": "mus" },
+      { "word": "lernen", "meaning": "learn", "sound": "ler-nen" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "so", "meaning": "as", "sound": "zo" },
+      { "word": "zu", "meaning": "to", "sound": "tsu" },
+      { "word": "akzeptieren", "meaning": "accept", "sound": "ak-tsep-tie-ren" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "wie", "meaning": "as", "sound": "vee" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "bin", "meaning": "am", "sound": "bin" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Das", "meaning": "this", "sound": "das" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": "nicht", "meaning": "not", "sound": "nikht" },
+      { "word": "einfach", "meaning": "easy", "sound": "ain-fakh" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "aber", "meaning": "but", "sound": "a-ber" },
+      { "word": "es", "meaning": "it", "sound": "es" },
+      { "word": "ist", "meaning": "is", "sound": "ist" },
+      { "word": "notwendig", "meaning": "necessary", "sound": "not-ven-dig" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mit", "meaning": "with", "sound": "mit" },
+      { "word": "der", "meaning": "the", "sound": "der" },
+      { "word": "Zeit", "meaning": "time", "sound": "tsait" },
+      { "word": "fühle", "meaning": "feel", "sound": "fü-le" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "mich", "meaning": "myself", "sound": "mikh" },
+      { "word": "ruhiger", "meaning": "calmer", "sound": "ru-i-ger" },
+      { "word": "und", "meaning": "and", "sound": "und" },
+      { "word": "zufriedener", "meaning": "more satisfied", "sound": "tsu-frie-de-ner" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ich", "meaning": "I", "sound": "ikh" },
+      { "word": "werde", "meaning": "become", "sound": "ver-de" },
+      { "word": "die", "meaning": "the", "sound": "dee" },
+      { "word": "Person", "meaning": "person", "sound": "per-son" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "die", "meaning": "that", "sound": "dee" },
+      { "word": "ich", "meaning": "I", "sound": "ikh" },
+      { "word": "wirklich", "meaning": "truly", "sound": "virk-likh" },
+      { "word": "sein", "meaning": "be", "sound": "zain" },
+      { "word": "möchte", "meaning": "want", "sound": "mökh-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  }
+  },
+
+  "sentences": [
+
+    {
+      "id": 1,
+      "english": {
+        "present": "I wake up early every day",
+        "past": "I woke up early every day",
+        "future": "I will wake up early every day"
+      },
+      "german": {
+        "present": ["Ich", "stehe", "jeden", "Tag", "früh", "auf"],
+        "past": ["Ich", "bin", "jeden", "Tag", "früh", "aufgestanden"],
+        "future": ["Ich", "werde", "jeden", "Tag", "früh", "aufstehen"]
+      }
+    },
+
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "german": {
+        "present": ["Sie", "liest", "ein", "Buch"],
+        "past": ["Sie", "hat", "ein", "Buch", "gelesen"],
+        "future": ["Sie", "wird", "ein", "Buch", "lesen"]
+      }
+    },
+
+    {
+      "id": 3,
+      "english": {
+        "present": "We learn German every day",
+        "past": "We learned German every day",
+        "future": "We will learn German every day"
+      },
+      "german": {
+        "present": ["Wir", "lernen", "jeden", "Tag", "Deutsch"],
+        "past": ["Wir", "haben", "jeden", "Tag", "Deutsch", "gelernt"],
+        "future": ["Wir", "werden", "jeden", "Tag", "Deutsch", "lernen"]
+      }
+    },
+
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks coffee in the morning",
+        "past": "He drank coffee in the morning",
+        "future": "He will drink coffee in the morning"
+      },
+      "german": {
+        "present": ["Er", "trinkt", "am", "Morgen", "Kaffee"],
+        "past": ["Er", "hat", "am", "Morgen", "Kaffee", "getrunken"],
+        "future": ["Er", "wird", "am", "Morgen", "Kaffee", "trinken"]
+      }
+    },
+
+    {
+      "id": 5,
+      "english": {
+        "present": "I meet my friends",
+        "past": "I met my friends",
+        "future": "I will meet my friends"
+      },
+      "german": {
+        "present": ["Ich", "treffe", "meine", "Freunde"],
+        "past": ["Ich", "habe", "meine", "Freunde", "getroffen"],
+        "future": ["Ich", "werde", "meine", "Freunde", "treffen"]
+      }
+    },
+
+    {
+      "id": 6,
+      "english": {
+        "present": "They go to school",
+        "past": "They went to school",
+        "future": "They will go to school"
+      },
+      "german": {
+        "present": ["Sie", "gehen", "zur", "Schule"],
+        "past": ["Sie", "sind", "zur", "Schule", "gegangen"],
+        "future": ["Sie", "werden", "zur", "Schule", "gehen"]
+      }
+    },
+
+    {
+      "id": 7,
+      "english": {
+        "present": "I work in the city",
+        "past": "I worked in the city",
+        "future": "I will work in the city"
+      },
+      "german": {
+        "present": ["Ich", "arbeite", "in", "der", "Stadt"],
+        "past": ["Ich", "habe", "in", "der", "Stadt", "gearbeitet"],
+        "future": ["Ich", "werde", "in", "der", "Stadt", "arbeiten"]
+      }
+    },
+
+    {
+      "id": 8,
+      "english": {
+        "present": "She plays in the park",
+        "past": "She played in the park",
+        "future": "She will play in the park"
+      },
+      "german": {
+        "present": ["Sie", "spielt", "im", "Park"],
+        "past": ["Sie", "hat", "im", "Park", "gespielt"],
+        "future": ["Sie", "wird", "im", "Park", "spielen"]
+      }
+    },
+
+    {
+      "id": 9,
+      "english": {
+        "present": "We watch TV in the evening",
+        "past": "We watched TV in the evening",
+        "future": "We will watch TV in the evening"
+      },
+      "german": {
+        "present": ["Wir", "sehen", "am", "Abend", "fern"],
+        "past": ["Wir", "haben", "am", "Abend", "fern", "gesehen"],
+        "future": ["Wir", "werden", "am", "Abend", "fernsehen"]
+      }
+    },
+
+    {
+      "id": 10,
+      "english": {
+        "present": "He runs every day",
+        "past": "He ran every day",
+        "future": "He will run every day"
+      },
+      "german": {
+        "present": ["Er", "läuft", "jeden", "Tag"],
+        "past": ["Er", "ist", "jeden", "Tag", "gelaufen"],
+        "future": ["Er", "wird", "jeden", "Tag", "laufen"]
+      }
+    },
+
+    {
+      "id": 11,
+      "english": {
+        "present": "I want to learn German",
+        "past": "I wanted to learn German",
+        "future": "I will want to learn German"
+      },
+      "german": {
+        "present": ["Ich", "will", "Deutsch", "lernen"],
+        "past": ["Ich", "wollte", "Deutsch", "lernen"],
+        "future": ["Ich", "werde", "Deutsch", "lernen", "wollen"]
+      }
+    },
+
+    {
+      "id": 12,
+      "english": {
+        "present": "She can speak German",
+        "past": "She could speak German",
+        "future": "She will be able to speak German"
+      },
+      "german": {
+        "present": ["Sie", "kann", "Deutsch", "sprechen"],
+        "past": ["Sie", "konnte", "Deutsch", "sprechen"],
+        "future": ["Sie", "wird", "Deutsch", "sprechen", "können"]
+      }
+    },
+
+    {
+      "id": 13,
+      "english": {
+        "present": "We must study every day",
+        "past": "We had to study every day",
+        "future": "We will have to study every day"
+      },
+      "german": {
+        "present": ["Wir", "müssen", "jeden", "Tag", "lernen"],
+        "past": ["Wir", "mussten", "jeden", "Tag", "lernen"],
+        "future": ["Wir", "werden", "jeden", "Tag", "lernen", "müssen"]
+      }
+    },
+
+    {
+      "id": 14,
+      "english": {
+        "present": "I see my friend today",
+        "past": "I saw my friend today",
+        "future": "I will see my friend today"
+      },
+      "german": {
+        "present": ["Ich", "sehe", "heute", "meinen", "Freund"],
+        "past": ["Ich", "habe", "heute", "meinen", "Freund", "gesehen"],
+        "future": ["Ich", "werde", "heute", "meinen", "Freund", "sehen"]
+      }
+    },
+
+    {
+      "id": 15,
+      "english": {
+        "present": "He helps his friend",
+        "past": "He helped his friend",
+        "future": "He will help his friend"
+      },
+      "german": {
+        "present": ["Er", "hilft", "seinem", "Freund"],
+        "past": ["Er", "hat", "seinem", "Freund", "geholfen"],
+        "future": ["Er", "wird", "seinem", "Freund", "helfen"]
+      }
+    },
+
+    {
+      "id": 16,
+      "english": {
+        "present": "I feel happy today",
+        "past": "I felt happy today",
+        "future": "I will feel happy today"
+      },
+      "german": {
+        "present": ["Ich", "fühle", "mich", "heute", "glücklich"],
+        "past": ["Ich", "habe", "mich", "heute", "glücklich", "gefühlt"],
+        "future": ["Ich", "werde", "mich", "heute", "glücklich", "fühlen"]
+      }
+    },
+
+    {
+      "id": 17,
+      "english": {
+        "present": "They buy a new car",
+        "past": "They bought a new car",
+        "future": "They will buy a new car"
+      },
+      "german": {
+        "present": ["Sie", "kaufen", "ein", "neues", "Auto"],
+        "past": ["Sie", "haben", "ein", "neues", "Auto", "gekauft"],
+        "future": ["Sie", "werden", "ein", "neues", "Auto", "kaufen"]
+      }
+    },
+
+    {
+      "id": 18,
+      "english": {
+        "present": "We write a message",
+        "past": "We wrote a message",
+        "future": "We will write a message"
+      },
+      "german": {
+        "present": ["Wir", "schreiben", "eine", "Nachricht"],
+        "past": ["Wir", "haben", "eine", "Nachricht", "geschrieben"],
+        "future": ["Wir", "werden", "eine", "Nachricht", "schreiben"]
+      }
+    },
+
+    {
+      "id": 19,
+      "english": {
+        "present": "I think about my future",
+        "past": "I thought about my future",
+        "future": "I will think about my future"
+      },
+      "german": {
+        "present": ["Ich", "denke", "über", "meine", "Zukunft", "nach"],
+        "past": ["Ich", "habe", "über", "meine", "Zukunft", "nachgedacht"],
+        "future": ["Ich", "werde", "über", "meine", "Zukunft", "nachdenken"]
+      }
+    },
+
+    {
+      "id": 20,
+      "english": {
+        "present": "She learns quickly",
+        "past": "She learned quickly",
+        "future": "She will learn quickly"
+      },
+      "german": {
+        "present": ["Sie", "lernt", "schnell"],
+        "past": ["Sie", "hat", "schnell", "gelernt"],
+        "future": ["Sie", "wird", "schnell", "lernen"]
+      }
+    },
+
+    {
+      "id": 21,
+      "english": {
+        "present": "I am happy because I learn German",
+        "past": "I was happy because I learned German",
+        "future": "I will be happy because I learn German"
+      },
+      "german": {
+        "present": ["Ich", "bin", "glücklich", ",", "weil", "ich", "Deutsch", "lerne"],
+        "past": ["Ich", "war", "glücklich", ",", "weil", "ich", "Deutsch", "gelernt", "habe"],
+        "future": ["Ich", "werde", "glücklich", "sein", ",", "weil", "ich", "Deutsch", "lerne"]
+      }
+    },
+
+    {
+      "id": 22,
+      "english": {
+        "present": "She says that she likes the book",
+        "past": "She said that she liked the book",
+        "future": "She will say that she likes the book"
+      },
+      "german": {
+        "present": ["Sie", "sagt", ",", "dass", "sie", "das", "Buch", "mag"],
+        "past": ["Sie", "hat", "gesagt", ",", "dass", "sie", "das", "Buch", "mochte"],
+        "future": ["Sie", "wird", "sagen", ",", "dass", "sie", "das", "Buch", "mag"]
+      }
+    },
+
+    {
+      "id": 23,
+      "english": {
+        "present": "We stay at home because it is raining",
+        "past": "We stayed at home because it was raining",
+        "future": "We will stay at home because it is raining"
+      },
+      "german": {
+        "present": ["Wir", "bleiben", "zu", "Hause", ",", "weil", "es", "regnet"],
+        "past": ["Wir", "sind", "zu", "Hause", "geblieben", ",", "weil", "es", "geregnet", "hat"],
+        "future": ["Wir", "werden", "zu", "Hause", "bleiben", ",", "weil", "es", "regnet"]
+      }
+    },
+
+    {
+      "id": 24,
+      "english": {
+        "present": "I know that he works in the city",
+        "past": "I knew that he worked in the city",
+        "future": "I will know that he works in the city"
+      },
+      "german": {
+        "present": ["Ich", "weiß", ",", "dass", "er", "in", "der", "Stadt", "arbeitet"],
+        "past": ["Ich", "wusste", ",", "dass", "er", "in", "der", "Stadt", "arbeitete"],
+        "future": ["Ich", "werde", "wissen", ",", "dass", "er", "in", "der", "Stadt", "arbeitet"]
+      }
+    },
+
+    {
+      "id": 25,
+      "english": {
+        "present": "They think that learning is important",
+        "past": "They thought that learning was important",
+        "future": "They will think that learning is important"
+      },
+      "german": {
+        "present": ["Sie", "denken", ",", "dass", "Lernen", "wichtig", "ist"],
+        "past": ["Sie", "dachten", ",", "dass", "Lernen", "wichtig", "war"],
+        "future": ["Sie", "werden", "denken", ",", "dass", "Lernen", "wichtig", "ist"]
+      }
+    },
+
+    {
+      "id": 26,
+      "english": {
+        "present": "I go to sleep early because I am tired",
+        "past": "I went to sleep early because I was tired",
+        "future": "I will go to sleep early because I am tired"
+      },
+      "german": {
+        "present": ["Ich", "gehe", "früh", "schlafen", ",", "weil", "ich", "müde", "bin"],
+        "past": ["Ich", "bin", "früh", "schlafen", "gegangen", ",", "weil", "ich", "müde", "war"],
+        "future": ["Ich", "werde", "früh", "schlafen", "gehen", ",", "weil", "ich", "müde", "bin"]
+      }
+    },
+
+    {
+      "id": 27,
+      "english": {
+        "present": "She believes that she can do it",
+        "past": "She believed that she could do it",
+        "future": "She will believe that she can do it"
+      },
+      "german": {
+        "present": ["Sie", "glaubt", ",", "dass", "sie", "es", "schaffen", "kann"],
+        "past": ["Sie", "glaubte", ",", "dass", "sie", "es", "schaffen", "konnte"],
+        "future": ["Sie", "wird", "glauben", ",", "dass", "sie", "es", "schaffen", "kann"]
+      }
+    },
+
+    {
+      "id": 28,
+      "english": {
+        "present": "We learn a lot because we practice every day",
+        "past": "We learned a lot because we practiced every day",
+        "future": "We will learn a lot because we practice every day"
+      },
+      "german": {
+        "present": ["Wir", "lernen", "viel", ",", "weil", "wir", "jeden", "Tag", "üben"],
+        "past": ["Wir", "haben", "viel", "gelernt", ",", "weil", "wir", "jeden", "Tag", "geübt", "haben"],
+        "future": ["Wir", "werden", "viel", "lernen", ",", "weil", "wir", "jeden", "Tag", "üben"]
+      }
+    },
+
+    {
+      "id": 29,
+      "english": {
+        "present": "I understand that this is important",
+        "past": "I understood that this was important",
+        "future": "I will understand that this is important"
+      },
+      "german": {
+        "present": ["Ich", "verstehe", ",", "dass", "das", "wichtig", "ist"],
+        "past": ["Ich", "habe", "verstanden", ",", "dass", "das", "wichtig", "war"],
+        "future": ["Ich", "werde", "verstehen", ",", "dass", "das", "wichtig", "ist"]
+      }
+    },
+
+    {
+      "id": 30,
+      "english": {
+        "present": "He says that he feels better today",
+        "past": "He said that he felt better today",
+        "future": "He will say that he feels better today"
+      },
+      "german": {
+        "present": ["Er", "sagt", ",", "dass", "er", "sich", "heute", "besser", "fühlt"],
+        "past": ["Er", "hat", "gesagt", ",", "dass", "er", "sich", "heute", "besser", "gefühlt", "hat"],
+        "future": ["Er", "wird", "sagen", ",", "dass", "er", "sich", "heute", "besser", "fühlt"]
+      }
+    },
+
+    {
+      "id": 31,
+      "english": {
+        "present": "I try to learn German every day",
+        "past": "I tried to learn German every day",
+        "future": "I will try to learn German every day"
+      },
+      "german": {
+        "present": ["Ich", "versuche", ",", "jeden", "Tag", "Deutsch", "zu", "lernen"],
+        "past": ["Ich", "habe", "versucht", ",", "jeden", "Tag", "Deutsch", "zu", "lernen"],
+        "future": ["Ich", "werde", "versuchen", ",", "jeden", "Tag", "Deutsch", "zu", "lernen"]
+      }
+    },
+
+    {
+      "id": 32,
+      "english": {
+        "present": "She wants to travel to learn new things",
+        "past": "She wanted to travel to learn new things",
+        "future": "She will want to travel to learn new things"
+      },
+      "german": {
+        "present": ["Sie", "will", "reisen", ",", "um", "neue", "Dinge", "zu", "lernen"],
+        "past": ["Sie", "wollte", "reisen", ",", "um", "neue", "Dinge", "zu", "lernen"],
+        "future": ["Sie", "wird", "reisen", "wollen", ",", "um", "neue", "Dinge", "zu", "lernen"]
+      }
+    },
+
+    {
+      "id": 33,
+      "english": {
+        "present": "We plan to study together",
+        "past": "We planned to study together",
+        "future": "We will plan to study together"
+      },
+      "german": {
+        "present": ["Wir", "planen", ",", "zusammen", "zu", "lernen"],
+        "past": ["Wir", "haben", "geplant", ",", "zusammen", "zu", "lernen"],
+        "future": ["Wir", "werden", "planen", ",", "zusammen", "zu", "lernen"]
+      }
+    },
+
+    {
+      "id": 34,
+      "english": {
+        "present": "I start to understand the language",
+        "past": "I started to understand the language",
+        "future": "I will start to understand the language"
+      },
+      "german": {
+        "present": ["Ich", "beginne", ",", "die", "Sprache", "zu", "verstehen"],
+        "past": ["Ich", "habe", "begonnen", ",", "die", "Sprache", "zu", "verstehen"],
+        "future": ["Ich", "werde", "beginnen", ",", "die", "Sprache", "zu", "verstehen"]
+      }
+    },
+
+    {
+      "id": 35,
+      "english": {
+        "present": "He decides to change his life",
+        "past": "He decided to change his life",
+        "future": "He will decide to change his life"
+      },
+      "german": {
+        "present": ["Er", "entscheidet", "sich", ",", "sein", "Leben", "zu", "ändern"],
+        "past": ["Er", "hat", "sich", "entschieden", ",", "sein", "Leben", "zu", "ändern"],
+        "future": ["Er", "wird", "sich", "entscheiden", ",", "sein", "Leben", "zu", "ändern"]
+      }
+    },
+
+    {
+      "id": 36,
+      "english": {
+        "present": "They try to solve the problem",
+        "past": "They tried to solve the problem",
+        "future": "They will try to solve the problem"
+      },
+      "german": {
+        "present": ["Sie", "versuchen", ",", "das", "Problem", "zu", "lösen"],
+        "past": ["Sie", "haben", "versucht", ",", "das", "Problem", "zu", "lösen"],
+        "future": ["Sie", "werden", "versuchen", ",", "das", "Problem", "zu", "lösen"]
+      }
+    },
+
+    {
+      "id": 37,
+      "english": {
+        "present": "I hope to achieve my goal",
+        "past": "I hoped to achieve my goal",
+        "future": "I will hope to achieve my goal"
+      },
+      "german": {
+        "present": ["Ich", "hoffe", ",", "mein", "Ziel", "zu", "erreichen"],
+        "past": ["Ich", "habe", "gehofft", ",", "mein", "Ziel", "zu", "erreichen"],
+        "future": ["Ich", "werde", "hoffen", ",", "mein", "Ziel", "zu", "erreichen"]
+      }
+    },
+
+    {
+      "id": 38,
+      "english": {
+        "present": "She learns to speak confidently",
+        "past": "She learned to speak confidently",
+        "future": "She will learn to speak confidently"
+      },
+      "german": {
+        "present": ["Sie", "lernt", ",", "selbstbewusst", "zu", "sprechen"],
+        "past": ["Sie", "hat", "gelernt", ",", "selbstbewusst", "zu", "sprechen"],
+        "future": ["Sie", "wird", "lernen", ",", "selbstbewusst", "zu", "sprechen"]
+      }
+    },
+
+    {
+      "id": 39,
+      "english": {
+        "present": "We begin to understand each other",
+        "past": "We began to understand each other",
+        "future": "We will begin to understand each other"
+      },
+      "german": {
+        "present": ["Wir", "beginnen", ",", "uns", "zu", "verstehen"],
+        "past": ["Wir", "haben", "begonnen", ",", "uns", "zu", "verstehen"],
+        "future": ["Wir", "werden", "beginnen", ",", "uns", "zu", "verstehen"]
+      }
+    },
+
+    {
+      "id": 40,
+      "english": {
+        "present": "He tries to improve himself",
+        "past": "He tried to improve himself",
+        "future": "He will try to improve himself"
+      },
+      "german": {
+        "present": ["Er", "versucht", ",", "sich", "zu", "verbessern"],
+        "past": ["Er", "hat", "versucht", ",", "sich", "zu", "verbessern"],
+        "future": ["Er", "wird", "versuchen", ",", "sich", "zu", "verbessern"]
+      }
+    },
+
+    {
+      "id": 41,
+      "english": {
+        "present": "I think that learning a new language is very useful",
+        "past": "I thought that learning a new language was very useful",
+        "future": "I will think that learning a new language is very useful"
+      },
+      "german": {
+        "present": ["Ich", "denke", ",", "dass", "das", "Lernen", "einer", "neuen", "Sprache", "sehr", "nützlich", "ist"],
+        "past": ["Ich", "dachte", ",", "dass", "das", "Lernen", "einer", "neuen", "Sprache", "sehr", "nützlich", "war"],
+        "future": ["Ich", "werde", "denken", ",", "dass", "das", "Lernen", "einer", "neuen", "Sprache", "sehr", "nützlich", "ist"]
+      }
+    },
+
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to travel because she loves discovering new places",
+        "past": "She wanted to travel because she loved discovering new places",
+        "future": "She will want to travel because she loves discovering new places"
+      },
+      "german": {
+        "present": ["Sie", "will", "reisen", ",", "weil", "sie", "es", "liebt", ",", "neue", "Orte", "zu", "entdecken"],
+        "past": ["Sie", "wollte", "reisen", ",", "weil", "sie", "es", "liebte", ",", "neue", "Orte", "zu", "entdecken"],
+        "future": ["Sie", "wird", "reisen", "wollen", ",", "weil", "sie", "es", "liebt", ",", "neue", "Orte", "zu", "entdecken"]
+      }
+    },
+
+    {
+      "id": 43,
+      "english": {
+        "present": "We study every day so that we can succeed in the future",
+        "past": "We studied every day so that we could succeed in the future",
+        "future": "We will study every day so that we can succeed in the future"
+      },
+      "german": {
+        "present": ["Wir", "lernen", "jeden", "Tag", ",", "damit", "wir", "in", "der", "Zukunft", "erfolgreich", "sein", "können"],
+        "past": ["Wir", "haben", "jeden", "Tag", "gelernt", ",", "damit", "wir", "in", "der", "Zukunft", "erfolgreich", "sein", "konnten"],
+        "future": ["Wir", "werden", "jeden", "Tag", "lernen", ",", "damit", "wir", "in", "der", "Zukunft", "erfolgreich", "sein", "können"]
+      }
+    },
+
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard even if he feels tired",
+        "past": "He worked hard even if he felt tired",
+        "future": "He will work hard even if he feels tired"
+      },
+      "german": {
+        "present": ["Er", "arbeitet", "hart", ",", "obwohl", "er", "sich", "müde", "fühlt"],
+        "past": ["Er", "hat", "hart", "gearbeitet", ",", "obwohl", "er", "sich", "müde", "fühlte"],
+        "future": ["Er", "wird", "hart", "arbeiten", ",", "obwohl", "er", "sich", "müde", "fühlt"]
+      }
+    },
+
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that practice helps them improve quickly",
+        "past": "They believed that practice helped them improve quickly",
+        "future": "They will believe that practice helps them improve quickly"
+      },
+      "german": {
+        "present": ["Sie", "glauben", ",", "dass", "Übung", "ihnen", "hilft", ",", "sich", "schnell", "zu", "verbessern"],
+        "past": ["Sie", "glaubten", ",", "dass", "Übung", "ihnen", "half", ",", "sich", "schnell", "zu", "verbessern"],
+        "future": ["Sie", "werden", "glauben", ",", "dass", "Übung", "ihnen", "hilft", ",", "sich", "schnell", "zu", "verbessern"]
+      }
+    },
+
+    {
+      "id": 46,
+      "english": {
+        "present": "I try to stay calm when I face difficulties",
+        "past": "I tried to stay calm when I faced difficulties",
+        "future": "I will try to stay calm when I face difficulties"
+      },
+      "german": {
+        "present": ["Ich", "versuche", ",", "ruhig", "zu", "bleiben", ",", "wenn", "ich", "auf", "Schwierigkeiten", "stoße"],
+        "past": ["Ich", "habe", "versucht", ",", "ruhig", "zu", "bleiben", ",", "wenn", "ich", "auf", "Schwierigkeiten", "gestoßen", "bin"],
+        "future": ["Ich", "werde", "versuchen", ",", "ruhig", "zu", "bleiben", ",", "wenn", "ich", "auf", "Schwierigkeiten", "stoße"]
+      }
+    },
+
+    {
+      "id": 47,
+      "english": {
+        "present": "She feels proud because she has achieved her goals",
+        "past": "She felt proud because she had achieved her goals",
+        "future": "She will feel proud because she has achieved her goals"
+      },
+      "german": {
+        "present": ["Sie", "fühlt", "sich", "stolz", ",", "weil", "sie", "ihre", "Ziele", "erreicht", "hat"],
+        "past": ["Sie", "fühlte", "sich", "stolz", ",", "weil", "sie", "ihre", "Ziele", "erreicht", "hatte"],
+        "future": ["Sie", "wird", "sich", "stolz", "fühlen", ",", "weil", "sie", "ihre", "Ziele", "erreicht", "hat"]
+      }
+    },
+
+    {
+      "id": 48,
+      "english": {
+        "present": "We understand that success takes time and effort",
+        "past": "We understood that success took time and effort",
+        "future": "We will understand that success takes time and effort"
+      },
+      "german": {
+        "present": ["Wir", "verstehen", ",", "dass", "Erfolg", "Zeit", "und", "Mühe", "kostet"],
+        "past": ["Wir", "haben", "verstanden", ",", "dass", "Erfolg", "Zeit", "und", "Mühe", "kostete"],
+        "future": ["Wir", "werden", "verstehen", ",", "dass", "Erfolg", "Zeit", "und", "Mühe", "kostet"]
+      }
+    },
+
+    {
+      "id": 49,
+      "english": {
+        "present": "He wants to improve himself so that he can achieve his dreams",
+        "past": "He wanted to improve himself so that he could achieve his dreams",
+        "future": "He will want to improve himself so that he can achieve his dreams"
+      },
+      "german": {
+        "present": ["Er", "will", "sich", "verbessern", ",", "damit", "er", "seine", "Träume", "erreichen", "kann"],
+        "past": ["Er", "wollte", "sich", "verbessern", ",", "damit", "er", "seine", "Träume", "erreichen", "konnte"],
+        "future": ["Er", "wird", "sich", "verbessern", "wollen", ",", "damit", "er", "seine", "Träume", "erreichen", "kann"]
+      }
+    },
+
+    {
+      "id": 50,
+      "english": {
+        "present": "They feel confident because they work hard every day",
+        "past": "They felt confident because they worked hard every day",
+        "future": "They will feel confident because they work hard every day"
+      },
+      "german": {
+        "present": ["Sie", "fühlen", "sich", "selbstbewusst", ",", "weil", "sie", "jeden", "Tag", "hart", "arbeiten"],
+        "past": ["Sie", "fühlten", "sich", "selbstbewusst", ",", "weil", "sie", "jeden", "Tag", "hart", "arbeiteten"],
+        "future": ["Sie", "werden", "sich", "selbstbewusst", "fühlen", ",", "weil", "sie", "jeden", "Tag", "hart", "arbeiten"]
+      }
+    }
+
+  ]
+}

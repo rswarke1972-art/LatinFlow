@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Select Language | IndieFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <!-- TOP BAR -->
+  <div class="topbar">
+    <button class="back-btn" onclick="goBack()">⬅ Back</button>
+    <h2>Select Language</h2>
+  </div>
+
+  <h1>🌍 Choose Your Language</h1>
+
+  <div class="lang-grid">
+
+    <button onclick="selectLang('spanish')">🇪🇸 Spanish</button>
+
+    <button onclick="selectLang('french')">🇫🇷 French</button>
+
+    <button onclick="selectLang('german')">🇩🇪 German</button>
+
+    <button onclick="selectLang('italian')">🇮🇹 Italian</button>
+
+    <button onclick="selectLang('portuguese')">🇧🇷 Portuguese</button>
+
+    <button onclick="selectLang('indonesian')">🇮🇩 Indonesian</button>
+
+  </div>
+
+</div>
+
+<script src="config.js"></script>
+<script src="language.js"></script>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
+</body>
+</html>

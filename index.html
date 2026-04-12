@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IndieFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="flag-bg"></div>
+<div class="overlay"></div>
+
+  <div class="container">
+
+    <!-- TITLE -->
+    <h1>LatinFlow 🌍</h1>
+
+    <!-- CURRENT LANGUAGE -->
+    <p id="currentLang" class="current-lang">🌐 Loading...</p>
+
+    <!-- SELECT LANGUAGE -->
+    <button class="menu-btn" onclick="goTo('language.html')">
+      🌍 Select Language
+    </button>
+
+    <!-- MAIN FEATURES -->
+    <div class="level-buttons">
+
+      <button onclick="goTo('stories.html')">
+        📖 Story Mode
+      </button>
+
+      <button onclick="goTo('quiz.html')">
+        🧪 Quiz Mode
+      </button>
+
+      <button onclick="goTo('sentence.html')">
+        ✍️ Complete Sentence
+      </button>
+
+      <button onclick="goTo('contact.html')">
+        📩 Contact
+      </button>
+
+    </div>
+
+  </div>
+
+  <!-- IMPORTANT -->
+ <script src="config.js"></script>
+<script src="script.js"></script>
+
+  <script>
+    // ===== INIT =====
+    async function init() {
+
+      const data = await loadLanguageData();
+
+      const langName = data.language || currentLanguage || "Language";
+
+      document.getElementById("currentLang").innerText =
+        "🌐 " + capitalize(langName);
+    }
+
+    init();
+
+    // ===== NAVIGATION =====
+    function goTo(path) {
+  window.location.href = path;
+}
+
+    function capitalize(str) {
+      return str.charAt(0).toUpperCase() + str.slice(1);
+    }
+  </script>
+
+</body>
+</html>

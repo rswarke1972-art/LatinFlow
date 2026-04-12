@@ -1,0 +1,2000 @@
+{
+    "language": "Portuguese",
+    "stories": {
+  "story1": {
+    "title": "Um Dia Simples",
+    "content": [
+      { "word": "Todos", "meaning": "every", "sound": "to-dos" },
+      { "word": "os", "meaning": "the", "sound": "os" },
+      { "word": "dias", "meaning": "days", "sound": "di-as" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "acordo", "meaning": "wake up", "sound": "a-cor-do" },
+      { "word": "de", "meaning": "", "sound": "de" },
+      { "word": "manhã", "meaning": "morning", "sound": "ma-nhã" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "bebo", "meaning": "drink", "sound": "be-bo" },
+      { "word": "água", "meaning": "water", "sound": "a-gua" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "tomo", "meaning": "have/take", "sound": "to-mo" },
+      { "word": "café", "meaning": "coffee", "sound": "ca-fé" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Depois", "meaning": "then", "sound": "de-pois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "vou", "meaning": "go", "sound": "vou" },
+      { "word": "para", "meaning": "to", "sound": "pa-ra" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "escola", "meaning": "school", "sound": "es-co-la" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Na", "meaning": "in the", "sound": "na" },
+      { "word": "escola", "meaning": "school", "sound": "es-co-la" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "estudo", "meaning": "study", "sound": "es-tu-do" },
+      { "word": "português", "meaning": "Portuguese", "sound": "por-tu-guês" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "gosto", "meaning": "like", "sound": "gos-to" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "aprender", "meaning": "learn", "sound": "a-pren-der" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "À", "meaning": "in the", "sound": "à" },
+      { "word": "noite", "meaning": "night", "sound": "noi-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "descanso", "meaning": "rest", "sound": "des-can-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "É", "meaning": "is", "sound": "é" },
+      { "word": "um", "meaning": "a", "sound": "um" },
+      { "word": "dia", "meaning": "day", "sound": "di-a" },
+      { "word": "bom", "meaning": "good", "sound": "bom" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story2": {
+    "title": "Um Dia na Escola",
+    "content": [
+      { "word": "Hoje", "meaning": "today", "sound": "o-je" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "vou", "meaning": "go", "sound": "vou" },
+      { "word": "para", "meaning": "to", "sound": "pa-ra" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "escola", "meaning": "school", "sound": "es-co-la" },
+      { "word": "cedo", "meaning": "early", "sound": "se-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "encontro", "meaning": "meet", "sound": "en-con-tro" },
+      { "word": "meus", "meaning": "my", "sound": "meus" },
+      { "word": "amigos", "meaning": "friends", "sound": "a-mi-gos" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Nós", "meaning": "we", "sound": "nós" },
+      { "word": "conversamos", "meaning": "talk", "sound": "kon-ver-sa-mos" },
+      { "word": "juntos", "meaning": "together", "sound": "jun-tos" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Na", "meaning": "in the", "sound": "na" },
+      { "word": "classe", "meaning": "class", "sound": "clas-se" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "professor", "meaning": "teacher", "sound": "pro-fe-sor" },
+      { "word": "explica", "meaning": "explains", "sound": "ex-pli-ca" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "lição", "meaning": "lesson", "sound": "li-ção" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "escuto", "meaning": "listen", "sound": "es-cu-to" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "entendo", "meaning": "understand", "sound": "en-ten-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Depois", "meaning": "after", "sound": "de-pois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "como", "meaning": "eat", "sound": "co-mo" },
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "meus", "meaning": "my", "sound": "meus" },
+      { "word": "amigos", "meaning": "friends", "sound": "a-mi-gos" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Nós", "meaning": "we", "sound": "nós" },
+      { "word": "estamos", "meaning": "are", "sound": "es-ta-mos" },
+      { "word": "felizes", "meaning": "happy", "sound": "fe-li-zes" },
+      { "word": "hoje", "meaning": "today", "sound": "o-je" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story3": {
+    "title": "Um Dia Feliz",
+    "content": [
+      { "word": "Hoje", "meaning": "today", "sound": "o-je" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sinto", "meaning": "feel", "sound": "sin-to" },
+      { "word": "muito", "meaning": "very", "sound": "mui-to" },
+      { "word": "feliz", "meaning": "happy", "sound": "fe-liz" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "O", "meaning": "the", "sound": "o" },
+      { "word": "dia", "meaning": "day", "sound": "di-a" },
+      { "word": "está", "meaning": "is", "sound": "es-tá" },
+      { "word": "bonito", "meaning": "beautiful", "sound": "bo-ni-to" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "caminho", "meaning": "walk", "sound": "ca-mi-nho" },
+      { "word": "no", "meaning": "in the", "sound": "no" },
+      { "word": "parque", "meaning": "park", "sound": "par-que" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "vejo", "meaning": "see", "sound": "ve-jo" },
+      { "word": "pessoas", "meaning": "people", "sound": "pe-so-as" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "sorrio", "meaning": "smile", "sound": "so-rri-o" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Depois", "meaning": "after", "sound": "de-pois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "vou", "meaning": "go", "sound": "vou" },
+      { "word": "para", "meaning": "to", "sound": "pa-ra" },
+      { "word": "casa", "meaning": "home", "sound": "ca-sa" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "ouço", "meaning": "listen", "sound": "ou-so" },
+      { "word": "música", "meaning": "music", "sound": "mú-si-ca" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "relaxo", "meaning": "relax", "sound": "re-la-xo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "penso", "meaning": "think", "sound": "pen-so" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "vida", "meaning": "life", "sound": "vi-da" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "boa", "meaning": "good", "sound": "bo-a" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story4": {
+    "title": "Um Dia Diferente",
+    "content": [
+      { "word": "Ontem", "meaning": "yesterday", "sound": "on-tem" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tive", "meaning": "had", "sound": "ti-ve" },
+      { "word": "um", "meaning": "a", "sound": "um" },
+      { "word": "dia", "meaning": "day", "sound": "di-a" },
+      { "word": "diferente", "meaning": "different", "sound": "di-fe-ren-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "acordei", "meaning": "woke up", "sound": "a-cor-dei" },
+      { "word": "cedo", "meaning": "early", "sound": "se-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Depois", "meaning": "then", "sound": "de-pois" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "fui", "meaning": "went", "sound": "fui" },
+      { "word": "ao", "meaning": "to the", "sound": "ao" },
+      { "word": "parque", "meaning": "park", "sound": "par-que" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "encontrei", "meaning": "met", "sound": "en-con-trei" },
+      { "word": "um", "meaning": "a", "sound": "um" },
+      { "word": "amigo", "meaning": "friend", "sound": "a-mi-go" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Nós", "meaning": "we", "sound": "nós" },
+      { "word": "conversamos", "meaning": "talked", "sound": "kon-ver-sa-mos" },
+      { "word": "por", "meaning": "for", "sound": "por" },
+      { "word": "muito", "meaning": "a long", "sound": "mui-to" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Foi", "meaning": "it was", "sound": "foi" },
+      { "word": "um", "meaning": "a", "sound": "um" },
+      { "word": "momento", "meaning": "moment", "sound": "mo-men-to" },
+      { "word": "especial", "meaning": "special", "sound": "es-pe-ci-al" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mais", "meaning": "later", "sound": "mais" },
+      { "word": "tarde", "meaning": "later", "sound": "tar-de" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "voltei", "meaning": "returned", "sound": "vol-tei" },
+      { "word": "para", "meaning": "to", "sound": "pa-ra" },
+      { "word": "casa", "meaning": "home", "sound": "ca-sa" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "senti", "meaning": "felt", "sound": "sen-ti" },
+      { "word": "muito", "meaning": "very", "sound": "mui-to" },
+      { "word": "feliz", "meaning": "happy", "sound": "fe-liz" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story5": {
+    "title": "Uma Pequena Lição",
+    "content": [
+      { "word": "Ontem", "meaning": "yesterday", "sound": "on-tem" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tive", "meaning": "had", "sound": "ti-ve" },
+      { "word": "um", "meaning": "a", "sound": "um" },
+      { "word": "problema", "meaning": "problem", "sound": "pro-ble-ma" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "entendi", "meaning": "understood", "sound": "en-ten-di" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "lição", "meaning": "lesson", "sound": "li-ção" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "No", "meaning": "in the", "sound": "no" },
+      { "word": "início", "meaning": "beginning", "sound": "i-ní-cio" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "senti", "meaning": "felt", "sound": "sen-ti" },
+      { "word": "frustrado", "meaning": "frustrated", "sound": "frus-tra-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mas", "meaning": "but", "sound": "mas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "decidi", "meaning": "decided", "sound": "de-ci-di" },
+      { "word": "continuar", "meaning": "continue", "sound": "kon-ti-nu-ar" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "estudei", "meaning": "studied", "sound": "es-tu-dei" },
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pouco", "meaning": "little", "sound": "pou-co" },
+      { "word": "a", "meaning": "by", "sound": "a" },
+      { "word": "pouco", "meaning": "little", "sound": "pou-co" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "comecei", "meaning": "started", "sound": "co-me-sei" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "entender", "meaning": "understand", "sound": "en-ten-der" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "No", "meaning": "in the", "sound": "no" },
+      { "word": "final", "meaning": "end", "sound": "fi-nal" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "fiquei", "meaning": "became/felt", "sound": "fi-quei" },
+      { "word": "feliz", "meaning": "happy", "sound": "fe-liz" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "aprendi", "meaning": "learned", "sound": "a-pren-di" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "devo", "meaning": "must", "sound": "de-vo" },
+      { "word": "desistir", "meaning": "give up", "sound": "de-sis-tir" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story6": {
+    "title": "Aprender com Paciência",
+    "content": [
+      { "word": "Aprender", "meaning": "to learn", "sound": "a-pren-der" },
+      { "word": "uma", "meaning": "a", "sound": "u-ma" },
+      { "word": "língua", "meaning": "language", "sound": "lín-gua" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "fácil", "meaning": "easy", "sound": "fá-cil" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "No", "meaning": "in the", "sound": "no" },
+      { "word": "início", "meaning": "beginning", "sound": "i-ní-cio" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "existem", "meaning": "there are", "sound": "exis-tem" },
+      { "word": "muitas", "meaning": "many", "sound": "mui-tas" },
+      { "word": "dificuldades", "meaning": "difficulties", "sound": "di-fi-cul-da-des" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "cometia", "meaning": "used to make", "sound": "co-me-ti-a" },
+      { "word": "muitos", "meaning": "many", "sound": "mui-tos" },
+      { "word": "erros", "meaning": "mistakes", "sound": "er-ros" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Às", "meaning": "at the", "sound": "às" },
+      { "word": "vezes", "meaning": "times", "sound": "ve-zes" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sentia", "meaning": "felt", "sound": "sen-ti-a" },
+      { "word": "confuso", "meaning": "confused", "sound": "con-fu-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mas", "meaning": "but", "sound": "mas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "nunca", "meaning": "never", "sound": "nun-ca" },
+      { "word": "parei", "meaning": "stopped", "sound": "pa-rei" },
+      { "word": "de", "meaning": "to", "sound": "de" },
+      { "word": "estudar", "meaning": "study", "sound": "es-tu-dar" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pouco", "meaning": "little", "sound": "pou-co" },
+      { "word": "a", "meaning": "by", "sound": "a" },
+      { "word": "pouco", "meaning": "little", "sound": "pou-co" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "comecei", "meaning": "started", "sound": "co-me-sei" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "entender", "meaning": "understand", "sound": "en-ten-der" },
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Agora", "meaning": "now", "sound": "a-go-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "sei", "meaning": "know", "sound": "sei" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "paciência", "meaning": "patience", "sound": "pa-ci-ên-cia" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "muito", "meaning": "very", "sound": "mui-to" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story7": {
+    "title": "O Valor do Tempo",
+    "content": [
+      { "word": "Com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "aprendi", "meaning": "learned", "sound": "a-pren-di" },
+      { "word": "muitas", "meaning": "many", "sound": "mui-tas" },
+      { "word": "coisas", "meaning": "things", "sound": "coi-sas" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "No", "meaning": "in the", "sound": "no" },
+      { "word": "início", "meaning": "beginning", "sound": "i-ní-cio" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "pensava", "meaning": "thought", "sound": "pen-sa-va" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "tudo", "meaning": "everything", "sound": "tu-do" },
+      { "word": "precisava", "meaning": "needed", "sound": "pre-ci-sa-va" },
+      { "word": "acontecer", "meaning": "happen", "sound": "a-con-te-cer" },
+      { "word": "rápido", "meaning": "fast", "sound": "rá-pi-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "queria", "meaning": "wanted", "sound": "que-ri-a" },
+      { "word": "resultados", "meaning": "results", "sound": "re-sul-ta-dos" },
+      { "word": "imediatos", "meaning": "immediate", "sound": "i-me-di-a-tos" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mas", "meaning": "but", "sound": "mas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "experiência", "meaning": "experience", "sound": "ex-pe-ri-ên-cia" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "percebi", "meaning": "realized", "sound": "per-ce-bi" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "as", "meaning": "the", "sound": "as" },
+      { "word": "coisas", "meaning": "things", "sound": "coi-sas" },
+      { "word": "importantes", "meaning": "important", "sound": "im-por-tan-tes" },
+      { "word": "precisam", "meaning": "need", "sound": "pre-ci-sam" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Às", "meaning": "at the", "sound": "às" },
+      { "word": "vezes", "meaning": "times", "sound": "ve-zes" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "era", "meaning": "was", "sound": "e-ra" },
+      { "word": "impaciente", "meaning": "impatient", "sound": "im-pa-ci-en-te" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mas", "meaning": "but", "sound": "mas" },
+      { "word": "agora", "meaning": "now", "sound": "a-go-ra" },
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tento", "meaning": "try", "sound": "ten-to" },
+      { "word": "ser", "meaning": "be", "sound": "ser" },
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": "calmo", "meaning": "calm", "sound": "cal-mo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "sei", "meaning": "know", "sound": "sei" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "passo", "meaning": "step", "sound": "pas-so" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story8": {
+    "title": "O Poder dos Hábitos",
+    "content": [
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "acredito", "meaning": "believe", "sound": "a-cre-di-to" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "pequenos", "meaning": "small", "sound": "pe-que-nos" },
+      { "word": "hábitos", "meaning": "habits", "sound": "há-bi-tos" },
+      { "word": "podem", "meaning": "can", "sound": "po-dem" },
+      { "word": "mudar", "meaning": "change", "sound": "mu-dar" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "vida", "meaning": "life", "sound": "vi-da" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Todos", "meaning": "every", "sound": "to-dos" },
+      { "word": "os", "meaning": "the", "sound": "os" },
+      { "word": "dias", "meaning": "days", "sound": "di-as" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tento", "meaning": "try", "sound": "ten-to" },
+      { "word": "fazer", "meaning": "do", "sound": "fa-zer" },
+      { "word": "algo", "meaning": "something", "sound": "al-go" },
+      { "word": "útil", "meaning": "useful", "sound": "ú-til" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "No", "meaning": "in the", "sound": "no" },
+      { "word": "início", "meaning": "beginning", "sound": "i-ní-cio" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "era", "meaning": "it was", "sound": "e-ra" },
+      { "word": "difícil", "meaning": "difficult", "sound": "di-fí-cil" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Às", "meaning": "at the", "sound": "às" },
+      { "word": "vezes", "meaning": "times", "sound": "ve-zes" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "queria", "meaning": "wanted", "sound": "que-ri-a" },
+      { "word": "desistir", "meaning": "give up", "sound": "de-sis-tir" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mas", "meaning": "but", "sound": "mas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "continuei", "meaning": "continued", "sound": "con-ti-nu-ei" },
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "paciência", "meaning": "patience", "sound": "pa-ci-ên-cia" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Pouco", "meaning": "little", "sound": "pou-co" },
+      { "word": "a", "meaning": "by", "sound": "a" },
+      { "word": "pouco", "meaning": "little", "sound": "pou-co" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "comecei", "meaning": "started", "sound": "co-me-sei" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "ver", "meaning": "see", "sound": "ver" },
+      { "word": "mudanças", "meaning": "changes", "sound": "mu-dan-ças" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Agora", "meaning": "now", "sound": "a-go-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "sinto", "meaning": "feel", "sound": "sin-to" },
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": "forte", "meaning": "strong", "sound": "for-te" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "motivado", "meaning": "motivated", "sound": "mo-ti-va-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "aprendi", "meaning": "learned", "sound": "a-pren-di" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "pequenas", "meaning": "small", "sound": "pe-que-nas" },
+      { "word": "ações", "meaning": "actions", "sound": "a-ções" },
+      { "word": "trazem", "meaning": "bring", "sound": "tra-zem" },
+      { "word": "grandes", "meaning": "big", "sound": "gran-des" },
+      { "word": "resultados", "meaning": "results", "sound": "re-sul-ta-dos" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story9": {
+    "title": "Descobrindo a Si Mesmo",
+    "content": [
+      { "word": "Durante", "meaning": "during", "sound": "du-ran-te" },
+      { "word": "muito", "meaning": "a long", "sound": "mui-to" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tentei", "meaning": "tried", "sound": "ten-tei" },
+      { "word": "ser", "meaning": "be", "sound": "ser" },
+      { "word": "como", "meaning": "like", "sound": "co-mo" },
+      { "word": "os", "meaning": "the", "sound": "os" },
+      { "word": "outros", "meaning": "others", "sound": "ou-tros" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "comparava", "meaning": "compared", "sound": "com-pa-ra-va" },
+      { "word": "constantemente", "meaning": "constantly", "sound": "cons-tan-te-men-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Isso", "meaning": "this", "sound": "is-so" },
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "fazia", "meaning": "made", "sound": "fa-zi-a" },
+      { "word": "sentir", "meaning": "feel", "sound": "sen-tir" },
+      { "word": "inseguro", "meaning": "insecure", "sound": "in-se-gu-ro" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "comecei", "meaning": "started", "sound": "co-me-sei" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "refletir", "meaning": "reflect", "sound": "re-fle-tir" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "percebi", "meaning": "realized", "sound": "per-ce-bi" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "pessoa", "meaning": "person", "sound": "pe-so-a" },
+      { "word": "tem", "meaning": "has", "sound": "tem" },
+      { "word": "seu", "meaning": "their", "sound": "seu" },
+      { "word": "próprio", "meaning": "own", "sound": "pró-prio" },
+      { "word": "caminho", "meaning": "path", "sound": "ca-mi-nho" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Não", "meaning": "not", "sound": "não" },
+      { "word": "faz", "meaning": "makes", "sound": "faz" },
+      { "word": "sentido", "meaning": "sense", "sound": "sen-ti-do" },
+      { "word": "comparar-se", "meaning": "to compare oneself", "sound": "com-pa-rar-se" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Agora", "meaning": "now", "sound": "a-go-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tento", "meaning": "try", "sound": "ten-to" },
+      { "word": "ser", "meaning": "be", "sound": "ser" },
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": "autêntico", "meaning": "authentic", "sound": "au-tên-ti-co" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "acredito", "meaning": "believe", "sound": "a-cre-di-to" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "ser", "meaning": "being", "sound": "ser" },
+      { "word": "eu", "meaning": "myself", "sound": "eu" },
+      { "word": "mesmo", "meaning": "self", "sound": "mes-mo" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "mais", "meaning": "most", "sound": "mais" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story10": {
+    "title": "O Caminho Interior",
+    "content": [
+      { "word": "Durante", "meaning": "during", "sound": "du-ran-te" },
+      { "word": "muito", "meaning": "a long", "sound": "mui-to" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "procurei", "meaning": "searched", "sound": "pro-cu-rei" },
+      { "word": "respostas", "meaning": "answers", "sound": "res-pos-tas" },
+      { "word": "fora", "meaning": "outside", "sound": "fo-ra" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "mim", "meaning": "me", "sound": "mim" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "pensava", "meaning": "thought", "sound": "pen-sa-va" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "felicidade", "meaning": "happiness", "sound": "fe-li-ci-da-de" },
+      { "word": "estava", "meaning": "was", "sound": "es-ta-va" },
+      { "word": "em", "meaning": "in", "sound": "em" },
+      { "word": "outros", "meaning": "others", "sound": "ou-tros" },
+      { "word": "lugares", "meaning": "places", "sound": "lu-ga-res" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mas", "meaning": "but", "sound": "mas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "comecei", "meaning": "started", "sound": "co-me-sei" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "entender", "meaning": "understand", "sound": "en-ten-der" },
+      { "word": "algo", "meaning": "something", "sound": "al-go" },
+      { "word": "diferente", "meaning": "different", "sound": "di-fe-ren-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "percebi", "meaning": "realized", "sound": "per-ce-bi" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "verdadeira", "meaning": "true", "sound": "ver-da-dei-ra" },
+      { "word": "mudança", "meaning": "change", "sound": "mu-dan-ça" },
+      { "word": "começa", "meaning": "begins", "sound": "co-me-ça" },
+      { "word": "dentro", "meaning": "inside", "sound": "den-tro" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Não", "meaning": "not", "sound": "não" },
+      { "word": "faz", "meaning": "makes", "sound": "faz" },
+      { "word": "sentido", "meaning": "sense", "sound": "sen-ti-do" },
+      { "word": "esperar", "meaning": "wait", "sound": "es-pe-rar" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "mundo", "meaning": "world", "sound": "mun-do" },
+      { "word": "mude", "meaning": "change (subjunctive)", "sound": "mu-de" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Primeiro", "meaning": "first", "sound": "pri-mei-ro" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "preciso", "meaning": "need", "sound": "pre-ci-so" },
+      { "word": "mudar", "meaning": "change", "sound": "mu-dar" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Agora", "meaning": "now", "sound": "a-go-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tento", "meaning": "try", "sound": "ten-to" },
+      { "word": "ser", "meaning": "be", "sound": "ser" },
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": "consciente", "meaning": "aware", "sound": "con-sci-en-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "sei", "meaning": "know", "sound": "sei" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "caminho", "meaning": "path", "sound": "ca-mi-nho" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "fácil", "meaning": "easy", "sound": "fá-cil" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mas", "meaning": "but", "sound": "mas" },
+      { "word": "vale", "meaning": "is worth", "sound": "va-le" },
+      { "word": "a", "meaning": "", "sound": "a" },
+      { "word": "pena", "meaning": "worth it", "sound": "pe-na" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story11": {
+    "title": "O Significado da Vida",
+    "content": [
+      { "word": "Muitas", "meaning": "many", "sound": "mui-tas" },
+      { "word": "pessoas", "meaning": "people", "sound": "pe-so-as" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "durante", "meaning": "during", "sound": "du-ran-te" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "vida", "meaning": "life", "sound": "vi-da" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "procuram", "meaning": "search", "sound": "pro-cu-ram" },
+      { "word": "um", "meaning": "a", "sound": "um" },
+      { "word": "significado", "meaning": "meaning", "sound": "sig-ni-fi-ca-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Elas", "meaning": "they", "sound": "e-las" },
+      { "word": "pensam", "meaning": "think", "sound": "pen-sam" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "felicidade", "meaning": "happiness", "sound": "fe-li-ci-da-de" },
+      { "word": "está", "meaning": "is", "sound": "es-tá" },
+      { "word": "fora", "meaning": "outside", "sound": "fo-ra" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "também", "meaning": "also", "sound": "tam-bém" },
+      { "word": "pensava", "meaning": "thought", "sound": "pen-sa-va" },
+      { "word": "assim", "meaning": "like that", "sound": "as-sim" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "buscava", "meaning": "searched", "sound": "bus-ca-va" },
+      { "word": "respostas", "meaning": "answers", "sound": "res-pos-tas" },
+      { "word": "em", "meaning": "in", "sound": "em" },
+      { "word": "tudo", "meaning": "everything", "sound": "tu-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mas", "meaning": "but", "sound": "mas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "compreendi", "meaning": "understood deeply", "sound": "com-pre-en-di" },
+      { "word": "algo", "meaning": "something", "sound": "al-go" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "O", "meaning": "the", "sound": "o" },
+      { "word": "significado", "meaning": "meaning", "sound": "sig-ni-fi-ca-do" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "algo", "meaning": "something", "sound": "al-go" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "se", "meaning": "itself", "sound": "se" },
+      { "word": "encontra", "meaning": "is found", "sound": "en-con-tra" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ele", "meaning": "it", "sound": "e-le" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "algo", "meaning": "something", "sound": "al-go" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "se", "meaning": "itself", "sound": "se" },
+      { "word": "cria", "meaning": "is created", "sound": "cri-a" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "escolha", "meaning": "choice", "sound": "es-co-lha" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "ação", "meaning": "action", "sound": "a-ção" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "contribui", "meaning": "contributes", "sound": "con-tri-bu-i" },
+      { "word": "para", "meaning": "to", "sound": "pa-ra" },
+      { "word": "dar", "meaning": "give", "sound": "dar" },
+      { "word": "sentido", "meaning": "meaning", "sound": "sen-ti-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Agora", "meaning": "now", "sound": "a-go-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "procuro", "meaning": "search", "sound": "pro-cu-ro" },
+      { "word": "mais", "meaning": "anymore", "sound": "mais" },
+      { "word": "respostas", "meaning": "answers", "sound": "res-pos-tas" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "crio", "meaning": "create", "sound": "cri-o" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "meu", "meaning": "my", "sound": "meu" },
+      { "word": "próprio", "meaning": "own", "sound": "pró-prio" },
+      { "word": "significado", "meaning": "meaning", "sound": "sig-ni-fi-ca-do" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story12": {
+    "title": "Aceitar a Si Mesmo",
+    "content": [
+      { "word": "Durante", "meaning": "during", "sound": "du-ran-te" },
+      { "word": "muito", "meaning": "a long", "sound": "mui-to" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "tentei", "meaning": "tried", "sound": "ten-tei" },
+      { "word": "ser", "meaning": "be", "sound": "ser" },
+      { "word": "alguém", "meaning": "someone", "sound": "al-guém" },
+      { "word": "diferente", "meaning": "different", "sound": "di-fe-ren-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "comparava", "meaning": "compared", "sound": "com-pa-ra-va" },
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "os", "meaning": "the", "sound": "os" },
+      { "word": "outros", "meaning": "others", "sound": "ou-tros" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "pensava", "meaning": "thought", "sound": "pen-sa-va" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "era", "meaning": "was", "sound": "e-ra" },
+      { "word": "suficiente", "meaning": "enough", "sound": "su-fi-ci-en-te" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Esses", "meaning": "these", "sound": "es-ses" },
+      { "word": "pensamentos", "meaning": "thoughts", "sound": "pen-sa-men-tos" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "porém", "meaning": "however", "sound": "po-rém" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "faziam", "meaning": "made", "sound": "fa-zi-am" },
+      { "word": "sofrer", "meaning": "suffer", "sound": "so-frer" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "comecei", "meaning": "started", "sound": "co-me-sei" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "refletir", "meaning": "reflect", "sound": "re-fle-tir" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "percebi", "meaning": "realized", "sound": "per-ce-bi" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "pessoa", "meaning": "person", "sound": "pe-so-a" },
+      { "word": "tem", "meaning": "has", "sound": "tem" },
+      { "word": "seu", "meaning": "their", "sound": "seu" },
+      { "word": "valor", "meaning": "value", "sound": "va-lor" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Não", "meaning": "not", "sound": "não" },
+      { "word": "faz", "meaning": "makes", "sound": "faz" },
+      { "word": "sentido", "meaning": "sense", "sound": "sen-ti-do" },
+      { "word": "comparar-se", "meaning": "compare oneself", "sound": "com-pa-rar-se" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Agora", "meaning": "now", "sound": "a-go-ra" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "estou", "meaning": "am", "sound": "es-tou" },
+      { "word": "aprendendo", "meaning": "learning", "sound": "a-pren-den-do" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "me", "meaning": "myself", "sound": "me" },
+      { "word": "aceitar", "meaning": "accept", "sound": "a-cei-tar" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "acredito", "meaning": "believe", "sound": "a-cre-di-to" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "ser", "meaning": "being", "sound": "ser" },
+      { "word": "eu", "meaning": "myself", "sound": "eu" },
+      { "word": "mesmo", "meaning": "self", "sound": "mes-mo" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "mais", "meaning": "most", "sound": "mais" },
+      { "word": "importante", "meaning": "important", "sound": "im-por-tan-te" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story13": {
+    "title": "A Consciência do Ser",
+    "content": [
+      { "word": "Ao", "meaning": "while", "sound": "ao" },
+      { "word": "longo", "meaning": "along", "sound": "lon-go" },
+      { "word": "da", "meaning": "of the", "sound": "da" },
+      { "word": "vida", "meaning": "life", "sound": "vi-da" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "comecei", "meaning": "started", "sound": "co-me-sei" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "questionar", "meaning": "question", "sound": "ques-tio-nar" },
+      { "word": "muitas", "meaning": "many", "sound": "mui-tas" },
+      { "word": "coisas", "meaning": "things", "sound": "coi-sas" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Quem", "meaning": "who", "sound": "quem" },
+      { "word": "sou", "meaning": "am", "sound": "sou" },
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "verdade", "meaning": "truth", "sound": "ver-da-de" },
+      { "word": "?", "meaning": "", "sound": "" },
+
+      { "word": "Qual", "meaning": "what", "sound": "qual" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "meu", "meaning": "my", "sound": "meu" },
+      { "word": "propósito", "meaning": "purpose", "sound": "pro-pó-si-to" },
+      { "word": "?", "meaning": "", "sound": "" },
+
+      { "word": "Essas", "meaning": "these", "sound": "es-sas" },
+      { "word": "perguntas", "meaning": "questions", "sound": "per-gun-tas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "no", "meaning": "in the", "sound": "no" },
+      { "word": "início", "meaning": "beginning", "sound": "i-ní-cio" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "me", "meaning": "me", "sound": "me" },
+      { "word": "deixavam", "meaning": "left/made", "sound": "dei-xa-vam" },
+      { "word": "confuso", "meaning": "confused", "sound": "con-fu-so" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Mas", "meaning": "but", "sound": "mas" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "percebi", "meaning": "realized", "sound": "per-ce-bi" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "existem", "meaning": "exist", "sound": "exis-tem" },
+      { "word": "respostas", "meaning": "answers", "sound": "res-pos-tas" },
+      { "word": "simples", "meaning": "simple", "sound": "sim-ples" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "A", "meaning": "the", "sound": "a" },
+      { "word": "consciência", "meaning": "awareness", "sound": "con-sci-ên-cia" },
+      { "word": "cresce", "meaning": "grows", "sound": "cres-ce" },
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "experiência", "meaning": "experience", "sound": "ex-pe-ri-ên-cia" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Quanto", "meaning": "the more", "sound": "quan-to" },
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "vivo", "meaning": "live", "sound": "vi-vo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mais", "meaning": "more", "sound": "mais" },
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "entendo", "meaning": "understand", "sound": "en-ten-do" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Hoje", "meaning": "today", "sound": "ho-je" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "busco", "meaning": "search", "sound": "bus-co" },
+      { "word": "certezas", "meaning": "certainties", "sound": "cer-te-zas" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "aprendi", "meaning": "learned", "sound": "a-pren-di" },
+      { "word": "a", "meaning": "to", "sound": "a" },
+      { "word": "aceitar", "meaning": "accept", "sound": "a-cei-tar" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "incerteza", "meaning": "uncertainty", "sound": "in-cer-te-za" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Talvez", "meaning": "maybe", "sound": "tal-vez" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "esse", "meaning": "this", "sound": "es-se" },
+      { "word": "seja", "meaning": "is (subjunctive)", "sound": "se-ja" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "verdadeiro", "meaning": "true", "sound": "ver-da-dei-ro" },
+      { "word": "caminho", "meaning": "path", "sound": "ca-mi-nho" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story14": {
+    "title": "A Jornada Interior",
+    "content": [
+      { "word": "Ao", "meaning": "while", "sound": "ao" },
+      { "word": "longo", "meaning": "along", "sound": "lon-go" },
+      { "word": "dos", "meaning": "of the", "sound": "dos" },
+      { "word": "anos", "meaning": "years", "sound": "a-nos" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "percebi", "meaning": "realized", "sound": "per-ce-bi" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "vida", "meaning": "life", "sound": "vi-da" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "segue", "meaning": "follows", "sound": "se-gue" },
+      { "word": "um", "meaning": "a", "sound": "um" },
+      { "word": "caminho", "meaning": "path", "sound": "ca-mi-nho" },
+      { "word": "linear", "meaning": "linear", "sound": "li-ne-ar" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Existem", "meaning": "there are", "sound": "exis-tem" },
+      { "word": "momentos", "meaning": "moments", "sound": "mo-men-tos" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "crescimento", "meaning": "growth", "sound": "cres-ci-men-to" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "mas", "meaning": "but", "sound": "mas" },
+      { "word": "também", "meaning": "also", "sound": "tam-bém" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "dúvida", "meaning": "doubt", "sound": "dú-vi-da" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Durante", "meaning": "during", "sound": "du-ran-te" },
+      { "word": "muito", "meaning": "a long", "sound": "mui-to" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "resisti", "meaning": "resisted", "sound": "re-sis-ti" },
+      { "word": "às", "meaning": "to the", "sound": "às" },
+      { "word": "mudanças", "meaning": "changes", "sound": "mu-dan-ças" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "queria", "meaning": "wanted", "sound": "que-ri-a" },
+      { "word": "controle", "meaning": "control", "sound": "con-tro-le" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "certeza", "meaning": "certainty", "sound": "cer-te-za" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "segurança", "meaning": "security", "sound": "se-gu-ran-ça" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "No", "meaning": "in the", "sound": "no" },
+      { "word": "entanto", "meaning": "however", "sound": "en-tan-to" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "aprendi", "meaning": "learned", "sound": "a-pren-di" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "vida", "meaning": "life", "sound": "vi-da" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "imprevisível", "meaning": "unpredictable", "sound": "im-pre-vi-sí-vel" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Em", "meaning": "in", "sound": "em" },
+      { "word": "vez", "meaning": "instead", "sound": "vez" },
+      { "word": "de", "meaning": "of", "sound": "de" },
+      { "word": "lutar", "meaning": "fight", "sound": "lu-tar" },
+      { "word": "contra", "meaning": "against", "sound": "con-tra" },
+      { "word": "ela", "meaning": "it", "sound": "e-la" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "decidi", "meaning": "decided", "sound": "de-ci-di" },
+      { "word": "aceitá-la", "meaning": "accept it", "sound": "a-cei-tá-la" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Hoje", "meaning": "today", "sound": "ho-je" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "vejo", "meaning": "see", "sound": "ve-jo" },
+      { "word": "cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "desafio", "meaning": "challenge", "sound": "de-sa-fi-o" },
+      { "word": "como", "meaning": "as", "sound": "co-mo" },
+      { "word": "uma", "meaning": "a", "sound": "u-ma" },
+      { "word": "oportunidade", "meaning": "opportunity", "sound": "o-por-tu-ni-da-de" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Talvez", "meaning": "maybe", "sound": "tal-vez" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "verdadeiro", "meaning": "true", "sound": "ver-da-dei-ro" },
+      { "word": "crescimento", "meaning": "growth", "sound": "cres-ci-men-to" },
+      { "word": "aconteça", "meaning": "happens (subjunctive)", "sound": "a-con-te-ça" },
+      { "word": "justamente", "meaning": "exactly", "sound": "jus-ta-men-te" },
+      { "word": "quando", "meaning": "when", "sound": "quan-do" },
+      { "word": "aceitamos", "meaning": "we accept", "sound": "a-cei-ta-mos" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "desconhecido", "meaning": "unknown", "sound": "des-co-nhe-ci-do" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  },
+  
+  "story15": {
+    "title": "O Sentido da Existência",
+    "content": [
+      { "word": "No", "meaning": "in the", "sound": "no" },
+      { "word": "final", "meaning": "end", "sound": "fi-nal" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "todos", "meaning": "everyone", "sound": "to-dos" },
+      { "word": "se", "meaning": "themselves", "sound": "se" },
+      { "word": "fazem", "meaning": "ask", "sound": "fa-zem" },
+      { "word": "a", "meaning": "the", "sound": "a" },
+      { "word": "mesma", "meaning": "same", "sound": "mes-ma" },
+      { "word": "pergunta", "meaning": "question", "sound": "per-gun-ta" },
+      { "word": ":", "meaning": "", "sound": "" },
+
+      { "word": "qual", "meaning": "what", "sound": "qual" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "sentido", "meaning": "meaning", "sound": "sen-ti-do" },
+      { "word": "da", "meaning": "of the", "sound": "da" },
+      { "word": "existência", "meaning": "existence", "sound": "exis-tên-cia" },
+      { "word": "?", "meaning": "", "sound": "" },
+
+      { "word": "Durante", "meaning": "during", "sound": "du-ran-te" },
+      { "word": "anos", "meaning": "years", "sound": "a-nos" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "acreditei", "meaning": "believed", "sound": "a-cre-di-tei" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "existia", "meaning": "existed", "sound": "exis-ti-a" },
+      { "word": "uma", "meaning": "a", "sound": "u-ma" },
+      { "word": "resposta", "meaning": "answer", "sound": "res-pos-ta" },
+      { "word": "clara", "meaning": "clear", "sound": "cla-ra" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Algo", "meaning": "something", "sound": "al-go" },
+      { "word": "fixo", "meaning": "fixed", "sound": "fi-xo" },
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "definitivo", "meaning": "definitive", "sound": "de-fi-ni-ti-vo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "No", "meaning": "however", "sound": "no" },
+      { "word": "entanto", "meaning": "however", "sound": "en-tan-to" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "com", "meaning": "with", "sound": "com" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "tempo", "meaning": "time", "sound": "tem-po" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "compreendi", "meaning": "understood deeply", "sound": "com-pre-en-di" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "essa", "meaning": "that", "sound": "es-sa" },
+      { "word": "busca", "meaning": "search", "sound": "bus-ca" },
+      { "word": "era", "meaning": "was", "sound": "e-ra" },
+      { "word": "limitada", "meaning": "limited", "sound": "li-mi-ta-da" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "O", "meaning": "the", "sound": "o" },
+      { "word": "sentido", "meaning": "meaning", "sound": "sen-ti-do" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "na", "meaning": "in the", "sound": "na" },
+      { "word": "verdade", "meaning": "truth", "sound": "ver-da-de" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "algo", "meaning": "something", "sound": "al-go" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "se", "meaning": "itself", "sound": "se" },
+      { "word": "descobre", "meaning": "is discovered", "sound": "des-co-bre" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Ele", "meaning": "it", "sound": "e-le" },
+      { "word": "é", "meaning": "is", "sound": "é" },
+      { "word": "algo", "meaning": "something", "sound": "al-go" },
+      { "word": "que", "meaning": "that", "sound": "que" },
+      { "word": "se", "meaning": "itself", "sound": "se" },
+      { "word": "constrói", "meaning": "is built", "sound": "cons-trói" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "experiência", "meaning": "experience", "sound": "ex-pe-ri-ên-cia" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "erro", "meaning": "mistake", "sound": "er-ro" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "cada", "meaning": "each", "sound": "ca-da" },
+      { "word": "escolha", "meaning": "choice", "sound": "es-co-lha" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "contribui", "meaning": "contributes", "sound": "con-tri-bu-i" },
+      { "word": "para", "meaning": "to", "sound": "pa-ra" },
+      { "word": "defini-lo", "meaning": "define it", "sound": "de-fi-ni-lo" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Hoje", "meaning": "today", "sound": "ho-je" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "eu", "meaning": "I", "sound": "eu" },
+      { "word": "não", "meaning": "not", "sound": "não" },
+      { "word": "procuro", "meaning": "search", "sound": "pro-cu-ro" },
+      { "word": "mais", "meaning": "anymore", "sound": "mais" },
+      { "word": "uma", "meaning": "a", "sound": "u-ma" },
+      { "word": "resposta", "meaning": "answer", "sound": "res-pos-ta" },
+      { "word": ".", "meaning": "", "sound": "" },
+
+      { "word": "Eu", "meaning": "I", "sound": "eu" },
+      { "word": "vivo", "meaning": "live", "sound": "vi-vo" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "aprendo", "meaning": "learn", "sound": "a-pren-do" },
+      { "word": ",", "meaning": "", "sound": "" },
+
+      { "word": "e", "meaning": "and", "sound": "e" },
+      { "word": "crio", "meaning": "create", "sound": "cri-o" },
+      { "word": "o", "meaning": "the", "sound": "o" },
+      { "word": "meu", "meaning": "my", "sound": "meu" },
+      { "word": "próprio", "meaning": "own", "sound": "pró-prio" },
+      { "word": "sentido", "meaning": "meaning", "sound": "sen-ti-do" },
+      { "word": ".", "meaning": "", "sound": "" }
+    ]
+  }
+    },
+
+  "sentences": [
+
+    {
+      "id": 1,
+      "english": {
+        "present": "I am Manoj",
+        "past": "I was Manoj",
+        "future": "I will be Manoj"
+      },
+      "portuguese": {
+        "present": ["Eu", "sou", "Manoj"],
+        "past": ["Eu", "era", "Manoj"],
+        "future": ["Eu", "serei", "Manoj"]
+      }
+    },
+
+    {
+      "id": 2,
+      "english": {
+        "present": "I am happy",
+        "past": "I was happy",
+        "future": "I will be happy"
+      },
+      "portuguese": {
+        "present": ["Eu", "estou", "feliz"],
+        "past": ["Eu", "estava", "feliz"],
+        "future": ["Eu", "estarei", "feliz"]
+      }
+    },
+
+    {
+      "id": 3,
+      "english": {
+        "present": "I go home",
+        "past": "I went home",
+        "future": "I will go home"
+      },
+      "portuguese": {
+        "present": ["Eu", "vou", "para", "casa"],
+        "past": ["Eu", "fui", "para", "casa"],
+        "future": ["Eu", "irei", "para", "casa"]
+      }
+    },
+
+    {
+      "id": 4,
+      "english": {
+        "present": "I eat",
+        "past": "I ate",
+        "future": "I will eat"
+      },
+      "portuguese": {
+        "present": ["Eu", "como"],
+        "past": ["Eu", "comi"],
+        "future": ["Eu", "comerei"]
+      }
+    },
+
+    {
+      "id": 5,
+      "english": {
+        "present": "I drink water",
+        "past": "I drank water",
+        "future": "I will drink water"
+      },
+      "portuguese": {
+        "present": ["Eu", "bebo", "água"],
+        "past": ["Eu", "bebi", "água"],
+        "future": ["Eu", "beberei", "água"]
+      }
+    },
+
+    {
+      "id": 6,
+      "english": {
+        "present": "I see him",
+        "past": "I saw him",
+        "future": "I will see him"
+      },
+      "portuguese": {
+        "present": ["Eu", "o", "vejo"],
+        "past": ["Eu", "o", "vi"],
+        "future": ["Eu", "o", "verei"]
+      }
+    },
+
+    {
+      "id": 7,
+      "english": {
+        "present": "I like this",
+        "past": "I liked this",
+        "future": "I will like this"
+      },
+      "portuguese": {
+        "present": ["Eu", "gosto", "disso"],
+        "past": ["Eu", "gostei", "disso"],
+        "future": ["Eu", "gostarei", "disso"]
+      }
+    },
+
+    {
+      "id": 8,
+      "english": {
+        "present": "I study Portuguese",
+        "past": "I studied Portuguese",
+        "future": "I will study Portuguese"
+      },
+      "portuguese": {
+        "present": ["Eu", "estudo", "português"],
+        "past": ["Eu", "estudei", "português"],
+        "future": ["Eu", "estudarei", "português"]
+      }
+    },
+
+    {
+      "id": 9,
+      "english": {
+        "present": "I work",
+        "past": "I worked",
+        "future": "I will work"
+      },
+      "portuguese": {
+        "present": ["Eu", "trabalho"],
+        "past": ["Eu", "trabalhei"],
+        "future": ["Eu", "trabalharei"]
+      }
+    },
+
+    {
+      "id": 10,
+      "english": {
+        "present": "I live here",
+        "past": "I lived here",
+        "future": "I will live here"
+      },
+      "portuguese": {
+        "present": ["Eu", "moro", "aqui"],
+        "past": ["Eu", "morei", "aqui"],
+        "future": ["Eu", "morarei", "aqui"]
+      }
+    },
+
+    {
+      "id": 11,
+      "english": {
+        "present": "I am eating now",
+        "past": "I was eating earlier",
+        "future": "I will be eating later"
+      },
+      "portuguese": {
+        "present": ["Eu", "estou", "comendo", "agora"],
+        "past": ["Eu", "estava", "comendo", "antes"],
+        "future": ["Eu", "estarei", "comendo", "depois"]
+      }
+    },
+
+    {
+      "id": 12,
+      "english": {
+        "present": "She has already finished",
+        "past": "She had already finished",
+        "future": "She will have already finished"
+      },
+      "portuguese": {
+        "present": ["Ela", "já", "terminou"],
+        "past": ["Ela", "já", "tinha", "terminado"],
+        "future": ["Ela", "já", "terá", "terminado"]
+      }
+    },
+
+    {
+      "id": 13,
+      "english": {
+        "present": "We are studying together",
+        "past": "We were studying together",
+        "future": "We will be studying together"
+      },
+      "portuguese": {
+        "present": ["Nós", "estamos", "estudando", "juntos"],
+        "past": ["Nós", "estávamos", "estudando", "juntos"],
+        "future": ["Nós", "estaremos", "estudando", "juntos"]
+      }
+    },
+
+    {
+      "id": 14,
+      "english": {
+        "present": "I have already seen this",
+        "past": "I had already seen this",
+        "future": "I will have already seen this"
+      },
+      "portuguese": {
+        "present": ["Eu", "já", "vi", "isso"],
+        "past": ["Eu", "já", "tinha", "visto", "isso"],
+        "future": ["Eu", "já", "terei", "visto", "isso"]
+      }
+    },
+
+    {
+      "id": 15,
+      "english": {
+        "present": "They are working now",
+        "past": "They were working before",
+        "future": "They will be working later"
+      },
+      "portuguese": {
+        "present": ["Eles", "estão", "trabalhando", "agora"],
+        "past": ["Eles", "estavam", "trabalhando", "antes"],
+        "future": ["Eles", "estarão", "trabalhando", "depois"]
+      }
+    },
+
+    {
+      "id": 16,
+      "english": {
+        "present": "I have already understood",
+        "past": "I had already understood",
+        "future": "I will have already understood"
+      },
+      "portuguese": {
+        "present": ["Eu", "já", "entendi"],
+        "past": ["Eu", "já", "tinha", "entendido"],
+        "future": ["Eu", "já", "terei", "entendido"]
+      }
+    },
+
+    {
+      "id": 17,
+      "english": {
+        "present": "She is writing now",
+        "past": "She was writing earlier",
+        "future": "She will be writing later"
+      },
+      "portuguese": {
+        "present": ["Ela", "está", "escrevendo", "agora"],
+        "past": ["Ela", "estava", "escrevendo", "antes"],
+        "future": ["Ela", "estará", "escrevendo", "depois"]
+      }
+    },
+
+    {
+      "id": 18,
+      "english": {
+        "present": "We have already watched it",
+        "past": "We had already watched it",
+        "future": "We will have already watched it"
+      },
+      "portuguese": {
+        "present": ["Nós", "já", "vimos"],
+        "past": ["Nós", "já", "tínhamos", "visto"],
+        "future": ["Nós", "já", "teremos", "visto"]
+      }
+    },
+
+    {
+      "id": 19,
+      "english": {
+        "present": "I am thinking now",
+        "past": "I was thinking before",
+        "future": "I will be thinking later"
+      },
+      "portuguese": {
+        "present": ["Eu", "estou", "pensando", "agora"],
+        "past": ["Eu", "estava", "pensando", "antes"],
+        "future": ["Eu", "estarei", "pensando", "depois"]
+      }
+    },
+
+    {
+      "id": 20,
+      "english": {
+        "present": "He has already changed",
+        "past": "He had already changed",
+        "future": "He will have already changed"
+      },
+      "portuguese": {
+        "present": ["Ele", "já", "mudou"],
+        "past": ["Ele", "já", "tinha", "mudado"],
+        "future": ["Ele", "já", "terá", "mudado"]
+      }
+    },
+
+    {
+      "id": 21,
+      "english": {
+        "present": "I want to learn Portuguese",
+        "past": "I wanted to learn Portuguese",
+        "future": "I will want to learn Portuguese"
+      },
+      "portuguese": {
+        "present": ["Eu", "quero", "aprender", "português"],
+        "past": ["Eu", "queria", "aprender", "português"],
+        "future": ["Eu", "quererei", "aprender", "português"]
+      }
+    },
+
+    {
+      "id": 22,
+      "english": {
+        "present": "She wants to go home",
+        "past": "She wanted to go home",
+        "future": "She will want to go home"
+      },
+      "portuguese": {
+        "present": ["Ela", "quer", "ir", "para", "casa"],
+        "past": ["Ela", "queria", "ir", "para", "casa"],
+        "future": ["Ela", "quererá", "ir", "para", "casa"]
+      }
+    },
+
+    {
+      "id": 23,
+      "english": {
+        "present": "We must study every day",
+        "past": "We had to study every day",
+        "future": "We will have to study every day"
+      },
+      "portuguese": {
+        "present": ["Nós", "devemos", "estudar", "todos", "os", "dias"],
+        "past": ["Nós", "devíamos", "estudar", "todos", "os", "dias"],
+        "future": ["Nós", "deveremos", "estudar", "todos", "os", "dias"]
+      }
+    },
+
+    {
+      "id": 24,
+      "english": {
+        "present": "I can speak Portuguese",
+        "past": "I could speak Portuguese",
+        "future": "I will be able to speak Portuguese"
+      },
+      "portuguese": {
+        "present": ["Eu", "posso", "falar", "português"],
+        "past": ["Eu", "podia", "falar", "português"],
+        "future": ["Eu", "poderei", "falar", "português"]
+      }
+    },
+
+    {
+      "id": 25,
+      "english": {
+        "present": "He wants to improve",
+        "past": "He wanted to improve",
+        "future": "He will want to improve"
+      },
+      "portuguese": {
+        "present": ["Ele", "quer", "melhorar"],
+        "past": ["Ele", "queria", "melhorar"],
+        "future": ["Ele", "quererá", "melhorar"]
+      }
+    },
+
+    {
+      "id": 26,
+      "english": {
+        "present": "This is more important",
+        "past": "This was more important",
+        "future": "This will be more important"
+      },
+      "portuguese": {
+        "present": ["Isso", "é", "mais", "importante"],
+        "past": ["Isso", "era", "mais", "importante"],
+        "future": ["Isso", "será", "mais", "importante"]
+      }
+    },
+
+    {
+      "id": 27,
+      "english": {
+        "present": "I feel better today",
+        "past": "I felt better today",
+        "future": "I will feel better today"
+      },
+      "portuguese": {
+        "present": ["Eu", "me", "sinto", "melhor", "hoje"],
+        "past": ["Eu", "me", "sentia", "melhor", "hoje"],
+        "future": ["Eu", "me", "sentirei", "melhor", "hoje"]
+      }
+    },
+
+    {
+      "id": 28,
+      "english": {
+        "present": "They want to work more",
+        "past": "They wanted to work more",
+        "future": "They will want to work more"
+      },
+      "portuguese": {
+        "present": ["Eles", "querem", "trabalhar", "mais"],
+        "past": ["Eles", "queriam", "trabalhar", "mais"],
+        "future": ["Eles", "quererão", "trabalhar", "mais"]
+      }
+    },
+
+    {
+      "id": 29,
+      "english": {
+        "present": "We can do this together",
+        "past": "We could do this together",
+        "future": "We will be able to do this together"
+      },
+      "portuguese": {
+        "present": ["Nós", "podemos", "fazer", "isso", "juntos"],
+        "past": ["Nós", "podíamos", "fazer", "isso", "juntos"],
+        "future": ["Nós", "poderemos", "fazer", "isso", "juntos"]
+      }
+    },
+
+    {
+      "id": 30,
+      "english": {
+        "present": "I want to become better",
+        "past": "I wanted to become better",
+        "future": "I will want to become better"
+      },
+      "portuguese": {
+        "present": ["Eu", "quero", "me", "tornar", "melhor"],
+        "past": ["Eu", "queria", "me", "tornar", "melhor"],
+        "future": ["Eu", "quererei", "me", "tornar", "melhor"]
+      }
+    },
+
+    {
+      "id": 31,
+      "english": {
+        "present": "I am happy because I am learning",
+        "past": "I was happy because I was learning",
+        "future": "I will be happy because I will be learning"
+      },
+      "portuguese": {
+        "present": ["Eu", "estou", "feliz", "porque", "estou", "aprendendo"],
+        "past": ["Eu", "estava", "feliz", "porque", "estava", "aprendendo"],
+        "future": ["Eu", "estarei", "feliz", "porque", "estarei", "aprendendo"]
+      }
+    },
+
+    {
+      "id": 32,
+      "english": {
+        "present": "She studies because she wants to improve",
+        "past": "She studied because she wanted to improve",
+        "future": "She will study because she will want to improve"
+      },
+      "portuguese": {
+        "present": ["Ela", "estuda", "porque", "quer", "melhorar"],
+        "past": ["Ela", "estudou", "porque", "queria", "melhorar"],
+        "future": ["Ela", "estudará", "porque", "quererá", "melhorar"]
+      }
+    },
+
+    {
+      "id": 33,
+      "english": {
+        "present": "If I try, I can succeed",
+        "past": "If I tried, I could succeed",
+        "future": "If I try, I will succeed"
+      },
+      "portuguese": {
+        "present": ["Se", "eu", "tento", ",", "posso", "ter", "sucesso"],
+        "past": ["Se", "eu", "tentava", ",", "podia", "ter", "sucesso"],
+        "future": ["Se", "eu", "tentar", ",", "terei", "sucesso"]
+      }
+    },
+
+    {
+      "id": 34,
+      "english": {
+        "present": "I work hard because I have a goal",
+        "past": "I worked hard because I had a goal",
+        "future": "I will work hard because I will have a goal"
+      },
+      "portuguese": {
+        "present": ["Eu", "trabalho", "muito", "porque", "tenho", "um", "objetivo"],
+        "past": ["Eu", "trabalhei", "muito", "porque", "tinha", "um", "objetivo"],
+        "future": ["Eu", "trabalharei", "muito", "porque", "terei", "um", "objetivo"]
+      }
+    },
+
+    {
+      "id": 35,
+      "english": {
+        "present": "If we study together, we understand better",
+        "past": "If we studied together, we understood better",
+        "future": "If we study together, we will understand better"
+      },
+      "portuguese": {
+        "present": ["Se", "nós", "estudamos", "juntos", ",", "entendemos", "melhor"],
+        "past": ["Se", "nós", "estudávamos", "juntos", ",", "entendíamos", "melhor"],
+        "future": ["Se", "nós", "estudarmos", "juntos", ",", "entenderemos", "melhor"]
+      }
+    },
+
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired because I work too much",
+        "past": "I felt tired because I worked too much",
+        "future": "I will feel tired because I will work too much"
+      },
+      "portuguese": {
+        "present": ["Eu", "me", "sinto", "cansado", "porque", "trabalho", "muito"],
+        "past": ["Eu", "me", "senti", "cansado", "porque", "trabalhei", "muito"],
+        "future": ["Eu", "me", "sentirei", "cansado", "porque", "trabalharei", "muito"]
+      }
+    },
+
+    {
+      "id": 37,
+      "english": {
+        "present": "If she believes in herself, she can grow",
+        "past": "If she believed in herself, she could grow",
+        "future": "If she believes in herself, she will grow"
+      },
+      "portuguese": {
+        "present": ["Se", "ela", "acredita", "em", "si", ",", "pode", "crescer"],
+        "past": ["Se", "ela", "acreditava", "em", "si", ",", "podia", "crescer"],
+        "future": ["Se", "ela", "acreditar", "em", "si", ",", "crescerá"]
+      }
+    },
+
+    {
+      "id": 38,
+      "english": {
+        "present": "We are strong because we keep trying",
+        "past": "We were strong because we kept trying",
+        "future": "We will be strong because we will keep trying"
+      },
+      "portuguese": {
+        "present": ["Nós", "somos", "fortes", "porque", "continuamos", "tentando"],
+        "past": ["Nós", "éramos", "fortes", "porque", "continuávamos", "tentando"],
+        "future": ["Nós", "seremos", "fortes", "porque", "continuaremos", "tentando"]
+      }
+    },
+
+    {
+      "id": 39,
+      "english": {
+        "present": "If I fail, I will learn from it",
+        "past": "If I failed, I learned from it",
+        "future": "If I fail, I will learn from it"
+      },
+      "portuguese": {
+        "present": ["Se", "eu", "falho", ",", "aprendo", "com", "isso"],
+        "past": ["Se", "eu", "falhava", ",", "aprendia", "com", "isso"],
+        "future": ["Se", "eu", "falhar", ",", "aprenderei", "com", "isso"]
+      }
+    },
+
+    {
+      "id": 40,
+      "english": {
+        "present": "I improve because I practice every day",
+        "past": "I improved because I practiced every day",
+        "future": "I will improve because I will practice every day"
+      },
+      "portuguese": {
+        "present": ["Eu", "melhoro", "porque", "pratico", "todos", "os", "dias"],
+        "past": ["Eu", "melhorei", "porque", "pratiquei", "todos", "os", "dias"],
+        "future": ["Eu", "melhorarei", "porque", "praticarei", "todos", "os", "dias"]
+      }
+    },
+
+    {
+      "id": 41,
+      "english": {
+        "present": "I think that life is beautiful",
+        "past": "I thought that life was beautiful",
+        "future": "I will think that life is beautiful"
+      },
+      "portuguese": {
+        "present": ["Eu", "acho", "que", "a", "vida", "é", "bonita"],
+        "past": ["Eu", "achei", "que", "a", "vida", "era", "bonita"],
+        "future": ["Eu", "acharei", "que", "a", "vida", "é", "bonita"]
+      }
+    },
+
+    {
+      "id": 42,
+      "english": {
+        "present": "In my opinion, this is important",
+        "past": "In my opinion, this was important",
+        "future": "In my opinion, this will be important"
+      },
+      "portuguese": {
+        "present": ["Na", "minha", "opinião", ",", "isso", "é", "importante"],
+        "past": ["Na", "minha", "opinião", ",", "isso", "era", "importante"],
+        "future": ["Na", "minha", "opinião", ",", "isso", "será", "importante"]
+      }
+    },
+
+    {
+      "id": 43,
+      "english": {
+        "present": "I believe that everything has a reason",
+        "past": "I believed that everything had a reason",
+        "future": "I will believe that everything has a reason"
+      },
+      "portuguese": {
+        "present": ["Eu", "acredito", "que", "tudo", "tem", "uma", "razão"],
+        "past": ["Eu", "acreditei", "que", "tudo", "tinha", "uma", "razão"],
+        "future": ["Eu", "acreditarei", "que", "tudo", "tem", "uma", "razão"]
+      }
+    },
+
+    {
+      "id": 44,
+      "english": {
+        "present": "I feel that I am changing",
+        "past": "I felt that I was changing",
+        "future": "I will feel that I am changing"
+      },
+      "portuguese": {
+        "present": ["Eu", "sinto", "que", "estou", "mudando"],
+        "past": ["Eu", "senti", "que", "estava", "mudando"],
+        "future": ["Eu", "sentirei", "que", "estou", "mudando"]
+      }
+    },
+
+    {
+      "id": 45,
+      "english": {
+        "present": "Sometimes, I wonder about life",
+        "past": "Sometimes, I wondered about life",
+        "future": "Sometimes, I will wonder about life"
+      },
+      "portuguese": {
+        "present": ["Às", "vezes", ",", "eu", "me", "pergunto", "sobre", "a", "vida"],
+        "past": ["Às", "vezes", ",", "eu", "me", "perguntava", "sobre", "a", "vida"],
+        "future": ["Às", "vezes", ",", "eu", "me", "perguntarei", "sobre", "a", "vida"]
+      }
+    },
+
+    {
+      "id": 46,
+      "english": {
+        "present": "The more I learn, the more I understand",
+        "past": "The more I learned, the more I understood",
+        "future": "The more I learn, the more I will understand"
+      },
+      "portuguese": {
+        "present": ["Quanto", "mais", "eu", "aprendo", ",", "mais", "eu", "entendo"],
+        "past": ["Quanto", "mais", "eu", "aprendia", ",", "mais", "eu", "entendia"],
+        "future": ["Quanto", "mais", "eu", "aprender", ",", "mais", "eu", "entenderei"]
+      }
+    },
+
+    {
+      "id": 47,
+      "english": {
+        "present": "I realize that change is necessary",
+        "past": "I realized that change was necessary",
+        "future": "I will realize that change is necessary"
+      },
+      "portuguese": {
+        "present": ["Eu", "percebo", "que", "a", "mudança", "é", "necessária"],
+        "past": ["Eu", "percebi", "que", "a", "mudança", "era", "necessária"],
+        "future": ["Eu", "perceberei", "que", "a", "mudança", "é", "necessária"]
+      }
+    },
+
+    {
+      "id": 48,
+      "english": {
+        "present": "Life teaches us many things",
+        "past": "Life taught us many things",
+        "future": "Life will teach us many things"
+      },
+      "portuguese": {
+        "present": ["A", "vida", "nos", "ensina", "muitas", "coisas"],
+        "past": ["A", "vida", "nos", "ensinou", "muitas", "coisas"],
+        "future": ["A", "vida", "nos", "ensinará", "muitas", "coisas"]
+      }
+    },
+
+    {
+      "id": 49,
+      "english": {
+        "present": "I accept that not everything is under my control",
+        "past": "I accepted that not everything was under my control",
+        "future": "I will accept that not everything is under my control"
+      },
+      "portuguese": {
+        "present": ["Eu", "aceito", "que", "nem", "tudo", "está", "sob", "meu", "controle"],
+        "past": ["Eu", "aceitei", "que", "nem", "tudo", "estava", "sob", "meu", "controle"],
+        "future": ["Eu", "aceitarei", "que", "nem", "tudo", "está", "sob", "meu", "controle"]
+      }
+    },
+
+    {
+      "id": 50,
+      "english": {
+        "present": "I create my own path",
+        "past": "I created my own path",
+        "future": "I will create my own path"
+      },
+      "portuguese": {
+        "present": ["Eu", "crio", "meu", "próprio", "caminho"],
+        "past": ["Eu", "criei", "meu", "próprio", "caminho"],
+        "future": ["Eu", "criarei", "meu", "próprio", "caminho"]
+      }
+    }
+
+  ]
+}
