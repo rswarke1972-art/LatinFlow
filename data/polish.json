@@ -1,0 +1,7491 @@
+{
+  "language": "Polish",
+  "stories": {
+    "story1": {
+      "title": "w kawiarni",
+      "content": [
+        {
+          "word": "Codziennie",
+          "meaning": "every day",
+          "sound": "cod-zi-en-ni-e"
+        },
+        {
+          "word": "rano",
+          "meaning": "in the morning",
+          "sound": "ra-no"
+        },
+        {
+          "word": "chodzę",
+          "meaning": "i'm walking",
+          "sound": "chod-zę"
+        },
+        {
+          "word": "do",
+          "meaning": "to",
+          "sound": "do"
+        },
+        {
+          "word": "małej",
+          "meaning": "little one",
+          "sound": "ma-łej"
+        },
+        {
+          "word": "kawiarni",
+          "meaning": "cafe",
+          "sound": "ka-wi-ar-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kawiarnia",
+          "meaning": "cafe",
+          "sound": "ka-wi-ar-ni-a"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "blisko",
+          "meaning": "close",
+          "sound": "blis-ko"
+        },
+        {
+          "word": "mojego",
+          "meaning": "mine",
+          "sound": "mo-je-go"
+        },
+        {
+          "word": "domu",
+          "meaning": "home",
+          "sound": "do-mu"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "cicho",
+          "meaning": "quietly",
+          "sound": "cic-ho"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Zawsze",
+          "meaning": "always",
+          "sound": "zaw-sze"
+        },
+        {
+          "word": "siadam",
+          "meaning": "i sit down",
+          "sound": "si-a-dam"
+        },
+        {
+          "word": "przy",
+          "meaning": "at",
+          "sound": "przy"
+        },
+        {
+          "word": "oknie",
+          "meaning": "window",
+          "sound": "ok-ni-e"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zamawiam",
+          "meaning": "i order",
+          "sound": "za-ma-wi-am"
+        },
+        {
+          "word": "gorącą",
+          "meaning": "hot",
+          "sound": "go-rą-cą"
+        },
+        {
+          "word": "kawę",
+          "meaning": "coffee",
+          "sound": "ka-wę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kelner",
+          "meaning": "waiter",
+          "sound": "kel-ner"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "przyjazny",
+          "meaning": "friendly",
+          "sound": "przy-jaz-ny"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zawsze",
+          "meaning": "always",
+          "sound": "zaw-sze"
+        },
+        {
+          "word": "wita",
+          "meaning": "welcomes",
+          "sound": "wi-ta"
+        },
+        {
+          "word": "mnie",
+          "meaning": "me",
+          "sound": "mni-e"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "uśmiechem",
+          "meaning": "smile",
+          "sound": "uś-mi-ec-hem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Czasem",
+          "meaning": "sometimes",
+          "sound": "cza-sem"
+        },
+        {
+          "word": "czytam",
+          "meaning": "i'm reading",
+          "sound": "czy-tam"
+        },
+        {
+          "word": "ciekawą",
+          "meaning": "interesting",
+          "sound": "ci-e-ka-wą"
+        },
+        {
+          "word": "książkę",
+          "meaning": "book",
+          "sound": "ksi-ąż-kę"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "innym",
+          "meaning": "others",
+          "sound": "in-nym"
+        },
+        {
+          "word": "razem",
+          "meaning": "together",
+          "sound": "ra-zem"
+        },
+        {
+          "word": "piszę",
+          "meaning": "i'm writing",
+          "sound": "pis-zę"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "notesie",
+          "meaning": "notebook",
+          "sound": "no-te-si-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dzisiaj",
+          "meaning": "today",
+          "sound": "dzi-si-aj"
+        },
+        {
+          "word": "widzę",
+          "meaning": "i see",
+          "sound": "wid-zę"
+        },
+        {
+          "word": "nową",
+          "meaning": "new",
+          "sound": "no-wą"
+        },
+        {
+          "word": "osobę",
+          "meaning": "person",
+          "sound": "o-so-bę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ona",
+          "meaning": "she",
+          "sound": "o-na"
+        },
+        {
+          "word": "czyta",
+          "meaning": "reads",
+          "sound": "czy-ta"
+        },
+        {
+          "word": "powieść",
+          "meaning": "novel",
+          "sound": "po-wi-eść"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "pije",
+          "meaning": "drinks",
+          "sound": "pi-je"
+        },
+        {
+          "word": "herbatę",
+          "meaning": "tea",
+          "sound": "her-ba-tę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jestem",
+          "meaning": "i am",
+          "sound": "jes-tem"
+        },
+        {
+          "word": "ciekawy",
+          "meaning": "interesting",
+          "sound": "ci-e-ka-wy"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "trochę",
+          "meaning": "a little",
+          "sound": "troc-hę"
+        },
+        {
+          "word": "nieśmiały",
+          "meaning": "shy",
+          "sound": "ni-eś-mi-a-ły"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Po",
+          "meaning": "after",
+          "sound": "po"
+        },
+        {
+          "word": "kilku",
+          "meaning": "several",
+          "sound": "kil-ku"
+        },
+        {
+          "word": "minutach",
+          "meaning": "minutes",
+          "sound": "mi-nu-tach"
+        },
+        {
+          "word": "mówię",
+          "meaning": "i say",
+          "sound": "mó-wi-ę"
+        },
+        {
+          "word": "cześć",
+          "meaning": "hello",
+          "sound": "cześć"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ona",
+          "meaning": "she",
+          "sound": "o-na"
+        },
+        {
+          "word": "odpowiada",
+          "meaning": "replies",
+          "sound": "od-po-wi-a-da"
+        },
+        {
+          "word": "uśmiechem",
+          "meaning": "smile",
+          "sound": "uś-mi-ec-hem"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zaczynamy",
+          "meaning": "here we go",
+          "sound": "zac-zy-na-my"
+        },
+        {
+          "word": "rozmawiać",
+          "meaning": "talk",
+          "sound": "roz-ma-wi-ać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Czuję",
+          "meaning": "i feel it",
+          "sound": "czu-ję"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "szczęśliwy",
+          "meaning": "happy",
+          "sound": "szczęś-li-wy"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zrelaksowany",
+          "meaning": "relaxed",
+          "sound": "zre-lak-so-wa-ny"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "w parku",
+      "content": [
+        {
+          "word": "Dzisiaj",
+          "meaning": "today",
+          "sound": "dzi-si-aj"
+        },
+        {
+          "word": "idę",
+          "meaning": "i'm coming",
+          "sound": "i-dę"
+        },
+        {
+          "word": "do",
+          "meaning": "to",
+          "sound": "do"
+        },
+        {
+          "word": "parku",
+          "meaning": "park",
+          "sound": "par-ku"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "moją",
+          "meaning": "mine",
+          "sound": "mo-ją"
+        },
+        {
+          "word": "przyjaciółką",
+          "meaning": "friend",
+          "sound": "przy-ja-ci-ół-ką"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pogoda",
+          "meaning": "weather",
+          "sound": "po-go-da"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "przyjemna",
+          "meaning": "pleasant",
+          "sound": "przy-jem-na"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "świeci",
+          "meaning": "lights up",
+          "sound": "świ-e-ci"
+        },
+        {
+          "word": "słońce",
+          "meaning": "sun",
+          "sound": "słoń-ce"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Widzę",
+          "meaning": "i see",
+          "sound": "wid-zę"
+        },
+        {
+          "word": "wielu",
+          "meaning": "many",
+          "sound": "wi-e-lu"
+        },
+        {
+          "word": "ludzi",
+          "meaning": "people",
+          "sound": "lud-zi"
+        },
+        {
+          "word": "spacerujących",
+          "meaning": "walking",
+          "sound": "spa-ce-ru-ją-cych"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "śmiejących",
+          "meaning": "laughing",
+          "sound": "śmi-e-ją-cych"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Niektóre",
+          "meaning": "some",
+          "sound": "ni-ek-tó-re"
+        },
+        {
+          "word": "dzieci",
+          "meaning": "children",
+          "sound": "dzi-e-ci"
+        },
+        {
+          "word": "bawią",
+          "meaning": "they entertain",
+          "sound": "ba-wi-ą"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "piłką",
+          "meaning": "ball",
+          "sound": "pił-ką"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "inne",
+          "meaning": "other",
+          "sound": "in-ne"
+        },
+        {
+          "word": "szybko",
+          "meaning": "quickly",
+          "sound": "szyb-ko"
+        },
+        {
+          "word": "biegają",
+          "meaning": "they run",
+          "sound": "bi-e-ga-ją"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Razem",
+          "meaning": "together",
+          "sound": "ra-zem"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "kolegą",
+          "meaning": "friend",
+          "sound": "ko-le-gą"
+        },
+        {
+          "word": "usiedliśmy",
+          "meaning": "we sat down",
+          "sound": "u-si-e-dliś-my"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "ławce",
+          "meaning": "bench",
+          "sound": "ław-ce"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rozmawialiśmy",
+          "meaning": "we talked",
+          "sound": "roz-ma-wi-a-liś-my"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "naszym",
+          "meaning": "ours",
+          "sound": "nas-zym"
+        },
+        {
+          "word": "życiu",
+          "meaning": "life",
+          "sound": "ży-ci-u"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dużo",
+          "meaning": "a lot",
+          "sound": "du-żo"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "śmialiśmy",
+          "meaning": "we dared",
+          "sound": "śmi-a-liś-my"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Następnie",
+          "meaning": "then",
+          "sound": "nas-tęp-ni-e"
+        },
+        {
+          "word": "kupiliśmy",
+          "meaning": "we bought",
+          "sound": "ku-pi-liś-my"
+        },
+        {
+          "word": "lody",
+          "meaning": "ice cream",
+          "sound": "lo-dy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dzień",
+          "meaning": "day",
+          "sound": "dzi-eń"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "prosty",
+          "meaning": "simple",
+          "sound": "pros-ty"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "piękny",
+          "meaning": "beautiful",
+          "sound": "pi-ęk-ny"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "w bibliotece",
+      "content": [
+        {
+          "word": "Dzisiaj",
+          "meaning": "today",
+          "sound": "dzi-si-aj"
+        },
+        {
+          "word": "idę",
+          "meaning": "i'm coming",
+          "sound": "i-dę"
+        },
+        {
+          "word": "do",
+          "meaning": "to",
+          "sound": "do"
+        },
+        {
+          "word": "biblioteki",
+          "meaning": "libraries",
+          "sound": "bi-bli-o-te-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "To",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "ciche",
+          "meaning": "quiet",
+          "sound": "cic-he"
+        },
+        {
+          "word": "miejsce",
+          "meaning": "place",
+          "sound": "mi-ej-sce"
+        },
+        {
+          "word": "pełne",
+          "meaning": "full",
+          "sound": "peł-ne"
+        },
+        {
+          "word": "książek",
+          "meaning": "books",
+          "sound": "ksi-ą-żek"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lubię",
+          "meaning": "i like it",
+          "sound": "lu-bi-ę"
+        },
+        {
+          "word": "czytać",
+          "meaning": "read",
+          "sound": "czy-tać"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "uczyć",
+          "meaning": "teach",
+          "sound": "uc-zyć"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "nowych",
+          "meaning": "new ones",
+          "sound": "no-wych"
+        },
+        {
+          "word": "rzeczy",
+          "meaning": "things",
+          "sound": "rzec-zy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poszukuję",
+          "meaning": "i'm looking",
+          "sound": "pos-zu-ku-ję"
+        },
+        {
+          "word": "ciekawej",
+          "meaning": "interesting",
+          "sound": "ci-e-ka-wej"
+        },
+        {
+          "word": "książki",
+          "meaning": "books",
+          "sound": "ksi-ąż-ki"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "historii",
+          "meaning": "history",
+          "sound": "his-to-ri-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Potem",
+          "meaning": "then",
+          "sound": "po-tem"
+        },
+        {
+          "word": "siadam",
+          "meaning": "i sit down",
+          "sound": "si-a-dam"
+        },
+        {
+          "word": "przy",
+          "meaning": "at",
+          "sound": "przy"
+        },
+        {
+          "word": "stole",
+          "meaning": "table",
+          "sound": "sto-le"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zaczynam",
+          "meaning": "i'm starting",
+          "sound": "zac-zy-nam"
+        },
+        {
+          "word": "czytać",
+          "meaning": "read",
+          "sound": "czy-tać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Są",
+          "meaning": "they are",
+          "sound": "są"
+        },
+        {
+          "word": "inni",
+          "meaning": "others",
+          "sound": "in-ni"
+        },
+        {
+          "word": "ludzie",
+          "meaning": "people",
+          "sound": "lud-zi-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "którzy",
+          "meaning": "who",
+          "sound": "któr-zy"
+        },
+        {
+          "word": "studiują",
+          "meaning": "they are studying",
+          "sound": "stu-di-u-ją"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "piszą",
+          "meaning": "they write",
+          "sound": "pis-zą"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Atmosfera",
+          "meaning": "atmosphere",
+          "sound": "at-mos-fe-ra"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "cicha",
+          "meaning": "quiet",
+          "sound": "cic-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Po",
+          "meaning": "after",
+          "sound": "po"
+        },
+        {
+          "word": "chwili",
+          "meaning": "moment",
+          "sound": "chwi-li"
+        },
+        {
+          "word": "zamykam",
+          "meaning": "i'm closing",
+          "sound": "za-my-kam"
+        },
+        {
+          "word": "książkę",
+          "meaning": "book",
+          "sound": "ksi-ąż-kę"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "czuję",
+          "meaning": "i feel",
+          "sound": "czu-ję"
+        },
+        {
+          "word": "satysfakcję",
+          "meaning": "satisfaction",
+          "sound": "sa-tys-fak-cję"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "w sklepie",
+      "content": [
+        {
+          "word": "Dzisiaj",
+          "meaning": "today",
+          "sound": "dzi-si-aj"
+        },
+        {
+          "word": "idę",
+          "meaning": "i'm coming",
+          "sound": "i-dę"
+        },
+        {
+          "word": "do",
+          "meaning": "to",
+          "sound": "do"
+        },
+        {
+          "word": "dużego",
+          "meaning": "big",
+          "sound": "du-że-go"
+        },
+        {
+          "word": "sklepu",
+          "meaning": "store",
+          "sound": "skle-pu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "żeby",
+          "meaning": "so that",
+          "sound": "że-by"
+        },
+        {
+          "word": "kupić",
+          "meaning": "buy",
+          "sound": "ku-pić"
+        },
+        {
+          "word": "jedzenie",
+          "meaning": "food",
+          "sound": "jed-ze-ni-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Potrzebuję",
+          "meaning": "i need it",
+          "sound": "pot-rze-bu-ję"
+        },
+        {
+          "word": "chleba",
+          "meaning": "bread",
+          "sound": "chle-ba"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mleka",
+          "meaning": "milk",
+          "sound": "mle-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "owoców",
+          "meaning": "fruit",
+          "sound": "o-wo-ców"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "warzyw",
+          "meaning": "vegetables",
+          "sound": "war-zyw"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "W",
+          "meaning": "w",
+          "sound": "w"
+        },
+        {
+          "word": "sklepie",
+          "meaning": "store",
+          "sound": "skle-pi-e"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "pełno",
+          "meaning": "full",
+          "sound": "peł-no"
+        },
+        {
+          "word": "ludzi",
+          "meaning": "people",
+          "sound": "lud-zi"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "panuje",
+          "meaning": "prevails",
+          "sound": "pa-nu-je"
+        },
+        {
+          "word": "duży",
+          "meaning": "big",
+          "sound": "du-ży"
+        },
+        {
+          "word": "hałas",
+          "meaning": "noise",
+          "sound": "ha-łas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Szukam",
+          "meaning": "i'm looking",
+          "sound": "szu-kam"
+        },
+        {
+          "word": "produktów",
+          "meaning": "products",
+          "sound": "pro-duk-tów"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "półkach",
+          "meaning": "shelves",
+          "sound": "pół-kach"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kobieta",
+          "meaning": "woman",
+          "sound": "ko-bi-e-ta"
+        },
+        {
+          "word": "pyta",
+          "meaning": "he asks",
+          "sound": "py-ta"
+        },
+        {
+          "word": "mnie",
+          "meaning": "me",
+          "sound": "mni-e"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gdzie",
+          "meaning": "where",
+          "sound": "gdzi-e"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "mleko",
+          "meaning": "milk",
+          "sound": "mle-ko"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mówię",
+          "meaning": "i say",
+          "sound": "mó-wi-ę"
+        },
+        {
+          "word": "mu",
+          "meaning": "him",
+          "sound": "mu"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jest",
+          "meaning": "it is",
+          "sound": "jest"
+        },
+        {
+          "word": "tam",
+          "meaning": "there",
+          "sound": "tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "obok",
+          "meaning": "next door",
+          "sound": "o-bok"
+        },
+        {
+          "word": "chleba",
+          "meaning": "bread",
+          "sound": "chle-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uśmiecha",
+          "meaning": "he smiles",
+          "sound": "uś-mi-ec-ha"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "mówi",
+          "meaning": "he says",
+          "sound": "mó-wi"
+        },
+        {
+          "word": "dziękuję",
+          "meaning": "thank you",
+          "sound": "dzi-ę-ku-ję"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Potem",
+          "meaning": "then",
+          "sound": "po-tem"
+        },
+        {
+          "word": "idę",
+          "meaning": "i'm coming",
+          "sound": "i-dę"
+        },
+        {
+          "word": "do",
+          "meaning": "to",
+          "sound": "do"
+        },
+        {
+          "word": "kasy",
+          "meaning": "cash register",
+          "sound": "ka-sy"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "płacę",
+          "meaning": "i pay",
+          "sound": "pła-cę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wychodzę",
+          "meaning": "i'm leaving",
+          "sound": "wyc-hod-zę"
+        },
+        {
+          "word": "ze",
+          "meaning": "with",
+          "sound": "ze"
+        },
+        {
+          "word": "sklepu",
+          "meaning": "store",
+          "sound": "skle-pu"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "pełną",
+          "meaning": "full",
+          "sound": "peł-ną"
+        },
+        {
+          "word": "torbą",
+          "meaning": "bag",
+          "sound": "tor-bą"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "jestem",
+          "meaning": "i am",
+          "sound": "jes-tem"
+        },
+        {
+          "word": "zadowolona",
+          "meaning": "satisfied",
+          "sound": "za-do-wo-lo-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "w autobusie",
+      "content": [
+        {
+          "word": "Dzisiaj",
+          "meaning": "today",
+          "sound": "dzi-si-aj"
+        },
+        {
+          "word": "jeżdżę",
+          "meaning": "i drive",
+          "sound": "jeż-dżę"
+        },
+        {
+          "word": "autobusem",
+          "meaning": "by bus",
+          "sound": "a-u-to-bu-sem"
+        },
+        {
+          "word": "do",
+          "meaning": "to",
+          "sound": "do"
+        },
+        {
+          "word": "pracy",
+          "meaning": "work",
+          "sound": "pra-cy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Autobus",
+          "meaning": "bus",
+          "sound": "a-u-to-bus"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "pełny",
+          "meaning": "full",
+          "sound": "peł-ny"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "ma",
+          "meaning": "has",
+          "sound": "ma"
+        },
+        {
+          "word": "zbyt",
+          "meaning": "too",
+          "sound": "zbyt"
+        },
+        {
+          "word": "wiele",
+          "meaning": "many",
+          "sound": "wi-e-le"
+        },
+        {
+          "word": "miejsca",
+          "meaning": "places",
+          "sound": "mi-ej-sca"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Czuję",
+          "meaning": "i feel it",
+          "sound": "czu-ję"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "trochę",
+          "meaning": "a little",
+          "sound": "troc-hę"
+        },
+        {
+          "word": "zmęczony",
+          "meaning": "tired",
+          "sound": "zmęc-zo-ny"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "widzę",
+          "meaning": "i see",
+          "sound": "wid-zę"
+        },
+        {
+          "word": "starszą",
+          "meaning": "older",
+          "sound": "star-szą"
+        },
+        {
+          "word": "osobę",
+          "meaning": "person",
+          "sound": "o-so-bę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oferuję",
+          "meaning": "i offer",
+          "sound": "o-fe-ru-ję"
+        },
+        {
+          "word": "ci",
+          "meaning": "you",
+          "sound": "ci"
+        },
+        {
+          "word": "moje",
+          "meaning": "mine",
+          "sound": "mo-je"
+        },
+        {
+          "word": "miejsce",
+          "meaning": "place",
+          "sound": "mi-ej-sce"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mówi",
+          "meaning": "he says",
+          "sound": "mó-wi"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jesteś",
+          "meaning": "you are",
+          "sound": "jes-teś"
+        },
+        {
+          "word": "pewien",
+          "meaning": "sure",
+          "sound": "pe-wi-en"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Odpowiadam",
+          "meaning": "i answer",
+          "sound": "od-po-wi-a-dam"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tak",
+          "meaning": "yes",
+          "sound": "tak"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "ma",
+          "meaning": "has",
+          "sound": "ma"
+        },
+        {
+          "word": "problemu",
+          "meaning": "problem",
+          "sound": "pro-ble-mu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uśmiecha",
+          "meaning": "he smiles",
+          "sound": "uś-mi-ec-ha"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dziękuje",
+          "meaning": "thank you",
+          "sound": "dzi-ę-ku-je"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Podczas",
+          "meaning": "during",
+          "sound": "pod-czas"
+        },
+        {
+          "word": "podróży",
+          "meaning": "travel",
+          "sound": "po-dró-ży"
+        },
+        {
+          "word": "patrzę",
+          "meaning": "i'm looking",
+          "sound": "pat-rzę"
+        },
+        {
+          "word": "przez",
+          "meaning": "by",
+          "sound": "przez"
+        },
+        {
+          "word": "okno",
+          "meaning": "window",
+          "sound": "ok-no"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "myślę",
+          "meaning": "i think",
+          "sound": "myś-lę"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "moim",
+          "meaning": "mine",
+          "sound": "mo-im"
+        },
+        {
+          "word": "dniu",
+          "meaning": "day",
+          "sound": "dni-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mimo",
+          "meaning": "despite",
+          "sound": "mi-mo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "jestem",
+          "meaning": "i am",
+          "sound": "jes-tem"
+        },
+        {
+          "word": "zmęczony",
+          "meaning": "tired",
+          "sound": "zmęc-zo-ny"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "miło",
+          "meaning": "nice",
+          "sound": "mi-ło"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "pomagać",
+          "meaning": "help",
+          "sound": "po-ma-gać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Wczoraj na plaży",
+      "content": [
+        {
+          "word": "Wczoraj",
+          "meaning": "yesterday",
+          "sound": "wczo-raj"
+        },
+        {
+          "word": "poszłam",
+          "meaning": "i went",
+          "sound": "pos-złam"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "przyjaciółmi",
+          "meaning": "friends",
+          "sound": "przy-ja-ci-ół-mi"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "plażę",
+          "meaning": "beach",
+          "sound": "pla-żę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pogoda",
+          "meaning": "weather",
+          "sound": "po-go-da"
+        },
+        {
+          "word": "była",
+          "meaning": "she was",
+          "sound": "by-ła"
+        },
+        {
+          "word": "idealna",
+          "meaning": "perfect",
+          "sound": "i-de-al-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "morze",
+          "meaning": "sea",
+          "sound": "mor-ze"
+        },
+        {
+          "word": "spokojne",
+          "meaning": "calm",
+          "sound": "spo-koj-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Spacerowaliśmy",
+          "meaning": "we walked",
+          "sound": "spa-ce-ro-wa-liś-my"
+        },
+        {
+          "word": "po",
+          "meaning": "after",
+          "sound": "po"
+        },
+        {
+          "word": "piasku",
+          "meaning": "sand",
+          "sound": "pi-as-ku"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "rozmawialiśmy",
+          "meaning": "we talked",
+          "sound": "roz-ma-wi-a-liś-my"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "wielu",
+          "meaning": "many",
+          "sound": "wi-e-lu"
+        },
+        {
+          "word": "rzeczach",
+          "meaning": "things",
+          "sound": "rzec-zach"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Następnie",
+          "meaning": "then",
+          "sound": "nas-tęp-ni-e"
+        },
+        {
+          "word": "pływaliśmy",
+          "meaning": "we swam",
+          "sound": "pły-wa-liś-my"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "zimnej",
+          "meaning": "cold",
+          "sound": "zim-nej"
+        },
+        {
+          "word": "wodzie",
+          "meaning": "water",
+          "sound": "wod-zi-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Na",
+          "meaning": "na",
+          "sound": "na"
+        },
+        {
+          "word": "początku",
+          "meaning": "beginning",
+          "sound": "poc-ząt-ku"
+        },
+        {
+          "word": "trochę",
+          "meaning": "a little",
+          "sound": "troc-hę"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "bałam",
+          "meaning": "i was afraid",
+          "sound": "ba-łam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "potem",
+          "meaning": "then",
+          "sound": "po-tem"
+        },
+        {
+          "word": "poczułam",
+          "meaning": "i felt",
+          "sound": "poc-zu-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "świetnie",
+          "meaning": "great",
+          "sound": "świ-et-ni-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Graliśmy",
+          "meaning": "we played",
+          "sound": "gra-liś-my"
+        },
+        {
+          "word": "też",
+          "meaning": "too",
+          "sound": "też"
+        },
+        {
+          "word": "piłką",
+          "meaning": "ball",
+          "sound": "pił-ką"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dużo",
+          "meaning": "a lot",
+          "sound": "du-żo"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "śmialiśmy",
+          "meaning": "we dared",
+          "sound": "śmi-a-liś-my"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Po",
+          "meaning": "after",
+          "sound": "po"
+        },
+        {
+          "word": "południu",
+          "meaning": "noon",
+          "sound": "po-łud-ni-u"
+        },
+        {
+          "word": "zjedliśmy",
+          "meaning": "we ate",
+          "sound": "zje-dliś-my"
+        },
+        {
+          "word": "razem",
+          "meaning": "together",
+          "sound": "ra-zem"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "obejrzeliśmy",
+          "meaning": "we watched",
+          "sound": "o-bej-rze-liś-my"
+        },
+        {
+          "word": "zachód",
+          "meaning": "west",
+          "sound": "zac-hód"
+        },
+        {
+          "word": "słońca",
+          "meaning": "sun",
+          "sound": "słoń-ca"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "To",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "był",
+          "meaning": "was",
+          "sound": "był"
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "wyjątkowy",
+          "meaning": "unique",
+          "sound": "wy-jąt-ko-wy"
+        },
+        {
+          "word": "dzień",
+          "meaning": "day",
+          "sound": "dzi-eń"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "nigdy",
+          "meaning": "never",
+          "sound": "nig-dy"
+        },
+        {
+          "word": "go",
+          "meaning": "him",
+          "sound": "go"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "zapomnę",
+          "meaning": "i'll forget",
+          "sound": "za-pom-nę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Ważna rozmowa",
+      "content": [
+        {
+          "word": "Dzisiaj",
+          "meaning": "today",
+          "sound": "dzi-si-aj"
+        },
+        {
+          "word": "spotkałem",
+          "meaning": "i met",
+          "sound": "spot-ka-łem"
+        },
+        {
+          "word": "starego",
+          "meaning": "old",
+          "sound": "sta-re-go"
+        },
+        {
+          "word": "znajomego",
+          "meaning": "friend",
+          "sound": "zna-jo-me-go"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "kawiarni",
+          "meaning": "cafe",
+          "sound": "ka-wi-ar-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dawno",
+          "meaning": "once upon a time",
+          "sound": "daw-no"
+        },
+        {
+          "word": "go",
+          "meaning": "him",
+          "sound": "go"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "widziałem",
+          "meaning": "i saw",
+          "sound": "wid-zi-a-łem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "więc",
+          "meaning": "so",
+          "sound": "wi-ęc"
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "ucieszyłem",
+          "meaning": "i was happy",
+          "sound": "u-ci-es-zy-łem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "go",
+          "meaning": "him",
+          "sound": "go"
+        },
+        {
+          "word": "zobaczyłem",
+          "meaning": "i saw",
+          "sound": "zo-bac-zy-łem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Usiedliśmy",
+          "meaning": "we sat down",
+          "sound": "u-si-e-dliś-my"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zaczęliśmy",
+          "meaning": "we started",
+          "sound": "zac-zę-liś-my"
+        },
+        {
+          "word": "rozmawiać",
+          "meaning": "talk",
+          "sound": "roz-ma-wi-ać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Powiedział",
+          "meaning": "he said",
+          "sound": "po-wi-ed-zi-ał"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "teraz",
+          "meaning": "now",
+          "sound": "te-raz"
+        },
+        {
+          "word": "mieszka",
+          "meaning": "lives",
+          "sound": "mi-es-zka"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "innym",
+          "meaning": "others",
+          "sound": "in-nym"
+        },
+        {
+          "word": "mieście",
+          "meaning": "city",
+          "sound": "mi-eś-ci-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pracuje",
+          "meaning": "he works",
+          "sound": "pra-cu-je"
+        },
+        {
+          "word": "też",
+          "meaning": "too",
+          "sound": "też"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "dużej",
+          "meaning": "large",
+          "sound": "du-żej"
+        },
+        {
+          "word": "firmie",
+          "meaning": "company",
+          "sound": "fir-mi-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Opowiedziałam",
+          "meaning": "i told it",
+          "sound": "o-po-wi-ed-zi-a-łam"
+        },
+        {
+          "word": "mu",
+          "meaning": "him",
+          "sound": "mu"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "moich",
+          "meaning": "mine",
+          "sound": "mo-ich"
+        },
+        {
+          "word": "studiach",
+          "meaning": "studies",
+          "sound": "stu-di-ach"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "planach",
+          "meaning": "plans",
+          "sound": "pla-nach"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rozmawialiśmy",
+          "meaning": "we talked",
+          "sound": "roz-ma-wi-a-liś-my"
+        },
+        {
+          "word": "godzinami",
+          "meaning": "for hours",
+          "sound": "god-zi-na-mi"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "wspominaliśmy",
+          "meaning": "we mentioned",
+          "sound": "wspo-mi-na-liś-my"
+        },
+        {
+          "word": "wiele",
+          "meaning": "many",
+          "sound": "wi-e-le"
+        },
+        {
+          "word": "chwil",
+          "meaning": "moments",
+          "sound": "chwil"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Przed",
+          "meaning": "before",
+          "sound": "przed"
+        },
+        {
+          "word": "wyjazdem",
+          "meaning": "departure",
+          "sound": "wy-jaz-dem"
+        },
+        {
+          "word": "powiedział",
+          "meaning": "he said",
+          "sound": "po-wi-ed-zi-ał"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Powinniśmy",
+          "meaning": "we should",
+          "sound": "po-win-niś-my"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "częściej",
+          "meaning": "more often",
+          "sound": "częś-ci-ej"
+        },
+        {
+          "word": "widywać",
+          "meaning": "see",
+          "sound": "wi-dy-wać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uśmiechnąłem",
+          "meaning": "i smiled",
+          "sound": "uś-mi-ec-hną-łem"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "odpowiedziałem",
+          "meaning": "i replied",
+          "sound": "od-po-wi-ed-zi-a-łem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jasne",
+          "meaning": "sure",
+          "sound": "jas-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "podobał",
+          "meaning": "liked it",
+          "sound": "po-do-bał"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "ten",
+          "meaning": "this one",
+          "sound": "ten"
+        },
+        {
+          "word": "dzień",
+          "meaning": "day",
+          "sound": "dzi-eń"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Trudna decyzja",
+      "content": [
+        {
+          "word": "Kilka",
+          "meaning": "several",
+          "sound": "kil-ka"
+        },
+        {
+          "word": "dni",
+          "meaning": "days",
+          "sound": "dni"
+        },
+        {
+          "word": "temu",
+          "meaning": "ago",
+          "sound": "te-mu"
+        },
+        {
+          "word": "otrzymałem",
+          "meaning": "i received",
+          "sound": "ot-rzy-ma-łem"
+        },
+        {
+          "word": "ofertę",
+          "meaning": "offer",
+          "sound": "o-fer-tę"
+        },
+        {
+          "word": "pracy",
+          "meaning": "work",
+          "sound": "pra-cy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "To",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "było",
+          "meaning": "it was",
+          "sound": "by-ło"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "innym",
+          "meaning": "others",
+          "sound": "in-nym"
+        },
+        {
+          "word": "mieście",
+          "meaning": "city",
+          "sound": "mi-eś-ci-e"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "bardzo",
+          "meaning": "very much",
+          "sound": "bar-dzo"
+        },
+        {
+          "word": "ciekawe",
+          "meaning": "interesting",
+          "sound": "ci-e-ka-we"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Na",
+          "meaning": "na",
+          "sound": "na"
+        },
+        {
+          "word": "początku",
+          "meaning": "beginning",
+          "sound": "poc-ząt-ku"
+        },
+        {
+          "word": "byłem",
+          "meaning": "i was",
+          "sound": "by-łem"
+        },
+        {
+          "word": "podekscytowany",
+          "meaning": "excited",
+          "sound": "po-dek-scy-to-wa-ny"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zdenerwowany",
+          "meaning": "nervous",
+          "sound": "zde-ner-wo-wa-ny"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rozmawiałem",
+          "meaning": "i talked",
+          "sound": "roz-ma-wi-a-łem"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "rodziną",
+          "meaning": "family",
+          "sound": "rod-zi-ną"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "przyjaciółmi",
+          "meaning": "friends",
+          "sound": "przy-ja-ci-ół-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dali",
+          "meaning": "dali",
+          "sound": "da-li"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": "wiele",
+          "meaning": "many",
+          "sound": "wi-e-le"
+        },
+        {
+          "word": "rad",
+          "meaning": "council",
+          "sound": "rad"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Moja",
+          "meaning": "mine",
+          "sound": "mo-ja"
+        },
+        {
+          "word": "mama",
+          "meaning": "mom",
+          "sound": "ma-ma"
+        },
+        {
+          "word": "powiedziała",
+          "meaning": "she said",
+          "sound": "po-wi-ed-zi-a-ła"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Musisz",
+          "meaning": "you have to",
+          "sound": "mu-sisz"
+        },
+        {
+          "word": "podążać",
+          "meaning": "follow",
+          "sound": "po-dą-żać"
+        },
+        {
+          "word": "za",
+          "meaning": "a",
+          "sound": "za"
+        },
+        {
+          "word": "swoimi",
+          "meaning": "with their own",
+          "sound": "swo-i-mi"
+        },
+        {
+          "word": "marzeniami",
+          "meaning": "dreams",
+          "sound": "mar-ze-ni-a-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "mój",
+          "meaning": "mine",
+          "sound": "mój"
+        },
+        {
+          "word": "przyjaciel",
+          "meaning": "friend",
+          "sound": "przy-ja-ci-el"
+        },
+        {
+          "word": "zapytał",
+          "meaning": "he asked",
+          "sound": "za-py-tał"
+        },
+        {
+          "word": "mnie",
+          "meaning": "me",
+          "sound": "mni-e"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Czy",
+          "meaning": "is",
+          "sound": "czy"
+        },
+        {
+          "word": "jesteś",
+          "meaning": "you are",
+          "sound": "jes-teś"
+        },
+        {
+          "word": "pewien",
+          "meaning": "sure",
+          "sound": "pe-wi-en"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Spędziłem",
+          "meaning": "i spent",
+          "sound": "spęd-zi-łem"
+        },
+        {
+          "word": "kilka",
+          "meaning": "several",
+          "sound": "kil-ka"
+        },
+        {
+          "word": "dni",
+          "meaning": "days",
+          "sound": "dni"
+        },
+        {
+          "word": "rozmyślając",
+          "meaning": "thinking",
+          "sound": "roz-myś-la-jąc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "W",
+          "meaning": "w",
+          "sound": "w"
+        },
+        {
+          "word": "końcu",
+          "meaning": "finally",
+          "sound": "koń-cu"
+        },
+        {
+          "word": "zdecydowałem",
+          "meaning": "i decided",
+          "sound": "zde-cy-do-wa-łem"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "przyjąć",
+          "meaning": "accept",
+          "sound": "przy-jąć"
+        },
+        {
+          "word": "tę",
+          "meaning": "this one",
+          "sound": "tę"
+        },
+        {
+          "word": "pracę",
+          "meaning": "work",
+          "sound": "pra-cę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wiem",
+          "meaning": "i know",
+          "sound": "wi-em"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "to",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "będzie",
+          "meaning": "will be",
+          "sound": "będ-zi-e"
+        },
+        {
+          "word": "łatwe",
+          "meaning": "easy",
+          "sound": "łat-we"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "chcę",
+          "meaning": "i want",
+          "sound": "chcę"
+        },
+        {
+          "word": "spróbować",
+          "meaning": "try",
+          "sound": "spró-bo-wać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Kłótnia z przyjacielem",
+      "content": [
+        {
+          "word": "Wczoraj",
+          "meaning": "yesterday",
+          "sound": "wczo-raj"
+        },
+        {
+          "word": "pokłóciłam",
+          "meaning": "i argued",
+          "sound": "pok-łó-ci-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "moją",
+          "meaning": "mine",
+          "sound": "mo-ją"
+        },
+        {
+          "word": "najlepszą",
+          "meaning": "the best",
+          "sound": "naj-lep-szą"
+        },
+        {
+          "word": "przyjaciółką",
+          "meaning": "friend",
+          "sound": "przy-ja-ci-ół-ką"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wszystko",
+          "meaning": "everything",
+          "sound": "wszys-tko"
+        },
+        {
+          "word": "zaczęło",
+          "meaning": "it started",
+          "sound": "zac-zę-ło"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "rozmowy",
+          "meaning": "conversations",
+          "sound": "roz-mo-wy"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "naszych",
+          "meaning": "ours",
+          "sound": "nas-zych"
+        },
+        {
+          "word": "planach",
+          "meaning": "plans",
+          "sound": "pla-nach"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Chciałem",
+          "meaning": "i wanted to",
+          "sound": "chci-a-łem"
+        },
+        {
+          "word": "podróżować",
+          "meaning": "travel",
+          "sound": "po-dró-żo-wać"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "on",
+          "meaning": "he",
+          "sound": "on"
+        },
+        {
+          "word": "wolał",
+          "meaning": "preferred",
+          "sound": "wo-lał"
+        },
+        {
+          "word": "zostać",
+          "meaning": "stay",
+          "sound": "zos-tać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Powiedział",
+          "meaning": "he said",
+          "sound": "po-wi-ed-zi-ał"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "mamy",
+          "meaning": "we have",
+          "sound": "ma-my"
+        },
+        {
+          "word": "dość",
+          "meaning": "enough",
+          "sound": "dość"
+        },
+        {
+          "word": "pieniędzy",
+          "meaning": "money",
+          "sound": "pi-e-ni-ęd-zy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Odpowiedziałem",
+          "meaning": "i replied",
+          "sound": "od-po-wi-ed-zi-a-łem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Możemy",
+          "meaning": "we can",
+          "sound": "mo-że-my"
+        },
+        {
+          "word": "oszczędzać",
+          "meaning": "save",
+          "sound": "os-zczęd-zać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "on",
+          "meaning": "he",
+          "sound": "on"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "zgodził",
+          "meaning": "agreed",
+          "sound": "zgod-ził"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rozmowa",
+          "meaning": "conversation",
+          "sound": "roz-mo-wa"
+        },
+        {
+          "word": "stała",
+          "meaning": "constant",
+          "sound": "sta-ła"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "napięta",
+          "meaning": "tense",
+          "sound": "na-pi-ę-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "W",
+          "meaning": "w",
+          "sound": "w"
+        },
+        {
+          "word": "końcu",
+          "meaning": "finally",
+          "sound": "koń-cu"
+        },
+        {
+          "word": "oboje",
+          "meaning": "both of them",
+          "sound": "o-bo-je"
+        },
+        {
+          "word": "byliśmy",
+          "meaning": "we were",
+          "sound": "by-liś-my"
+        },
+        {
+          "word": "zdenerwowani",
+          "meaning": "nervous",
+          "sound": "zde-ner-wo-wa-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dziś",
+          "meaning": "today",
+          "sound": "dziś"
+        },
+        {
+          "word": "myślę",
+          "meaning": "i think",
+          "sound": "myś-lę"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "może",
+          "meaning": "maybe",
+          "sound": "mo-że"
+        },
+        {
+          "word": "powinnam",
+          "meaning": "i should",
+          "sound": "po-win-nam"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "nim",
+          "meaning": "him",
+          "sound": "nim"
+        },
+        {
+          "word": "jeszcze",
+          "meaning": "yet",
+          "sound": "jes-zcze"
+        },
+        {
+          "word": "raz",
+          "meaning": "once",
+          "sound": "raz"
+        },
+        {
+          "word": "porozmawiać",
+          "meaning": "talk",
+          "sound": "po-roz-ma-wi-ać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nasza",
+          "meaning": "ours",
+          "sound": "nas-za"
+        },
+        {
+          "word": "przyjaźń",
+          "meaning": "friendship",
+          "sound": "przy-jaźń"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "ważniejsza",
+          "meaning": "more important",
+          "sound": "waż-ni-ej-sza"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Ważna zmiana",
+      "content": [
+        {
+          "word": "Rok",
+          "meaning": "year",
+          "sound": "rok"
+        },
+        {
+          "word": "temu",
+          "meaning": "ago",
+          "sound": "te-mu"
+        },
+        {
+          "word": "moje",
+          "meaning": "mine",
+          "sound": "mo-je"
+        },
+        {
+          "word": "życie",
+          "meaning": "life",
+          "sound": "ży-ci-e"
+        },
+        {
+          "word": "wyglądało",
+          "meaning": "it looked like",
+          "sound": "wy-glą-da-ło"
+        },
+        {
+          "word": "zupełnie",
+          "meaning": "completely",
+          "sound": "zu-peł-ni-e"
+        },
+        {
+          "word": "inaczej",
+          "meaning": "otherwise",
+          "sound": "i-nac-zej"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pracowałam",
+          "meaning": "i was working",
+          "sound": "pra-co-wa-łam"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "miejscu",
+          "meaning": "place",
+          "sound": "mi-ej-scu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "którego",
+          "meaning": "which",
+          "sound": "któ-re-go"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "lubiłam",
+          "meaning": "i liked it",
+          "sound": "lu-bi-łam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Każdego",
+          "meaning": "everyone",
+          "sound": "każ-de-go"
+        },
+        {
+          "word": "dnia",
+          "meaning": "day",
+          "sound": "dni-a"
+        },
+        {
+          "word": "czułam",
+          "meaning": "i felt",
+          "sound": "czu-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "zmęczona",
+          "meaning": "tired",
+          "sound": "zmęc-zo-na"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "pozbawiona",
+          "meaning": "deprived",
+          "sound": "poz-ba-wi-o-na"
+        },
+        {
+          "word": "motywacji",
+          "meaning": "motivation",
+          "sound": "mo-ty-wac-ji"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Któregoś",
+          "meaning": "someone",
+          "sound": "któ-re-goś"
+        },
+        {
+          "word": "dnia",
+          "meaning": "day",
+          "sound": "dni-a"
+        },
+        {
+          "word": "postanowiłam",
+          "meaning": "i decided",
+          "sound": "pos-ta-no-wi-łam"
+        },
+        {
+          "word": "wszystko",
+          "meaning": "everything",
+          "sound": "wszys-tko"
+        },
+        {
+          "word": "zmienić",
+          "meaning": "change",
+          "sound": "zmi-e-nić"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "było",
+          "meaning": "it was",
+          "sound": "by-ło"
+        },
+        {
+          "word": "to",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "łatwe",
+          "meaning": "easy",
+          "sound": "łat-we"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bo",
+          "meaning": "because",
+          "sound": "bo"
+        },
+        {
+          "word": "bałam",
+          "meaning": "i was afraid",
+          "sound": "ba-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "porażki",
+          "meaning": "failures",
+          "sound": "po-raż-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "wiedziałam",
+          "meaning": "i knew",
+          "sound": "wi-ed-zi-a-łam"
+        },
+        {
+          "word": "też",
+          "meaning": "too",
+          "sound": "też"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "mogę",
+          "meaning": "i can",
+          "sound": "mo-gę"
+        },
+        {
+          "word": "tak",
+          "meaning": "yes",
+          "sound": "tak"
+        },
+        {
+          "word": "dalej",
+          "meaning": "next",
+          "sound": "da-lej"
+        },
+        {
+          "word": "postępować",
+          "meaning": "proceed",
+          "sound": "pos-tę-po-wać"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Zacząłem",
+          "meaning": "i started",
+          "sound": "zac-zą-łem"
+        },
+        {
+          "word": "uczyć",
+          "meaning": "teach",
+          "sound": "uc-zyć"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "nowych",
+          "meaning": "new ones",
+          "sound": "no-wych"
+        },
+        {
+          "word": "rzeczy",
+          "meaning": "things",
+          "sound": "rzec-zy"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "pracować",
+          "meaning": "work",
+          "sound": "pra-co-wać"
+        },
+        {
+          "word": "nad",
+          "meaning": "above",
+          "sound": "nad"
+        },
+        {
+          "word": "swoimi",
+          "meaning": "with their own",
+          "sound": "swo-i-mi"
+        },
+        {
+          "word": "celami",
+          "meaning": "goals",
+          "sound": "ce-la-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Stopniowo",
+          "meaning": "gradually",
+          "sound": "stop-ni-o-wo"
+        },
+        {
+          "word": "moje",
+          "meaning": "mine",
+          "sound": "mo-je"
+        },
+        {
+          "word": "życie",
+          "meaning": "life",
+          "sound": "ży-ci-e"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "zmieniało",
+          "meaning": "it was changing",
+          "sound": "zmi-e-ni-a-ło"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dziś",
+          "meaning": "today",
+          "sound": "dziś"
+        },
+        {
+          "word": "czuję",
+          "meaning": "i feel",
+          "sound": "czu-ję"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "bardziej",
+          "meaning": "more",
+          "sound": "bar-dzi-ej"
+        },
+        {
+          "word": "pewna",
+          "meaning": "sure",
+          "sound": "pew-na"
+        },
+        {
+          "word": "siebie",
+          "meaning": "yourself",
+          "sound": "si-e-bi-e"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "szczęśliwa",
+          "meaning": "happy",
+          "sound": "szczęś-li-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nauczyłam",
+          "meaning": "i taught",
+          "sound": "na-uc-zy-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "zmiany",
+          "meaning": "changes",
+          "sound": "zmi-a-ny"
+        },
+        {
+          "word": "są",
+          "meaning": "they are",
+          "sound": "są"
+        },
+        {
+          "word": "trudne",
+          "meaning": "difficult",
+          "sound": "trud-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "konieczne",
+          "meaning": "necessary",
+          "sound": "ko-ni-ec-zne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Znaczenie ścieżki",
+      "content": [
+        {
+          "word": "Przez",
+          "meaning": "by",
+          "sound": "przez"
+        },
+        {
+          "word": "długi",
+          "meaning": "long",
+          "sound": "dłu-gi"
+        },
+        {
+          "word": "czas",
+          "meaning": "time",
+          "sound": "czas"
+        },
+        {
+          "word": "myślałem",
+          "meaning": "i thought",
+          "sound": "myś-la-łem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "najważniejszy",
+          "meaning": "the most important",
+          "sound": "naj-waż-ni-ej-szy"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "sukces",
+          "meaning": "success",
+          "sound": "suk-ces"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wierzyłam",
+          "meaning": "i believed",
+          "sound": "wi-er-zy-łam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "posiadanie",
+          "meaning": "possession",
+          "sound": "po-si-a-da-ni-e"
+        },
+        {
+          "word": "pieniędzy",
+          "meaning": "money",
+          "sound": "pi-e-ni-ęd-zy"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "uznania",
+          "meaning": "recognition",
+          "sound": "uz-na-ni-a"
+        },
+        {
+          "word": "mnie",
+          "meaning": "me",
+          "sound": "mni-e"
+        },
+        {
+          "word": "uszczęśliwi",
+          "meaning": "will make you happy",
+          "sound": "us-zczęś-li-wi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednak",
+          "meaning": "however",
+          "sound": "jed-nak"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "czasem",
+          "meaning": "sometimes",
+          "sound": "cza-sem"
+        },
+        {
+          "word": "zrozumiałem",
+          "meaning": "i understood",
+          "sound": "zro-zu-mi-a-łem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "myliłem",
+          "meaning": "i was wrong",
+          "sound": "my-li-łem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "To",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "co",
+          "meaning": "what",
+          "sound": "co"
+        },
+        {
+          "word": "naprawdę",
+          "meaning": "really",
+          "sound": "na-praw-dę"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "liczy",
+          "meaning": "counts",
+          "sound": "lic-zy"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "to",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "droga",
+          "meaning": "road",
+          "sound": "dro-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Doświadczenia",
+          "meaning": "experiences",
+          "sound": "doś-wi-ad-cze-ni-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "błędy",
+          "meaning": "errors",
+          "sound": "błę-dy"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "wnioski",
+          "meaning": "conclusions",
+          "sound": "wni-os-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Któregoś",
+          "meaning": "someone",
+          "sound": "któ-re-goś"
+        },
+        {
+          "word": "dnia",
+          "meaning": "day",
+          "sound": "dni-a"
+        },
+        {
+          "word": "rozmawiałem",
+          "meaning": "i talked",
+          "sound": "roz-ma-wi-a-łem"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "mentorem",
+          "meaning": "mentor",
+          "sound": "men-to-rem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Powiedział",
+          "meaning": "he said",
+          "sound": "po-wi-ed-zi-ał"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "spiesz",
+          "meaning": "hurry",
+          "sound": "spi-esz"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "żeby",
+          "meaning": "so that",
+          "sound": "że-by"
+        },
+        {
+          "word": "tam",
+          "meaning": "there",
+          "sound": "tam"
+        },
+        {
+          "word": "dotrzeć",
+          "meaning": "arrive",
+          "sound": "dot-rzeć"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "naucz",
+          "meaning": "teach",
+          "sound": "na-ucz"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "cieszyć",
+          "meaning": "enjoy",
+          "sound": "ci-es-zyć"
+        },
+        {
+          "word": "tym",
+          "meaning": "this",
+          "sound": "tym"
+        },
+        {
+          "word": "procesem",
+          "meaning": "process",
+          "sound": "pro-ce-sem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "tego",
+          "meaning": "this",
+          "sound": "te-go"
+        },
+        {
+          "word": "momentu",
+          "meaning": "moment",
+          "sound": "mo-men-tu"
+        },
+        {
+          "word": "zmienił",
+          "meaning": "changed",
+          "sound": "zmi-e-nił"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "mój",
+          "meaning": "mine",
+          "sound": "mój"
+        },
+        {
+          "word": "sposób",
+          "meaning": "way",
+          "sound": "spo-sób"
+        },
+        {
+          "word": "myślenia",
+          "meaning": "thinking",
+          "sound": "myś-le-ni-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Teraz",
+          "meaning": "now",
+          "sound": "te-raz"
+        },
+        {
+          "word": "cenię",
+          "meaning": "i appreciate it",
+          "sound": "ce-ni-ę"
+        },
+        {
+          "word": "każdy",
+          "meaning": "everyone",
+          "sound": "każ-dy"
+        },
+        {
+          "word": "krok",
+          "meaning": "step",
+          "sound": "krok"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "uczę",
+          "meaning": "i teach",
+          "sound": "uc-zę"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "każdym",
+          "meaning": "every",
+          "sound": "każ-dym"
+        },
+        {
+          "word": "błędzie",
+          "meaning": "error",
+          "sound": "błęd-zi-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "kim naprawdę jestem",
+      "content": [
+        {
+          "word": "Przez",
+          "meaning": "by",
+          "sound": "przez"
+        },
+        {
+          "word": "wiele",
+          "meaning": "many",
+          "sound": "wi-e-le"
+        },
+        {
+          "word": "lat",
+          "meaning": "years",
+          "sound": "lat"
+        },
+        {
+          "word": "zadawałam",
+          "meaning": "i asked",
+          "sound": "za-da-wa-łam"
+        },
+        {
+          "word": "sobie",
+          "meaning": "yourself",
+          "sound": "so-bi-e"
+        },
+        {
+          "word": "pytanie",
+          "meaning": "question",
+          "sound": "py-ta-ni-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kim",
+          "meaning": "who",
+          "sound": "kim"
+        },
+        {
+          "word": "naprawdę",
+          "meaning": "really",
+          "sound": "na-praw-dę"
+        },
+        {
+          "word": "jestem",
+          "meaning": "i am",
+          "sound": "jes-tem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Na",
+          "meaning": "na",
+          "sound": "na"
+        },
+        {
+          "word": "początku",
+          "meaning": "beginning",
+          "sound": "poc-ząt-ku"
+        },
+        {
+          "word": "myślałam",
+          "meaning": "i thought",
+          "sound": "myś-la-łam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "moja",
+          "meaning": "mine",
+          "sound": "mo-ja"
+        },
+        {
+          "word": "tożsamość",
+          "meaning": "identity",
+          "sound": "toż-sa-mość"
+        },
+        {
+          "word": "zależy",
+          "meaning": "depends",
+          "sound": "za-le-ży"
+        },
+        {
+          "word": "od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "tego",
+          "meaning": "this",
+          "sound": "te-go"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "co",
+          "meaning": "what",
+          "sound": "co"
+        },
+        {
+          "word": "myślą",
+          "meaning": "they think",
+          "sound": "myś-lą"
+        },
+        {
+          "word": "inni",
+          "meaning": "others",
+          "sound": "in-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Szukałem",
+          "meaning": "i was looking",
+          "sound": "szu-ka-łem"
+        },
+        {
+          "word": "akceptacji",
+          "meaning": "acceptance",
+          "sound": "ak-cep-tac-ji"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "bałem",
+          "meaning": "i was afraid",
+          "sound": "ba-łem"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "popełniać",
+          "meaning": "commit",
+          "sound": "po-peł-ni-ać"
+        },
+        {
+          "word": "błędy",
+          "meaning": "errors",
+          "sound": "błę-dy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednak",
+          "meaning": "however",
+          "sound": "jed-nak"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "czasem",
+          "meaning": "sometimes",
+          "sound": "cza-sem"
+        },
+        {
+          "word": "zrozumiałam",
+          "meaning": "i understood",
+          "sound": "zro-zu-mi-a-łam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "moja",
+          "meaning": "mine",
+          "sound": "mo-ja"
+        },
+        {
+          "word": "wartość",
+          "meaning": "value",
+          "sound": "war-tość"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "zależy",
+          "meaning": "depends",
+          "sound": "za-le-ży"
+        },
+        {
+          "word": "od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "innych",
+          "meaning": "others",
+          "sound": "in-nych"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Któregoś",
+          "meaning": "someone",
+          "sound": "któ-re-goś"
+        },
+        {
+          "word": "dnia",
+          "meaning": "day",
+          "sound": "dni-a"
+        },
+        {
+          "word": "postanowiłem",
+          "meaning": "i decided",
+          "sound": "pos-ta-no-wi-łem"
+        },
+        {
+          "word": "posłuchać",
+          "meaning": "listen",
+          "sound": "pos-łuc-hać"
+        },
+        {
+          "word": "własnego",
+          "meaning": "own",
+          "sound": "włas-ne-go"
+        },
+        {
+          "word": "głosu",
+          "meaning": "voice",
+          "sound": "gło-su"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Zacząłem",
+          "meaning": "i started",
+          "sound": "zac-zą-łem"
+        },
+        {
+          "word": "samodzielnie",
+          "meaning": "alone",
+          "sound": "sa-mod-zi-el-ni-e"
+        },
+        {
+          "word": "podejmować",
+          "meaning": "take",
+          "sound": "po-dej-mo-wać"
+        },
+        {
+          "word": "decyzje",
+          "meaning": "decisions",
+          "sound": "de-cyz-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "zawsze",
+          "meaning": "always",
+          "sound": "zaw-sze"
+        },
+        {
+          "word": "było",
+          "meaning": "it was",
+          "sound": "by-ło"
+        },
+        {
+          "word": "łatwo",
+          "meaning": "easy",
+          "sound": "łat-wo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "każdego",
+          "meaning": "everyone",
+          "sound": "każ-de-go"
+        },
+        {
+          "word": "błędu",
+          "meaning": "error",
+          "sound": "błę-du"
+        },
+        {
+          "word": "wyciągałem",
+          "meaning": "i pulled it out",
+          "sound": "wy-ci-ą-ga-łem"
+        },
+        {
+          "word": "wnioski",
+          "meaning": "conclusions",
+          "sound": "wni-os-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dziś",
+          "meaning": "today",
+          "sound": "dziś"
+        },
+        {
+          "word": "wiem",
+          "meaning": "i know",
+          "sound": "wi-em"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "bycie",
+          "meaning": "being",
+          "sound": "by-ci-e"
+        },
+        {
+          "word": "sobą",
+          "meaning": "yourself",
+          "sound": "so-bą"
+        },
+        {
+          "word": "to",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "największe",
+          "meaning": "the biggest",
+          "sound": "naj-wi-ęk-sze"
+        },
+        {
+          "word": "osiągnięcie",
+          "meaning": "achievement",
+          "sound": "o-si-ąg-ni-ę-ci-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Wartość czasu",
+      "content": [
+        {
+          "word": "Jeszcze",
+          "meaning": "still",
+          "sound": "jes-zcze"
+        },
+        {
+          "word": "kilka",
+          "meaning": "several",
+          "sound": "kil-ka"
+        },
+        {
+          "word": "lat",
+          "meaning": "years",
+          "sound": "lat"
+        },
+        {
+          "word": "temu",
+          "meaning": "ago",
+          "sound": "te-mu"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "zwracałam",
+          "meaning": "i returned it",
+          "sound": "zwra-ca-łam"
+        },
+        {
+          "word": "szczególnej",
+          "meaning": "special",
+          "sound": "szcze-gól-nej"
+        },
+        {
+          "word": "uwagi",
+          "meaning": "comments",
+          "sound": "u-wa-gi"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "czas",
+          "meaning": "time",
+          "sound": "czas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Myślałam",
+          "meaning": "i was thinking",
+          "sound": "myś-la-łam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "zawsze",
+          "meaning": "always",
+          "sound": "zaw-sze"
+        },
+        {
+          "word": "będzie",
+          "meaning": "will be",
+          "sound": "będ-zi-e"
+        },
+        {
+          "word": "więcej",
+          "meaning": "more",
+          "sound": "wi-ę-cej"
+        },
+        {
+          "word": "możliwości",
+          "meaning": "possibilities",
+          "sound": "moż-li-woś-ci"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wiele",
+          "meaning": "many",
+          "sound": "wi-e-le"
+        },
+        {
+          "word": "rzeczy",
+          "meaning": "things",
+          "sound": "rzec-zy"
+        },
+        {
+          "word": "zostawił",
+          "meaning": "he left",
+          "sound": "zos-ta-wił"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "później",
+          "meaning": "later",
+          "sound": "póź-ni-ej"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Któregoś",
+          "meaning": "someone",
+          "sound": "któ-re-goś"
+        },
+        {
+          "word": "dnia",
+          "meaning": "day",
+          "sound": "dni-a"
+        },
+        {
+          "word": "przyjaciel",
+          "meaning": "friend",
+          "sound": "przy-ja-ci-el"
+        },
+        {
+          "word": "powiedział",
+          "meaning": "he said",
+          "sound": "po-wi-ed-zi-ał"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Czas",
+          "meaning": "time",
+          "sound": "czas"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "nikogo",
+          "meaning": "nobody",
+          "sound": "ni-ko-go"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "czeka",
+          "meaning": "waiting",
+          "sound": "cze-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "To",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "zdanie",
+          "meaning": "sentence",
+          "sound": "zda-ni-e"
+        },
+        {
+          "word": "utkwiło",
+          "meaning": "it stuck",
+          "sound": "ut-kwi-ło"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "pamięci",
+          "meaning": "memory",
+          "sound": "pa-mi-ę-ci"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "tego",
+          "meaning": "this",
+          "sound": "te-go"
+        },
+        {
+          "word": "czasu",
+          "meaning": "time",
+          "sound": "cza-su"
+        },
+        {
+          "word": "zacząłem",
+          "meaning": "i started",
+          "sound": "zac-zą-łem"
+        },
+        {
+          "word": "doceniać",
+          "meaning": "appreciate",
+          "sound": "do-ce-ni-ać"
+        },
+        {
+          "word": "każdą",
+          "meaning": "each",
+          "sound": "każ-dą"
+        },
+        {
+          "word": "chwilę",
+          "meaning": "a moment",
+          "sound": "chwi-lę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nauczyłam",
+          "meaning": "i taught",
+          "sound": "na-uc-zy-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "organizować",
+          "meaning": "organize",
+          "sound": "or-ga-ni-zo-wać"
+        },
+        {
+          "word": "swój",
+          "meaning": "yours",
+          "sound": "swój"
+        },
+        {
+          "word": "dzień",
+          "meaning": "day",
+          "sound": "dzi-eń"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "ustalać",
+          "meaning": "determine",
+          "sound": "us-ta-lać"
+        },
+        {
+          "word": "priorytety",
+          "meaning": "priorities",
+          "sound": "pri-o-ry-te-ty"
+        },
+        {
+          "word": "tego",
+          "meaning": "this",
+          "sound": "te-go"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "co",
+          "meaning": "what",
+          "sound": "co"
+        },
+        {
+          "word": "ważne",
+          "meaning": "important",
+          "sound": "waż-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Zrozumiałam",
+          "meaning": "i understood",
+          "sound": "zro-zu-mi-a-łam"
+        },
+        {
+          "word": "też",
+          "meaning": "too",
+          "sound": "też"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "wszystko",
+          "meaning": "everything",
+          "sound": "wszys-tko"
+        },
+        {
+          "word": "musi",
+          "meaning": "must",
+          "sound": "mu-si"
+        },
+        {
+          "word": "być",
+          "meaning": "be",
+          "sound": "być"
+        },
+        {
+          "word": "idealne",
+          "meaning": "perfect",
+          "sound": "i-de-al-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dziś",
+          "meaning": "today",
+          "sound": "dziś"
+        },
+        {
+          "word": "staram",
+          "meaning": "i'm trying",
+          "sound": "sta-ram"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "żyć",
+          "meaning": "live",
+          "sound": "żyć"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "większą",
+          "meaning": "bigger",
+          "sound": "wi-ęk-szą"
+        },
+        {
+          "word": "świadomością",
+          "meaning": "awareness",
+          "sound": "świ-a-do-moś-ci-ą"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bo",
+          "meaning": "because",
+          "sound": "bo"
+        },
+        {
+          "word": "czas",
+          "meaning": "time",
+          "sound": "czas"
+        },
+        {
+          "word": "to",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "najcenniejsza",
+          "meaning": "the most valuable",
+          "sound": "naj-cen-ni-ej-sza"
+        },
+        {
+          "word": "rzecz",
+          "meaning": "thing",
+          "sound": "rzecz"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jaką",
+          "meaning": "what",
+          "sound": "ja-ką"
+        },
+        {
+          "word": "mamy",
+          "meaning": "we have",
+          "sound": "ma-my"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Decyzje, które zmieniają życie",
+      "content": [
+        {
+          "word": "Czasami",
+          "meaning": "sometimes",
+          "sound": "cza-sa-mi"
+        },
+        {
+          "word": "myślę",
+          "meaning": "i think",
+          "sound": "myś-lę"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "decyzjach",
+          "meaning": "decisions",
+          "sound": "de-cyz-jach"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "które",
+          "meaning": "which ones",
+          "sound": "któ-re"
+        },
+        {
+          "word": "podjąłem",
+          "meaning": "i took it",
+          "sound": "pod-ją-łem"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "przeszłości",
+          "meaning": "the past",
+          "sound": "przes-złoś-ci"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Niektórzy",
+          "meaning": "some",
+          "sound": "ni-ek-tór-zy"
+        },
+        {
+          "word": "mieli",
+          "meaning": "they had",
+          "sound": "mi-e-li"
+        },
+        {
+          "word": "rację",
+          "meaning": "right",
+          "sound": "rac-ję"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "inni",
+          "meaning": "others",
+          "sound": "in-ni"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Czasami",
+          "meaning": "sometimes",
+          "sound": "cza-sa-mi"
+        },
+        {
+          "word": "zastanawiam",
+          "meaning": "i wonder",
+          "sound": "zas-ta-na-wi-am"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "co",
+          "meaning": "what",
+          "sound": "co"
+        },
+        {
+          "word": "by",
+          "meaning": "by",
+          "sound": "by"
+        },
+        {
+          "word": "było",
+          "meaning": "it was",
+          "sound": "by-ło"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "gdybym",
+          "meaning": "if",
+          "sound": "gdy-bym"
+        },
+        {
+          "word": "wybrała",
+          "meaning": "she chose",
+          "sound": "wy-bra-ła"
+        },
+        {
+          "word": "inną",
+          "meaning": "another one",
+          "sound": "in-ną"
+        },
+        {
+          "word": "drogę",
+          "meaning": "road",
+          "sound": "dro-gę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Może",
+          "meaning": "maybe",
+          "sound": "mo-że"
+        },
+        {
+          "word": "odniosłbym",
+          "meaning": "i would succeed",
+          "sound": "od-ni-os-łbym"
+        },
+        {
+          "word": "większy",
+          "meaning": "bigger",
+          "sound": "wi-ęk-szy"
+        },
+        {
+          "word": "sukces",
+          "meaning": "success",
+          "sound": "suk-ces"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "może",
+          "meaning": "maybe",
+          "sound": "mo-że"
+        },
+        {
+          "word": "nauczyłbym",
+          "meaning": "i would teach",
+          "sound": "na-uc-zył-bym"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "mniej",
+          "meaning": "less",
+          "sound": "mni-ej"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Zrozumiałam",
+          "meaning": "i understood",
+          "sound": "zro-zu-mi-a-łam"
+        },
+        {
+          "word": "jednak",
+          "meaning": "however",
+          "sound": "jed-nak"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "ma",
+          "meaning": "has",
+          "sound": "ma"
+        },
+        {
+          "word": "sensu",
+          "meaning": "sense",
+          "sound": "sen-su"
+        },
+        {
+          "word": "żyć",
+          "meaning": "live",
+          "sound": "żyć"
+        },
+        {
+          "word": "przeszłością",
+          "meaning": "the past",
+          "sound": "przes-złoś-ci-ą"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Każda",
+          "meaning": "each",
+          "sound": "każ-da"
+        },
+        {
+          "word": "decyzja",
+          "meaning": "decision",
+          "sound": "de-cyz-ja"
+        },
+        {
+          "word": "mnie",
+          "meaning": "me",
+          "sound": "mni-e"
+        },
+        {
+          "word": "czegoś",
+          "meaning": "something",
+          "sound": "cze-goś"
+        },
+        {
+          "word": "nauczyła",
+          "meaning": "she taught",
+          "sound": "na-uc-zy-ła"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nawet",
+          "meaning": "even",
+          "sound": "na-wet"
+        },
+        {
+          "word": "błędy",
+          "meaning": "errors",
+          "sound": "błę-dy"
+        },
+        {
+          "word": "były",
+          "meaning": "were",
+          "sound": "by-ły"
+        },
+        {
+          "word": "ważnymi",
+          "meaning": "important",
+          "sound": "waż-ny-mi"
+        },
+        {
+          "word": "lekcjami",
+          "meaning": "lessons",
+          "sound": "lek-cja-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dziś",
+          "meaning": "today",
+          "sound": "dziś"
+        },
+        {
+          "word": "staram",
+          "meaning": "i'm trying",
+          "sound": "sta-ram"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "podejmować",
+          "meaning": "take",
+          "sound": "po-dej-mo-wać"
+        },
+        {
+          "word": "decyzje",
+          "meaning": "decisions",
+          "sound": "de-cyz-je"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "większą",
+          "meaning": "bigger",
+          "sound": "wi-ęk-szą"
+        },
+        {
+          "word": "świadomością",
+          "meaning": "awareness",
+          "sound": "świ-a-do-moś-ci-ą"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "mogę",
+          "meaning": "i can",
+          "sound": "mo-gę"
+        },
+        {
+          "word": "zmienić",
+          "meaning": "change",
+          "sound": "zmi-e-nić"
+        },
+        {
+          "word": "tego",
+          "meaning": "this",
+          "sound": "te-go"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "co",
+          "meaning": "what",
+          "sound": "co"
+        },
+        {
+          "word": "już",
+          "meaning": "already",
+          "sound": "już"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "wydarzyło",
+          "meaning": "happened",
+          "sound": "wy-dar-zy-ło"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "mogę",
+          "meaning": "i can",
+          "sound": "mo-gę"
+        },
+        {
+          "word": "decydować",
+          "meaning": "decide",
+          "sound": "de-cy-do-wać"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "swojej",
+          "meaning": "yours",
+          "sound": "swo-jej"
+        },
+        {
+          "word": "przyszłości",
+          "meaning": "future",
+          "sound": "przys-złoś-ci"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Wewnętrzny głos",
+      "content": [
+        {
+          "word": "Przez",
+          "meaning": "by",
+          "sound": "przez"
+        },
+        {
+          "word": "długi",
+          "meaning": "long",
+          "sound": "dłu-gi"
+        },
+        {
+          "word": "czas",
+          "meaning": "time",
+          "sound": "czas"
+        },
+        {
+          "word": "żyłem",
+          "meaning": "i lived",
+          "sound": "ży-łem"
+        },
+        {
+          "word": "zgodnie",
+          "meaning": "accordingly",
+          "sound": "zgod-ni-e"
+        },
+        {
+          "word": "z",
+          "meaning": "z",
+          "sound": "z"
+        },
+        {
+          "word": "oczekiwaniami",
+          "meaning": "expectations",
+          "sound": "oc-ze-ki-wa-ni-a-mi"
+        },
+        {
+          "word": "innych",
+          "meaning": "others",
+          "sound": "in-nych"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wierzyłam",
+          "meaning": "i believed",
+          "sound": "wi-er-zy-łam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "to",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "właściwa",
+          "meaning": "proper",
+          "sound": "właś-ci-wa"
+        },
+        {
+          "word": "droga",
+          "meaning": "road",
+          "sound": "dro-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednak",
+          "meaning": "however",
+          "sound": "jed-nak"
+        },
+        {
+          "word": "w",
+          "meaning": "v",
+          "sound": "w"
+        },
+        {
+          "word": "głębi",
+          "meaning": "depth",
+          "sound": "głę-bi"
+        },
+        {
+          "word": "duszy",
+          "meaning": "soul",
+          "sound": "dus-zy"
+        },
+        {
+          "word": "zawsze",
+          "meaning": "always",
+          "sound": "zaw-sze"
+        },
+        {
+          "word": "był",
+          "meaning": "was",
+          "sound": "był"
+        },
+        {
+          "word": "głos",
+          "meaning": "voice",
+          "sound": "głos"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "który",
+          "meaning": "which one",
+          "sound": "któ-ry"
+        },
+        {
+          "word": "mówił",
+          "meaning": "he spoke",
+          "sound": "mó-wił"
+        },
+        {
+          "word": "mi",
+          "meaning": "e.g",
+          "sound": "mi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "coś",
+          "meaning": "something",
+          "sound": "coś"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "tak",
+          "meaning": "yes",
+          "sound": "tak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Próbowałam",
+          "meaning": "i tried",
+          "sound": "pró-bo-wa-łam"
+        },
+        {
+          "word": "to",
+          "meaning": "this",
+          "sound": "to"
+        },
+        {
+          "word": "zignorować",
+          "meaning": "ignore",
+          "sound": "zig-no-ro-wać"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "było",
+          "meaning": "it was",
+          "sound": "by-ło"
+        },
+        {
+          "word": "coraz",
+          "meaning": "increasingly",
+          "sound": "co-raz"
+        },
+        {
+          "word": "głośniej",
+          "meaning": "louder",
+          "sound": "głoś-ni-ej"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Któregoś",
+          "meaning": "someone",
+          "sound": "któ-re-goś"
+        },
+        {
+          "word": "dnia",
+          "meaning": "day",
+          "sound": "dni-a"
+        },
+        {
+          "word": "zatrzymałam",
+          "meaning": "i stopped",
+          "sound": "zat-rzy-ma-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "zadałam",
+          "meaning": "i asked",
+          "sound": "za-da-łam"
+        },
+        {
+          "word": "sobie",
+          "meaning": "yourself",
+          "sound": "so-bi-e"
+        },
+        {
+          "word": "pytanie",
+          "meaning": "question",
+          "sound": "py-ta-ni-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "czego",
+          "meaning": "what",
+          "sound": "cze-go"
+        },
+        {
+          "word": "tak",
+          "meaning": "yes",
+          "sound": "tak"
+        },
+        {
+          "word": "naprawdę",
+          "meaning": "really",
+          "sound": "na-praw-dę"
+        },
+        {
+          "word": "chcę",
+          "meaning": "i want",
+          "sound": "chcę"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Odpowiedź",
+          "meaning": "answer",
+          "sound": "od-po-wi-edź"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "była",
+          "meaning": "she was",
+          "sound": "by-ła"
+        },
+        {
+          "word": "natychmiastowa",
+          "meaning": "immediate",
+          "sound": "na-tyc-hmi-as-to-wa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "po",
+          "meaning": "after",
+          "sound": "po"
+        },
+        {
+          "word": "raz",
+          "meaning": "once",
+          "sound": "raz"
+        },
+        {
+          "word": "pierwszy",
+          "meaning": "first",
+          "sound": "pi-er-wszy"
+        },
+        {
+          "word": "poczułam",
+          "meaning": "i felt",
+          "sound": "poc-zu-łam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "mnie",
+          "meaning": "me",
+          "sound": "mni-e"
+        },
+        {
+          "word": "słucha",
+          "meaning": "listens",
+          "sound": "słuc-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "tego",
+          "meaning": "this",
+          "sound": "te-go"
+        },
+        {
+          "word": "czasu",
+          "meaning": "time",
+          "sound": "cza-su"
+        },
+        {
+          "word": "nauczyłam",
+          "meaning": "i taught",
+          "sound": "na-uc-zy-łam"
+        },
+        {
+          "word": "się",
+          "meaning": "up",
+          "sound": "si-ę"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "że",
+          "meaning": "that",
+          "sound": "że"
+        },
+        {
+          "word": "wewnętrzny",
+          "meaning": "internal",
+          "sound": "wew-nęt-rzny"
+        },
+        {
+          "word": "głos",
+          "meaning": "voice",
+          "sound": "głos"
+        },
+        {
+          "word": "nie",
+          "meaning": "no",
+          "sound": "ni-e"
+        },
+        {
+          "word": "jest",
+          "meaning": "is",
+          "sound": "jest"
+        },
+        {
+          "word": "przeszkodą",
+          "meaning": "obstacle",
+          "sound": "przes-zko-dą"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ale",
+          "meaning": "but",
+          "sound": "a-le"
+        },
+        {
+          "word": "przewodnikiem",
+          "meaning": "guide",
+          "sound": "prze-wod-ni-ki-em"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "polish": {
+        "present": [
+          "Jem",
+          "jabłko"
+        ],
+        "past": [
+          "Zjadłem",
+          "jabłko"
+        ],
+        "future": [
+          "Zjem",
+          "jabłko"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "polish": {
+        "present": [
+          "Ona",
+          "czyta",
+          "książkę"
+        ],
+        "past": [
+          "Czytała",
+          "książkę"
+        ],
+        "future": [
+          "Ona",
+          "przeczyta",
+          "książkę"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "polish": {
+        "present": [
+          "Idziemy",
+          "do",
+          "szkoły"
+        ],
+        "past": [
+          "Poszliśmy",
+          "do",
+          "szkoły"
+        ],
+        "future": [
+          "Pójdziemy",
+          "do",
+          "szkoły"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "polish": {
+        "present": [
+          "Pije",
+          "wodę"
+        ],
+        "past": [
+          "Pił",
+          "wodę"
+        ],
+        "future": [
+          "Będzie",
+          "pił",
+          "wodę"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "polish": {
+        "present": [
+          "Grają",
+          "w",
+          "piłkę",
+          "nożną"
+        ],
+        "past": [
+          "Grali",
+          "w",
+          "piłkę",
+          "nożną"
+        ],
+        "future": [
+          "Będą",
+          "grać",
+          "w",
+          "piłkę",
+          "nożną"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "polish": {
+        "present": [
+          "Piszę",
+          "list"
+        ],
+        "past": [
+          "Napisałem",
+          "list"
+        ],
+        "future": [
+          "Napiszę",
+          "list"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "polish": {
+        "present": [
+          "Ona",
+          "je",
+          "ryż"
+        ],
+        "past": [
+          "Zjadła",
+          "ryż"
+        ],
+        "future": [
+          "Będzie",
+          "jeść",
+          "ryż"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "polish": {
+        "present": [
+          "Oglądamy",
+          "film"
+        ],
+        "past": [
+          "Obejrzeliśmy",
+          "film"
+        ],
+        "future": [
+          "Obejrzymy",
+          "film"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "polish": {
+        "present": [
+          "Otwiera",
+          "drzwi"
+        ],
+        "past": [
+          "Otworzył",
+          "drzwi"
+        ],
+        "future": [
+          "Otworzy",
+          "drzwi"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "polish": {
+        "present": [
+          "Kupują",
+          "jedzenie"
+        ],
+        "past": [
+          "Kupili",
+          "jedzenie"
+        ],
+        "future": [
+          "Kupią",
+          "żywność"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "polish": {
+        "present": [
+          "Jem",
+          "jabłko",
+          "i",
+          "piję",
+          "wodę"
+        ],
+        "past": [
+          "Zjadłem",
+          "jabłko",
+          "i",
+          "wypiłem",
+          "wodę"
+        ],
+        "future": [
+          "Zjem",
+          "jabłko",
+          "i",
+          "napiję",
+          "się",
+          "wody"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "polish": {
+        "present": [
+          "Czyta",
+          "książkę",
+          "bo",
+          "lubi",
+          "historie"
+        ],
+        "past": [
+          "Czytała",
+          "książki",
+          "bo",
+          "lubiła",
+          "historie"
+        ],
+        "future": [
+          "Przeczyta",
+          "książkę",
+          "bo",
+          "lubi",
+          "historie"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "polish": {
+        "present": [
+          "Chodzimy",
+          "do",
+          "szkoły",
+          "i",
+          "uczymy",
+          "się",
+          "razem"
+        ],
+        "past": [
+          "Chodziliśmy",
+          "do",
+          "szkoły",
+          "i",
+          "razem",
+          "się",
+          "uczyliśmy"
+        ],
+        "future": [
+          "Będziemy",
+          "razem",
+          "chodzić",
+          "do",
+          "szkoły",
+          "i",
+          "uczyć",
+          "się"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "polish": {
+        "present": [
+          "Pije",
+          "wodę",
+          "ale",
+          "je",
+          "fast",
+          "foody"
+        ],
+        "past": [
+          "Pił",
+          "wodę",
+          "ale",
+          "jadł",
+          "fast",
+          "foody"
+        ],
+        "future": [
+          "Będzie",
+          "pił",
+          "wodę",
+          "ale",
+          "będzie",
+          "jadł",
+          "fast",
+          "foody"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "polish": {
+        "present": [
+          "Grają",
+          "w",
+          "piłkę",
+          "nożną",
+          "i",
+          "biegają",
+          "po",
+          "parku"
+        ],
+        "past": [
+          "Grali",
+          "w",
+          "piłkę",
+          "nożną",
+          "i",
+          "biegali",
+          "po",
+          "parku"
+        ],
+        "future": [
+          "Będą",
+          "grać",
+          "w",
+          "piłkę",
+          "nożną",
+          "i",
+          "biegać",
+          "po",
+          "parku"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "polish": {
+        "present": [
+          "Piszę",
+          "list",
+          "bo",
+          "tęsknię"
+        ],
+        "past": [
+          "Napisałem",
+          "list",
+          "bo",
+          "za",
+          "tobą",
+          "tęskniłem"
+        ],
+        "future": [
+          "Napiszę",
+          "list",
+          "bo",
+          "tęsknię"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "polish": {
+        "present": [
+          "Codziennie",
+          "je",
+          "ryż",
+          "i",
+          "gotuje"
+        ],
+        "past": [
+          "Codziennie",
+          "jadła",
+          "ryż",
+          "i",
+          "gotowała"
+        ],
+        "future": [
+          "Codziennie",
+          "będzie",
+          "jadła",
+          "ryż",
+          "i",
+          "gotowała"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "polish": {
+        "present": [
+          "Oglądamy",
+          "film",
+          "ale",
+          "późno",
+          "śpimy"
+        ],
+        "past": [
+          "Oglądaliśmy",
+          "film",
+          "ale",
+          "późno",
+          "spaliśmy"
+        ],
+        "future": [
+          "Obejrzymy",
+          "film",
+          "ale",
+          "będziemy",
+          "późno",
+          "spać"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "polish": {
+        "present": [
+          "Otwiera",
+          "drzwi",
+          "i",
+          "pozdrawia",
+          "ludzi"
+        ],
+        "past": [
+          "Otworzył",
+          "drzwi",
+          "i",
+          "przywitał",
+          "się",
+          "z",
+          "ludźmi"
+        ],
+        "future": [
+          "Otworzy",
+          "drzwi",
+          "i",
+          "przywita",
+          "ludzi"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "polish": {
+        "present": [
+          "Kupują",
+          "jedzenie",
+          "bo",
+          "są",
+          "głodni"
+        ],
+        "past": [
+          "Kupowali",
+          "żywność",
+          "bo",
+          "byli",
+          "głodni"
+        ],
+        "future": [
+          "Kupują",
+          "żywność",
+          "bo",
+          "są",
+          "głodni"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "polish": {
+        "present": [
+          "Rano",
+          "jem",
+          "śniadanie"
+        ],
+        "past": [
+          "Rano",
+          "zjadłem",
+          "śniadanie"
+        ],
+        "future": [
+          "Rano",
+          "zjem",
+          "śniadanie"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "polish": {
+        "present": [
+          "Na",
+          "co",
+          "dzień",
+          "uczy",
+          "się",
+          "w",
+          "domu"
+        ],
+        "past": [
+          "Na",
+          "co",
+          "dzień",
+          "uczyła",
+          "się",
+          "w",
+          "domu"
+        ],
+        "future": [
+          "Codziennie",
+          "będzie",
+          "uczyć",
+          "się",
+          "w",
+          "domu"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "polish": {
+        "present": [
+          "Wieczorem",
+          "spacerujemy",
+          "po",
+          "parku"
+        ],
+        "past": [
+          "Wieczorem",
+          "spacerowaliśmy",
+          "po",
+          "parku"
+        ],
+        "future": [
+          "Wieczorem",
+          "będziemy",
+          "spacerować",
+          "po",
+          "parku"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "polish": {
+        "present": [
+          "Pracuje",
+          "w",
+          "biurze",
+          "w",
+          "mieście"
+        ],
+        "past": [
+          "Pracował",
+          "w",
+          "biurze",
+          "w",
+          "mieście"
+        ],
+        "future": [
+          "Będzie",
+          "pracować",
+          "w",
+          "biurze",
+          "w",
+          "mieście"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "polish": {
+        "present": [
+          "Co",
+          "roku",
+          "wyjeżdżają",
+          "do",
+          "innego",
+          "kraju"
+        ],
+        "past": [
+          "Co",
+          "roku",
+          "wyjeżdżali",
+          "do",
+          "innego",
+          "kraju"
+        ],
+        "future": [
+          "Co",
+          "roku",
+          "będą",
+          "podróżować",
+          "do",
+          "innego",
+          "kraju"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "polish": {
+        "present": [
+          "Czytam",
+          "książkę",
+          "wieczorem",
+          "przed",
+          "snem"
+        ],
+        "past": [
+          "Czytam",
+          "książkę",
+          "wieczorem",
+          "przed",
+          "snem"
+        ],
+        "future": [
+          "Wieczorem",
+          "przed",
+          "snem",
+          "przeczytam",
+          "książkę"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "polish": {
+        "present": [
+          "Ona",
+          "pije",
+          "kawę",
+          "rano",
+          "w",
+          "domu"
+        ],
+        "past": [
+          "Rano",
+          "piła",
+          "kawę",
+          "w",
+          "domu"
+        ],
+        "future": [
+          "Będzie",
+          "pić",
+          "kawę",
+          "rano",
+          "w",
+          "domu"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "polish": {
+        "present": [
+          "Spotykamy",
+          "się",
+          "dziś",
+          "wieczorem",
+          "w",
+          "restauracji",
+          "z",
+          "przyjaciółmi"
+        ],
+        "past": [
+          "Spotkaliśmy",
+          "się",
+          "dziś",
+          "wieczorem",
+          "w",
+          "restauracji",
+          "z",
+          "przyjaciółmi"
+        ],
+        "future": [
+          "Dziś",
+          "wieczorem",
+          "spotkamy",
+          "się",
+          "z",
+          "przyjaciółmi",
+          "w",
+          "restauracji"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "polish": {
+        "present": [
+          "Na",
+          "co",
+          "dzień",
+          "uczy",
+          "się",
+          "hiszpańskiego",
+          "w",
+          "szkole"
+        ],
+        "past": [
+          "Na",
+          "co",
+          "dzień",
+          "uczył",
+          "się",
+          "hiszpańskiego",
+          "w",
+          "szkole"
+        ],
+        "future": [
+          "Codziennie",
+          "będzie",
+          "uczył",
+          "się",
+          "hiszpańskiego",
+          "w",
+          "szkole"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "polish": {
+        "present": [
+          "Wieczorem",
+          "w",
+          "domu",
+          "oglądają",
+          "telewizję"
+        ],
+        "past": [
+          "Wieczorem",
+          "w",
+          "domu",
+          "oglądali",
+          "telewizję"
+        ],
+        "future": [
+          "Wieczorem",
+          "będą",
+          "oglądać",
+          "telewizję",
+          "w",
+          "domu"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "polish": {
+        "present": [
+          "Lubię",
+          "tę",
+          "muzykę"
+        ],
+        "past": [
+          "Podobała",
+          "mi",
+          "się",
+          "ta",
+          "muzyka"
+        ],
+        "future": [
+          "Spodoba",
+          "mi",
+          "się",
+          "ta",
+          "muzyka"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "polish": {
+        "present": [
+          "Dziś",
+          "czuje",
+          "się",
+          "szczęśliwa"
+        ],
+        "past": [
+          "Poczuła",
+          "się",
+          "dzisiaj",
+          "szczęśliwa"
+        ],
+        "future": [
+          "Dziś",
+          "będzie",
+          "szczęśliwa"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "polish": {
+        "present": [
+          "Uważamy",
+          "że",
+          "ten",
+          "pomysł",
+          "jest",
+          "dobry"
+        ],
+        "past": [
+          "Uznaliśmy",
+          "że",
+          "ten",
+          "pomysł",
+          "jest",
+          "dobry"
+        ],
+        "future": [
+          "Uznamy",
+          "że",
+          "ten",
+          "pomysł",
+          "jest",
+          "dobry"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "polish": {
+        "present": [
+          "Chce",
+          "nauczyć",
+          "się",
+          "hiszpańskiego"
+        ],
+        "past": [
+          "Chciał",
+          "nauczyć",
+          "się",
+          "hiszpańskiego"
+        ],
+        "future": [
+          "Będzie",
+          "chciał",
+          "nauczyć",
+          "się",
+          "hiszpańskiego"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "polish": {
+        "present": [
+          "Bardzo",
+          "kochają",
+          "swoją",
+          "rodzinę"
+        ],
+        "past": [
+          "Bardzo",
+          "kochali",
+          "swoją",
+          "rodzinę"
+        ],
+        "future": [
+          "Będą",
+          "bardzo",
+          "kochać",
+          "swoją",
+          "rodzinę"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "polish": {
+        "present": [
+          "Po",
+          "pracy",
+          "czuję",
+          "się",
+          "zmęczony"
+        ],
+        "past": [
+          "Po",
+          "pracy",
+          "poczułem",
+          "się",
+          "zmęczony"
+        ],
+        "future": [
+          "Po",
+          "pracy",
+          "będę",
+          "czuł",
+          "się",
+          "zmęczony"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "polish": {
+        "present": [
+          "Ona",
+          "wierzy",
+          "w",
+          "siebie"
+        ],
+        "past": [
+          "Wierzyła",
+          "w",
+          "siebie"
+        ],
+        "future": [
+          "Ona",
+          "uwierzy",
+          "w",
+          "siebie"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "polish": {
+        "present": [
+          "Lubimy",
+          "razem",
+          "podróżować"
+        ],
+        "past": [
+          "Lubiliśmy",
+          "razem",
+          "podróżować"
+        ],
+        "future": [
+          "Będziemy",
+          "chcieli",
+          "razem",
+          "podróżować"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "polish": {
+        "present": [
+          "Myśli",
+          "o",
+          "swojej",
+          "przyszłości"
+        ],
+        "past": [
+          "Myślał",
+          "o",
+          "swojej",
+          "przyszłości"
+        ],
+        "future": [
+          "Będzie",
+          "myślał",
+          "o",
+          "swojej",
+          "przyszłości"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "polish": {
+        "present": [
+          "Są",
+          "podekscytowani",
+          "podróżą"
+        ],
+        "past": [
+          "Byli",
+          "podekscytowani",
+          "podróżą"
+        ],
+        "future": [
+          "Będą",
+          "podekscytowani",
+          "podróżą"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "polish": {
+        "present": [
+          "Każdego",
+          "dnia",
+          "staram",
+          "się",
+          "doskonalić"
+        ],
+        "past": [
+          "Każdego",
+          "dnia",
+          "starałem",
+          "się",
+          "poprawiać"
+        ],
+        "future": [
+          "Będę",
+          "starał",
+          "się",
+          "poprawiać",
+          "każdego",
+          "dnia"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "polish": {
+        "present": [
+          "Chce",
+          "osiągnąć",
+          "swoje",
+          "cele"
+        ],
+        "past": [
+          "Chciała",
+          "osiągnąć",
+          "swoje",
+          "cele"
+        ],
+        "future": [
+          "Będzie",
+          "chciała",
+          "osiągnąć",
+          "swoje",
+          "cele"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "polish": {
+        "present": [
+          "Uczymy",
+          "się",
+          "na",
+          "naszych",
+          "błędach"
+        ],
+        "past": [
+          "Uczyliśmy",
+          "się",
+          "na",
+          "naszych",
+          "błędach"
+        ],
+        "future": [
+          "Będziemy",
+          "uczyć",
+          "się",
+          "na",
+          "naszych",
+          "błędach"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "polish": {
+        "present": [
+          "Ciężko",
+          "pracuje",
+          "aby",
+          "zbudować",
+          "swoją",
+          "przyszłość"
+        ],
+        "past": [
+          "Ciężko",
+          "pracował",
+          "aby",
+          "zbudować",
+          "swoją",
+          "przyszłość"
+        ],
+        "future": [
+          "Będzie",
+          "ciężko",
+          "pracować",
+          "aby",
+          "zbudować",
+          "swoją",
+          "przyszłość"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "polish": {
+        "present": [
+          "Wierzą",
+          "że",
+          "wszystko",
+          "jest",
+          "możliwe"
+        ],
+        "past": [
+          "Wierzyli",
+          "że",
+          "wszystko",
+          "jest",
+          "możliwe"
+        ],
+        "future": [
+          "Uwierzą",
+          "że",
+          "wszystko",
+          "jest",
+          "możliwe"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "polish": {
+        "present": [
+          "Każdej",
+          "nocy",
+          "myślę",
+          "o",
+          "mojej",
+          "przyszłości"
+        ],
+        "past": [
+          "Każdej",
+          "nocy",
+          "myślałem",
+          "o",
+          "swojej",
+          "przyszłości"
+        ],
+        "future": [
+          "Każdej",
+          "nocy",
+          "będę",
+          "myśleć",
+          "o",
+          "swojej",
+          "przyszłości"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "polish": {
+        "present": [
+          "Stara",
+          "się",
+          "zachować",
+          "pozytywne",
+          "nastawienie",
+          "w",
+          "trudnych",
+          "chwilach"
+        ],
+        "past": [
+          "W",
+          "trudnych",
+          "chwilach",
+          "starała",
+          "się",
+          "zachować",
+          "pozytywne",
+          "nastawienie"
+        ],
+        "future": [
+          "Będzie",
+          "starała",
+          "się",
+          "zachować",
+          "pozytywne",
+          "nastawienie",
+          "w",
+          "trudnych",
+          "chwilach"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "polish": {
+        "present": [
+          "Chcemy",
+          "żyć",
+          "sensownie"
+        ],
+        "past": [
+          "Chcieliśmy",
+          "żyć",
+          "sensownie"
+        ],
+        "future": [
+          "Będziemy",
+          "chcieli",
+          "żyć",
+          "sensownie"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "polish": {
+        "present": [
+          "Rozumie",
+          "że",
+          "zmiany",
+          "wymagają",
+          "czasu"
+        ],
+        "past": [
+          "Rozumiał",
+          "że",
+          "zmiany",
+          "wymagają",
+          "czasu"
+        ],
+        "future": [
+          "Zrozumie",
+          "że",
+          "zmiana",
+          "wymaga",
+          "czasu"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "polish": {
+        "present": [
+          "Postanawiają",
+          "podążać",
+          "za",
+          "swoimi",
+          "marzeniami"
+        ],
+        "past": [
+          "Postanowili",
+          "podążać",
+          "za",
+          "swoimi",
+          "marzeniami"
+        ],
+        "future": [
+          "Zdecydują",
+          "się",
+          "podążać",
+          "za",
+          "swoimi",
+          "marzeniami"
+        ]
+      }
+    }
+  ]
+}

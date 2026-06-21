@@ -1,0 +1,8593 @@
+{
+  "language": "Malay",
+  "stories": {
+    "story1": {
+      "title": "dalam kafe",
+      "content": [
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "pergi",
+          "meaning": "go",
+          "sound": "per-gi"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "kafe",
+          "meaning": "cafe",
+          "sound": "ka-fe"
+        },
+        {
+          "word": "kecil",
+          "meaning": "small",
+          "sound": "ke-cil"
+        },
+        {
+          "word": "setiap",
+          "meaning": "each",
+          "sound": "se-ti-ap"
+        },
+        {
+          "word": "pagi",
+          "meaning": "morning",
+          "sound": "pa-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kafe",
+          "meaning": "cafe",
+          "sound": "ka-fe"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": "berhampiran",
+          "meaning": "near",
+          "sound": "ber-ham-pi-ran"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "rumah",
+          "meaning": "home",
+          "sound": "ru-mah"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "ia",
+          "meaning": "it",
+          "sound": "ia"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "sunyi",
+          "meaning": "quiet",
+          "sound": "su-ny-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "selalu",
+          "meaning": "always",
+          "sound": "se-la-lu"
+        },
+        {
+          "word": "duduk",
+          "meaning": "sit down",
+          "sound": "du-duk"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "tepi",
+          "meaning": "edge",
+          "sound": "te-pi"
+        },
+        {
+          "word": "tingkap",
+          "meaning": "window",
+          "sound": "tin-gkap"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "memesan",
+          "meaning": "order",
+          "sound": "me-me-san"
+        },
+        {
+          "word": "secawan",
+          "meaning": "a cup",
+          "sound": "se-ca-wan"
+        },
+        {
+          "word": "kopi",
+          "meaning": "coffee",
+          "sound": "ko-pi"
+        },
+        {
+          "word": "panas",
+          "meaning": "hot",
+          "sound": "pa-nas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pelayannya",
+          "meaning": "the server",
+          "sound": "pe-la-y-an-ny-a"
+        },
+        {
+          "word": "ramah",
+          "meaning": "friendly",
+          "sound": "ra-mah"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "sentiasa",
+          "meaning": "always",
+          "sound": "sen-ti-a-sa"
+        },
+        {
+          "word": "menyapa",
+          "meaning": "greet",
+          "sound": "me-ny-a-pa"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "senyuman",
+          "meaning": "smile",
+          "sound": "se-ny-u-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "membaca",
+          "meaning": "read",
+          "sound": "mem-ba-ca"
+        },
+        {
+          "word": "buku",
+          "meaning": "book",
+          "sound": "bu-ku"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "menarik",
+          "meaning": "interesting",
+          "sound": "me-na-rik"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menulis",
+          "meaning": "write",
+          "sound": "me-nu-lis"
+        },
+        {
+          "word": "dalam",
+          "meaning": "in",
+          "sound": "da-lam"
+        },
+        {
+          "word": "buku",
+          "meaning": "book",
+          "sound": "bu-ku"
+        },
+        {
+          "word": "nota",
+          "meaning": "notes",
+          "sound": "no-ta"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "melihat",
+          "meaning": "see",
+          "sound": "me-li-hat"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "baru",
+          "meaning": "new",
+          "sound": "ba-ru"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "sedang",
+          "meaning": "moderate",
+          "sound": "se-dang"
+        },
+        {
+          "word": "membaca",
+          "meaning": "read",
+          "sound": "mem-ba-ca"
+        },
+        {
+          "word": "novel",
+          "meaning": "novels",
+          "sound": "no-vel"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "minum",
+          "meaning": "drink",
+          "sound": "mi-num"
+        },
+        {
+          "word": "teh",
+          "meaning": "tea",
+          "sound": "teh"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "ingin",
+          "meaning": "want to",
+          "sound": "in-gin"
+        },
+        {
+          "word": "tahu",
+          "meaning": "know",
+          "sound": "ta-hu"
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "sedikit",
+          "meaning": "a little",
+          "sound": "se-di-kit"
+        },
+        {
+          "word": "segan",
+          "meaning": "shy",
+          "sound": "se-gan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Selepas",
+          "meaning": "after",
+          "sound": "se-le-pas"
+        },
+        {
+          "word": "beberapa",
+          "meaning": "some",
+          "sound": "be-be-ra-pa"
+        },
+        {
+          "word": "minit",
+          "meaning": "minutes",
+          "sound": "mi-nit"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bertanya",
+          "meaning": "ask",
+          "sound": "ber-ta-ny-a"
+        },
+        {
+          "word": "khabar",
+          "meaning": "hello",
+          "sound": "kha-bar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "membalas",
+          "meaning": "reply",
+          "sound": "mem-ba-las"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "senyuman",
+          "meaning": "smile",
+          "sound": "se-ny-u-man"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "mula",
+          "meaning": "start",
+          "sound": "mu-la"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "gembira",
+          "meaning": "happy",
+          "sound": "gem-bi-ra"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "santai",
+          "meaning": "relax",
+          "sound": "san-ta-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "di taman",
+      "content": [
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "pergi",
+          "meaning": "go",
+          "sound": "per-gi"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "taman",
+          "meaning": "garden",
+          "sound": "ta-man"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cuaca",
+          "meaning": "the weather",
+          "sound": "cu-a-ca"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "menyenangkan",
+          "meaning": "pleasant",
+          "sound": "me-ny-e-nan-gkan"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "matahari",
+          "meaning": "the sun",
+          "sound": "ma-ta-ha-ri"
+        },
+        {
+          "word": "bersinar",
+          "meaning": "shining",
+          "sound": "ber-si-nar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "melihat",
+          "meaning": "see",
+          "sound": "me-li-hat"
+        },
+        {
+          "word": "ramai",
+          "meaning": "many",
+          "sound": "ra-ma-i"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "berjalan",
+          "meaning": "walking",
+          "sound": "ber-ja-lan"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "ketawa",
+          "meaning": "laugh",
+          "sound": "ke-ta-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sesetengah",
+          "meaning": "some",
+          "sound": "se-se-ten-gah"
+        },
+        {
+          "word": "kanak",
+          "meaning": "child",
+          "sound": "ka-nak"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kanak",
+          "meaning": "child",
+          "sound": "ka-nak"
+        },
+        {
+          "word": "bermain",
+          "meaning": "play",
+          "sound": "ber-ma-in"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "bola",
+          "meaning": "ball",
+          "sound": "bo-la"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": "berlari",
+          "meaning": "running",
+          "sound": "ber-la-ri"
+        },
+        {
+          "word": "pantas",
+          "meaning": "fast",
+          "sound": "pan-tas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "duduk",
+          "meaning": "sit down",
+          "sound": "du-duk"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "bangku",
+          "meaning": "bench",
+          "sound": "ban-gku"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kami",
+          "meaning": "we are",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": "tentang",
+          "meaning": "about",
+          "sound": "ten-tang"
+        },
+        {
+          "word": "kehidupan",
+          "meaning": "life",
+          "sound": "ke-hi-du-pan"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "ketawa",
+          "meaning": "laugh",
+          "sound": "ke-ta-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Selepas",
+          "meaning": "after",
+          "sound": "se-le-pas"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "membeli",
+          "meaning": "buy",
+          "sound": "mem-be-li"
+        },
+        {
+          "word": "aiskrim",
+          "meaning": "ice cream",
+          "sound": "a-is-krim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": "sederhana",
+          "meaning": "simple",
+          "sound": "se-der-ha-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "indah",
+          "meaning": "beautiful",
+          "sound": "in-dah"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "di perpustakaan",
+      "content": [
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "perpustakaan",
+          "meaning": "library",
+          "sound": "per-pus-ta-ka-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ia",
+          "meaning": "it is",
+          "sound": "ia"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "tempat",
+          "meaning": "place",
+          "sound": "tem-pat"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "tenang",
+          "meaning": "calm down",
+          "sound": "te-nang"
+        },
+        {
+          "word": "penuh",
+          "meaning": "full",
+          "sound": "pe-nuh"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "buku",
+          "meaning": "book",
+          "sound": "bu-ku"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "suka",
+          "meaning": "love",
+          "sound": "su-ka"
+        },
+        {
+          "word": "membaca",
+          "meaning": "read",
+          "sound": "mem-ba-ca"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "perkara",
+          "meaning": "matter",
+          "sound": "per-ka-ra"
+        },
+        {
+          "word": "baru",
+          "meaning": "new",
+          "sound": "ba-ru"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sedang",
+          "meaning": "moderate",
+          "sound": "se-dang"
+        },
+        {
+          "word": "mencari",
+          "meaning": "looking for",
+          "sound": "men-ca-ri"
+        },
+        {
+          "word": "buku",
+          "meaning": "book",
+          "sound": "bu-ku"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "menarik",
+          "meaning": "interesting",
+          "sound": "me-na-rik"
+        },
+        {
+          "word": "tentang",
+          "meaning": "about",
+          "sound": "ten-tang"
+        },
+        {
+          "word": "sejarah",
+          "meaning": "history",
+          "sound": "se-ja-rah"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Selepas",
+          "meaning": "after",
+          "sound": "se-le-pas"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "duduk",
+          "meaning": "sit down",
+          "sound": "du-duk"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "meja",
+          "meaning": "table",
+          "sound": "me-ja"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "mula",
+          "meaning": "start",
+          "sound": "mu-la"
+        },
+        {
+          "word": "membaca",
+          "meaning": "read",
+          "sound": "mem-ba-ca"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ada",
+          "meaning": "there is",
+          "sound": "a-da"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "menulis",
+          "meaning": "write",
+          "sound": "me-nu-lis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Suasana",
+          "meaning": "atmosphere",
+          "sound": "su-a-sa-na"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "sunyi",
+          "meaning": "quiet",
+          "sound": "su-ny-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Selepas",
+          "meaning": "after",
+          "sound": "se-le-pas"
+        },
+        {
+          "word": "beberapa",
+          "meaning": "some",
+          "sound": "be-be-ra-pa"
+        },
+        {
+          "word": "ketika",
+          "meaning": "when",
+          "sound": "ke-ti-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menutup",
+          "meaning": "close",
+          "sound": "me-nu-tup"
+        },
+        {
+          "word": "buku",
+          "meaning": "book",
+          "sound": "bu-ku"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "puas",
+          "meaning": "satisfied",
+          "sound": "pu-as"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "dalam kedai",
+      "content": [
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "pergi",
+          "meaning": "go",
+          "sound": "per-gi"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "kedai",
+          "meaning": "shop",
+          "sound": "ke-da-i"
+        },
+        {
+          "word": "besar",
+          "meaning": "big",
+          "sound": "be-sar"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "membeli",
+          "meaning": "buy",
+          "sound": "mem-be-li"
+        },
+        {
+          "word": "makanan",
+          "meaning": "food",
+          "sound": "ma-ka-nan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "perlukan",
+          "meaning": "need",
+          "sound": "per-lu-kan"
+        },
+        {
+          "word": "roti",
+          "meaning": "bread",
+          "sound": "ro-ti"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "susu",
+          "meaning": "milk",
+          "sound": "su-su"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "buah",
+          "meaning": "fruit",
+          "sound": "bu-ah"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "buahan",
+          "meaning": "fruits",
+          "sound": "bu-a-han"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "sayur",
+          "meaning": "vegetables",
+          "sound": "sa-y-ur"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sayuran",
+          "meaning": "vegetables",
+          "sound": "sa-y-u-ran"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kedai",
+          "meaning": "shop",
+          "sound": "ke-da-i"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": "penuh",
+          "meaning": "full",
+          "sound": "pe-nuh"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "terdapat",
+          "meaning": "there is",
+          "sound": "ter-da-pat"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "bunyi",
+          "meaning": "sound",
+          "sound": "bu-ny-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mencari",
+          "meaning": "looking for",
+          "sound": "men-ca-ri"
+        },
+        {
+          "word": "produk",
+          "meaning": "product",
+          "sound": "pro-duk"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "rak",
+          "meaning": "shelf",
+          "sound": "rak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Seorang",
+          "meaning": "one person",
+          "sound": "se-o-rang"
+        },
+        {
+          "word": "wanita",
+          "meaning": "women",
+          "sound": "wa-ni-ta"
+        },
+        {
+          "word": "bertanya",
+          "meaning": "ask",
+          "sound": "ber-ta-ny-a"
+        },
+        {
+          "word": "kepada",
+          "meaning": "to",
+          "sound": "ke-pa-da"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Di",
+          "meaning": "at",
+          "sound": "di"
+        },
+        {
+          "word": "manakah",
+          "meaning": "which",
+          "sound": "ma-na-kah"
+        },
+        {
+          "word": "susu",
+          "meaning": "milk",
+          "sound": "su-su"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "beritahu",
+          "meaning": "tell",
+          "sound": "be-ri-ta-hu"
+        },
+        {
+          "word": "dia",
+          "meaning": "him",
+          "sound": "di-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ia",
+          "meaning": "it is",
+          "sound": "ia"
+        },
+        {
+          "word": "ada",
+          "meaning": "there is",
+          "sound": "a-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "sebelah",
+          "meaning": "side",
+          "sound": "se-be-lah"
+        },
+        {
+          "word": "roti",
+          "meaning": "bread",
+          "sound": "ro-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "tersenyum",
+          "meaning": "smile",
+          "sound": "ter-se-ny-um"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "berkata",
+          "meaning": "said",
+          "sound": "ber-ka-ta"
+        },
+        {
+          "word": "terima",
+          "meaning": "accept",
+          "sound": "te-ri-ma"
+        },
+        {
+          "word": "kasih",
+          "meaning": "love",
+          "sound": "ka-sih"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kemudian",
+          "meaning": "then",
+          "sound": "ke-mu-di-an"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "pergi",
+          "meaning": "go",
+          "sound": "per-gi"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "juruwang",
+          "meaning": "cashier",
+          "sound": "ju-ru-wang"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "membayar",
+          "meaning": "pay",
+          "sound": "mem-ba-y-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "meninggalkan",
+          "meaning": "leave",
+          "sound": "me-nin-ggal-kan"
+        },
+        {
+          "word": "kedai",
+          "meaning": "shop",
+          "sound": "ke-da-i"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "beg",
+          "meaning": "bag",
+          "sound": "beg"
+        },
+        {
+          "word": "penuh",
+          "meaning": "full",
+          "sound": "pe-nuh"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "gembira",
+          "meaning": "happy",
+          "sound": "gem-bi-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "dalam bas",
+      "content": [
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menaiki",
+          "meaning": "boarding",
+          "sound": "me-na-i-ki"
+        },
+        {
+          "word": "bas",
+          "meaning": "bus",
+          "sound": "bas"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "tempat",
+          "meaning": "place",
+          "sound": "tem-pat"
+        },
+        {
+          "word": "kerja",
+          "meaning": "work",
+          "sound": "ker-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bas",
+          "meaning": "bus",
+          "sound": "bas"
+        },
+        {
+          "word": "penuh",
+          "meaning": "full",
+          "sound": "pe-nuh"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "ruang",
+          "meaning": "space",
+          "sound": "ru-ang"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "sedikit",
+          "meaning": "a little",
+          "sound": "se-di-kit"
+        },
+        {
+          "word": "letih",
+          "meaning": "tired",
+          "sound": "le-tih"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "melihat",
+          "meaning": "see",
+          "sound": "me-li-hat"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "tua",
+          "meaning": "old",
+          "sound": "tu-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menawarkan",
+          "meaning": "offer",
+          "sound": "me-na-war-kan"
+        },
+        {
+          "word": "tempat",
+          "meaning": "place",
+          "sound": "tem-pat"
+        },
+        {
+          "word": "duduk",
+          "meaning": "sit down",
+          "sound": "du-duk"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "memberitahu",
+          "meaning": "tell",
+          "sound": "mem-be-ri-ta-hu"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Adakah",
+          "meaning": "do",
+          "sound": "a-da-kah"
+        },
+        {
+          "word": "anda",
+          "meaning": "you",
+          "sound": "an-da"
+        },
+        {
+          "word": "pasti",
+          "meaning": "for sure",
+          "sound": "pas-ti"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "jawab",
+          "meaning": "answer",
+          "sound": "ja-wab"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ya",
+          "meaning": "yes",
+          "sound": "ya"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tiada",
+          "meaning": "none",
+          "sound": "ti-a-da"
+        },
+        {
+          "word": "masalah",
+          "meaning": "problem",
+          "sound": "ma-sa-lah"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "tersenyum",
+          "meaning": "smile",
+          "sound": "ter-se-ny-um"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "berterima",
+          "meaning": "grateful",
+          "sound": "ber-te-ri-ma"
+        },
+        {
+          "word": "kasih",
+          "meaning": "love",
+          "sound": "ka-sih"
+        },
+        {
+          "word": "kepada",
+          "meaning": "to",
+          "sound": "ke-pa-da"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Semasa",
+          "meaning": "current",
+          "sound": "se-ma-sa"
+        },
+        {
+          "word": "dalam",
+          "meaning": "in",
+          "sound": "da-lam"
+        },
+        {
+          "word": "perjalanan",
+          "meaning": "trip",
+          "sound": "per-ja-la-nan"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "melihat",
+          "meaning": "see",
+          "sound": "me-li-hat"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "luar",
+          "meaning": "outside",
+          "sound": "lu-ar"
+        },
+        {
+          "word": "tingkap",
+          "meaning": "window",
+          "sound": "tin-gkap"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "berfikir",
+          "meaning": "thinking",
+          "sound": "ber-fi-kir"
+        },
+        {
+          "word": "tentang",
+          "meaning": "about",
+          "sound": "ten-tang"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Walaupun",
+          "meaning": "although",
+          "sound": "wa-la-u-pun"
+        },
+        {
+          "word": "penat",
+          "meaning": "tired",
+          "sound": "pe-nat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tapi",
+          "meaning": "but",
+          "sound": "ta-pi"
+        },
+        {
+          "word": "rasa",
+          "meaning": "feel",
+          "sound": "ra-sa"
+        },
+        {
+          "word": "senang",
+          "meaning": "happy",
+          "sound": "se-nang"
+        },
+        {
+          "word": "nak",
+          "meaning": "son",
+          "sound": "nak"
+        },
+        {
+          "word": "tolong",
+          "meaning": "please",
+          "sound": "to-long"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Semalam di pantai",
+      "content": [
+        {
+          "word": "Semalam",
+          "meaning": "yesterday",
+          "sound": "se-ma-lam"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "pergi",
+          "meaning": "go",
+          "sound": "per-gi"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "pantai",
+          "meaning": "beach",
+          "sound": "pan-ta-i"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cuaca",
+          "meaning": "the weather",
+          "sound": "cu-a-ca"
+        },
+        {
+          "word": "sempurna",
+          "meaning": "perfect",
+          "sound": "sem-pur-na"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "laut",
+          "meaning": "the sea",
+          "sound": "la-ut"
+        },
+        {
+          "word": "tenang",
+          "meaning": "calm down",
+          "sound": "te-nang"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kami",
+          "meaning": "we are",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "berjalan",
+          "meaning": "walking",
+          "sound": "ber-ja-lan"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "atas",
+          "meaning": "top",
+          "sound": "a-tas"
+        },
+        {
+          "word": "pasir",
+          "meaning": "sand",
+          "sound": "pa-sir"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": "tentang",
+          "meaning": "about",
+          "sound": "ten-tang"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "perkara",
+          "meaning": "matter",
+          "sound": "per-ka-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Selepas",
+          "meaning": "after",
+          "sound": "se-le-pas"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "berenang",
+          "meaning": "swim",
+          "sound": "be-re-nang"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "dalam",
+          "meaning": "in",
+          "sound": "da-lam"
+        },
+        {
+          "word": "air",
+          "meaning": "water",
+          "sound": "a-ir"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "sejuk",
+          "meaning": "cold",
+          "sound": "se-juk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "mulanya",
+          "meaning": "at first",
+          "sound": "mu-la-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "agak",
+          "meaning": "quite",
+          "sound": "a-gak"
+        },
+        {
+          "word": "takut",
+          "meaning": "afraid",
+          "sound": "ta-kut"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "kemudian",
+          "meaning": "then",
+          "sound": "ke-mu-di-an"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "hebat",
+          "meaning": "great",
+          "sound": "he-bat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kami",
+          "meaning": "we are",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "juga",
+          "meaning": "too",
+          "sound": "ju-ga"
+        },
+        {
+          "word": "bermain",
+          "meaning": "play",
+          "sound": "ber-ma-in"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "bola",
+          "meaning": "ball",
+          "sound": "bo-la"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "ketawa",
+          "meaning": "laugh",
+          "sound": "ke-ta-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "sebelah",
+          "meaning": "side",
+          "sound": "se-be-lah"
+        },
+        {
+          "word": "petang",
+          "meaning": "evening",
+          "sound": "pe-tang"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "makan",
+          "meaning": "eat",
+          "sound": "ma-kan"
+        },
+        {
+          "word": "bersama",
+          "meaning": "together",
+          "sound": "ber-sa-ma"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "melihat",
+          "meaning": "see",
+          "sound": "me-li-hat"
+        },
+        {
+          "word": "matahari",
+          "meaning": "the sun",
+          "sound": "ma-ta-ha-ri"
+        },
+        {
+          "word": "terbenam",
+          "meaning": "sunset",
+          "sound": "ter-be-nam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ia",
+          "meaning": "it is",
+          "sound": "ia"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "istimewa",
+          "meaning": "special",
+          "sound": "is-ti-me-wa"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "melupakannya",
+          "meaning": "forget it",
+          "sound": "me-lu-pa-kan-ny-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Perbualan penting",
+      "content": [
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bertemu",
+          "meaning": "meet",
+          "sound": "ber-te-mu"
+        },
+        {
+          "word": "seorang",
+          "meaning": "a person",
+          "sound": "se-o-rang"
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "lama",
+          "meaning": "old",
+          "sound": "la-ma"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "sebuah",
+          "meaning": "a",
+          "sound": "se-bu-ah"
+        },
+        {
+          "word": "kafe",
+          "meaning": "cafe",
+          "sound": "ka-fe"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sudah",
+          "meaning": "already",
+          "sound": "su-dah"
+        },
+        {
+          "word": "lama",
+          "meaning": "old",
+          "sound": "la-ma"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "berjumpa",
+          "meaning": "meet",
+          "sound": "ber-jum-pa"
+        },
+        {
+          "word": "dengannya",
+          "meaning": "with him",
+          "sound": "den-gan-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jadi",
+          "meaning": "so",
+          "sound": "ja-di"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "gembira",
+          "meaning": "happy",
+          "sound": "gem-bi-ra"
+        },
+        {
+          "word": "melihatnya",
+          "meaning": "look at it",
+          "sound": "me-li-hat-ny-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kami",
+          "meaning": "we are",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "duduk",
+          "meaning": "sit down",
+          "sound": "du-duk"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "mula",
+          "meaning": "start",
+          "sound": "mu-la"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "memberitahu",
+          "meaning": "tell",
+          "sound": "mem-be-ri-ta-hu"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "dia",
+          "meaning": "him",
+          "sound": "di-a"
+        },
+        {
+          "word": "kini",
+          "meaning": "now",
+          "sound": "ki-ni"
+        },
+        {
+          "word": "tinggal",
+          "meaning": "stay",
+          "sound": "tin-ggal"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "bandar",
+          "meaning": "city",
+          "sound": "ban-dar"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "juga",
+          "meaning": "too",
+          "sound": "ju-ga"
+        },
+        {
+          "word": "bekerja",
+          "meaning": "work",
+          "sound": "be-ker-ja"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "sebuah",
+          "meaning": "a",
+          "sound": "se-bu-ah"
+        },
+        {
+          "word": "syarikat",
+          "meaning": "company",
+          "sound": "sy-a-ri-kat"
+        },
+        {
+          "word": "besar",
+          "meaning": "big",
+          "sound": "be-sar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "memberitahunya",
+          "meaning": "told him",
+          "sound": "mem-be-ri-ta-hu-ny-a"
+        },
+        {
+          "word": "tentang",
+          "meaning": "about",
+          "sound": "ten-tang"
+        },
+        {
+          "word": "pelajaran",
+          "meaning": "lessons",
+          "sound": "pe-la-ja-ran"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "rancangan",
+          "meaning": "plan",
+          "sound": "ran-can-gan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kami",
+          "meaning": "we are",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": "selama",
+          "meaning": "during",
+          "sound": "se-la-ma"
+        },
+        {
+          "word": "berjam",
+          "meaning": "hours",
+          "sound": "ber-jam"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jam",
+          "meaning": "hours",
+          "sound": "jam"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "mengingati",
+          "meaning": "remember",
+          "sound": "men-gin-ga-ti"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "detik",
+          "meaning": "seconds",
+          "sound": "de-tik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sebelum",
+          "meaning": "before",
+          "sound": "se-be-lum"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "pergi",
+          "meaning": "go",
+          "sound": "per-gi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dia",
+          "meaning": "him",
+          "sound": "di-a"
+        },
+        {
+          "word": "memberitahu",
+          "meaning": "tell",
+          "sound": "mem-be-ri-ta-hu"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kita",
+          "meaning": "we",
+          "sound": "ki-ta"
+        },
+        {
+          "word": "harus",
+          "meaning": "should",
+          "sound": "ha-rus"
+        },
+        {
+          "word": "berjumpa",
+          "meaning": "meet",
+          "sound": "ber-jum-pa"
+        },
+        {
+          "word": "antara",
+          "meaning": "between",
+          "sound": "an-ta-ra"
+        },
+        {
+          "word": "satu",
+          "meaning": "one",
+          "sound": "sa-tu"
+        },
+        {
+          "word": "sama",
+          "meaning": "same",
+          "sound": "sa-ma"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "kerap",
+          "meaning": "frequently",
+          "sound": "ke-rap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tersenyum",
+          "meaning": "smile",
+          "sound": "ter-se-ny-um"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "menjawab",
+          "meaning": "answered",
+          "sound": "men-ja-wab"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pasti",
+          "meaning": "definitely",
+          "sound": "pas-ti"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "menyukai",
+          "meaning": "liked",
+          "sound": "me-ny-u-ka-i"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Satu keputusan yang sukar",
+      "content": [
+        {
+          "word": "Beberapa",
+          "meaning": "some",
+          "sound": "be-be-ra-pa"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "lepas",
+          "meaning": "off",
+          "sound": "le-pas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menerima",
+          "meaning": "receive",
+          "sound": "me-ne-ri-ma"
+        },
+        {
+          "word": "tawaran",
+          "meaning": "offer",
+          "sound": "ta-wa-ran"
+        },
+        {
+          "word": "kerja",
+          "meaning": "work",
+          "sound": "ker-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ia",
+          "meaning": "it is",
+          "sound": "ia"
+        },
+        {
+          "word": "berada",
+          "meaning": "to be",
+          "sound": "be-ra-da"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "bandar",
+          "meaning": "city",
+          "sound": "ban-dar"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "menarik",
+          "meaning": "interesting",
+          "sound": "me-na-rik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "mulanya",
+          "meaning": "at first",
+          "sound": "mu-la-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "teruja",
+          "meaning": "excited",
+          "sound": "te-ru-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "juga",
+          "meaning": "too",
+          "sound": "ju-ga"
+        },
+        {
+          "word": "gementar",
+          "meaning": "nervous",
+          "sound": "ge-men-tar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "keluarga",
+          "meaning": "family",
+          "sound": "ke-lu-ar-ga"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "rakan",
+          "meaning": "friends",
+          "sound": "ra-kan"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "rakan",
+          "meaning": "friends",
+          "sound": "ra-kan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mereka",
+          "meaning": "they are",
+          "sound": "me-re-ka"
+        },
+        {
+          "word": "memberi",
+          "meaning": "give",
+          "sound": "mem-be-ri"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "nasihat",
+          "meaning": "advice",
+          "sound": "na-si-hat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ibu",
+          "meaning": "mother",
+          "sound": "i-bu"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berkata",
+          "meaning": "said",
+          "sound": "ber-ka-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Anda",
+          "meaning": "you",
+          "sound": "an-da"
+        },
+        {
+          "word": "mesti",
+          "meaning": "must",
+          "sound": "mes-ti"
+        },
+        {
+          "word": "mengikuti",
+          "meaning": "follow",
+          "sound": "men-gi-ku-ti"
+        },
+        {
+          "word": "impian",
+          "meaning": "dream",
+          "sound": "im-pi-an"
+        },
+        {
+          "word": "anda",
+          "meaning": "you",
+          "sound": "an-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bertanya",
+          "meaning": "ask",
+          "sound": "ber-ta-ny-a"
+        },
+        {
+          "word": "kepada",
+          "meaning": "to",
+          "sound": "ke-pa-da"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Adakah",
+          "meaning": "do",
+          "sound": "a-da-kah"
+        },
+        {
+          "word": "anda",
+          "meaning": "you",
+          "sound": "an-da"
+        },
+        {
+          "word": "pasti",
+          "meaning": "for sure",
+          "sound": "pas-ti"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menghabiskan",
+          "meaning": "spend",
+          "sound": "men-gha-bis-kan"
+        },
+        {
+          "word": "beberapa",
+          "meaning": "some",
+          "sound": "be-be-ra-pa"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "berfikir",
+          "meaning": "thinking",
+          "sound": "ber-fi-kir"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Akhirnya",
+          "meaning": "finally",
+          "sound": "ak-hir-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "memutuskan",
+          "meaning": "decide",
+          "sound": "me-mu-tus-kan"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "menerima",
+          "meaning": "receive",
+          "sound": "me-ne-ri-ma"
+        },
+        {
+          "word": "pekerjaan",
+          "meaning": "job",
+          "sound": "pe-ker-ja-an"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tahu",
+          "meaning": "know",
+          "sound": "ta-hu"
+        },
+        {
+          "word": "ia",
+          "meaning": "it",
+          "sound": "ia"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "mudah",
+          "meaning": "easy",
+          "sound": "mu-dah"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mahu",
+          "meaning": "want",
+          "sound": "ma-hu"
+        },
+        {
+          "word": "mencuba",
+          "meaning": "try",
+          "sound": "men-cu-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Pertengkaran dengan seorang kawan",
+      "content": [
+        {
+          "word": "Semalam",
+          "meaning": "yesterday",
+          "sound": "se-ma-lam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bertengkar",
+          "meaning": "argue",
+          "sound": "ber-ten-gkar"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "baik",
+          "meaning": "good",
+          "sound": "ba-ik"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Semuanya",
+          "meaning": "everything",
+          "sound": "se-mu-a-ny-a"
+        },
+        {
+          "word": "bermula",
+          "meaning": "started",
+          "sound": "ber-mu-la"
+        },
+        {
+          "word": "apabila",
+          "meaning": "when",
+          "sound": "a-pa-bi-la"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": "tentang",
+          "meaning": "about",
+          "sound": "ten-tang"
+        },
+        {
+          "word": "rancangan",
+          "meaning": "plan",
+          "sound": "ran-can-gan"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mahu",
+          "meaning": "want",
+          "sound": "ma-hu"
+        },
+        {
+          "word": "mengembara",
+          "meaning": "travel",
+          "sound": "men-gem-ba-ra"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "dia",
+          "meaning": "him",
+          "sound": "di-a"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "suka",
+          "meaning": "love",
+          "sound": "su-ka"
+        },
+        {
+          "word": "tinggal",
+          "meaning": "stay",
+          "sound": "tin-ggal"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "berkata",
+          "meaning": "said",
+          "sound": "ber-ka-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kami",
+          "meaning": "we are",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "mempunyai",
+          "meaning": "have",
+          "sound": "mem-pu-ny-a-i"
+        },
+        {
+          "word": "wang",
+          "meaning": "money",
+          "sound": "wang"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "cukup",
+          "meaning": "enough",
+          "sound": "cu-kup"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menjawab",
+          "meaning": "answered",
+          "sound": "men-ja-wab"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kita",
+          "meaning": "we",
+          "sound": "ki-ta"
+        },
+        {
+          "word": "boleh",
+          "meaning": "can",
+          "sound": "bo-leh"
+        },
+        {
+          "word": "berjimat",
+          "meaning": "thrift",
+          "sound": "ber-ji-mat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "dia",
+          "meaning": "him",
+          "sound": "di-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "bersetuju",
+          "meaning": "agree",
+          "sound": "ber-se-tu-ju"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Perbualan",
+          "meaning": "conversation",
+          "sound": "per-bu-a-lan"
+        },
+        {
+          "word": "menjadi",
+          "meaning": "to be",
+          "sound": "men-ja-di"
+        },
+        {
+          "word": "tegang",
+          "meaning": "tense",
+          "sound": "te-gang"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Akhirnya",
+          "meaning": "finally",
+          "sound": "ak-hir-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "berdua",
+          "meaning": "both",
+          "sound": "ber-du-a"
+        },
+        {
+          "word": "kecewa",
+          "meaning": "disappointed",
+          "sound": "ke-ce-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "fikir",
+          "meaning": "thought",
+          "sound": "fi-kir"
+        },
+        {
+          "word": "mungkin",
+          "meaning": "maybe",
+          "sound": "mun-gkin"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "perlu",
+          "meaning": "necessary",
+          "sound": "per-lu"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": "dengannya",
+          "meaning": "with him",
+          "sound": "den-gan-ny-a"
+        },
+        {
+          "word": "lagi",
+          "meaning": "again",
+          "sound": "la-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Persahabatan",
+          "meaning": "friendship",
+          "sound": "per-sa-ha-ba-tan"
+        },
+        {
+          "word": "kita",
+          "meaning": "us",
+          "sound": "ki-ta"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "penting",
+          "meaning": "important",
+          "sound": "pen-ting"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Satu perubahan yang penting",
+      "content": [
+        {
+          "word": "Setahun",
+          "meaning": "a year",
+          "sound": "se-ta-hun"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "lalu",
+          "meaning": "past",
+          "sound": "la-lu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hidup",
+          "meaning": "life",
+          "sound": "hi-dup"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sangat",
+          "meaning": "very",
+          "sound": "san-gat"
+        },
+        {
+          "word": "berbeza",
+          "meaning": "different",
+          "sound": "ber-be-za"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bekerja",
+          "meaning": "work",
+          "sound": "be-ker-ja"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "tempat",
+          "meaning": "place",
+          "sound": "tem-pat"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "suka",
+          "meaning": "love",
+          "sound": "su-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Setiap",
+          "meaning": "each",
+          "sound": "se-ti-ap"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "letih",
+          "meaning": "tired",
+          "sound": "le-tih"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "bersemangat",
+          "meaning": "enthusiastic",
+          "sound": "ber-se-man-gat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Suatu",
+          "meaning": "one",
+          "sound": "su-a-tu"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "memutuskan",
+          "meaning": "decide",
+          "sound": "me-mu-tus-kan"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "mengubah",
+          "meaning": "change",
+          "sound": "men-gu-bah"
+        },
+        {
+          "word": "segala",
+          "meaning": "everything",
+          "sound": "se-ga-la"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "galanya",
+          "meaning": "everything",
+          "sound": "ga-la-ny-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ia",
+          "meaning": "it is",
+          "sound": "ia"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "mudah",
+          "meaning": "easy",
+          "sound": "mu-dah"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kerana",
+          "meaning": "because",
+          "sound": "ke-ra-na"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "takut",
+          "meaning": "afraid",
+          "sound": "ta-kut"
+        },
+        {
+          "word": "gagal",
+          "meaning": "fail",
+          "sound": "ga-gal"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "juga",
+          "meaning": "too",
+          "sound": "ju-ga"
+        },
+        {
+          "word": "tahu",
+          "meaning": "know",
+          "sound": "ta-hu"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "boleh",
+          "meaning": "can",
+          "sound": "bo-leh"
+        },
+        {
+          "word": "terus",
+          "meaning": "continue",
+          "sound": "te-rus"
+        },
+        {
+          "word": "begini",
+          "meaning": "like this",
+          "sound": "be-gi-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mula",
+          "meaning": "start",
+          "sound": "mu-la"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "perkara",
+          "meaning": "matter",
+          "sound": "per-ka-ra"
+        },
+        {
+          "word": "baru",
+          "meaning": "new",
+          "sound": "ba-ru"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "berusaha",
+          "meaning": "strive",
+          "sound": "be-ru-sa-ha"
+        },
+        {
+          "word": "mencapai",
+          "meaning": "achieve",
+          "sound": "men-ca-pa-i"
+        },
+        {
+          "word": "matlamat",
+          "meaning": "goal",
+          "sound": "ma-tla-mat"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sedikit",
+          "meaning": "a little",
+          "sound": "se-di-kit"
+        },
+        {
+          "word": "demi",
+          "meaning": "sake",
+          "sound": "de-mi"
+        },
+        {
+          "word": "sedikit",
+          "meaning": "a little",
+          "sound": "se-di-kit"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hidup",
+          "meaning": "life",
+          "sound": "hi-dup"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berubah",
+          "meaning": "change",
+          "sound": "be-ru-bah"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berasa",
+          "meaning": "feel",
+          "sound": "be-ra-sa"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "yakin",
+          "meaning": "confident",
+          "sound": "y-a-kin"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "gembira",
+          "meaning": "happy",
+          "sound": "gem-bi-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "perubahan",
+          "meaning": "change",
+          "sound": "pe-ru-ba-han"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "sukar",
+          "meaning": "difficult",
+          "sound": "su-kar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "perlu",
+          "meaning": "necessary",
+          "sound": "per-lu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Maksud jalan",
+      "content": [
+        {
+          "word": "Untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "lama",
+          "meaning": "old",
+          "sound": "la-ma"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "fikir",
+          "meaning": "thought",
+          "sound": "fi-kir"
+        },
+        {
+          "word": "kejayaan",
+          "meaning": "success",
+          "sound": "ke-ja-y-a-an"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "perkara",
+          "meaning": "matter",
+          "sound": "per-ka-ra"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "paling",
+          "meaning": "most",
+          "sound": "pa-ling"
+        },
+        {
+          "word": "penting",
+          "meaning": "important",
+          "sound": "pen-ting"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "percaya",
+          "meaning": "believe",
+          "sound": "per-ca-y-a"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "mempunyai",
+          "meaning": "have",
+          "sound": "mem-pu-ny-a-i"
+        },
+        {
+          "word": "wang",
+          "meaning": "money",
+          "sound": "wang"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "pengiktirafan",
+          "meaning": "recognition",
+          "sound": "pen-gik-ti-ra-fan"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "menggembirakan",
+          "meaning": "happy",
+          "sound": "men-ggem-bi-ra-kan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Namun",
+          "meaning": "however",
+          "sound": "na-mun"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lama",
+          "meaning": "old",
+          "sound": "la-ma"
+        },
+        {
+          "word": "kelamaan",
+          "meaning": "over time",
+          "sound": "ke-la-ma-an"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sedar",
+          "meaning": "aware",
+          "sound": "se-dar"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "salah",
+          "meaning": "wrong",
+          "sound": "sa-lah"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Apa",
+          "meaning": "what",
+          "sound": "a-pa"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "penting",
+          "meaning": "important",
+          "sound": "pen-ting"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "jalan",
+          "meaning": "street",
+          "sound": "ja-lan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pengalaman",
+          "meaning": "experience",
+          "sound": "pen-ga-la-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kesilapan",
+          "meaning": "mistake",
+          "sound": "ke-si-la-pan"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "pembelajaran",
+          "meaning": "learning",
+          "sound": "pem-be-la-ja-ran"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "suatu",
+          "meaning": "a",
+          "sound": "su-a-tu"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bercakap",
+          "meaning": "talk",
+          "sound": "ber-ca-kap"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "seorang",
+          "meaning": "a person",
+          "sound": "se-o-rang"
+        },
+        {
+          "word": "mentor",
+          "meaning": "mentor",
+          "sound": "men-tor"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "memberitahu",
+          "meaning": "tell",
+          "sound": "mem-be-ri-ta-hu"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jangan",
+          "meaning": "don't",
+          "sound": "jan-gan"
+        },
+        {
+          "word": "tergesa",
+          "meaning": "in a hurry",
+          "sound": "ter-ge-sa"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "gesa",
+          "meaning": "prompt",
+          "sound": "ge-sa"
+        },
+        {
+          "word": "hanya",
+          "meaning": "only",
+          "sound": "ha-ny-a"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "sampai",
+          "meaning": "until",
+          "sound": "sam-pa-i"
+        },
+        {
+          "word": "ke",
+          "meaning": "to",
+          "sound": "ke"
+        },
+        {
+          "word": "sana",
+          "meaning": "there",
+          "sound": "sa-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "menikmati",
+          "meaning": "enjoy",
+          "sound": "me-nik-ma-ti"
+        },
+        {
+          "word": "proses",
+          "meaning": "process",
+          "sound": "pro-ses"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sejak",
+          "meaning": "since",
+          "sound": "se-jak"
+        },
+        {
+          "word": "saat",
+          "meaning": "moment",
+          "sound": "sa-at"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "cara",
+          "meaning": "way",
+          "sound": "ca-ra"
+        },
+        {
+          "word": "pemikiran",
+          "meaning": "thoughts",
+          "sound": "pe-mi-ki-ran"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berubah",
+          "meaning": "change",
+          "sound": "be-ru-bah"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kini",
+          "meaning": "now",
+          "sound": "ki-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "menghargai",
+          "meaning": "appreciate",
+          "sound": "men-ghar-ga-i"
+        },
+        {
+          "word": "setiap",
+          "meaning": "each",
+          "sound": "se-ti-ap"
+        },
+        {
+          "word": "langkah",
+          "meaning": "steps",
+          "sound": "lan-gkah"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "daripada",
+          "meaning": "from",
+          "sound": "da-ri-pa-da"
+        },
+        {
+          "word": "setiap",
+          "meaning": "each",
+          "sound": "se-ti-ap"
+        },
+        {
+          "word": "kesilapan",
+          "meaning": "mistake",
+          "sound": "ke-si-la-pan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "siapa saya sebenarnya",
+      "content": [
+        {
+          "word": "Selama",
+          "meaning": "as long as",
+          "sound": "se-la-ma"
+        },
+        {
+          "word": "bertahun",
+          "meaning": "years",
+          "sound": "ber-ta-hun"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tahun",
+          "meaning": "year",
+          "sound": "ta-hun"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mempersoalkan",
+          "meaning": "questioning",
+          "sound": "mem-per-so-al-kan"
+        },
+        {
+          "word": "siapa",
+          "meaning": "who",
+          "sound": "si-a-pa"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sebenarnya",
+          "meaning": "actually",
+          "sound": "se-be-nar-ny-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "mulanya",
+          "meaning": "at first",
+          "sound": "mu-la-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "fikir",
+          "meaning": "thought",
+          "sound": "fi-kir"
+        },
+        {
+          "word": "identiti",
+          "meaning": "identity",
+          "sound": "i-den-ti-ti"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bergantung",
+          "meaning": "depends",
+          "sound": "ber-gan-tung"
+        },
+        {
+          "word": "pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "apa",
+          "meaning": "what",
+          "sound": "a-pa"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": "fikirkan",
+          "meaning": "think about it",
+          "sound": "fi-kir-kan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sedang",
+          "meaning": "moderate",
+          "sound": "se-dang"
+        },
+        {
+          "word": "mencari",
+          "meaning": "looking for",
+          "sound": "men-ca-ri"
+        },
+        {
+          "word": "kelulusan",
+          "meaning": "approval",
+          "sound": "ke-lu-lu-san"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "takut",
+          "meaning": "afraid",
+          "sound": "ta-kut"
+        },
+        {
+          "word": "membuat",
+          "meaning": "make",
+          "sound": "mem-bu-at"
+        },
+        {
+          "word": "kesilapan",
+          "meaning": "mistake",
+          "sound": "ke-si-la-pan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Namun",
+          "meaning": "however",
+          "sound": "na-mun"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lama",
+          "meaning": "old",
+          "sound": "la-ma"
+        },
+        {
+          "word": "kelamaan",
+          "meaning": "over time",
+          "sound": "ke-la-ma-an"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "faham",
+          "meaning": "understand",
+          "sound": "fa-ham"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "nilai",
+          "meaning": "value",
+          "sound": "ni-la-i"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "bergantung",
+          "meaning": "depends",
+          "sound": "ber-gan-tung"
+        },
+        {
+          "word": "kepada",
+          "meaning": "to",
+          "sound": "ke-pa-da"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "suatu",
+          "meaning": "a",
+          "sound": "su-a-tu"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "memutuskan",
+          "meaning": "decide",
+          "sound": "me-mu-tus-kan"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "mendengar",
+          "meaning": "listen",
+          "sound": "men-den-gar"
+        },
+        {
+          "word": "suara",
+          "meaning": "voice",
+          "sound": "su-a-ra"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sendiri",
+          "meaning": "own",
+          "sound": "sen-di-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mula",
+          "meaning": "start",
+          "sound": "mu-la"
+        },
+        {
+          "word": "membuat",
+          "meaning": "make",
+          "sound": "mem-bu-at"
+        },
+        {
+          "word": "keputusan",
+          "meaning": "decision",
+          "sound": "ke-pu-tu-san"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "diri",
+          "meaning": "self",
+          "sound": "di-ri"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sendiri",
+          "meaning": "own",
+          "sound": "sen-di-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ia",
+          "meaning": "it is",
+          "sound": "ia"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "selalu",
+          "meaning": "always",
+          "sound": "se-la-lu"
+        },
+        {
+          "word": "mudah",
+          "meaning": "easy",
+          "sound": "mu-dah"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "dari",
+          "meaning": "from",
+          "sound": "da-ri"
+        },
+        {
+          "word": "setiap",
+          "meaning": "each",
+          "sound": "se-ti-ap"
+        },
+        {
+          "word": "kesilapan",
+          "meaning": "mistake",
+          "sound": "ke-si-la-pan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tahu",
+          "meaning": "know",
+          "sound": "ta-hu"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "menjadi",
+          "meaning": "to be",
+          "sound": "men-ja-di"
+        },
+        {
+          "word": "diri",
+          "meaning": "self",
+          "sound": "di-ri"
+        },
+        {
+          "word": "sendiri",
+          "meaning": "own",
+          "sound": "sen-di-ri"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "pencapaian",
+          "meaning": "achievement",
+          "sound": "pen-ca-pa-i-an"
+        },
+        {
+          "word": "terbesar",
+          "meaning": "the largest",
+          "sound": "ter-be-sar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Nilai masa",
+      "content": [
+        {
+          "word": "Beberapa",
+          "meaning": "some",
+          "sound": "be-be-ra-pa"
+        },
+        {
+          "word": "tahun",
+          "meaning": "year",
+          "sound": "ta-hun"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "lalu",
+          "meaning": "past",
+          "sound": "la-lu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "begitu",
+          "meaning": "so",
+          "sound": "be-gi-tu"
+        },
+        {
+          "word": "mempedulikan",
+          "meaning": "caring",
+          "sound": "mem-pe-du-li-kan"
+        },
+        {
+          "word": "masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "fikir",
+          "meaning": "thought",
+          "sound": "fi-kir"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "sentiasa",
+          "meaning": "always",
+          "sound": "sen-ti-a-sa"
+        },
+        {
+          "word": "ada",
+          "meaning": "there is",
+          "sound": "a-da"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "peluang",
+          "meaning": "opportunity",
+          "sound": "pe-lu-ang"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dia",
+          "meaning": "he",
+          "sound": "di-a"
+        },
+        {
+          "word": "meninggalkan",
+          "meaning": "leave",
+          "sound": "me-nin-ggal-kan"
+        },
+        {
+          "word": "banyak",
+          "meaning": "a lot",
+          "sound": "ba-ny-ak"
+        },
+        {
+          "word": "perkara",
+          "meaning": "matter",
+          "sound": "per-ka-ra"
+        },
+        {
+          "word": "untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "kemudian",
+          "meaning": "then",
+          "sound": "ke-mu-di-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Suatu",
+          "meaning": "one",
+          "sound": "su-a-tu"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "seorang",
+          "meaning": "a person",
+          "sound": "se-o-rang"
+        },
+        {
+          "word": "kawan",
+          "meaning": "friends",
+          "sound": "ka-wan"
+        },
+        {
+          "word": "memberitahu",
+          "meaning": "tell",
+          "sound": "mem-be-ri-ta-hu"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "menunggu",
+          "meaning": "waiting",
+          "sound": "me-nun-ggu"
+        },
+        {
+          "word": "sesiapa",
+          "meaning": "anyone",
+          "sound": "se-si-a-pa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ungkapan",
+          "meaning": "expression",
+          "sound": "un-gka-pan"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": "kekal",
+          "meaning": "remain",
+          "sound": "ke-kal"
+        },
+        {
+          "word": "dalam",
+          "meaning": "in",
+          "sound": "da-lam"
+        },
+        {
+          "word": "fikiran",
+          "meaning": "mind",
+          "sound": "fi-ki-ran"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sejak",
+          "meaning": "since",
+          "sound": "se-jak"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mula",
+          "meaning": "start",
+          "sound": "mu-la"
+        },
+        {
+          "word": "menghargai",
+          "meaning": "appreciate",
+          "sound": "men-ghar-ga-i"
+        },
+        {
+          "word": "setiap",
+          "meaning": "each",
+          "sound": "se-ti-ap"
+        },
+        {
+          "word": "detik",
+          "meaning": "seconds",
+          "sound": "de-tik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "mengatur",
+          "meaning": "organize",
+          "sound": "men-ga-tur"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "mengutamakan",
+          "meaning": "prioritise",
+          "sound": "men-gu-ta-ma-kan"
+        },
+        {
+          "word": "perkara",
+          "meaning": "matter",
+          "sound": "per-ka-ra"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "penting",
+          "meaning": "important",
+          "sound": "pen-ting"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "juga",
+          "meaning": "too",
+          "sound": "ju-ga"
+        },
+        {
+          "word": "faham",
+          "meaning": "understand",
+          "sound": "fa-ham"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "semuanya",
+          "meaning": "everything",
+          "sound": "se-mu-a-ny-a"
+        },
+        {
+          "word": "mesti",
+          "meaning": "must",
+          "sound": "mes-ti"
+        },
+        {
+          "word": "sempurna",
+          "meaning": "perfect",
+          "sound": "sem-pur-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "cuba",
+          "meaning": "try",
+          "sound": "cu-ba"
+        },
+        {
+          "word": "hidup",
+          "meaning": "life",
+          "sound": "hi-dup"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "kesedaran",
+          "meaning": "consciousness",
+          "sound": "ke-se-da-ran"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kerana",
+          "meaning": "because",
+          "sound": "ke-ra-na"
+        },
+        {
+          "word": "masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "perkara",
+          "meaning": "matter",
+          "sound": "per-ka-ra"
+        },
+        {
+          "word": "paling",
+          "meaning": "most",
+          "sound": "pa-ling"
+        },
+        {
+          "word": "berharga",
+          "meaning": "precious",
+          "sound": "ber-har-ga"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "kita",
+          "meaning": "us",
+          "sound": "ki-ta"
+        },
+        {
+          "word": "miliki",
+          "meaning": "have",
+          "sound": "mi-li-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Keputusan yang mengubah hidup",
+      "content": [
+        {
+          "word": "Kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berfikir",
+          "meaning": "thinking",
+          "sound": "ber-fi-kir"
+        },
+        {
+          "word": "tentang",
+          "meaning": "about",
+          "sound": "ten-tang"
+        },
+        {
+          "word": "keputusan",
+          "meaning": "decision",
+          "sound": "ke-pu-tu-san"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "buat",
+          "meaning": "do",
+          "sound": "bu-at"
+        },
+        {
+          "word": "pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": "lalu",
+          "meaning": "past",
+          "sound": "la-lu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ada",
+          "meaning": "there is",
+          "sound": "a-da"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "betul",
+          "meaning": "right",
+          "sound": "be-tul"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kadang",
+          "meaning": "sometimes",
+          "sound": "ka-dang"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "terfikir",
+          "meaning": "thought",
+          "sound": "ter-fi-kir"
+        },
+        {
+          "word": "apa",
+          "meaning": "what",
+          "sound": "a-pa"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "berlaku",
+          "meaning": "happen",
+          "sound": "ber-la-ku"
+        },
+        {
+          "word": "jika",
+          "meaning": "if",
+          "sound": "ji-ka"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "memilih",
+          "meaning": "choose",
+          "sound": "me-mi-lih"
+        },
+        {
+          "word": "jalan",
+          "meaning": "street",
+          "sound": "ja-lan"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mungkin",
+          "meaning": "maybe",
+          "sound": "mun-gkin"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "berjaya",
+          "meaning": "succeeded",
+          "sound": "ber-ja-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "atau",
+          "meaning": "or",
+          "sound": "a-ta-u"
+        },
+        {
+          "word": "mungkin",
+          "meaning": "maybe",
+          "sound": "mun-gkin"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "akan",
+          "meaning": "will",
+          "sound": "a-kan"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "sedikit",
+          "meaning": "a little",
+          "sound": "se-di-kit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Namun",
+          "meaning": "however",
+          "sound": "na-mun"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "telah",
+          "meaning": "has been",
+          "sound": "te-lah"
+        },
+        {
+          "word": "faham",
+          "meaning": "understand",
+          "sound": "fa-ham"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "tiada",
+          "meaning": "none",
+          "sound": "ti-a-da"
+        },
+        {
+          "word": "gunanya",
+          "meaning": "the point",
+          "sound": "gu-na-ny-a"
+        },
+        {
+          "word": "hidup",
+          "meaning": "life",
+          "sound": "hi-dup"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": "lalu",
+          "meaning": "past",
+          "sound": "la-lu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Setiap",
+          "meaning": "each",
+          "sound": "se-ti-ap"
+        },
+        {
+          "word": "keputusan",
+          "meaning": "decision",
+          "sound": "ke-pu-tu-san"
+        },
+        {
+          "word": "telah",
+          "meaning": "has been",
+          "sound": "te-lah"
+        },
+        {
+          "word": "mengajar",
+          "meaning": "teach",
+          "sound": "men-ga-jar"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "sesuatu",
+          "meaning": "something",
+          "sound": "se-su-a-tu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Malah",
+          "meaning": "in fact",
+          "sound": "ma-lah"
+        },
+        {
+          "word": "kesilapan",
+          "meaning": "mistake",
+          "sound": "ke-si-la-pan"
+        },
+        {
+          "word": "telah",
+          "meaning": "has been",
+          "sound": "te-lah"
+        },
+        {
+          "word": "menjadi",
+          "meaning": "to be",
+          "sound": "men-ja-di"
+        },
+        {
+          "word": "pengajaran",
+          "meaning": "teaching",
+          "sound": "pen-ga-ja-ran"
+        },
+        {
+          "word": "penting",
+          "meaning": "important",
+          "sound": "pen-ting"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": "ini",
+          "meaning": "this",
+          "sound": "i-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "cuba",
+          "meaning": "try",
+          "sound": "cu-ba"
+        },
+        {
+          "word": "membuat",
+          "meaning": "make",
+          "sound": "mem-bu-at"
+        },
+        {
+          "word": "keputusan",
+          "meaning": "decision",
+          "sound": "ke-pu-tu-san"
+        },
+        {
+          "word": "dengan",
+          "meaning": "with",
+          "sound": "den-gan"
+        },
+        {
+          "word": "lebih",
+          "meaning": "more",
+          "sound": "le-bih"
+        },
+        {
+          "word": "kesedaran",
+          "meaning": "consciousness",
+          "sound": "ke-se-da-ran"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "boleh",
+          "meaning": "can",
+          "sound": "bo-leh"
+        },
+        {
+          "word": "mengubah",
+          "meaning": "change",
+          "sound": "men-gu-bah"
+        },
+        {
+          "word": "apa",
+          "meaning": "what",
+          "sound": "a-pa"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "telah",
+          "meaning": "has been",
+          "sound": "te-lah"
+        },
+        {
+          "word": "berlaku",
+          "meaning": "happen",
+          "sound": "ber-la-ku"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "boleh",
+          "meaning": "can",
+          "sound": "bo-leh"
+        },
+        {
+          "word": "menentukan",
+          "meaning": "determine",
+          "sound": "me-nen-tu-kan"
+        },
+        {
+          "word": "masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": "depan",
+          "meaning": "front",
+          "sound": "de-pan"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Suara batin",
+      "content": [
+        {
+          "word": "Untuk",
+          "meaning": "for",
+          "sound": "un-tuk"
+        },
+        {
+          "word": "masa",
+          "meaning": "time",
+          "sound": "ma-sa"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "lama",
+          "meaning": "old",
+          "sound": "la-ma"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "hidup",
+          "meaning": "life",
+          "sound": "hi-dup"
+        },
+        {
+          "word": "mengikut",
+          "meaning": "follow",
+          "sound": "men-gi-kut"
+        },
+        {
+          "word": "jangkaan",
+          "meaning": "expectations",
+          "sound": "jan-gka-an"
+        },
+        {
+          "word": "orang",
+          "meaning": "people",
+          "sound": "o-rang"
+        },
+        {
+          "word": "lain",
+          "meaning": "another",
+          "sound": "la-in"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "percaya",
+          "meaning": "believe",
+          "sound": "per-ca-y-a"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": "adalah",
+          "meaning": "is",
+          "sound": "a-da-lah"
+        },
+        {
+          "word": "jalan",
+          "meaning": "street",
+          "sound": "ja-lan"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "betul",
+          "meaning": "right",
+          "sound": "be-tul"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Namun",
+          "meaning": "however",
+          "sound": "na-mun"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jauh",
+          "meaning": "away",
+          "sound": "ja-uh"
+        },
+        {
+          "word": "di",
+          "meaning": "in",
+          "sound": "di"
+        },
+        {
+          "word": "lubuk",
+          "meaning": "deep",
+          "sound": "lu-buk"
+        },
+        {
+          "word": "hati",
+          "meaning": "heart",
+          "sound": "ha-ti"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sentiasa",
+          "meaning": "always",
+          "sound": "sen-ti-a-sa"
+        },
+        {
+          "word": "ada",
+          "meaning": "there is",
+          "sound": "a-da"
+        },
+        {
+          "word": "suara",
+          "meaning": "voice",
+          "sound": "su-a-ra"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "memberitahu",
+          "meaning": "tell",
+          "sound": "mem-be-ri-ta-hu"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "ada",
+          "meaning": "there is",
+          "sound": "a-da"
+        },
+        {
+          "word": "sesuatu",
+          "meaning": "something",
+          "sound": "se-su-a-tu"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "betul",
+          "meaning": "right",
+          "sound": "be-tul"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saya",
+          "meaning": "i am",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "cuba",
+          "meaning": "try",
+          "sound": "cu-ba"
+        },
+        {
+          "word": "mengabaikannya",
+          "meaning": "ignore it",
+          "sound": "men-ga-ba-i-kan-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "ia",
+          "meaning": "it",
+          "sound": "ia"
+        },
+        {
+          "word": "semakin",
+          "meaning": "increasingly",
+          "sound": "se-ma-kin"
+        },
+        {
+          "word": "kuat",
+          "meaning": "strong",
+          "sound": "ku-at"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pada",
+          "meaning": "on",
+          "sound": "pa-da"
+        },
+        {
+          "word": "suatu",
+          "meaning": "a",
+          "sound": "su-a-tu"
+        },
+        {
+          "word": "hari",
+          "meaning": "day",
+          "sound": "ha-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "berhenti",
+          "meaning": "stop",
+          "sound": "ber-hen-ti"
+        },
+        {
+          "word": "dan",
+          "meaning": "and",
+          "sound": "dan"
+        },
+        {
+          "word": "bertanya",
+          "meaning": "ask",
+          "sound": "ber-ta-ny-a"
+        },
+        {
+          "word": "kepada",
+          "meaning": "to",
+          "sound": "ke-pa-da"
+        },
+        {
+          "word": "diri",
+          "meaning": "self",
+          "sound": "di-ri"
+        },
+        {
+          "word": "sendiri",
+          "meaning": "own",
+          "sound": "sen-di-ri"
+        },
+        {
+          "word": "apa",
+          "meaning": "what",
+          "sound": "a-pa"
+        },
+        {
+          "word": "yang",
+          "meaning": "which",
+          "sound": "y-ang"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "mahukan",
+          "meaning": "want",
+          "sound": "ma-hu-kan"
+        },
+        {
+          "word": "sebenarnya",
+          "meaning": "actually",
+          "sound": "se-be-nar-ny-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Maklum",
+          "meaning": "understood",
+          "sound": "mak-lum"
+        },
+        {
+          "word": "balasnya",
+          "meaning": "the reply",
+          "sound": "ba-las-ny-a"
+        },
+        {
+          "word": "tidak",
+          "meaning": "no",
+          "sound": "ti-dak"
+        },
+        {
+          "word": "serta",
+          "meaning": "as well as",
+          "sound": "ser-ta"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "merta",
+          "meaning": "immediately",
+          "sound": "mer-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "buat",
+          "meaning": "do",
+          "sound": "bu-at"
+        },
+        {
+          "word": "pertama",
+          "meaning": "first",
+          "sound": "per-ta-ma"
+        },
+        {
+          "word": "kalinya",
+          "meaning": "times",
+          "sound": "ka-li-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "rasa",
+          "meaning": "feel",
+          "sound": "ra-sa"
+        },
+        {
+          "word": "seperti",
+          "meaning": "like",
+          "sound": "se-per-ti"
+        },
+        {
+          "word": "dia",
+          "meaning": "him",
+          "sound": "di-a"
+        },
+        {
+          "word": "mendengar",
+          "meaning": "listen",
+          "sound": "men-den-gar"
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sejak",
+          "meaning": "since",
+          "sound": "se-jak"
+        },
+        {
+          "word": "itu",
+          "meaning": "that",
+          "sound": "i-tu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "saya",
+          "meaning": "me",
+          "sound": "sa-y-a"
+        },
+        {
+          "word": "telah",
+          "meaning": "has been",
+          "sound": "te-lah"
+        },
+        {
+          "word": "belajar",
+          "meaning": "learn",
+          "sound": "be-la-jar"
+        },
+        {
+          "word": "bahawa",
+          "meaning": "that",
+          "sound": "ba-ha-wa"
+        },
+        {
+          "word": "suara",
+          "meaning": "voice",
+          "sound": "su-a-ra"
+        },
+        {
+          "word": "batin",
+          "meaning": "mind",
+          "sound": "ba-tin"
+        },
+        {
+          "word": "bukanlah",
+          "meaning": "is not",
+          "sound": "bu-kan-lah"
+        },
+        {
+          "word": "penghalang",
+          "meaning": "barrier",
+          "sound": "pen-gha-lang"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tetapi",
+          "meaning": "but",
+          "sound": "te-ta-pi"
+        },
+        {
+          "word": "panduan",
+          "meaning": "guide",
+          "sound": "pan-du-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "makan",
+          "sebiji",
+          "epal"
+        ],
+        "past": [
+          "Saya",
+          "makan",
+          "sebiji",
+          "epal"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "makan",
+          "sebiji",
+          "epal"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "membaca",
+          "buku"
+        ],
+        "past": [
+          "Dia",
+          "membaca",
+          "buku"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "membaca",
+          "buku"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "malay": {
+        "present": [
+          "Kita",
+          "pergi",
+          "sekolah"
+        ],
+        "past": [
+          "Kami",
+          "pergi",
+          "ke",
+          "sekolah"
+        ],
+        "future": [
+          "Kami",
+          "akan",
+          "pergi",
+          "ke",
+          "sekolah"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "minum",
+          "air"
+        ],
+        "past": [
+          "Dia",
+          "minum",
+          "air"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "minum",
+          "air"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "bermain",
+          "bola",
+          "sepak"
+        ],
+        "past": [
+          "Mereka",
+          "bermain",
+          "bola",
+          "sepak"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "bermain",
+          "bola",
+          "sepak"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "menulis",
+          "surat"
+        ],
+        "past": [
+          "Saya",
+          "menulis",
+          "surat"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "menulis",
+          "surat"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "makan",
+          "nasi"
+        ],
+        "past": [
+          "Dia",
+          "makan",
+          "nasi"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "makan",
+          "nasi"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "malay": {
+        "present": [
+          "Kami",
+          "menonton",
+          "filem"
+        ],
+        "past": [
+          "Kami",
+          "menonton",
+          "filem"
+        ],
+        "future": [
+          "Kami",
+          "akan",
+          "menonton",
+          "filem"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "membuka",
+          "pintu"
+        ],
+        "past": [
+          "Dia",
+          "membuka",
+          "pintu"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "membuka",
+          "pintu"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "membeli",
+          "makanan"
+        ],
+        "past": [
+          "Mereka",
+          "membeli",
+          "makanan"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "membeli",
+          "makanan"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "makan",
+          "sebiji",
+          "epal",
+          "dan",
+          "minum",
+          "air"
+        ],
+        "past": [
+          "Saya",
+          "makan",
+          "sebiji",
+          "epal",
+          "dan",
+          "minum",
+          "air"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "makan",
+          "sebiji",
+          "epal",
+          "dan",
+          "minum",
+          "air"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "membaca",
+          "buku",
+          "kerana",
+          "dia",
+          "suka",
+          "cerita"
+        ],
+        "past": [
+          "Dia",
+          "membaca",
+          "buku",
+          "kerana",
+          "dia",
+          "suka",
+          "cerita"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "membaca",
+          "buku",
+          "kerana",
+          "dia",
+          "suka",
+          "cerita"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "malay": {
+        "present": [
+          "Kami",
+          "pergi",
+          "ke",
+          "sekolah",
+          "dan",
+          "belajar",
+          "bersama"
+        ],
+        "past": [
+          "Kami",
+          "pergi",
+          "ke",
+          "sekolah",
+          "dan",
+          "belajar",
+          "bersama"
+        ],
+        "future": [
+          "Kami",
+          "akan",
+          "pergi",
+          "ke",
+          "sekolah",
+          "dan",
+          "belajar",
+          "bersama"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "minum",
+          "air",
+          "tetapi",
+          "makan",
+          "makanan",
+          "segera"
+        ],
+        "past": [
+          "Dia",
+          "minum",
+          "air",
+          "tetapi",
+          "makan",
+          "makanan",
+          "segera"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "minum",
+          "air",
+          "tetapi",
+          "makan",
+          "makanan",
+          "segera"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "bermain",
+          "bola",
+          "sepak",
+          "dan",
+          "berlari",
+          "di",
+          "taman"
+        ],
+        "past": [
+          "Mereka",
+          "bermain",
+          "bola",
+          "sepak",
+          "dan",
+          "berlari",
+          "di",
+          "taman"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "bermain",
+          "bola",
+          "sepak",
+          "dan",
+          "berlari",
+          "di",
+          "taman"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "menulis",
+          "surat",
+          "kerana",
+          "saya",
+          "merindui",
+          "awak"
+        ],
+        "past": [
+          "Saya",
+          "menulis",
+          "surat",
+          "kerana",
+          "saya",
+          "merindui",
+          "awak"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "menulis",
+          "surat",
+          "kerana",
+          "saya",
+          "merindui",
+          "awak"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "makan",
+          "nasi",
+          "dan",
+          "memasak",
+          "setiap",
+          "hari"
+        ],
+        "past": [
+          "Dia",
+          "makan",
+          "nasi",
+          "dan",
+          "memasak",
+          "setiap",
+          "hari"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "makan",
+          "nasi",
+          "dan",
+          "memasak",
+          "setiap",
+          "hari"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "malay": {
+        "present": [
+          "Kami",
+          "menonton",
+          "wayang",
+          "tetapi",
+          "tidur",
+          "lewat"
+        ],
+        "past": [
+          "Kami",
+          "menonton",
+          "wayang",
+          "tetapi",
+          "tidur",
+          "lewat"
+        ],
+        "future": [
+          "Kami",
+          "akan",
+          "menonton",
+          "wayang",
+          "tetapi",
+          "tidur",
+          "lewat"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "membuka",
+          "pintu",
+          "dan",
+          "memberi",
+          "salam",
+          "kepada",
+          "orang",
+          "ramai"
+        ],
+        "past": [
+          "Dia",
+          "membuka",
+          "pintu",
+          "dan",
+          "memberi",
+          "salam",
+          "kepada",
+          "orang",
+          "ramai"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "membuka",
+          "pintu",
+          "dan",
+          "memberi",
+          "salam",
+          "kepada",
+          "orang",
+          "ramai"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "membeli",
+          "makanan",
+          "kerana",
+          "mereka",
+          "lapar"
+        ],
+        "past": [
+          "Mereka",
+          "membeli",
+          "makanan",
+          "kerana",
+          "mereka",
+          "lapar"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "membeli",
+          "makanan",
+          "kerana",
+          "mereka",
+          "lapar"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "bersarapan",
+          "pagi"
+        ],
+        "past": [
+          "Saya",
+          "makan",
+          "sarapan",
+          "pagi"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "bersarapan",
+          "pagi"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "belajar",
+          "di",
+          "rumah",
+          "setiap",
+          "hari"
+        ],
+        "past": [
+          "Dia",
+          "belajar",
+          "di",
+          "rumah",
+          "setiap",
+          "hari"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "belajar",
+          "di",
+          "rumah",
+          "setiap",
+          "hari"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "malay": {
+        "present": [
+          "Kami",
+          "berjalan",
+          "di",
+          "taman",
+          "pada",
+          "waktu",
+          "petang"
+        ],
+        "past": [
+          "Kami",
+          "berjalan",
+          "di",
+          "taman",
+          "pada",
+          "waktu",
+          "petang"
+        ],
+        "future": [
+          "Kami",
+          "akan",
+          "berjalan",
+          "di",
+          "taman",
+          "pada",
+          "waktu",
+          "petang"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "bekerja",
+          "di",
+          "pejabat",
+          "di",
+          "bandar"
+        ],
+        "past": [
+          "Dia",
+          "bekerja",
+          "di",
+          "pejabat",
+          "di",
+          "bandar"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "bekerja",
+          "di",
+          "pejabat",
+          "di",
+          "bandar"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "pergi",
+          "ke",
+          "negara",
+          "lain",
+          "setiap",
+          "tahun"
+        ],
+        "past": [
+          "Mereka",
+          "pergi",
+          "ke",
+          "negara",
+          "lain",
+          "setiap",
+          "tahun"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "melancong",
+          "ke",
+          "negara",
+          "lain",
+          "setiap",
+          "tahun"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "membaca",
+          "buku",
+          "pada",
+          "waktu",
+          "malam",
+          "sebelum",
+          "tidur"
+        ],
+        "past": [
+          "Saya",
+          "membaca",
+          "buku",
+          "pada",
+          "waktu",
+          "malam",
+          "sebelum",
+          "tidur"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "membaca",
+          "buku",
+          "pada",
+          "waktu",
+          "malam",
+          "sebelum",
+          "tidur"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "minum",
+          "kopi",
+          "pada",
+          "waktu",
+          "pagi",
+          "di",
+          "rumah"
+        ],
+        "past": [
+          "Dia",
+          "minum",
+          "kopi",
+          "pada",
+          "waktu",
+          "pagi",
+          "di",
+          "rumah"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "minum",
+          "kopi",
+          "pada",
+          "waktu",
+          "pagi",
+          "di",
+          "rumah"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "malay": {
+        "present": [
+          "Kita",
+          "jumpa",
+          "kawan-kawan",
+          "di",
+          "restoran",
+          "malam",
+          "ini"
+        ],
+        "past": [
+          "Kami",
+          "bertemu",
+          "kawan-kawan",
+          "di",
+          "restoran",
+          "malam",
+          "ini"
+        ],
+        "future": [
+          "Kita",
+          "akan",
+          "berjumpa",
+          "kawan-kawan",
+          "di",
+          "restoran",
+          "malam",
+          "ini"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "belajar",
+          "bahasa",
+          "Sepanyol",
+          "di",
+          "sekolah",
+          "setiap",
+          "hari"
+        ],
+        "past": [
+          "Dia",
+          "belajar",
+          "bahasa",
+          "Sepanyol",
+          "di",
+          "sekolah",
+          "setiap",
+          "hari"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "belajar",
+          "bahasa",
+          "Sepanyol",
+          "di",
+          "sekolah",
+          "setiap",
+          "hari"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "menonton",
+          "televisyen",
+          "pada",
+          "waktu",
+          "petang",
+          "di",
+          "rumah"
+        ],
+        "past": [
+          "Mereka",
+          "menonton",
+          "televisyen",
+          "pada",
+          "waktu",
+          "petang",
+          "di",
+          "rumah"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "menonton",
+          "televisyen",
+          "pada",
+          "waktu",
+          "petang",
+          "di",
+          "rumah"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "suka",
+          "muzik",
+          "ini"
+        ],
+        "past": [
+          "Saya",
+          "suka",
+          "muzik",
+          "ini"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "suka",
+          "muzik",
+          "ini"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "berasa",
+          "gembira",
+          "hari",
+          "ini"
+        ],
+        "past": [
+          "Dia",
+          "berasa",
+          "gembira",
+          "hari",
+          "ini"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "berasa",
+          "gembira",
+          "hari",
+          "ini"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "malay": {
+        "present": [
+          "Kami",
+          "fikir",
+          "idea",
+          "ini",
+          "bagus"
+        ],
+        "past": [
+          "Kami",
+          "fikir",
+          "idea",
+          "ini",
+          "bagus"
+        ],
+        "future": [
+          "Kami",
+          "akan",
+          "fikir",
+          "idea",
+          "ini",
+          "bagus"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "mahu",
+          "belajar",
+          "bahasa",
+          "Sepanyol"
+        ],
+        "past": [
+          "Dia",
+          "mahu",
+          "belajar",
+          "bahasa",
+          "Sepanyol"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "mahu",
+          "belajar",
+          "bahasa",
+          "Sepanyol"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "sangat",
+          "menyayangi",
+          "keluarga",
+          "mereka"
+        ],
+        "past": [
+          "Mereka",
+          "sangat",
+          "menyayangi",
+          "keluarga",
+          "mereka"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "sangat",
+          "menyayangi",
+          "keluarga",
+          "mereka"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "berasa",
+          "letih",
+          "selepas",
+          "bekerja"
+        ],
+        "past": [
+          "Saya",
+          "berasa",
+          "letih",
+          "selepas",
+          "bekerja"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "berasa",
+          "letih",
+          "selepas",
+          "bekerja"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "percaya",
+          "pada",
+          "dirinya",
+          "sendiri"
+        ],
+        "past": [
+          "Dia",
+          "percaya",
+          "pada",
+          "dirinya",
+          "sendiri"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "percaya",
+          "pada",
+          "dirinya",
+          "sendiri"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "malay": {
+        "present": [
+          "Kami",
+          "suka",
+          "melancong",
+          "bersama"
+        ],
+        "past": [
+          "Kami",
+          "suka",
+          "melancong",
+          "bersama"
+        ],
+        "future": [
+          "Kami",
+          "akan",
+          "suka",
+          "melancong",
+          "bersama"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "memikirkan",
+          "masa",
+          "depannya"
+        ],
+        "past": [
+          "Dia",
+          "memikirkan",
+          "masa",
+          "depannya"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "memikirkan",
+          "masa",
+          "depannya"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "berasa",
+          "teruja",
+          "dengan",
+          "perjalanan",
+          "itu"
+        ],
+        "past": [
+          "Mereka",
+          "berasa",
+          "teruja",
+          "dengan",
+          "perjalanan",
+          "itu"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "berasa",
+          "teruja",
+          "dengan",
+          "perjalanan",
+          "itu"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "cuba",
+          "memperbaiki",
+          "setiap",
+          "hari"
+        ],
+        "past": [
+          "Saya",
+          "cuba",
+          "memperbaiki",
+          "setiap",
+          "hari"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "cuba",
+          "perbaiki",
+          "setiap",
+          "hari"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "mahu",
+          "mencapai",
+          "matlamatnya"
+        ],
+        "past": [
+          "Dia",
+          "mahu",
+          "mencapai",
+          "matlamatnya"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "mahu",
+          "mencapai",
+          "matlamatnya"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "malay": {
+        "present": [
+          "Kita",
+          "belajar",
+          "dari",
+          "kesilapan",
+          "kita"
+        ],
+        "past": [
+          "Kami",
+          "belajar",
+          "dari",
+          "kesilapan",
+          "kami"
+        ],
+        "future": [
+          "Kita",
+          "akan",
+          "belajar",
+          "dari",
+          "kesilapan",
+          "kita"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "bekerja",
+          "keras",
+          "untuk",
+          "membina",
+          "masa",
+          "depannya"
+        ],
+        "past": [
+          "Dia",
+          "bekerja",
+          "keras",
+          "untuk",
+          "membina",
+          "masa",
+          "depannya"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "bekerja",
+          "keras",
+          "untuk",
+          "membina",
+          "masa",
+          "depannya"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "percaya",
+          "bahawa",
+          "segala-galanya",
+          "mungkin"
+        ],
+        "past": [
+          "Mereka",
+          "percaya",
+          "bahawa",
+          "segala-galanya",
+          "mungkin"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "percaya",
+          "bahawa",
+          "segala-galanya",
+          "mungkin"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "malay": {
+        "present": [
+          "Saya",
+          "memikirkan",
+          "masa",
+          "depan",
+          "saya",
+          "setiap",
+          "malam"
+        ],
+        "past": [
+          "Saya",
+          "memikirkan",
+          "masa",
+          "depan",
+          "saya",
+          "setiap",
+          "malam"
+        ],
+        "future": [
+          "Saya",
+          "akan",
+          "memikirkan",
+          "masa",
+          "depan",
+          "saya",
+          "setiap",
+          "malam"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "cuba",
+          "kekal",
+          "positif",
+          "dalam",
+          "masa",
+          "sukar"
+        ],
+        "past": [
+          "Dia",
+          "cuba",
+          "kekal",
+          "positif",
+          "dalam",
+          "masa",
+          "sukar"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "cuba",
+          "kekal",
+          "positif",
+          "dalam",
+          "masa",
+          "sukar"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "malay": {
+        "present": [
+          "Kami",
+          "mahu",
+          "menjalani",
+          "kehidupan",
+          "yang",
+          "bermakna"
+        ],
+        "past": [
+          "Kami",
+          "mahu",
+          "menjalani",
+          "kehidupan",
+          "yang",
+          "bermakna"
+        ],
+        "future": [
+          "Kita",
+          "akan",
+          "mahu",
+          "menjalani",
+          "kehidupan",
+          "yang",
+          "bermakna"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "malay": {
+        "present": [
+          "Dia",
+          "faham",
+          "bahawa",
+          "perubahan",
+          "memerlukan",
+          "masa"
+        ],
+        "past": [
+          "Dia",
+          "faham",
+          "bahawa",
+          "perubahan",
+          "itu",
+          "mengambil",
+          "masa"
+        ],
+        "future": [
+          "Dia",
+          "akan",
+          "faham",
+          "bahawa",
+          "perubahan",
+          "memerlukan",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "malay": {
+        "present": [
+          "Mereka",
+          "memutuskan",
+          "untuk",
+          "mengejar",
+          "impian",
+          "mereka"
+        ],
+        "past": [
+          "Mereka",
+          "memutuskan",
+          "untuk",
+          "mengejar",
+          "impian",
+          "mereka"
+        ],
+        "future": [
+          "Mereka",
+          "akan",
+          "membuat",
+          "keputusan",
+          "untuk",
+          "mengejar",
+          "impian",
+          "mereka"
+        ]
+      }
+    }
+  ]
+}

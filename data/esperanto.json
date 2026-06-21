@@ -1,0 +1,8468 @@
+{
+  "language": "Esperanto",
+  "stories": {
+    "story1": {
+      "title": "en la kafejo",
+      "content": [
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "iras",
+          "meaning": "is going",
+          "sound": "i-ras"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "malgranda",
+          "meaning": "small",
+          "sound": "mal-gran-da"
+        },
+        {
+          "word": "kafejo",
+          "meaning": "cafe",
+          "sound": "ka-fe-jo"
+        },
+        {
+          "word": "ĉiumatene",
+          "meaning": "every morning",
+          "sound": "ĉi-u-ma-te-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "kafejo",
+          "meaning": "cafe",
+          "sound": "ka-fe-jo"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "proksime",
+          "meaning": "nearby",
+          "sound": "prok-si-me"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "domo",
+          "meaning": "a house",
+          "sound": "do-mo"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "ĝi",
+          "meaning": "it",
+          "sound": "ĝi"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "kvieta",
+          "meaning": "quiet",
+          "sound": "kvi-e-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "ĉiam",
+          "meaning": "always",
+          "sound": "ĉi-am"
+        },
+        {
+          "word": "sidas",
+          "meaning": "sits",
+          "sound": "si-das"
+        },
+        {
+          "word": "apud",
+          "meaning": "next to",
+          "sound": "a-pud"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "fenestro",
+          "meaning": "a window",
+          "sound": "fe-nes-tro"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "mendis",
+          "meaning": "ordered",
+          "sound": "men-dis"
+        },
+        {
+          "word": "varman",
+          "meaning": "hot",
+          "sound": "var-man"
+        },
+        {
+          "word": "tason",
+          "meaning": "a cup",
+          "sound": "ta-son"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "kafo",
+          "meaning": "coffee",
+          "sound": "ka-fo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "kelnero",
+          "meaning": "a waiter",
+          "sound": "kel-ne-ro"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "amika",
+          "meaning": "friendly",
+          "sound": "a-mi-ka"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "ĉiam",
+          "meaning": "always",
+          "sound": "ĉi-am"
+        },
+        {
+          "word": "salutas",
+          "meaning": "greets",
+          "sound": "sa-lu-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "ridetante",
+          "meaning": "smiling",
+          "sound": "ri-de-tan-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Foje",
+          "meaning": "sometimes",
+          "sound": "fo-je"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "legas",
+          "meaning": "reads",
+          "sound": "le-gas"
+        },
+        {
+          "word": "interesan",
+          "meaning": "interesting",
+          "sound": "in-te-re-san"
+        },
+        {
+          "word": "libron",
+          "meaning": "a book",
+          "sound": "li-bron"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "alifoje",
+          "meaning": "other times",
+          "sound": "a-li-fo-je"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "skribas",
+          "meaning": "writes",
+          "sound": "skri-bas"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "kajero",
+          "meaning": "a notebook",
+          "sound": "ka-je-ro"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "vidas",
+          "meaning": "sees",
+          "sound": "vi-das"
+        },
+        {
+          "word": "novan",
+          "meaning": "new",
+          "sound": "no-van"
+        },
+        {
+          "word": "homon",
+          "meaning": "a person",
+          "sound": "ho-mon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ŝi",
+          "meaning": "she",
+          "sound": "ŝi"
+        },
+        {
+          "word": "legas",
+          "meaning": "reads",
+          "sound": "le-gas"
+        },
+        {
+          "word": "romanon",
+          "meaning": "a novel",
+          "sound": "ro-ma-non"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "trinkas",
+          "meaning": "drinks",
+          "sound": "trin-kas"
+        },
+        {
+          "word": "teon",
+          "meaning": "tea",
+          "sound": "te-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "sentas",
+          "meaning": "feel",
+          "sound": "sen-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "scivolema",
+          "meaning": "curious",
+          "sound": "sci-vo-le-ma"
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "iom",
+          "meaning": "a little",
+          "sound": "i-om"
+        },
+        {
+          "word": "timema",
+          "meaning": "shy",
+          "sound": "ti-me-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Post",
+          "meaning": "after",
+          "sound": "post"
+        },
+        {
+          "word": "kelkaj",
+          "meaning": "some",
+          "sound": "kel-kaj"
+        },
+        {
+          "word": "minutoj",
+          "meaning": "minutes",
+          "sound": "mi-nu-toj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "salutas",
+          "meaning": "greets",
+          "sound": "sa-lu-tas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ŝi",
+          "meaning": "she",
+          "sound": "ŝi"
+        },
+        {
+          "word": "respondas",
+          "meaning": "answers",
+          "sound": "res-pon-das"
+        },
+        {
+          "word": "ridetante",
+          "meaning": "smiling",
+          "sound": "ri-de-tan-te"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "ekparolas",
+          "meaning": "starts talking",
+          "sound": "ek-pa-ro-las"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "sentas",
+          "meaning": "feel",
+          "sound": "sen-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "feliĉa",
+          "meaning": "happy",
+          "sound": "fe-li-ĉa"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "malstreĉita",
+          "meaning": "relaxed",
+          "sound": "mal-stre-ĉi-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "en la parko",
+      "content": [
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "iras",
+          "meaning": "is going",
+          "sound": "i-ras"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "parko",
+          "meaning": "park",
+          "sound": "par-ko"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "amiko",
+          "meaning": "a friend",
+          "sound": "a-mi-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "vetero",
+          "meaning": "weather",
+          "sound": "ve-te-ro"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "agrabla",
+          "meaning": "pleasant",
+          "sound": "a-gra-bla"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "suno",
+          "meaning": "sun",
+          "sound": "su-no"
+        },
+        {
+          "word": "brilas",
+          "meaning": "shines",
+          "sound": "bri-las"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "vidas",
+          "meaning": "sees",
+          "sound": "vi-das"
+        },
+        {
+          "word": "multajn",
+          "meaning": "many",
+          "sound": "mul-tajn"
+        },
+        {
+          "word": "homojn",
+          "meaning": "people",
+          "sound": "ho-mojn"
+        },
+        {
+          "word": "promenantajn",
+          "meaning": "walking",
+          "sound": "pro-me-nan-tajn"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "ridante",
+          "meaning": "laughing",
+          "sound": "ri-dan-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iuj",
+          "meaning": "some",
+          "sound": "i-uj"
+        },
+        {
+          "word": "infanoj",
+          "meaning": "children",
+          "sound": "in-fa-noj"
+        },
+        {
+          "word": "ludas",
+          "meaning": "is playing",
+          "sound": "lu-das"
+        },
+        {
+          "word": "per",
+          "meaning": "by",
+          "sound": "per"
+        },
+        {
+          "word": "pilko",
+          "meaning": "ball",
+          "sound": "pil-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "aliaj",
+          "meaning": "others",
+          "sound": "a-li-aj"
+        },
+        {
+          "word": "kuras",
+          "meaning": "runs",
+          "sound": "ku-ras"
+        },
+        {
+          "word": "rapide",
+          "meaning": "quickly",
+          "sound": "ra-pi-de"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mia",
+          "meaning": "my",
+          "sound": "mi-a"
+        },
+        {
+          "word": "amiko",
+          "meaning": "a friend",
+          "sound": "a-mi-ko"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "sidis",
+          "meaning": "sat",
+          "sound": "si-dis"
+        },
+        {
+          "word": "sur",
+          "meaning": "on",
+          "sound": "sur"
+        },
+        {
+          "word": "benko",
+          "meaning": "bench",
+          "sound": "ben-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "parolis",
+          "meaning": "spoke",
+          "sound": "pa-ro-lis"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "niaj",
+          "meaning": "ours",
+          "sound": "ni-aj"
+        },
+        {
+          "word": "vivoj",
+          "meaning": "lives",
+          "sound": "vi-voj"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "multe",
+          "meaning": "a lot",
+          "sound": "mul-te"
+        },
+        {
+          "word": "ridis",
+          "meaning": "laughed",
+          "sound": "ri-dis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poste",
+          "meaning": "later",
+          "sound": "pos-te"
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "aĉetis",
+          "meaning": "bought",
+          "sound": "a-ĉe-tis"
+        },
+        {
+          "word": "glaciaĵon",
+          "meaning": "ice cream",
+          "sound": "gla-ci-a-ĵon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "tago",
+          "meaning": "day",
+          "sound": "ta-go"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "simpla",
+          "meaning": "simple",
+          "sound": "sim-pla"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "bela",
+          "meaning": "beautiful",
+          "sound": "be-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "en la biblioteko",
+      "content": [
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "iras",
+          "meaning": "is going",
+          "sound": "i-ras"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "biblioteko",
+          "meaning": "a library",
+          "sound": "bi-bli-o-te-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĝi",
+          "meaning": "it",
+          "sound": "ĝi"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "trankvila",
+          "meaning": "calm",
+          "sound": "tran-kvi-la"
+        },
+        {
+          "word": "loko",
+          "meaning": "place",
+          "sound": "lo-ko"
+        },
+        {
+          "word": "plena",
+          "meaning": "full",
+          "sound": "ple-na"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "libroj",
+          "meaning": "books",
+          "sound": "li-broj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "ŝatas",
+          "meaning": "like",
+          "sound": "ŝa-tas"
+        },
+        {
+          "word": "legi",
+          "meaning": "to read",
+          "sound": "le-gi"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "lerni",
+          "meaning": "to learn",
+          "sound": "ler-ni"
+        },
+        {
+          "word": "novajn",
+          "meaning": "new ones",
+          "sound": "no-vajn"
+        },
+        {
+          "word": "aferojn",
+          "meaning": "things",
+          "sound": "a-fe-rojn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "serĉas",
+          "meaning": "is looking for",
+          "sound": "ser-ĉas"
+        },
+        {
+          "word": "interesan",
+          "meaning": "interesting",
+          "sound": "in-te-re-san"
+        },
+        {
+          "word": "libron",
+          "meaning": "a book",
+          "sound": "li-bron"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "historio",
+          "meaning": "history",
+          "sound": "his-to-ri-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poste",
+          "meaning": "later",
+          "sound": "pos-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "sidas",
+          "meaning": "sits",
+          "sound": "si-das"
+        },
+        {
+          "word": "ĉe",
+          "meaning": "at",
+          "sound": "ĉe"
+        },
+        {
+          "word": "tablo",
+          "meaning": "a table",
+          "sound": "ta-blo"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "komencas",
+          "meaning": "begins",
+          "sound": "ko-men-cas"
+        },
+        {
+          "word": "legi",
+          "meaning": "to read",
+          "sound": "le-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Estas",
+          "meaning": "it is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "aliaj",
+          "meaning": "others",
+          "sound": "a-li-aj"
+        },
+        {
+          "word": "homoj",
+          "meaning": "people",
+          "sound": "ho-moj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kiuj",
+          "meaning": "which",
+          "sound": "ki-uj"
+        },
+        {
+          "word": "studas",
+          "meaning": "is studying",
+          "sound": "stu-das"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "skribas",
+          "meaning": "writes",
+          "sound": "skri-bas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "etoso",
+          "meaning": "atmosphere",
+          "sound": "e-to-so"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "kvieta",
+          "meaning": "quiet",
+          "sound": "kvi-e-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Post",
+          "meaning": "after",
+          "sound": "post"
+        },
+        {
+          "word": "iom",
+          "meaning": "a little",
+          "sound": "i-om"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "tempo",
+          "meaning": "time",
+          "sound": "tem-po"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "fermas",
+          "meaning": "closes",
+          "sound": "fer-mas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "libron",
+          "meaning": "a book",
+          "sound": "li-bron"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "sentas",
+          "meaning": "feel",
+          "sound": "sen-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "kontenta",
+          "meaning": "satisfied",
+          "sound": "kon-ten-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "en la vendejo",
+      "content": [
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "iras",
+          "meaning": "is going",
+          "sound": "i-ras"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "granda",
+          "meaning": "big",
+          "sound": "gran-da"
+        },
+        {
+          "word": "vendejo",
+          "meaning": "store",
+          "sound": "ven-de-jo"
+        },
+        {
+          "word": "por",
+          "meaning": "for",
+          "sound": "por"
+        },
+        {
+          "word": "aĉeti",
+          "meaning": "to buy",
+          "sound": "a-ĉe-ti"
+        },
+        {
+          "word": "manĝaĵojn",
+          "meaning": "foods",
+          "sound": "man-ĝa-ĵojn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "bezonas",
+          "meaning": "needs",
+          "sound": "be-zo-nas"
+        },
+        {
+          "word": "panon",
+          "meaning": "bread",
+          "sound": "pa-non"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakton",
+          "meaning": "milk",
+          "sound": "lak-ton"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "fruktojn",
+          "meaning": "fruits",
+          "sound": "fruk-tojn"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "legomojn",
+          "meaning": "vegetables",
+          "sound": "le-go-mojn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "vendejo",
+          "meaning": "store",
+          "sound": "ven-de-jo"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "plena",
+          "meaning": "full",
+          "sound": "ple-na"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "homoj",
+          "meaning": "people",
+          "sound": "ho-moj"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "multe",
+          "meaning": "a lot",
+          "sound": "mul-te"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "bruo",
+          "meaning": "noise",
+          "sound": "bru-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "serĉas",
+          "meaning": "is looking for",
+          "sound": "ser-ĉas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "produktojn",
+          "meaning": "products",
+          "sound": "pro-duk-tojn"
+        },
+        {
+          "word": "sur",
+          "meaning": "on",
+          "sound": "sur"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "bretoj",
+          "meaning": "shelves",
+          "sound": "bre-toj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Virino",
+          "meaning": "a woman",
+          "sound": "vi-ri-no"
+        },
+        {
+          "word": "demandas",
+          "meaning": "asks",
+          "sound": "de-man-das"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kie",
+          "meaning": "where",
+          "sound": "ki-e"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "lakto",
+          "meaning": "milk",
+          "sound": "lak-to"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "diras",
+          "meaning": "says",
+          "sound": "di-ras"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĝi",
+          "meaning": "it",
+          "sound": "ĝi"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "tie",
+          "meaning": "there",
+          "sound": "ti-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "apud",
+          "meaning": "next to",
+          "sound": "a-pud"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "pano",
+          "meaning": "bread",
+          "sound": "pa-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ŝi",
+          "meaning": "she",
+          "sound": "ŝi"
+        },
+        {
+          "word": "ridetas",
+          "meaning": "smiles",
+          "sound": "ri-de-tas"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "diras",
+          "meaning": "says",
+          "sound": "di-ras"
+        },
+        {
+          "word": "dankon",
+          "meaning": "thank you",
+          "sound": "dan-kon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poste",
+          "meaning": "later",
+          "sound": "pos-te"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "iras",
+          "meaning": "is going",
+          "sound": "i-ras"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "kasisto",
+          "meaning": "cashier",
+          "sound": "ka-sis-to"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "pagas",
+          "meaning": "pays",
+          "sound": "pa-gas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "forlasas",
+          "meaning": "leave",
+          "sound": "for-la-sas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "vendejon",
+          "meaning": "store",
+          "sound": "ven-de-jon"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "plena",
+          "meaning": "full",
+          "sound": "ple-na"
+        },
+        {
+          "word": "sako",
+          "meaning": "bag",
+          "sound": "sa-ko"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "sentas",
+          "meaning": "feel",
+          "sound": "sen-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "feliĉa",
+          "meaning": "happy",
+          "sound": "fe-li-ĉa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "en la buso",
+      "content": [
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "prenas",
+          "meaning": "takes",
+          "sound": "pre-nas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "buson",
+          "meaning": "a bus",
+          "sound": "bu-son"
+        },
+        {
+          "word": "por",
+          "meaning": "for",
+          "sound": "por"
+        },
+        {
+          "word": "iri",
+          "meaning": "to go",
+          "sound": "i-ri"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "laboro",
+          "meaning": "work",
+          "sound": "la-bo-ro"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "buso",
+          "meaning": "a bus",
+          "sound": "bu-so"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "plena",
+          "meaning": "full",
+          "sound": "ple-na"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "multe",
+          "meaning": "a lot",
+          "sound": "mul-te"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "loko",
+          "meaning": "place",
+          "sound": "lo-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "sentas",
+          "meaning": "feel",
+          "sound": "sen-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "iom",
+          "meaning": "a little",
+          "sound": "i-om"
+        },
+        {
+          "word": "laca",
+          "meaning": "tired",
+          "sound": "la-ca"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "vidas",
+          "meaning": "sees",
+          "sound": "vi-das"
+        },
+        {
+          "word": "maljunan",
+          "meaning": "old",
+          "sound": "mal-ju-nan"
+        },
+        {
+          "word": "homon",
+          "meaning": "a person",
+          "sound": "ho-mon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "proponas",
+          "meaning": "offers",
+          "sound": "pro-po-nas"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "vi",
+          "meaning": "you",
+          "sound": "vi"
+        },
+        {
+          "word": "mian",
+          "meaning": "my",
+          "sound": "mi-an"
+        },
+        {
+          "word": "sidlokon",
+          "meaning": "a seat",
+          "sound": "si-dlo-kon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "diras",
+          "meaning": "says",
+          "sound": "di-ras"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĉu",
+          "meaning": "do",
+          "sound": "ĉu"
+        },
+        {
+          "word": "vi",
+          "meaning": "you",
+          "sound": "vi"
+        },
+        {
+          "word": "certas",
+          "meaning": "sure",
+          "sound": "cer-tas"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "respondas",
+          "meaning": "answers",
+          "sound": "res-pon-das"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jes",
+          "meaning": "yes",
+          "sound": "jes"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "neniu",
+          "meaning": "no one",
+          "sound": "ne-ni-u"
+        },
+        {
+          "word": "problemo",
+          "meaning": "a problem",
+          "sound": "pro-ble-mo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "ridetas",
+          "meaning": "smiles",
+          "sound": "ri-de-tas"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "dankas",
+          "meaning": "thanks",
+          "sound": "dan-kas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dum",
+          "meaning": "while",
+          "sound": "dum"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "vojaĝo",
+          "meaning": "trip",
+          "sound": "vo-ja-ĝo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "rigardas",
+          "meaning": "looks",
+          "sound": "ri-gar-das"
+        },
+        {
+          "word": "tra",
+          "meaning": "through",
+          "sound": "tra"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "fenestro",
+          "meaning": "a window",
+          "sound": "fe-nes-tro"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "pensas",
+          "meaning": "thinks",
+          "sound": "pen-sas"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "tago",
+          "meaning": "day",
+          "sound": "ta-go"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kvankam",
+          "meaning": "although",
+          "sound": "kvan-kam"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "laca",
+          "meaning": "tired",
+          "sound": "la-ca"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "bone",
+          "meaning": "ok",
+          "sound": "bo-ne"
+        },
+        {
+          "word": "helpi",
+          "meaning": "to help",
+          "sound": "hel-pi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Hieraŭ ĉe la plaĝo",
+      "content": [
+        {
+          "word": "Hieraŭ",
+          "meaning": "yesterday",
+          "sound": "hi-e-raŭ"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "iris",
+          "meaning": "went",
+          "sound": "i-ris"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "plaĝo",
+          "meaning": "beach",
+          "sound": "pla-ĝo"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "miaj",
+          "meaning": "my",
+          "sound": "mi-aj"
+        },
+        {
+          "word": "amikoj",
+          "meaning": "friends",
+          "sound": "a-mi-koj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "vetero",
+          "meaning": "weather",
+          "sound": "ve-te-ro"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "perfekta",
+          "meaning": "perfect",
+          "sound": "per-fek-ta"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "maro",
+          "meaning": "sea",
+          "sound": "ma-ro"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "trankvila",
+          "meaning": "calm",
+          "sound": "tran-kvi-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "promenis",
+          "meaning": "walked",
+          "sound": "pro-me-nis"
+        },
+        {
+          "word": "sur",
+          "meaning": "on",
+          "sound": "sur"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "sablo",
+          "meaning": "sand",
+          "sound": "sa-blo"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "parolis",
+          "meaning": "spoke",
+          "sound": "pa-ro-lis"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "multaj",
+          "meaning": "many",
+          "sound": "mul-taj"
+        },
+        {
+          "word": "aferoj",
+          "meaning": "things",
+          "sound": "a-fe-roj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poste",
+          "meaning": "later",
+          "sound": "pos-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "naĝis",
+          "meaning": "swam",
+          "sound": "na-ĝis"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "malvarma",
+          "meaning": "cold",
+          "sound": "mal-var-ma"
+        },
+        {
+          "word": "akvo",
+          "meaning": "water",
+          "sound": "ak-vo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Komence",
+          "meaning": "at first",
+          "sound": "ko-men-ce"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "iom",
+          "meaning": "a little",
+          "sound": "i-om"
+        },
+        {
+          "word": "timis",
+          "meaning": "was afraid",
+          "sound": "ti-mis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "poste",
+          "meaning": "afterwards",
+          "sound": "pos-te"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "sentis",
+          "meaning": "felt",
+          "sound": "sen-tis"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "bonege",
+          "meaning": "great",
+          "sound": "bo-ne-ge"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "ankaŭ",
+          "meaning": "too",
+          "sound": "an-kaŭ"
+        },
+        {
+          "word": "ludis",
+          "meaning": "played",
+          "sound": "lu-dis"
+        },
+        {
+          "word": "per",
+          "meaning": "by",
+          "sound": "per"
+        },
+        {
+          "word": "pilko",
+          "meaning": "ball",
+          "sound": "pil-ko"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "multe",
+          "meaning": "a lot",
+          "sound": "mul-te"
+        },
+        {
+          "word": "ridis",
+          "meaning": "laughed",
+          "sound": "ri-dis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Posttagmeze",
+          "meaning": "in the afternoon",
+          "sound": "pos-ttag-me-ze"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "manĝis",
+          "meaning": "ate",
+          "sound": "man-ĝis"
+        },
+        {
+          "word": "kune",
+          "meaning": "together",
+          "sound": "ku-ne"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "rigardis",
+          "meaning": "looked",
+          "sound": "ri-gar-dis"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "sunsubiron",
+          "meaning": "sunset",
+          "sound": "sun-su-bi-ron"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Estis",
+          "meaning": "it was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "speciala",
+          "meaning": "special",
+          "sound": "spe-ci-a-la"
+        },
+        {
+          "word": "tago",
+          "meaning": "day",
+          "sound": "ta-go"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "neniam",
+          "meaning": "never",
+          "sound": "ne-ni-am"
+        },
+        {
+          "word": "forgesos",
+          "meaning": "will forget",
+          "sound": "for-ge-sos"
+        },
+        {
+          "word": "ĝin",
+          "meaning": "it",
+          "sound": "ĝin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Grava konversacio",
+      "content": [
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "renkontis",
+          "meaning": "met",
+          "sound": "ren-kon-tis"
+        },
+        {
+          "word": "malnovan",
+          "meaning": "old",
+          "sound": "mal-no-van"
+        },
+        {
+          "word": "amikon",
+          "meaning": "a friend",
+          "sound": "a-mi-kon"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "kafejo",
+          "meaning": "cafe",
+          "sound": "ka-fe-jo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "vidis",
+          "meaning": "saw",
+          "sound": "vi-dis"
+        },
+        {
+          "word": "lin",
+          "meaning": "him",
+          "sound": "lin"
+        },
+        {
+          "word": "dum",
+          "meaning": "while",
+          "sound": "dum"
+        },
+        {
+          "word": "longa",
+          "meaning": "long",
+          "sound": "lon-ga"
+        },
+        {
+          "word": "tempo",
+          "meaning": "time",
+          "sound": "tem-po"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "do",
+          "meaning": "so",
+          "sound": "do"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "ĝojis",
+          "meaning": "was glad",
+          "sound": "ĝo-jis"
+        },
+        {
+          "word": "vidi",
+          "meaning": "to see",
+          "sound": "vi-di"
+        },
+        {
+          "word": "lin",
+          "meaning": "him",
+          "sound": "lin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "sidiĝis",
+          "meaning": "sat down",
+          "sound": "si-di-ĝis"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "komencis",
+          "meaning": "started",
+          "sound": "ko-men-cis"
+        },
+        {
+          "word": "paroli",
+          "meaning": "to speak",
+          "sound": "pa-ro-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "diris",
+          "meaning": "said",
+          "sound": "di-ris"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "nun",
+          "meaning": "now",
+          "sound": "nun"
+        },
+        {
+          "word": "loĝas",
+          "meaning": "lives",
+          "sound": "lo-ĝas"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "alia",
+          "meaning": "another",
+          "sound": "a-li-a"
+        },
+        {
+          "word": "urbo",
+          "meaning": "city",
+          "sound": "ur-bo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "ankaŭ",
+          "meaning": "too",
+          "sound": "an-kaŭ"
+        },
+        {
+          "word": "laboras",
+          "meaning": "is working",
+          "sound": "la-bo-ras"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "granda",
+          "meaning": "big",
+          "sound": "gran-da"
+        },
+        {
+          "word": "firmao",
+          "meaning": "company",
+          "sound": "fir-ma-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "rakontis",
+          "meaning": "told",
+          "sound": "ra-kon-tis"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "miaj",
+          "meaning": "my",
+          "sound": "mi-aj"
+        },
+        {
+          "word": "studoj",
+          "meaning": "studies",
+          "sound": "stu-doj"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "miaj",
+          "meaning": "my",
+          "sound": "mi-aj"
+        },
+        {
+          "word": "planoj",
+          "meaning": "plans",
+          "sound": "pla-noj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "parolis",
+          "meaning": "spoke",
+          "sound": "pa-ro-lis"
+        },
+        {
+          "word": "dum",
+          "meaning": "while",
+          "sound": "dum"
+        },
+        {
+          "word": "horoj",
+          "meaning": "hours",
+          "sound": "ho-roj"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "memoris",
+          "meaning": "remembered",
+          "sound": "me-mo-ris"
+        },
+        {
+          "word": "multajn",
+          "meaning": "many",
+          "sound": "mul-tajn"
+        },
+        {
+          "word": "momentojn",
+          "meaning": "moments",
+          "sound": "mo-men-tojn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Antaŭ",
+          "meaning": "before",
+          "sound": "an-taŭ"
+        },
+        {
+          "word": "ol",
+          "meaning": "than",
+          "sound": "ol"
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "foriris",
+          "meaning": "left",
+          "sound": "fo-ri-ris"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "diris",
+          "meaning": "said",
+          "sound": "di-ris"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "devus",
+          "meaning": "should",
+          "sound": "de-vus"
+        },
+        {
+          "word": "vidi",
+          "meaning": "to see",
+          "sound": "vi-di"
+        },
+        {
+          "word": "unu",
+          "meaning": "one",
+          "sound": "u-nu"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "alian",
+          "meaning": "another",
+          "sound": "a-li-an"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "ofte",
+          "meaning": "often",
+          "sound": "of-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "ridetis",
+          "meaning": "smiled",
+          "sound": "ri-de-tis"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "respondis",
+          "meaning": "replied",
+          "sound": "res-pon-dis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Certe",
+          "meaning": "certainly",
+          "sound": "cer-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "ŝatis",
+          "meaning": "liked",
+          "sound": "ŝa-tis"
+        },
+        {
+          "word": "ĉi",
+          "meaning": "this",
+          "sound": "ĉi"
+        },
+        {
+          "word": "tiun",
+          "meaning": "that one",
+          "sound": "ti-un"
+        },
+        {
+          "word": "tagon",
+          "meaning": "a day",
+          "sound": "ta-gon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Malfacila decido",
+      "content": [
+        {
+          "word": "Antaŭ",
+          "meaning": "before",
+          "sound": "an-taŭ"
+        },
+        {
+          "word": "kelkaj",
+          "meaning": "some",
+          "sound": "kel-kaj"
+        },
+        {
+          "word": "tagoj",
+          "meaning": "days",
+          "sound": "ta-goj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "ricevis",
+          "meaning": "received",
+          "sound": "ri-ce-vis"
+        },
+        {
+          "word": "laborproponon",
+          "meaning": "job offer",
+          "sound": "la-bor-pro-po-non"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Estis",
+          "meaning": "it was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "alia",
+          "meaning": "another",
+          "sound": "a-li-a"
+        },
+        {
+          "word": "urbo",
+          "meaning": "city",
+          "sound": "ur-bo"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "interesa",
+          "meaning": "interesting",
+          "sound": "in-te-re-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Komence",
+          "meaning": "at first",
+          "sound": "ko-men-ce"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "sentis",
+          "meaning": "felt",
+          "sound": "sen-tis"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "ekscitita",
+          "meaning": "excited",
+          "sound": "ek-sci-ti-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "ankaŭ",
+          "meaning": "too",
+          "sound": "an-kaŭ"
+        },
+        {
+          "word": "nervoza",
+          "meaning": "nervous",
+          "sound": "ner-vo-za"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "parolis",
+          "meaning": "spoke",
+          "sound": "pa-ro-lis"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "familio",
+          "meaning": "family",
+          "sound": "fa-mi-li-o"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "miaj",
+          "meaning": "my",
+          "sound": "mi-aj"
+        },
+        {
+          "word": "amikoj",
+          "meaning": "friends",
+          "sound": "a-mi-koj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ili",
+          "meaning": "they",
+          "sound": "i-li"
+        },
+        {
+          "word": "donis",
+          "meaning": "gave",
+          "sound": "do-nis"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "multajn",
+          "meaning": "many",
+          "sound": "mul-tajn"
+        },
+        {
+          "word": "konsilojn",
+          "meaning": "advice",
+          "sound": "kon-si-lojn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mia",
+          "meaning": "my",
+          "sound": "mi-a"
+        },
+        {
+          "word": "patrino",
+          "meaning": "mother",
+          "sound": "pa-tri-no"
+        },
+        {
+          "word": "diris",
+          "meaning": "said",
+          "sound": "di-ris"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "you",
+          "sound": "vi"
+        },
+        {
+          "word": "devas",
+          "meaning": "must",
+          "sound": "de-vas"
+        },
+        {
+          "word": "sekvi",
+          "meaning": "to follow",
+          "sound": "sek-vi"
+        },
+        {
+          "word": "viajn",
+          "meaning": "yours",
+          "sound": "vi-ajn"
+        },
+        {
+          "word": "sonĝojn",
+          "meaning": "dreams",
+          "sound": "son-ĝojn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "amiko",
+          "meaning": "a friend",
+          "sound": "a-mi-ko"
+        },
+        {
+          "word": "demandis",
+          "meaning": "asked",
+          "sound": "de-man-dis"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĉu",
+          "meaning": "do",
+          "sound": "ĉu"
+        },
+        {
+          "word": "vi",
+          "meaning": "you",
+          "sound": "vi"
+        },
+        {
+          "word": "certas",
+          "meaning": "sure",
+          "sound": "cer-tas"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "pasigis",
+          "meaning": "spent",
+          "sound": "pa-si-gis"
+        },
+        {
+          "word": "plurajn",
+          "meaning": "several",
+          "sound": "plu-rajn"
+        },
+        {
+          "word": "tagojn",
+          "meaning": "days",
+          "sound": "ta-gojn"
+        },
+        {
+          "word": "pensante",
+          "meaning": "thinking",
+          "sound": "pen-san-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Fine",
+          "meaning": "finally",
+          "sound": "fi-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "decidis",
+          "meaning": "decided",
+          "sound": "de-ci-dis"
+        },
+        {
+          "word": "akcepti",
+          "meaning": "to accept",
+          "sound": "ak-cep-ti"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "laboron",
+          "meaning": "work",
+          "sound": "la-bo-ron"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "scias",
+          "meaning": "know",
+          "sound": "sci-as"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "ĝi",
+          "meaning": "it",
+          "sound": "ĝi"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "estos",
+          "meaning": "will be",
+          "sound": "es-tos"
+        },
+        {
+          "word": "facila",
+          "meaning": "easy",
+          "sound": "fa-ci-la"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "volas",
+          "meaning": "wants",
+          "sound": "vo-las"
+        },
+        {
+          "word": "provi",
+          "meaning": "to try",
+          "sound": "pro-vi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Kverelo kun amiko",
+      "content": [
+        {
+          "word": "Hieraŭ",
+          "meaning": "yesterday",
+          "sound": "hi-e-raŭ"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "kverelis",
+          "meaning": "argued",
+          "sound": "kve-re-lis"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "plej",
+          "meaning": "most",
+          "sound": "plej"
+        },
+        {
+          "word": "bona",
+          "meaning": "good",
+          "sound": "bo-na"
+        },
+        {
+          "word": "amiko",
+          "meaning": "a friend",
+          "sound": "a-mi-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĉio",
+          "meaning": "everything",
+          "sound": "ĉi-o"
+        },
+        {
+          "word": "komenciĝis",
+          "meaning": "started",
+          "sound": "ko-men-ci-ĝis"
+        },
+        {
+          "word": "kiam",
+          "meaning": "when",
+          "sound": "ki-am"
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "parolis",
+          "meaning": "spoke",
+          "sound": "pa-ro-lis"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "niaj",
+          "meaning": "ours",
+          "sound": "ni-aj"
+        },
+        {
+          "word": "planoj",
+          "meaning": "plans",
+          "sound": "pla-noj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "volis",
+          "meaning": "wanted",
+          "sound": "vo-lis"
+        },
+        {
+          "word": "vojaĝi",
+          "meaning": "to travel",
+          "sound": "vo-ja-ĝi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "preferis",
+          "meaning": "preferred",
+          "sound": "pre-fe-ris"
+        },
+        {
+          "word": "resti",
+          "meaning": "to stay",
+          "sound": "res-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "diris",
+          "meaning": "said",
+          "sound": "di-ris"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "havas",
+          "meaning": "have",
+          "sound": "ha-vas"
+        },
+        {
+          "word": "sufiĉe",
+          "meaning": "enough",
+          "sound": "su-fi-ĉe"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "mono",
+          "meaning": "money",
+          "sound": "mo-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "respondis",
+          "meaning": "replied",
+          "sound": "res-pon-dis"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "we",
+          "sound": "ni"
+        },
+        {
+          "word": "povas",
+          "meaning": "can",
+          "sound": "po-vas"
+        },
+        {
+          "word": "savi",
+          "meaning": "to save",
+          "sound": "sa-vi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "konsentis",
+          "meaning": "agreed",
+          "sound": "kon-sen-tis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "konversacio",
+          "meaning": "a conversation",
+          "sound": "kon-ver-sa-ci-o"
+        },
+        {
+          "word": "fariĝis",
+          "meaning": "became",
+          "sound": "fa-ri-ĝis"
+        },
+        {
+          "word": "streĉa",
+          "meaning": "tight",
+          "sound": "stre-ĉa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Fine",
+          "meaning": "finally",
+          "sound": "fi-ne"
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "ambaŭ",
+          "meaning": "both",
+          "sound": "am-baŭ"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "ĉagrenitaj",
+          "meaning": "upset",
+          "sound": "ĉa-gre-ni-taj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "pensas",
+          "meaning": "thinks",
+          "sound": "pen-sas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "eble",
+          "meaning": "maybe",
+          "sound": "e-ble"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "devus",
+          "meaning": "should",
+          "sound": "de-vus"
+        },
+        {
+          "word": "paroli",
+          "meaning": "to speak",
+          "sound": "pa-ro-li"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "denove",
+          "meaning": "again",
+          "sound": "de-no-ve"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nia",
+          "meaning": "ours",
+          "sound": "ni-a"
+        },
+        {
+          "word": "amikeco",
+          "meaning": "friendship",
+          "sound": "a-mi-ke-co"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "grava",
+          "meaning": "important",
+          "sound": "gra-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Grava ŝanĝo",
+      "content": [
+        {
+          "word": "Antaŭ",
+          "meaning": "before",
+          "sound": "an-taŭ"
+        },
+        {
+          "word": "unu",
+          "meaning": "one",
+          "sound": "u-nu"
+        },
+        {
+          "word": "jaro",
+          "meaning": "a year",
+          "sound": "ja-ro"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "vivo",
+          "meaning": "life",
+          "sound": "vi-vo"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "tre",
+          "meaning": "very",
+          "sound": "tre"
+        },
+        {
+          "word": "malsama",
+          "meaning": "different",
+          "sound": "mal-sa-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "laboris",
+          "meaning": "worked",
+          "sound": "la-bo-ris"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "loko",
+          "meaning": "place",
+          "sound": "lo-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kiun",
+          "meaning": "who",
+          "sound": "ki-un"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "ŝatis",
+          "meaning": "liked",
+          "sound": "ŝa-tis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĉiutage",
+          "meaning": "every day",
+          "sound": "ĉi-u-ta-ge"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "sentis",
+          "meaning": "felt",
+          "sound": "sen-tis"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "laca",
+          "meaning": "tired",
+          "sound": "la-ca"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "senmotiva",
+          "meaning": "unmotivated",
+          "sound": "sen-mo-ti-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iun",
+          "meaning": "someone",
+          "sound": "i-un"
+        },
+        {
+          "word": "tagon",
+          "meaning": "a day",
+          "sound": "ta-gon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "decidis",
+          "meaning": "decided",
+          "sound": "de-ci-dis"
+        },
+        {
+          "word": "ŝanĝi",
+          "meaning": "to change",
+          "sound": "ŝan-ĝi"
+        },
+        {
+          "word": "ĉion",
+          "meaning": "everything",
+          "sound": "ĉi-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "facile",
+          "meaning": "easily",
+          "sound": "fa-ci-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ĉar",
+          "meaning": "because",
+          "sound": "ĉar"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "timis",
+          "meaning": "was afraid",
+          "sound": "ti-mis"
+        },
+        {
+          "word": "malsukcesi",
+          "meaning": "to fail",
+          "sound": "mal-suk-ce-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "ankaŭ",
+          "meaning": "too",
+          "sound": "an-kaŭ"
+        },
+        {
+          "word": "sciis",
+          "meaning": "knew",
+          "sound": "sci-is"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "povas",
+          "meaning": "can",
+          "sound": "po-vas"
+        },
+        {
+          "word": "daŭrigi",
+          "meaning": "to continue",
+          "sound": "daŭ-ri-gi"
+        },
+        {
+          "word": "tiel",
+          "meaning": "like that",
+          "sound": "ti-el"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "komencis",
+          "meaning": "started",
+          "sound": "ko-men-cis"
+        },
+        {
+          "word": "lerni",
+          "meaning": "to learn",
+          "sound": "ler-ni"
+        },
+        {
+          "word": "novajn",
+          "meaning": "new ones",
+          "sound": "no-vajn"
+        },
+        {
+          "word": "aferojn",
+          "meaning": "things",
+          "sound": "a-fe-rojn"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "labori",
+          "meaning": "to work",
+          "sound": "la-bo-ri"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "miaj",
+          "meaning": "my",
+          "sound": "mi-aj"
+        },
+        {
+          "word": "celoj",
+          "meaning": "goals",
+          "sound": "ce-loj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iom",
+          "meaning": "a little",
+          "sound": "i-om"
+        },
+        {
+          "word": "post",
+          "meaning": "after",
+          "sound": "post"
+        },
+        {
+          "word": "iom",
+          "meaning": "a little",
+          "sound": "i-om"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "vivo",
+          "meaning": "life",
+          "sound": "vi-vo"
+        },
+        {
+          "word": "ŝanĝiĝis",
+          "meaning": "has changed",
+          "sound": "ŝan-ĝi-ĝis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "sentas",
+          "meaning": "feel",
+          "sound": "sen-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "memfida",
+          "meaning": "confident",
+          "sound": "mem-fi-da"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "feliĉa",
+          "meaning": "happy",
+          "sound": "fe-li-ĉa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "lernis",
+          "meaning": "learned",
+          "sound": "ler-nis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "ŝanĝoj",
+          "meaning": "changes",
+          "sound": "ŝan-ĝoj"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "malfacilaj",
+          "meaning": "difficult",
+          "sound": "mal-fa-ci-laj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "necesaj",
+          "meaning": "necessary",
+          "sound": "ne-ce-saj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "La signifo de la vojo",
+      "content": [
+        {
+          "word": "Dum",
+          "meaning": "while",
+          "sound": "dum"
+        },
+        {
+          "word": "longa",
+          "meaning": "long",
+          "sound": "lon-ga"
+        },
+        {
+          "word": "tempo",
+          "meaning": "time",
+          "sound": "tem-po"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "pensis",
+          "meaning": "thought",
+          "sound": "pen-sis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "sukceso",
+          "meaning": "success",
+          "sound": "suk-ce-so"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "plej",
+          "meaning": "most",
+          "sound": "plej"
+        },
+        {
+          "word": "grava",
+          "meaning": "important",
+          "sound": "gra-va"
+        },
+        {
+          "word": "afero",
+          "meaning": "thing",
+          "sound": "a-fe-ro"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "kredis",
+          "meaning": "believed",
+          "sound": "kre-dis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "havi",
+          "meaning": "to have",
+          "sound": "ha-vi"
+        },
+        {
+          "word": "monon",
+          "meaning": "money",
+          "sound": "mo-non"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "rekonon",
+          "meaning": "recognition",
+          "sound": "re-ko-non"
+        },
+        {
+          "word": "feliĉigus",
+          "meaning": "would make me happy",
+          "sound": "fe-li-ĉi-gus"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tamen",
+          "meaning": "however",
+          "sound": "ta-men"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "tempo",
+          "meaning": "time",
+          "sound": "tem-po"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "konstatis",
+          "meaning": "realized",
+          "sound": "kon-sta-tis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "eraris",
+          "meaning": "was wrong",
+          "sound": "e-ra-ris"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kio",
+          "meaning": "what",
+          "sound": "ki-o"
+        },
+        {
+          "word": "vere",
+          "meaning": "really",
+          "sound": "ve-re"
+        },
+        {
+          "word": "gravas",
+          "meaning": "it matters",
+          "sound": "gra-vas"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "vojo",
+          "meaning": "road",
+          "sound": "vo-jo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "spertoj",
+          "meaning": "experiences",
+          "sound": "sper-toj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "eraroj",
+          "meaning": "mistakes",
+          "sound": "e-ra-roj"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "lernadoj",
+          "meaning": "learnings",
+          "sound": "ler-na-doj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iun",
+          "meaning": "someone",
+          "sound": "i-un"
+        },
+        {
+          "word": "tagon",
+          "meaning": "a day",
+          "sound": "ta-gon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "parolis",
+          "meaning": "spoke",
+          "sound": "pa-ro-lis"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "mentoro",
+          "meaning": "a mentor",
+          "sound": "men-to-ro"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "diris",
+          "meaning": "said",
+          "sound": "di-ris"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "rapidu",
+          "meaning": "hurry up",
+          "sound": "ra-pi-du"
+        },
+        {
+          "word": "nur",
+          "meaning": "only",
+          "sound": "nur"
+        },
+        {
+          "word": "por",
+          "meaning": "for",
+          "sound": "por"
+        },
+        {
+          "word": "atingi",
+          "meaning": "to reach",
+          "sound": "a-tin-gi"
+        },
+        {
+          "word": "tien",
+          "meaning": "there",
+          "sound": "ti-en"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lernu",
+          "meaning": "learn",
+          "sound": "ler-nu"
+        },
+        {
+          "word": "ĝui",
+          "meaning": "to enjoy",
+          "sound": "ĝu-i"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "procezon",
+          "meaning": "process",
+          "sound": "pro-ce-zon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ekde",
+          "meaning": "since",
+          "sound": "ek-de"
+        },
+        {
+          "word": "tiu",
+          "meaning": "that one",
+          "sound": "ti-u"
+        },
+        {
+          "word": "momento",
+          "meaning": "a moment",
+          "sound": "mo-men-to"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "pensmaniero",
+          "meaning": "way of thinking",
+          "sound": "pen-sma-ni-e-ro"
+        },
+        {
+          "word": "ŝanĝiĝis",
+          "meaning": "has changed",
+          "sound": "ŝan-ĝi-ĝis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nun",
+          "meaning": "now",
+          "sound": "nun"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "taksas",
+          "meaning": "evaluates",
+          "sound": "tak-sas"
+        },
+        {
+          "word": "ĉiun",
+          "meaning": "everyone",
+          "sound": "ĉi-un"
+        },
+        {
+          "word": "paŝon",
+          "meaning": "a step",
+          "sound": "pa-ŝon"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "lernas",
+          "meaning": "is learning",
+          "sound": "ler-nas"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "ĉiu",
+          "meaning": "each one",
+          "sound": "ĉi-u"
+        },
+        {
+          "word": "eraro",
+          "meaning": "mistake",
+          "sound": "e-ra-ro"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "kiu mi vere estas",
+      "content": [
+        {
+          "word": "Dum",
+          "meaning": "while",
+          "sound": "dum"
+        },
+        {
+          "word": "multaj",
+          "meaning": "many",
+          "sound": "mul-taj"
+        },
+        {
+          "word": "jaroj",
+          "meaning": "years",
+          "sound": "ja-roj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "pridubis",
+          "meaning": "questioned",
+          "sound": "pri-du-bis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kiu",
+          "meaning": "who",
+          "sound": "ki-u"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "vere",
+          "meaning": "really",
+          "sound": "ve-re"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Komence",
+          "meaning": "at first",
+          "sound": "ko-men-ce"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "pensis",
+          "meaning": "thought",
+          "sound": "pen-sis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "identeco",
+          "meaning": "identity",
+          "sound": "i-den-te-co"
+        },
+        {
+          "word": "dependas",
+          "meaning": "it depends",
+          "sound": "de-pen-das"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "tio",
+          "meaning": "that",
+          "sound": "ti-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kion",
+          "meaning": "what",
+          "sound": "ki-on"
+        },
+        {
+          "word": "aliaj",
+          "meaning": "others",
+          "sound": "a-li-aj"
+        },
+        {
+          "word": "pensis",
+          "meaning": "thought",
+          "sound": "pen-sis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "serĉis",
+          "meaning": "looked for",
+          "sound": "ser-ĉis"
+        },
+        {
+          "word": "aprobon",
+          "meaning": "approval",
+          "sound": "a-pro-bon"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "timis",
+          "meaning": "was afraid",
+          "sound": "ti-mis"
+        },
+        {
+          "word": "erari",
+          "meaning": "to make a mistake",
+          "sound": "e-ra-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tamen",
+          "meaning": "however",
+          "sound": "ta-men"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "tempo",
+          "meaning": "time",
+          "sound": "tem-po"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "komprenis",
+          "meaning": "understood",
+          "sound": "kom-pre-nis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "valoro",
+          "meaning": "value",
+          "sound": "va-lo-ro"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "dependas",
+          "meaning": "it depends",
+          "sound": "de-pen-das"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "aliaj",
+          "meaning": "others",
+          "sound": "a-li-aj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iun",
+          "meaning": "someone",
+          "sound": "i-un"
+        },
+        {
+          "word": "tagon",
+          "meaning": "a day",
+          "sound": "ta-gon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "decidis",
+          "meaning": "decided",
+          "sound": "de-ci-dis"
+        },
+        {
+          "word": "aŭskulti",
+          "meaning": "to listen",
+          "sound": "aŭ-skul-ti"
+        },
+        {
+          "word": "mian",
+          "meaning": "my",
+          "sound": "mi-an"
+        },
+        {
+          "word": "propran",
+          "meaning": "own",
+          "sound": "pro-pran"
+        },
+        {
+          "word": "voĉon",
+          "meaning": "voice",
+          "sound": "vo-ĉon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "komencis",
+          "meaning": "started",
+          "sound": "ko-men-cis"
+        },
+        {
+          "word": "fari",
+          "meaning": "to do",
+          "sound": "fa-ri"
+        },
+        {
+          "word": "decidojn",
+          "meaning": "decisions",
+          "sound": "de-ci-dojn"
+        },
+        {
+          "word": "por",
+          "meaning": "for",
+          "sound": "por"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "mem",
+          "meaning": "myself",
+          "sound": "mem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "ĉiam",
+          "meaning": "always",
+          "sound": "ĉi-am"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "facila",
+          "meaning": "easy",
+          "sound": "fa-ci-la"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "lernis",
+          "meaning": "learned",
+          "sound": "ler-nis"
+        },
+        {
+          "word": "el",
+          "meaning": "from",
+          "sound": "el"
+        },
+        {
+          "word": "ĉiu",
+          "meaning": "each one",
+          "sound": "ĉi-u"
+        },
+        {
+          "word": "eraro",
+          "meaning": "mistake",
+          "sound": "e-ra-ro"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "scias",
+          "meaning": "know",
+          "sound": "sci-as"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "esti",
+          "meaning": "to be",
+          "sound": "es-ti"
+        },
+        {
+          "word": "vi",
+          "meaning": "you",
+          "sound": "vi"
+        },
+        {
+          "word": "mem",
+          "meaning": "myself",
+          "sound": "mem"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "plej",
+          "meaning": "most",
+          "sound": "plej"
+        },
+        {
+          "word": "granda",
+          "meaning": "big",
+          "sound": "gran-da"
+        },
+        {
+          "word": "atingo",
+          "meaning": "achievement",
+          "sound": "a-tin-go"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "La valoro de tempo",
+      "content": [
+        {
+          "word": "Antaŭ",
+          "meaning": "before",
+          "sound": "an-taŭ"
+        },
+        {
+          "word": "kelkaj",
+          "meaning": "some",
+          "sound": "kel-kaj"
+        },
+        {
+          "word": "jaroj",
+          "meaning": "years",
+          "sound": "ja-roj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "multe",
+          "meaning": "a lot",
+          "sound": "mul-te"
+        },
+        {
+          "word": "atentis",
+          "meaning": "paid attention",
+          "sound": "a-ten-tis"
+        },
+        {
+          "word": "tempon",
+          "meaning": "time",
+          "sound": "tem-pon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "pensis",
+          "meaning": "thought",
+          "sound": "pen-sis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "ĉiam",
+          "meaning": "always",
+          "sound": "ĉi-am"
+        },
+        {
+          "word": "estos",
+          "meaning": "will be",
+          "sound": "es-tos"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "ŝancoj",
+          "meaning": "opportunities",
+          "sound": "ŝan-coj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "lasis",
+          "meaning": "left",
+          "sound": "la-sis"
+        },
+        {
+          "word": "multajn",
+          "meaning": "many",
+          "sound": "mul-tajn"
+        },
+        {
+          "word": "aferojn",
+          "meaning": "things",
+          "sound": "a-fe-rojn"
+        },
+        {
+          "word": "por",
+          "meaning": "for",
+          "sound": "por"
+        },
+        {
+          "word": "poste",
+          "meaning": "afterwards",
+          "sound": "pos-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iun",
+          "meaning": "someone",
+          "sound": "i-un"
+        },
+        {
+          "word": "tagon",
+          "meaning": "a day",
+          "sound": "ta-gon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "amiko",
+          "meaning": "a friend",
+          "sound": "a-mi-ko"
+        },
+        {
+          "word": "diris",
+          "meaning": "said",
+          "sound": "di-ris"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tempo",
+          "meaning": "time",
+          "sound": "tem-po"
+        },
+        {
+          "word": "atendas",
+          "meaning": "is waiting",
+          "sound": "a-ten-das"
+        },
+        {
+          "word": "neniun",
+          "meaning": "no one",
+          "sound": "ne-ni-un"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tiu",
+          "meaning": "that one",
+          "sound": "ti-u"
+        },
+        {
+          "word": "frazo",
+          "meaning": "sentence",
+          "sound": "fra-zo"
+        },
+        {
+          "word": "restis",
+          "meaning": "remained",
+          "sound": "res-tis"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "mia",
+          "meaning": "mine",
+          "sound": "mi-a"
+        },
+        {
+          "word": "menso",
+          "meaning": "mind",
+          "sound": "men-so"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ekde",
+          "meaning": "since",
+          "sound": "ek-de"
+        },
+        {
+          "word": "tiam",
+          "meaning": "then",
+          "sound": "ti-am"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "komencis",
+          "meaning": "started",
+          "sound": "ko-men-cis"
+        },
+        {
+          "word": "taksi",
+          "meaning": "to evaluate",
+          "sound": "tak-si"
+        },
+        {
+          "word": "ĉiun",
+          "meaning": "everyone",
+          "sound": "ĉi-un"
+        },
+        {
+          "word": "momenton",
+          "meaning": "a moment",
+          "sound": "mo-men-ton"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "lernis",
+          "meaning": "learned",
+          "sound": "ler-nis"
+        },
+        {
+          "word": "organizi",
+          "meaning": "to organize",
+          "sound": "or-ga-ni-zi"
+        },
+        {
+          "word": "mian",
+          "meaning": "my",
+          "sound": "mi-an"
+        },
+        {
+          "word": "tagon",
+          "meaning": "a day",
+          "sound": "ta-gon"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "prioritati",
+          "meaning": "to prioritize",
+          "sound": "pri-o-ri-ta-ti"
+        },
+        {
+          "word": "kio",
+          "meaning": "what",
+          "sound": "ki-o"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "grava",
+          "meaning": "important",
+          "sound": "gra-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "ankaŭ",
+          "meaning": "too",
+          "sound": "an-kaŭ"
+        },
+        {
+          "word": "komprenis",
+          "meaning": "understood",
+          "sound": "kom-pre-nis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "ĉio",
+          "meaning": "everything",
+          "sound": "ĉi-o"
+        },
+        {
+          "word": "devas",
+          "meaning": "must",
+          "sound": "de-vas"
+        },
+        {
+          "word": "esti",
+          "meaning": "to be",
+          "sound": "es-ti"
+        },
+        {
+          "word": "perfekta",
+          "meaning": "perfect",
+          "sound": "per-fek-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "provas",
+          "meaning": "is trying",
+          "sound": "pro-vas"
+        },
+        {
+          "word": "vivi",
+          "meaning": "to live",
+          "sound": "vi-vi"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "konscio",
+          "meaning": "awareness",
+          "sound": "kon-sci-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĉar",
+          "meaning": "because",
+          "sound": "ĉar"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "tempo",
+          "meaning": "time",
+          "sound": "tem-po"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "plej",
+          "meaning": "most",
+          "sound": "plej"
+        },
+        {
+          "word": "valora",
+          "meaning": "valuable",
+          "sound": "va-lo-ra"
+        },
+        {
+          "word": "afero",
+          "meaning": "thing",
+          "sound": "a-fe-ro"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kiun",
+          "meaning": "who",
+          "sound": "ki-un"
+        },
+        {
+          "word": "ni",
+          "meaning": "us",
+          "sound": "ni"
+        },
+        {
+          "word": "havas",
+          "meaning": "have",
+          "sound": "ha-vas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Decidoj kiuj ŝanĝas la vivon",
+      "content": [
+        {
+          "word": "Foje",
+          "meaning": "sometimes",
+          "sound": "fo-je"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "pensas",
+          "meaning": "thinks",
+          "sound": "pen-sas"
+        },
+        {
+          "word": "pri",
+          "meaning": "about",
+          "sound": "pri"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "decidoj",
+          "meaning": "decisions",
+          "sound": "de-ci-doj"
+        },
+        {
+          "word": "kiujn",
+          "meaning": "which",
+          "sound": "ki-ujn"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "faris",
+          "meaning": "did",
+          "sound": "fa-ris"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "pasinteco",
+          "meaning": "past",
+          "sound": "pa-sin-te-co"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iuj",
+          "meaning": "some",
+          "sound": "i-uj"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "ĝustaj",
+          "meaning": "correct",
+          "sound": "ĝus-taj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "aliaj",
+          "meaning": "others",
+          "sound": "a-li-aj"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kelkfoje",
+          "meaning": "sometimes",
+          "sound": "kel-kfo-je"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "scivolas",
+          "meaning": "wondering",
+          "sound": "sci-vo-las"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kio",
+          "meaning": "what",
+          "sound": "ki-o"
+        },
+        {
+          "word": "estus",
+          "meaning": "would be",
+          "sound": "es-tus"
+        },
+        {
+          "word": "okazinta",
+          "meaning": "happened",
+          "sound": "o-ka-zin-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "se",
+          "meaning": "if",
+          "sound": "se"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "estus",
+          "meaning": "would be",
+          "sound": "es-tus"
+        },
+        {
+          "word": "elektinta",
+          "meaning": "having chosen",
+          "sound": "e-lek-tin-ta"
+        },
+        {
+          "word": "alian",
+          "meaning": "another",
+          "sound": "a-li-an"
+        },
+        {
+          "word": "vojon",
+          "meaning": "road",
+          "sound": "vo-jon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eble",
+          "meaning": "maybe",
+          "sound": "e-ble"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "estus",
+          "meaning": "would be",
+          "sound": "es-tus"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "sukcesa",
+          "meaning": "successful",
+          "sound": "suk-ce-sa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aŭ",
+          "meaning": "or",
+          "sound": "aŭ"
+        },
+        {
+          "word": "eble",
+          "meaning": "maybe",
+          "sound": "e-ble"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "lernis",
+          "meaning": "learned",
+          "sound": "ler-nis"
+        },
+        {
+          "word": "malpli",
+          "meaning": "less",
+          "sound": "mal-pli"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tamen",
+          "meaning": "however",
+          "sound": "ta-men"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "komprenis",
+          "meaning": "understood",
+          "sound": "kom-pre-nis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "utilas",
+          "meaning": "useful",
+          "sound": "u-ti-las"
+        },
+        {
+          "word": "vivi",
+          "meaning": "to live",
+          "sound": "vi-vi"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "pasinteco",
+          "meaning": "past",
+          "sound": "pa-sin-te-co"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ĉiu",
+          "meaning": "everyone",
+          "sound": "ĉi-u"
+        },
+        {
+          "word": "decido",
+          "meaning": "a decision",
+          "sound": "de-ci-do"
+        },
+        {
+          "word": "instruis",
+          "meaning": "taught",
+          "sound": "in-stru-is"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "ion",
+          "meaning": "something",
+          "sound": "i-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eĉ",
+          "meaning": "even",
+          "sound": "eĉ"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "eraroj",
+          "meaning": "mistakes",
+          "sound": "e-ra-roj"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "gravaj",
+          "meaning": "important",
+          "sound": "gra-vaj"
+        },
+        {
+          "word": "lecionoj",
+          "meaning": "lessons",
+          "sound": "le-ci-o-noj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hodiaŭ",
+          "meaning": "today",
+          "sound": "ho-di-aŭ"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "provas",
+          "meaning": "is trying",
+          "sound": "pro-vas"
+        },
+        {
+          "word": "fari",
+          "meaning": "to do",
+          "sound": "fa-ri"
+        },
+        {
+          "word": "decidojn",
+          "meaning": "decisions",
+          "sound": "de-ci-dojn"
+        },
+        {
+          "word": "kun",
+          "meaning": "with",
+          "sound": "kun"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "da",
+          "meaning": "yeah",
+          "sound": "da"
+        },
+        {
+          "word": "konscio",
+          "meaning": "awareness",
+          "sound": "kon-sci-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "povas",
+          "meaning": "can",
+          "sound": "po-vas"
+        },
+        {
+          "word": "ŝanĝi",
+          "meaning": "to change",
+          "sound": "ŝan-ĝi"
+        },
+        {
+          "word": "tion",
+          "meaning": "that",
+          "sound": "ti-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kio",
+          "meaning": "what",
+          "sound": "ki-o"
+        },
+        {
+          "word": "jam",
+          "meaning": "already",
+          "sound": "jam"
+        },
+        {
+          "word": "okazis",
+          "meaning": "it happened",
+          "sound": "o-ka-zis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "povas",
+          "meaning": "can",
+          "sound": "po-vas"
+        },
+        {
+          "word": "decidi",
+          "meaning": "to decide",
+          "sound": "de-ci-di"
+        },
+        {
+          "word": "mian",
+          "meaning": "my",
+          "sound": "mi-an"
+        },
+        {
+          "word": "estontecon",
+          "meaning": "future",
+          "sound": "es-ton-te-con"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "La interna voĉo",
+      "content": [
+        {
+          "word": "Longe",
+          "meaning": "for a long time",
+          "sound": "lon-ge"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "vivis",
+          "meaning": "lived",
+          "sound": "vi-vis"
+        },
+        {
+          "word": "laŭ",
+          "meaning": "according to",
+          "sound": "laŭ"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "atendoj",
+          "meaning": "expectations",
+          "sound": "a-ten-doj"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "aliaj",
+          "meaning": "others",
+          "sound": "a-li-aj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "kredis",
+          "meaning": "believed",
+          "sound": "kre-dis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "tio",
+          "meaning": "that",
+          "sound": "ti-o"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "ĝusta",
+          "meaning": "correct",
+          "sound": "ĝus-ta"
+        },
+        {
+          "word": "vojo",
+          "meaning": "road",
+          "sound": "vo-jo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tamen",
+          "meaning": "however",
+          "sound": "ta-men"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "profunde",
+          "meaning": "deeply",
+          "sound": "pro-fun-de"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ĉiam",
+          "meaning": "always",
+          "sound": "ĉi-am"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "voĉo",
+          "meaning": "voice",
+          "sound": "vo-ĉo"
+        },
+        {
+          "word": "diranta",
+          "meaning": "saying",
+          "sound": "di-ran-ta"
+        },
+        {
+          "word": "al",
+          "meaning": "to",
+          "sound": "al"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "io",
+          "meaning": "something",
+          "sound": "io"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "ĝusta",
+          "meaning": "correct",
+          "sound": "ĝus-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "i",
+          "sound": "mi"
+        },
+        {
+          "word": "provis",
+          "meaning": "tried",
+          "sound": "pro-vis"
+        },
+        {
+          "word": "ignori",
+          "meaning": "to ignore",
+          "sound": "ig-no-ri"
+        },
+        {
+          "word": "ĝin",
+          "meaning": "it",
+          "sound": "ĝin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "ĝi",
+          "meaning": "it",
+          "sound": "ĝi"
+        },
+        {
+          "word": "daŭre",
+          "meaning": "continue",
+          "sound": "daŭ-re"
+        },
+        {
+          "word": "fariĝis",
+          "meaning": "became",
+          "sound": "fa-ri-ĝis"
+        },
+        {
+          "word": "pli",
+          "meaning": "more",
+          "sound": "pli"
+        },
+        {
+          "word": "laŭta",
+          "meaning": "loud",
+          "sound": "laŭ-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iun",
+          "meaning": "someone",
+          "sound": "i-un"
+        },
+        {
+          "word": "tagon",
+          "meaning": "a day",
+          "sound": "ta-gon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "haltis",
+          "meaning": "stopped",
+          "sound": "hal-tis"
+        },
+        {
+          "word": "kaj",
+          "meaning": "and",
+          "sound": "kaj"
+        },
+        {
+          "word": "demandis",
+          "meaning": "asked",
+          "sound": "de-man-dis"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kion",
+          "meaning": "what",
+          "sound": "ki-on"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "vere",
+          "meaning": "really",
+          "sound": "ve-re"
+        },
+        {
+          "word": "volas",
+          "meaning": "wants",
+          "sound": "vo-las"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "respondo",
+          "meaning": "answer",
+          "sound": "res-pon-do"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "estis",
+          "meaning": "was",
+          "sound": "es-tis"
+        },
+        {
+          "word": "tuja",
+          "meaning": "immediate",
+          "sound": "tu-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "unuafoje",
+          "meaning": "for the first time",
+          "sound": "u-nu-a-fo-je"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "sentis",
+          "meaning": "felt",
+          "sound": "sen-tis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "li",
+          "meaning": "he",
+          "sound": "li"
+        },
+        {
+          "word": "aŭskultas",
+          "meaning": "listens",
+          "sound": "aŭ-skul-tas"
+        },
+        {
+          "word": "min",
+          "meaning": "me",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ekde",
+          "meaning": "since",
+          "sound": "ek-de"
+        },
+        {
+          "word": "tiam",
+          "meaning": "then",
+          "sound": "ti-am"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "eksciis",
+          "meaning": "found out",
+          "sound": "ek-sci-is"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ke",
+          "meaning": "that",
+          "sound": "ke"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "interna",
+          "meaning": "internal",
+          "sound": "in-ter-na"
+        },
+        {
+          "word": "voĉo",
+          "meaning": "voice",
+          "sound": "vo-ĉo"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "estas",
+          "meaning": "is",
+          "sound": "es-tas"
+        },
+        {
+          "word": "obstaklo",
+          "meaning": "an obstacle",
+          "sound": "ob-stak-lo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sed",
+          "meaning": "but",
+          "sound": "sed"
+        },
+        {
+          "word": "gvidilo",
+          "meaning": "a guide",
+          "sound": "gvi-di-lo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "manĝas",
+          "pomon"
+        ],
+        "past": [
+          "Mi",
+          "manĝis",
+          "pomon"
+        ],
+        "future": [
+          "Mi",
+          "manĝos",
+          "pomon"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "legas",
+          "libron"
+        ],
+        "past": [
+          "Ŝi",
+          "legis",
+          "libron"
+        ],
+        "future": [
+          "Ŝi",
+          "legos",
+          "libron"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "iras",
+          "al",
+          "lernejo"
+        ],
+        "past": [
+          "Ni",
+          "iris",
+          "al",
+          "lernejo"
+        ],
+        "future": [
+          "Ni",
+          "iros",
+          "al",
+          "lernejo"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "trinkas",
+          "akvon"
+        ],
+        "past": [
+          "Li",
+          "trinkis",
+          "akvon"
+        ],
+        "future": [
+          "Li",
+          "trinkos",
+          "akvon"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "ludas",
+          "piedpilkon"
+        ],
+        "past": [
+          "Ili",
+          "ludis",
+          "piedpilkon"
+        ],
+        "future": [
+          "Ili",
+          "ludos",
+          "piedpilkon"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "skribas",
+          "leteron"
+        ],
+        "past": [
+          "Mi",
+          "skribis",
+          "leteron"
+        ],
+        "future": [
+          "Mi",
+          "skribos",
+          "leteron"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "manĝas",
+          "rizon"
+        ],
+        "past": [
+          "Ŝi",
+          "manĝis",
+          "rizon"
+        ],
+        "future": [
+          "Ŝi",
+          "manĝos",
+          "rizon"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "spektas",
+          "filmon"
+        ],
+        "past": [
+          "Ni",
+          "spektis",
+          "filmon"
+        ],
+        "future": [
+          "Ni",
+          "spektos",
+          "filmon"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "malfermas",
+          "la",
+          "pordon"
+        ],
+        "past": [
+          "Li",
+          "malfermis",
+          "la",
+          "pordon"
+        ],
+        "future": [
+          "Li",
+          "malfermos",
+          "la",
+          "pordon"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "aĉetas",
+          "manĝaĵon"
+        ],
+        "past": [
+          "Ili",
+          "aĉetis",
+          "manĝaĵon"
+        ],
+        "future": [
+          "Ili",
+          "aĉetos",
+          "manĝaĵojn"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "manĝas",
+          "pomon",
+          "kaj",
+          "trinkas",
+          "akvon"
+        ],
+        "past": [
+          "Mi",
+          "manĝis",
+          "pomon",
+          "kaj",
+          "trinkis",
+          "akvon"
+        ],
+        "future": [
+          "Mi",
+          "manĝos",
+          "pomon",
+          "kaj",
+          "trinkos",
+          "akvon"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "legas",
+          "libron",
+          "ĉar",
+          "ŝi",
+          "ŝatas",
+          "rakontojn"
+        ],
+        "past": [
+          "Ŝi",
+          "legis",
+          "libron",
+          "ĉar",
+          "ŝi",
+          "ŝatis",
+          "rakontojn"
+        ],
+        "future": [
+          "Ŝi",
+          "legos",
+          "libron",
+          "ĉar",
+          "ŝi",
+          "ŝatas",
+          "rakontojn"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "iras",
+          "al",
+          "lernejo",
+          "kaj",
+          "studas",
+          "kune"
+        ],
+        "past": [
+          "Ni",
+          "iris",
+          "al",
+          "lernejo",
+          "kaj",
+          "studis",
+          "kune"
+        ],
+        "future": [
+          "Ni",
+          "iros",
+          "al",
+          "lernejo",
+          "kaj",
+          "studos",
+          "kune"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "trinkas",
+          "akvon",
+          "sed",
+          "manĝas",
+          "rapidmanĝaĵon"
+        ],
+        "past": [
+          "Li",
+          "trinkis",
+          "akvon",
+          "sed",
+          "manĝis",
+          "rapidan",
+          "manĝon"
+        ],
+        "future": [
+          "Li",
+          "trinkos",
+          "akvon",
+          "sed",
+          "manĝos",
+          "rapidan",
+          "manĝon"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "ludas",
+          "piedpilkon",
+          "kaj",
+          "kuras",
+          "en",
+          "la",
+          "parko"
+        ],
+        "past": [
+          "Ili",
+          "ludis",
+          "piedpilkon",
+          "kaj",
+          "kuris",
+          "en",
+          "la",
+          "parko"
+        ],
+        "future": [
+          "Ili",
+          "ludos",
+          "piedpilkon",
+          "kaj",
+          "kuros",
+          "en",
+          "la",
+          "parko"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "skribas",
+          "leteron",
+          "ĉar",
+          "mi",
+          "sopiras",
+          "vin"
+        ],
+        "past": [
+          "Mi",
+          "skribis",
+          "leteron",
+          "ĉar",
+          "mi",
+          "sopiris",
+          "vin"
+        ],
+        "future": [
+          "Mi",
+          "skribos",
+          "leteron",
+          "ĉar",
+          "mi",
+          "sopiras",
+          "vin"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "manĝas",
+          "rizon",
+          "kaj",
+          "kuiras",
+          "ĉiutage"
+        ],
+        "past": [
+          "Ŝi",
+          "manĝis",
+          "rizon",
+          "kaj",
+          "kuiris",
+          "ĉiutage"
+        ],
+        "future": [
+          "Ŝi",
+          "manĝos",
+          "rizon",
+          "kaj",
+          "kuiros",
+          "ĉiutage"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "spektas",
+          "filmon",
+          "sed",
+          "dormas",
+          "malfrue"
+        ],
+        "past": [
+          "Ni",
+          "spektis",
+          "filmon",
+          "sed",
+          "dormis",
+          "malfrue"
+        ],
+        "future": [
+          "Ni",
+          "spektos",
+          "filmon",
+          "sed",
+          "dormos",
+          "malfrue"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "malfermas",
+          "la",
+          "pordon",
+          "kaj",
+          "salutas",
+          "homojn"
+        ],
+        "past": [
+          "Li",
+          "malfermis",
+          "la",
+          "pordon",
+          "kaj",
+          "salutis",
+          "homojn"
+        ],
+        "future": [
+          "Li",
+          "malfermos",
+          "la",
+          "pordon",
+          "kaj",
+          "salutos",
+          "homojn"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "aĉetas",
+          "manĝaĵojn",
+          "ĉar",
+          "ili",
+          "malsatas"
+        ],
+        "past": [
+          "Ili",
+          "aĉetis",
+          "manĝaĵojn",
+          "ĉar",
+          "ili",
+          "malsatis"
+        ],
+        "future": [
+          "Ili",
+          "aĉetos",
+          "manĝaĵojn",
+          "ĉar",
+          "ili",
+          "malsatas"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "matenmanĝas",
+          "matene"
+        ],
+        "past": [
+          "Mi",
+          "matenmanĝis"
+        ],
+        "future": [
+          "Mi",
+          "matenmanĝos",
+          "matene"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "studas",
+          "hejme",
+          "ĉiutage"
+        ],
+        "past": [
+          "Ŝi",
+          "studis",
+          "hejme",
+          "ĉiutage"
+        ],
+        "future": [
+          "Ŝi",
+          "studos",
+          "hejme",
+          "ĉiutage"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "promenas",
+          "en",
+          "la",
+          "parko",
+          "vespere"
+        ],
+        "past": [
+          "Ni",
+          "promenis",
+          "en",
+          "la",
+          "parko",
+          "vespere"
+        ],
+        "future": [
+          "Ni",
+          "promenos",
+          "en",
+          "la",
+          "parko",
+          "vespere"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "laboras",
+          "en",
+          "oficejo",
+          "en",
+          "la",
+          "urbo"
+        ],
+        "past": [
+          "Li",
+          "laboris",
+          "en",
+          "oficejo",
+          "en",
+          "la",
+          "urbo"
+        ],
+        "future": [
+          "Li",
+          "laboros",
+          "en",
+          "oficejo",
+          "en",
+          "la",
+          "urbo"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "vojaĝas",
+          "al",
+          "alia",
+          "lando",
+          "ĉiujare"
+        ],
+        "past": [
+          "Ili",
+          "vojaĝis",
+          "al",
+          "alia",
+          "lando",
+          "ĉiujare"
+        ],
+        "future": [
+          "Ili",
+          "vojaĝos",
+          "al",
+          "alia",
+          "lando",
+          "ĉiujare"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "legis",
+          "libron",
+          "nokte",
+          "antaŭ",
+          "dormi"
+        ],
+        "past": [
+          "Mi",
+          "legis",
+          "libron",
+          "nokte",
+          "antaŭ",
+          "dormi"
+        ],
+        "future": [
+          "Mi",
+          "legos",
+          "libron",
+          "nokte",
+          "antaŭ",
+          "dormi"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "trinkas",
+          "kafon",
+          "matene",
+          "hejme"
+        ],
+        "past": [
+          "Ŝi",
+          "trinkis",
+          "kafon",
+          "matene",
+          "hejme"
+        ],
+        "future": [
+          "Ŝi",
+          "trinkos",
+          "kafon",
+          "matene",
+          "hejme"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "renkontas",
+          "amikojn",
+          "en",
+          "la",
+          "restoracio",
+          "ĉi-vespere"
+        ],
+        "past": [
+          "Ni",
+          "renkontis",
+          "amikojn",
+          "en",
+          "la",
+          "restoracio",
+          "ĉi-vespere"
+        ],
+        "future": [
+          "Ni",
+          "renkontos",
+          "amikojn",
+          "en",
+          "la",
+          "restoracio",
+          "ĉi-vespere"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "studas",
+          "la",
+          "hispanan",
+          "en",
+          "la",
+          "lernejo",
+          "ĉiutage"
+        ],
+        "past": [
+          "Li",
+          "studis",
+          "la",
+          "hispanan",
+          "en",
+          "la",
+          "lernejo",
+          "ĉiutage"
+        ],
+        "future": [
+          "Li",
+          "studos",
+          "la",
+          "hispanan",
+          "en",
+          "la",
+          "lernejo",
+          "ĉiutage"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "spektas",
+          "televidon",
+          "vespere",
+          "hejme"
+        ],
+        "past": [
+          "Ili",
+          "spektis",
+          "televidon",
+          "vespere",
+          "hejme"
+        ],
+        "future": [
+          "Ili",
+          "spektos",
+          "televidon",
+          "vespere",
+          "hejme"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "ŝatas",
+          "ĉi",
+          "tiun",
+          "muzikon"
+        ],
+        "past": [
+          "Mi",
+          "ŝatis",
+          "ĉi",
+          "tiun",
+          "muzikon"
+        ],
+        "future": [
+          "Mi",
+          "ŝatos",
+          "ĉi",
+          "tiun",
+          "muzikon"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "sentas",
+          "sin",
+          "feliĉa",
+          "hodiaŭ"
+        ],
+        "past": [
+          "Ŝi",
+          "sentis",
+          "sin",
+          "feliĉa",
+          "hodiaŭ"
+        ],
+        "future": [
+          "Ŝi",
+          "sentos",
+          "sin",
+          "feliĉa",
+          "hodiaŭ"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "pensas",
+          "ke",
+          "ĉi",
+          "tiu",
+          "ideo",
+          "estas",
+          "bona"
+        ],
+        "past": [
+          "Ni",
+          "pensis",
+          "ke",
+          "ĉi",
+          "tiu",
+          "ideo",
+          "estis",
+          "bona"
+        ],
+        "future": [
+          "Ni",
+          "pensos",
+          "ke",
+          "ĉi",
+          "tiu",
+          "ideo",
+          "estas",
+          "bona"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "volas",
+          "lerni",
+          "la",
+          "hispanan"
+        ],
+        "past": [
+          "Li",
+          "volis",
+          "lerni",
+          "la",
+          "hispanan"
+        ],
+        "future": [
+          "Li",
+          "volos",
+          "lerni",
+          "la",
+          "hispanan"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "tre",
+          "amas",
+          "sian",
+          "familion"
+        ],
+        "past": [
+          "Ili",
+          "tre",
+          "amis",
+          "sian",
+          "familion"
+        ],
+        "future": [
+          "Ili",
+          "tre",
+          "amos",
+          "sian",
+          "familion"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "sentas",
+          "min",
+          "laca",
+          "post",
+          "laboro"
+        ],
+        "past": [
+          "Mi",
+          "sentis",
+          "min",
+          "laca",
+          "post",
+          "laboro"
+        ],
+        "future": [
+          "Mi",
+          "sentos",
+          "min",
+          "laca",
+          "post",
+          "laboro"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "kredas",
+          "je",
+          "si",
+          "mem"
+        ],
+        "past": [
+          "Ŝi",
+          "kredis",
+          "je",
+          "si",
+          "mem"
+        ],
+        "future": [
+          "Ŝi",
+          "kredos",
+          "je",
+          "si",
+          "mem"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "ŝatas",
+          "vojaĝi",
+          "kune"
+        ],
+        "past": [
+          "Ni",
+          "ŝatis",
+          "vojaĝi",
+          "kune"
+        ],
+        "future": [
+          "Ni",
+          "ŝatos",
+          "vojaĝi",
+          "kune"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "pensas",
+          "pri",
+          "sia",
+          "estonteco"
+        ],
+        "past": [
+          "Li",
+          "pensis",
+          "pri",
+          "sia",
+          "estonteco"
+        ],
+        "future": [
+          "Li",
+          "pensos",
+          "pri",
+          "sia",
+          "estonteco"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "sentas",
+          "sin",
+          "ekscititaj",
+          "pri",
+          "la",
+          "vojaĝo"
+        ],
+        "past": [
+          "Ili",
+          "sentis",
+          "ekscitiĝon",
+          "pri",
+          "la",
+          "vojaĝo"
+        ],
+        "future": [
+          "Ili",
+          "sentos",
+          "ekscitiĝojn",
+          "pri",
+          "la",
+          "vojaĝo"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "provas",
+          "plibonigi",
+          "ĉiutage"
+        ],
+        "past": [
+          "Mi",
+          "provis",
+          "pliboniĝi",
+          "ĉiutage"
+        ],
+        "future": [
+          "Mi",
+          "provos",
+          "plibonigi",
+          "ĉiutage"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "volas",
+          "atingi",
+          "siajn",
+          "celojn"
+        ],
+        "past": [
+          "Ŝi",
+          "volis",
+          "atingi",
+          "siajn",
+          "celojn"
+        ],
+        "future": [
+          "Ŝi",
+          "volos",
+          "atingi",
+          "siajn",
+          "celojn"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "lernas",
+          "el",
+          "niaj",
+          "eraroj"
+        ],
+        "past": [
+          "Ni",
+          "lernis",
+          "el",
+          "niaj",
+          "eraroj"
+        ],
+        "future": [
+          "Ni",
+          "lernos",
+          "el",
+          "niaj",
+          "eraroj"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "laboras",
+          "forte",
+          "por",
+          "konstrui",
+          "sian",
+          "estontecon"
+        ],
+        "past": [
+          "Li",
+          "multe",
+          "laboris",
+          "por",
+          "konstrui",
+          "sian",
+          "estontecon"
+        ],
+        "future": [
+          "Li",
+          "laboros",
+          "forte",
+          "por",
+          "konstrui",
+          "sian",
+          "estontecon"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "kredas",
+          "ke",
+          "ĉio",
+          "eblas"
+        ],
+        "past": [
+          "Ili",
+          "kredis",
+          "ke",
+          "ĉio",
+          "estas",
+          "ebla"
+        ],
+        "future": [
+          "Ili",
+          "kredos",
+          "ke",
+          "ĉio",
+          "eblas"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "esperanto": {
+        "present": [
+          "Mi",
+          "pensas",
+          "pri",
+          "mia",
+          "estonteco",
+          "ĉiunokte"
+        ],
+        "past": [
+          "Mi",
+          "pensis",
+          "pri",
+          "mia",
+          "estonteco",
+          "ĉiunokte"
+        ],
+        "future": [
+          "Mi",
+          "pensos",
+          "pri",
+          "mia",
+          "estonteco",
+          "ĉiunokte"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "esperanto": {
+        "present": [
+          "Ŝi",
+          "provas",
+          "resti",
+          "pozitiva",
+          "en",
+          "malfacilaj",
+          "tempoj"
+        ],
+        "past": [
+          "Ŝi",
+          "provis",
+          "resti",
+          "pozitiva",
+          "en",
+          "malfacilaj",
+          "tempoj"
+        ],
+        "future": [
+          "Ŝi",
+          "provos",
+          "resti",
+          "pozitiva",
+          "en",
+          "malfacilaj",
+          "tempoj"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "esperanto": {
+        "present": [
+          "Ni",
+          "volas",
+          "vivi",
+          "senchavan",
+          "vivon"
+        ],
+        "past": [
+          "Ni",
+          "volis",
+          "vivi",
+          "senchavan",
+          "vivon"
+        ],
+        "future": [
+          "Ni",
+          "volos",
+          "vivi",
+          "senchavan",
+          "vivon"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "esperanto": {
+        "present": [
+          "Li",
+          "komprenas",
+          "ke",
+          "ŝanĝo",
+          "bezonas",
+          "tempon"
+        ],
+        "past": [
+          "Li",
+          "komprenis",
+          "ke",
+          "tiu",
+          "ŝanĝo",
+          "bezonas",
+          "tempon"
+        ],
+        "future": [
+          "Li",
+          "komprenos",
+          "ke",
+          "ŝanĝo",
+          "bezonas",
+          "tempon"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "esperanto": {
+        "present": [
+          "Ili",
+          "decidas",
+          "sekvi",
+          "siajn",
+          "sonĝojn"
+        ],
+        "past": [
+          "Ili",
+          "decidis",
+          "sekvi",
+          "siajn",
+          "sonĝojn"
+        ],
+        "future": [
+          "Ili",
+          "decidos",
+          "sekvi",
+          "siajn",
+          "sonĝojn"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,8791 @@
+{
+  "language": "Catalan",
+  "stories": {
+    "story1": {
+      "title": "al cafè",
+      "content": [
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "petit",
+          "meaning": "small",
+          "sound": "pe-tit"
+        },
+        {
+          "word": "cafè",
+          "meaning": "coffee",
+          "sound": "ca-fè"
+        },
+        {
+          "word": "cada",
+          "meaning": "every",
+          "sound": "ca-da"
+        },
+        {
+          "word": "matí",
+          "meaning": "morning",
+          "sound": "ma-tí"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "cafeteria",
+          "meaning": "cafeteria",
+          "sound": "ca-fe-te-ri-a"
+        },
+        {
+          "word": "està",
+          "meaning": "is",
+          "sound": "es-tà"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "prop",
+          "meaning": "near",
+          "sound": "prop"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "casa",
+          "meaning": "house",
+          "sound": "ca-sa"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "tranquil",
+          "meaning": "calm",
+          "sound": "tran-qu-il"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sempre",
+          "meaning": "always",
+          "sound": "sem-pre"
+        },
+        {
+          "word": "m'assec",
+          "meaning": "i sit down",
+          "sound": "mas-sec"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "finestra",
+          "meaning": "window",
+          "sound": "fi-nes-tra"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "demano",
+          "meaning": "i ask",
+          "sound": "de-ma-no"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "tassa",
+          "meaning": "cup",
+          "sound": "tas-sa"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "cafè",
+          "meaning": "coffee",
+          "sound": "ca-fè"
+        },
+        {
+          "word": "calent",
+          "meaning": "hot",
+          "sound": "ca-lent"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "cambrer",
+          "meaning": "waiter",
+          "sound": "cam-brer"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "amable",
+          "meaning": "friendly",
+          "sound": "a-ma-ble"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "sempre",
+          "meaning": "always",
+          "sound": "sem-pre"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "saluda",
+          "meaning": "hello",
+          "sound": "sa-lu-da"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "somriure",
+          "meaning": "smile",
+          "sound": "som-ri-u-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "from",
+          "sound": "de"
+        },
+        {
+          "word": "vegades",
+          "meaning": "times",
+          "sound": "ve-ga-des"
+        },
+        {
+          "word": "llegeixo",
+          "meaning": "i read",
+          "sound": "lle-ge-i-xo"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "llibre",
+          "meaning": "book",
+          "sound": "lli-bre"
+        },
+        {
+          "word": "interessant",
+          "meaning": "interesting",
+          "sound": "in-te-res-sant"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "altres",
+          "meaning": "others",
+          "sound": "al-tres"
+        },
+        {
+          "word": "vegades",
+          "meaning": "times",
+          "sound": "ve-ga-des"
+        },
+        {
+          "word": "escric",
+          "meaning": "i write",
+          "sound": "es-cric"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "llibreta",
+          "meaning": "notebook",
+          "sound": "lli-bre-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "veig",
+          "meaning": "i see",
+          "sound": "ve-ig"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "persona",
+          "meaning": "person",
+          "sound": "per-so-na"
+        },
+        {
+          "word": "nova",
+          "meaning": "new",
+          "sound": "no-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Està",
+          "meaning": "it is",
+          "sound": "es-tà"
+        },
+        {
+          "word": "llegint",
+          "meaning": "reading",
+          "sound": "lle-gint"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "novel",
+          "meaning": "novel",
+          "sound": "no-vel"
+        },
+        {
+          "word": "·",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "prenent",
+          "meaning": "taking",
+          "sound": "pre-nent"
+        },
+        {
+          "word": "te",
+          "meaning": "tea",
+          "sound": "te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sento",
+          "meaning": "i feel",
+          "sound": "sen-to"
+        },
+        {
+          "word": "curiositat",
+          "meaning": "curiosity",
+          "sound": "cu-ri-o-si-tat"
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "mica",
+          "meaning": "little",
+          "sound": "mi-ca"
+        },
+        {
+          "word": "tímida",
+          "meaning": "shy",
+          "sound": "tí-mi-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Al",
+          "meaning": "al",
+          "sound": "al"
+        },
+        {
+          "word": "cap",
+          "meaning": "none",
+          "sound": "cap"
+        },
+        {
+          "word": "d'uns",
+          "meaning": "of about",
+          "sound": "d'uns"
+        },
+        {
+          "word": "minuts",
+          "meaning": "minutes",
+          "sound": "mi-nuts"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "li",
+          "meaning": "him",
+          "sound": "li"
+        },
+        {
+          "word": "dic",
+          "meaning": "i say",
+          "sound": "dic"
+        },
+        {
+          "word": "hola",
+          "meaning": "hello",
+          "sound": "ho-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ella",
+          "meaning": "she",
+          "sound": "el-la"
+        },
+        {
+          "word": "respon",
+          "meaning": "answer",
+          "sound": "res-pon"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "somriure",
+          "meaning": "smile",
+          "sound": "som-ri-u-re"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "comencem",
+          "meaning": "let's start",
+          "sound": "co-men-cem"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "parlar",
+          "meaning": "talk",
+          "sound": "par-lar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Em",
+          "meaning": "em",
+          "sound": "em"
+        },
+        {
+          "word": "sento",
+          "meaning": "i feel",
+          "sound": "sen-to"
+        },
+        {
+          "word": "feliç",
+          "meaning": "happy",
+          "sound": "fe-liç"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "relaxat",
+          "meaning": "relaxed",
+          "sound": "re-la-xat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "al parc",
+      "content": [
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "al",
+          "meaning": "at",
+          "sound": "al"
+        },
+        {
+          "word": "parc",
+          "meaning": "park",
+          "sound": "parc"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "amic",
+          "meaning": "friend",
+          "sound": "a-mic"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "agradable",
+          "meaning": "pleasant",
+          "sound": "a-gra-da-ble"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "sol",
+          "meaning": "alone",
+          "sound": "sol"
+        },
+        {
+          "word": "brilla",
+          "meaning": "it shines",
+          "sound": "bril-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Veig",
+          "meaning": "i see",
+          "sound": "ve-ig"
+        },
+        {
+          "word": "molta",
+          "meaning": "a lot",
+          "sound": "mol-ta"
+        },
+        {
+          "word": "gent",
+          "meaning": "people",
+          "sound": "gent"
+        },
+        {
+          "word": "caminant",
+          "meaning": "walking",
+          "sound": "ca-mi-nant"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "rient",
+          "meaning": "laughing",
+          "sound": "ri-ent"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alguns",
+          "meaning": "some",
+          "sound": "al-guns"
+        },
+        {
+          "word": "nens",
+          "meaning": "children",
+          "sound": "nens"
+        },
+        {
+          "word": "juguen",
+          "meaning": "they play",
+          "sound": "ju-gu-en"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "pilota",
+          "meaning": "ball",
+          "sound": "pi-lo-ta"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "altres",
+          "meaning": "others",
+          "sound": "al-tres"
+        },
+        {
+          "word": "corren",
+          "meaning": "they run",
+          "sound": "cor-ren"
+        },
+        {
+          "word": "ràpid",
+          "meaning": "fast",
+          "sound": "rà-pid"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "amic",
+          "meaning": "friend",
+          "sound": "a-mic"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "jo",
+          "meaning": "me",
+          "sound": "jo"
+        },
+        {
+          "word": "ens",
+          "meaning": "us",
+          "sound": "ens"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "asseure",
+          "meaning": "sit down",
+          "sound": "as-se-u-re"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "banc",
+          "meaning": "bank",
+          "sound": "banc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hem",
+          "meaning": "we have",
+          "sound": "hem"
+        },
+        {
+          "word": "parlat",
+          "meaning": "spoken",
+          "sound": "par-lat"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "les",
+          "meaning": "the",
+          "sound": "les"
+        },
+        {
+          "word": "nostres",
+          "meaning": "ours",
+          "sound": "nos-tres"
+        },
+        {
+          "word": "vides",
+          "meaning": "lives",
+          "sound": "vi-des"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "hem",
+          "meaning": "we have",
+          "sound": "hem"
+        },
+        {
+          "word": "rigut",
+          "meaning": "laughed",
+          "sound": "ri-gut"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Després",
+          "meaning": "after",
+          "sound": "des-prés"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "comprar",
+          "meaning": "to buy",
+          "sound": "com-prar"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "gelat",
+          "meaning": "ice cream",
+          "sound": "ge-lat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "senzill",
+          "meaning": "simple",
+          "sound": "sen-zill"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "bonic",
+          "meaning": "beautiful",
+          "sound": "bo-nic"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "a la biblioteca",
+      "content": [
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "biblioteca",
+          "meaning": "library",
+          "sound": "bi-bli-o-te-ca"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "És",
+          "meaning": "it is",
+          "sound": "és"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "lloc",
+          "meaning": "place",
+          "sound": "lloc"
+        },
+        {
+          "word": "tranquil",
+          "meaning": "calm",
+          "sound": "tran-qu-il"
+        },
+        {
+          "word": "ple",
+          "meaning": "full",
+          "sound": "ple"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "llibres",
+          "meaning": "books",
+          "sound": "lli-bres"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "M'agrada",
+          "meaning": "i like",
+          "sound": "ma-gra-da"
+        },
+        {
+          "word": "llegir",
+          "meaning": "to read",
+          "sound": "lle-gir"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "aprendre",
+          "meaning": "to learn",
+          "sound": "a-pren-dre"
+        },
+        {
+          "word": "coses",
+          "meaning": "things",
+          "sound": "co-ses"
+        },
+        {
+          "word": "noves",
+          "meaning": "new",
+          "sound": "no-ves"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Estic",
+          "meaning": "i am",
+          "sound": "es-tic"
+        },
+        {
+          "word": "buscant",
+          "meaning": "looking for",
+          "sound": "bus-cant"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "llibre",
+          "meaning": "book",
+          "sound": "lli-bre"
+        },
+        {
+          "word": "interessant",
+          "meaning": "interesting",
+          "sound": "in-te-res-sant"
+        },
+        {
+          "word": "sobre",
+          "meaning": "about",
+          "sound": "so-bre"
+        },
+        {
+          "word": "història",
+          "meaning": "history",
+          "sound": "his-tò-ri-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Després",
+          "meaning": "after",
+          "sound": "des-prés"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "m'assec",
+          "meaning": "i sit down",
+          "sound": "mas-sec"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "taula",
+          "meaning": "table",
+          "sound": "ta-u-la"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "començo",
+          "meaning": "i start",
+          "sound": "co-men-ço"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "llegir",
+          "meaning": "to read",
+          "sound": "lle-gir"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hi",
+          "meaning": "there",
+          "sound": "hi"
+        },
+        {
+          "word": "ha",
+          "meaning": "has",
+          "sound": "ha"
+        },
+        {
+          "word": "altres",
+          "meaning": "others",
+          "sound": "al-tres"
+        },
+        {
+          "word": "persones",
+          "meaning": "people",
+          "sound": "per-so-nes"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "estudien",
+          "meaning": "they study",
+          "sound": "es-tu-di-en"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "escriuen",
+          "meaning": "they write",
+          "sound": "es-cri-u-en"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "L'ambient",
+          "meaning": "the atmosphere",
+          "sound": "lam-bi-ent"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "tranquil",
+          "meaning": "calm",
+          "sound": "tran-qu-il"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Al",
+          "meaning": "al",
+          "sound": "al"
+        },
+        {
+          "word": "cap",
+          "meaning": "none",
+          "sound": "cap"
+        },
+        {
+          "word": "d'una",
+          "meaning": "of one",
+          "sound": "du-na"
+        },
+        {
+          "word": "estona",
+          "meaning": "a while",
+          "sound": "es-to-na"
+        },
+        {
+          "word": "tanco",
+          "meaning": "i close",
+          "sound": "tan-co"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "llibre",
+          "meaning": "book",
+          "sound": "lli-bre"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "sento",
+          "meaning": "i feel",
+          "sound": "sen-to"
+        },
+        {
+          "word": "content",
+          "meaning": "happy",
+          "sound": "con-tent"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "a la botiga",
+      "content": [
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "gran",
+          "meaning": "big",
+          "sound": "gran"
+        },
+        {
+          "word": "botiga",
+          "meaning": "store",
+          "sound": "bo-ti-ga"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "comprar",
+          "meaning": "to buy",
+          "sound": "com-prar"
+        },
+        {
+          "word": "menjar",
+          "meaning": "eat",
+          "sound": "men-jar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Necessito",
+          "meaning": "i need",
+          "sound": "ne-ces-si-to"
+        },
+        {
+          "word": "pa",
+          "meaning": "bread",
+          "sound": "pa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "llet",
+          "meaning": "milk",
+          "sound": "llet"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "fruita",
+          "meaning": "fruit",
+          "sound": "fru-i-ta"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "verdures",
+          "meaning": "vegetables",
+          "sound": "ver-du-res"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "botiga",
+          "meaning": "store",
+          "sound": "bo-ti-ga"
+        },
+        {
+          "word": "està",
+          "meaning": "is",
+          "sound": "es-tà"
+        },
+        {
+          "word": "plena",
+          "meaning": "full",
+          "sound": "ple-na"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "gent",
+          "meaning": "people",
+          "sound": "gent"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "hi",
+          "meaning": "there",
+          "sound": "hi"
+        },
+        {
+          "word": "ha",
+          "meaning": "has",
+          "sound": "ha"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "soroll",
+          "meaning": "noise",
+          "sound": "so-roll"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Busco",
+          "meaning": "i'm looking",
+          "sound": "bus-co"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "productes",
+          "meaning": "products",
+          "sound": "pro-duc-tes"
+        },
+        {
+          "word": "als",
+          "meaning": "to the",
+          "sound": "als"
+        },
+        {
+          "word": "prestatges",
+          "meaning": "shelves",
+          "sound": "pres-tat-ges"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "dona",
+          "meaning": "woman",
+          "sound": "do-na"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "pregunta",
+          "meaning": "question",
+          "sound": "pre-gun-ta"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "On",
+          "meaning": "where",
+          "sound": "on"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "llet",
+          "meaning": "milk",
+          "sound": "llet"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "li",
+          "sound": "li"
+        },
+        {
+          "word": "dic",
+          "meaning": "i say",
+          "sound": "dic"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "És",
+          "meaning": "it is",
+          "sound": "és"
+        },
+        {
+          "word": "allà",
+          "meaning": "there",
+          "sound": "al-là"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "al",
+          "meaning": "at",
+          "sound": "al"
+        },
+        {
+          "word": "costat",
+          "meaning": "side",
+          "sound": "cos-tat"
+        },
+        {
+          "word": "del",
+          "meaning": "of",
+          "sound": "del"
+        },
+        {
+          "word": "pa",
+          "meaning": "bread",
+          "sound": "pa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ella",
+          "meaning": "she",
+          "sound": "el-la"
+        },
+        {
+          "word": "somriu",
+          "meaning": "smile",
+          "sound": "som-ri-u"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "diu",
+          "meaning": "he says",
+          "sound": "di-u"
+        },
+        {
+          "word": "gràcies",
+          "meaning": "thank you",
+          "sound": "grà-ci-es"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Després",
+          "meaning": "after",
+          "sound": "des-prés"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "al",
+          "meaning": "at",
+          "sound": "al"
+        },
+        {
+          "word": "caixer",
+          "meaning": "cashier",
+          "sound": "ca-i-xer"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "pago",
+          "meaning": "i pay",
+          "sound": "pa-go"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Surto",
+          "meaning": "i go out",
+          "sound": "sur-to"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "botiga",
+          "meaning": "store",
+          "sound": "bo-ti-ga"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "bossa",
+          "meaning": "bag",
+          "sound": "bos-sa"
+        },
+        {
+          "word": "plena",
+          "meaning": "full",
+          "sound": "ple-na"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "sento",
+          "meaning": "i feel",
+          "sound": "sen-to"
+        },
+        {
+          "word": "feliç",
+          "meaning": "happy",
+          "sound": "fe-liç"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "a l'autobús",
+      "content": [
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "agafo",
+          "meaning": "i take",
+          "sound": "a-ga-fo"
+        },
+        {
+          "word": "l'autobús",
+          "meaning": "the bus",
+          "sound": "la-u-to-bús"
+        },
+        {
+          "word": "per",
+          "meaning": "for",
+          "sound": "per"
+        },
+        {
+          "word": "anar",
+          "meaning": "to go",
+          "sound": "a-nar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "treballar",
+          "meaning": "to work",
+          "sound": "tre-bal-lar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "L'autobús",
+          "meaning": "the bus",
+          "sound": "la-u-to-bús"
+        },
+        {
+          "word": "està",
+          "meaning": "is",
+          "sound": "es-tà"
+        },
+        {
+          "word": "ple",
+          "meaning": "full",
+          "sound": "ple"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "hi",
+          "meaning": "there",
+          "sound": "hi"
+        },
+        {
+          "word": "ha",
+          "meaning": "has",
+          "sound": "ha"
+        },
+        {
+          "word": "gaire",
+          "meaning": "a lot",
+          "sound": "ga-i-re"
+        },
+        {
+          "word": "espai",
+          "meaning": "space",
+          "sound": "es-pa-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Em",
+          "meaning": "em",
+          "sound": "em"
+        },
+        {
+          "word": "sento",
+          "meaning": "i feel",
+          "sound": "sen-to"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "mica",
+          "meaning": "little",
+          "sound": "mi-ca"
+        },
+        {
+          "word": "cansat",
+          "meaning": "tired",
+          "sound": "can-sat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "veig",
+          "meaning": "i see",
+          "sound": "ve-ig"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "persona",
+          "meaning": "person",
+          "sound": "per-so-na"
+        },
+        {
+          "word": "gran",
+          "meaning": "big",
+          "sound": "gran"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "T'ofereixo",
+          "meaning": "i offer you",
+          "sound": "to-fe-re-i-xo"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "seient",
+          "meaning": "seat",
+          "sound": "se-i-ent"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Em",
+          "meaning": "em",
+          "sound": "em"
+        },
+        {
+          "word": "diu",
+          "meaning": "he says",
+          "sound": "di-u"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "n'estàs",
+          "meaning": "you are there",
+          "sound": "nes-tàs"
+        },
+        {
+          "word": "segur",
+          "meaning": "for sure",
+          "sound": "se-gur"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "li",
+          "sound": "li"
+        },
+        {
+          "word": "responc",
+          "meaning": "i answer",
+          "sound": "res-ponc"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sí",
+          "meaning": "yes",
+          "sound": "sí"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "cap",
+          "meaning": "none",
+          "sound": "cap"
+        },
+        {
+          "word": "problema",
+          "meaning": "problem",
+          "sound": "pro-ble-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ell",
+          "meaning": "he",
+          "sound": "ell"
+        },
+        {
+          "word": "somriu",
+          "meaning": "smile",
+          "sound": "som-ri-u"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "dona",
+          "meaning": "woman",
+          "sound": "do-na"
+        },
+        {
+          "word": "les",
+          "meaning": "the",
+          "sound": "les"
+        },
+        {
+          "word": "gràcies",
+          "meaning": "thank you",
+          "sound": "grà-ci-es"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Durant",
+          "meaning": "during",
+          "sound": "du-rant"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "viatge",
+          "meaning": "journey",
+          "sound": "vi-at-ge"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "miro",
+          "meaning": "i look",
+          "sound": "mi-ro"
+        },
+        {
+          "word": "per",
+          "meaning": "for",
+          "sound": "per"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "finestra",
+          "meaning": "window",
+          "sound": "fi-nes-tra"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "penso",
+          "meaning": "i think",
+          "sound": "pen-so"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Encara",
+          "meaning": "still",
+          "sound": "en-ca-ra"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "estic",
+          "meaning": "i am",
+          "sound": "es-tic"
+        },
+        {
+          "word": "cansat",
+          "meaning": "tired",
+          "sound": "can-sat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "sembla",
+          "meaning": "it seems",
+          "sound": "sem-bla"
+        },
+        {
+          "word": "bé",
+          "meaning": "well",
+          "sound": "bé"
+        },
+        {
+          "word": "ajudar",
+          "meaning": "to help",
+          "sound": "a-ju-dar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Ahir a la platja",
+      "content": [
+        {
+          "word": "Ahir",
+          "meaning": "yesterday",
+          "sound": "a-hir"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "anar",
+          "meaning": "to go",
+          "sound": "a-nar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "platja",
+          "meaning": "beach",
+          "sound": "plat-ja"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "meus",
+          "meaning": "mine",
+          "sound": "me-us"
+        },
+        {
+          "word": "amics",
+          "meaning": "friends",
+          "sound": "a-mics"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": "era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "perfecte",
+          "meaning": "perfect",
+          "sound": "per-fec-te"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "mar",
+          "meaning": "sea",
+          "sound": "mar"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "calma",
+          "meaning": "calm down",
+          "sound": "cal-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "caminar",
+          "meaning": "to walk",
+          "sound": "ca-mi-nar"
+        },
+        {
+          "word": "per",
+          "meaning": "for",
+          "sound": "per"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "sorra",
+          "meaning": "sand",
+          "sound": "sor-ra"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "parlar",
+          "meaning": "talk",
+          "sound": "par-lar"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "moltes",
+          "meaning": "many",
+          "sound": "mol-tes"
+        },
+        {
+          "word": "coses",
+          "meaning": "things",
+          "sound": "co-ses"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Després",
+          "meaning": "after",
+          "sound": "des-prés"
+        },
+        {
+          "word": "ens",
+          "meaning": "us",
+          "sound": "ens"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "banyar",
+          "meaning": "to bathe",
+          "sound": "ba-ny-ar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "l'aigua",
+          "meaning": "the water",
+          "sound": "la-i-gu-a"
+        },
+        {
+          "word": "freda",
+          "meaning": "cold",
+          "sound": "fre-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Al",
+          "meaning": "al",
+          "sound": "al"
+        },
+        {
+          "word": "principi",
+          "meaning": "beginning",
+          "sound": "prin-ci-pi"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "tenir",
+          "meaning": "to have",
+          "sound": "te-nir"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "mica",
+          "meaning": "little",
+          "sound": "mi-ca"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "por",
+          "meaning": "fear",
+          "sound": "por"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "després",
+          "meaning": "after",
+          "sound": "des-prés"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "sentir",
+          "meaning": "feel",
+          "sound": "sen-tir"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "bé",
+          "meaning": "well",
+          "sound": "bé"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "També",
+          "meaning": "also",
+          "sound": "tam-bé"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "jugar",
+          "meaning": "to play",
+          "sound": "ju-gar"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "pilota",
+          "meaning": "ball",
+          "sound": "pi-lo-ta"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "riure",
+          "meaning": "laugh",
+          "sound": "ri-u-re"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "tarda",
+          "meaning": "afternoon",
+          "sound": "tar-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "dinar",
+          "meaning": "lunch",
+          "sound": "di-nar"
+        },
+        {
+          "word": "junts",
+          "meaning": "together",
+          "sound": "junts"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "veure",
+          "meaning": "to see",
+          "sound": "ve-u-re"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "posta",
+          "meaning": "pose",
+          "sound": "pos-ta"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "sol",
+          "meaning": "alone",
+          "sound": "sol"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "ser",
+          "meaning": "to be",
+          "sound": "ser"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "especial",
+          "meaning": "special",
+          "sound": "es-pe-ci-al"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "l'oblidaré",
+          "meaning": "i will forget it",
+          "sound": "lo-bli-da-ré"
+        },
+        {
+          "word": "mai",
+          "meaning": "never",
+          "sound": "ma-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Una conversa important",
+      "content": [
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "he",
+          "meaning": "he",
+          "sound": "he"
+        },
+        {
+          "word": "conegut",
+          "meaning": "known",
+          "sound": "co-ne-gut"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "vell",
+          "meaning": "old man",
+          "sound": "vell"
+        },
+        {
+          "word": "amic",
+          "meaning": "friend",
+          "sound": "a-mic"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "cafeteria",
+          "meaning": "cafeteria",
+          "sound": "ca-fe-te-ri-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Feia",
+          "meaning": "did",
+          "sound": "fe-i-a"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "veia",
+          "meaning": "saw",
+          "sound": "ve-i-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "així",
+          "meaning": "like that",
+          "sound": "a-i-xí"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "alegrar",
+          "meaning": "cheer up",
+          "sound": "a-le-grar"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "veure'l",
+          "meaning": "see him",
+          "sound": "ve-u-rel"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ens",
+          "meaning": "us",
+          "sound": "ens"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "asseure",
+          "meaning": "sit down",
+          "sound": "as-se-u-re"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "començar",
+          "meaning": "start",
+          "sound": "co-men-çar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "parlar",
+          "meaning": "talk",
+          "sound": "par-lar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Em",
+          "meaning": "em",
+          "sound": "em"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "dir",
+          "meaning": "say",
+          "sound": "dir"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "ara",
+          "meaning": "now",
+          "sound": "a-ra"
+        },
+        {
+          "word": "viu",
+          "meaning": "alive",
+          "sound": "vi-u"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "altra",
+          "meaning": "other",
+          "sound": "al-tra"
+        },
+        {
+          "word": "ciutat",
+          "meaning": "city",
+          "sound": "ci-u-tat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "També",
+          "meaning": "also",
+          "sound": "tam-bé"
+        },
+        {
+          "word": "treballa",
+          "meaning": "he works",
+          "sound": "tre-bal-la"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "gran",
+          "meaning": "big",
+          "sound": "gran"
+        },
+        {
+          "word": "empresa",
+          "meaning": "company",
+          "sound": "em-pre-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Li",
+          "meaning": "li",
+          "sound": "li"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "explicar",
+          "meaning": "to explain",
+          "sound": "ex-pli-car"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "meus",
+          "meaning": "mine",
+          "sound": "me-us"
+        },
+        {
+          "word": "estudis",
+          "meaning": "studies",
+          "sound": "es-tu-dis"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "meus",
+          "meaning": "mine",
+          "sound": "me-us"
+        },
+        {
+          "word": "plans",
+          "meaning": "plans",
+          "sound": "plans"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "parlar",
+          "meaning": "talk",
+          "sound": "par-lar"
+        },
+        {
+          "word": "durant",
+          "meaning": "during",
+          "sound": "du-rant"
+        },
+        {
+          "word": "hores",
+          "meaning": "hours",
+          "sound": "ho-res"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "vam",
+          "meaning": "let's go",
+          "sound": "vam"
+        },
+        {
+          "word": "recordar",
+          "meaning": "remember",
+          "sound": "re-cor-dar"
+        },
+        {
+          "word": "molts",
+          "meaning": "many",
+          "sound": "molts"
+        },
+        {
+          "word": "moments",
+          "meaning": "moments",
+          "sound": "mo-ments"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Abans",
+          "meaning": "before",
+          "sound": "a-bans"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "marxar",
+          "meaning": "leave",
+          "sound": "mar-xar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "dir",
+          "meaning": "say",
+          "sound": "dir"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ens",
+          "meaning": "us",
+          "sound": "ens"
+        },
+        {
+          "word": "hauríem",
+          "meaning": "we should",
+          "sound": "ha-u-rí-em"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "veure",
+          "meaning": "to see",
+          "sound": "ve-u-re"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "sovint",
+          "meaning": "often",
+          "sound": "so-vint"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "somriure",
+          "meaning": "smile",
+          "sound": "som-ri-u-re"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "respondre",
+          "meaning": "to answer",
+          "sound": "res-pon-dre"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "És",
+          "meaning": "it is",
+          "sound": "és"
+        },
+        {
+          "word": "clar",
+          "meaning": "clear",
+          "sound": "clar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "m'ha",
+          "meaning": "i have",
+          "sound": "m'ha"
+        },
+        {
+          "word": "agradat",
+          "meaning": "liked",
+          "sound": "a-gra-dat"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "aquest",
+          "meaning": "this one",
+          "sound": "a-qu-est"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Una decisió difícil",
+      "content": [
+        {
+          "word": "Fa",
+          "meaning": "ago",
+          "sound": "fa"
+        },
+        {
+          "word": "uns",
+          "meaning": "some",
+          "sound": "uns"
+        },
+        {
+          "word": "dies",
+          "meaning": "days",
+          "sound": "di-es"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "rebre",
+          "meaning": "to receive",
+          "sound": "re-bre"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "oferta",
+          "meaning": "offer",
+          "sound": "o-fer-ta"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "feina",
+          "meaning": "work",
+          "sound": "fe-i-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "altra",
+          "meaning": "other",
+          "sound": "al-tra"
+        },
+        {
+          "word": "ciutat",
+          "meaning": "city",
+          "sound": "ci-u-tat"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "interessant",
+          "meaning": "interesting",
+          "sound": "in-te-res-sant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Al",
+          "meaning": "al",
+          "sound": "al"
+        },
+        {
+          "word": "principi",
+          "meaning": "beginning",
+          "sound": "prin-ci-pi"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "sentir",
+          "meaning": "feel",
+          "sound": "sen-tir"
+        },
+        {
+          "word": "emocionat",
+          "meaning": "excited",
+          "sound": "e-mo-ci-o-nat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "també",
+          "meaning": "too",
+          "sound": "tam-bé"
+        },
+        {
+          "word": "nerviós",
+          "meaning": "nervous",
+          "sound": "ner-vi-ós"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "parlar",
+          "meaning": "talk",
+          "sound": "par-lar"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "família",
+          "meaning": "family",
+          "sound": "fa-mí-li-a"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "meus",
+          "meaning": "mine",
+          "sound": "me-us"
+        },
+        {
+          "word": "amics",
+          "meaning": "friends",
+          "sound": "a-mics"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Em",
+          "meaning": "em",
+          "sound": "em"
+        },
+        {
+          "word": "van",
+          "meaning": "they go",
+          "sound": "van"
+        },
+        {
+          "word": "donar",
+          "meaning": "to give",
+          "sound": "do-nar"
+        },
+        {
+          "word": "molts",
+          "meaning": "many",
+          "sound": "molts"
+        },
+        {
+          "word": "consells",
+          "meaning": "tips",
+          "sound": "con-sells"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "mare",
+          "meaning": "mother",
+          "sound": "ma-re"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "dir",
+          "meaning": "say",
+          "sound": "dir"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Has",
+          "meaning": "you have",
+          "sound": "has"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "seguir",
+          "meaning": "to follow",
+          "sound": "se-gu-ir"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "teus",
+          "meaning": "yours",
+          "sound": "te-us"
+        },
+        {
+          "word": "somnis",
+          "meaning": "dreams",
+          "sound": "som-nis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "amic",
+          "meaning": "friend",
+          "sound": "a-mic"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "preguntar",
+          "meaning": "to ask",
+          "sound": "pre-gun-tar"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "n'estàs",
+          "meaning": "you are there",
+          "sound": "nes-tàs"
+        },
+        {
+          "word": "segur",
+          "meaning": "for sure",
+          "sound": "se-gur"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "passar",
+          "meaning": "to pass",
+          "sound": "pas-sar"
+        },
+        {
+          "word": "uns",
+          "meaning": "some",
+          "sound": "uns"
+        },
+        {
+          "word": "quants",
+          "meaning": "how many",
+          "sound": "qu-ants"
+        },
+        {
+          "word": "dies",
+          "meaning": "days",
+          "sound": "di-es"
+        },
+        {
+          "word": "pensant",
+          "meaning": "thinking",
+          "sound": "pen-sant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Finalment",
+          "meaning": "finally",
+          "sound": "fi-nal-ment"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "decidir",
+          "meaning": "to decide",
+          "sound": "de-ci-dir"
+        },
+        {
+          "word": "acceptar",
+          "meaning": "to accept",
+          "sound": "ac-cep-tar"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "feina",
+          "meaning": "work",
+          "sound": "fe-i-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sé",
+          "meaning": "i know",
+          "sound": "sé"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "serà",
+          "meaning": "will be",
+          "sound": "se-rà"
+        },
+        {
+          "word": "fàcil",
+          "meaning": "easy",
+          "sound": "fà-cil"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "vull",
+          "meaning": "i want",
+          "sound": "vull"
+        },
+        {
+          "word": "provar",
+          "meaning": "to try",
+          "sound": "pro-var"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ho",
+          "meaning": "it",
+          "sound": "ho"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Una discussió amb un amic",
+      "content": [
+        {
+          "word": "Ahir",
+          "meaning": "yesterday",
+          "sound": "a-hir"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "tenir",
+          "meaning": "to have",
+          "sound": "te-nir"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "discussió",
+          "meaning": "discussion",
+          "sound": "dis-cus-si-ó"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "millor",
+          "meaning": "better",
+          "sound": "mil-lor"
+        },
+        {
+          "word": "amic",
+          "meaning": "friend",
+          "sound": "a-mic"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tot",
+          "meaning": "everything",
+          "sound": "tot"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "començar",
+          "meaning": "start",
+          "sound": "co-men-çar"
+        },
+        {
+          "word": "quan",
+          "meaning": "when",
+          "sound": "qu-an"
+        },
+        {
+          "word": "estàvem",
+          "meaning": "we were",
+          "sound": "es-tà-vem"
+        },
+        {
+          "word": "parlant",
+          "meaning": "talking",
+          "sound": "par-lant"
+        },
+        {
+          "word": "dels",
+          "meaning": "of the",
+          "sound": "dels"
+        },
+        {
+          "word": "nostres",
+          "meaning": "ours",
+          "sound": "nos-tres"
+        },
+        {
+          "word": "plans",
+          "meaning": "plans",
+          "sound": "plans"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jo",
+          "meaning": "me",
+          "sound": "jo"
+        },
+        {
+          "word": "volia",
+          "meaning": "wanted",
+          "sound": "vo-li-a"
+        },
+        {
+          "word": "viatjar",
+          "meaning": "to travel",
+          "sound": "vi-at-jar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "ell",
+          "meaning": "he",
+          "sound": "ell"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "preferir",
+          "meaning": "to prefer",
+          "sound": "pre-fe-rir"
+        },
+        {
+          "word": "quedar",
+          "meaning": "stay",
+          "sound": "qu-e-dar"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "se",
+          "meaning": "yes",
+          "sound": "se"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "dir",
+          "meaning": "say",
+          "sound": "dir"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "No",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "tenim",
+          "meaning": "we have",
+          "sound": "te-nim"
+        },
+        {
+          "word": "prou",
+          "meaning": "enough",
+          "sound": "pro-u"
+        },
+        {
+          "word": "diners",
+          "meaning": "money",
+          "sound": "di-ners"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "respondre",
+          "meaning": "to answer",
+          "sound": "res-pon-dre"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Podem",
+          "meaning": "we can",
+          "sound": "po-dem"
+        },
+        {
+          "word": "salvar",
+          "meaning": "to save",
+          "sound": "sal-var"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "hi",
+          "meaning": "there",
+          "sound": "hi"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "estar",
+          "meaning": "to be",
+          "sound": "es-tar"
+        },
+        {
+          "word": "d'acord",
+          "meaning": "okay",
+          "sound": "da-cord"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "conversa",
+          "meaning": "conversation",
+          "sound": "con-ver-sa"
+        },
+        {
+          "word": "es",
+          "meaning": "is",
+          "sound": "es"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "fer",
+          "meaning": "do",
+          "sound": "fer"
+        },
+        {
+          "word": "tensa",
+          "meaning": "tense",
+          "sound": "ten-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Al",
+          "meaning": "al",
+          "sound": "al"
+        },
+        {
+          "word": "final",
+          "meaning": "end",
+          "sound": "fi-nal"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tots",
+          "meaning": "all",
+          "sound": "tots"
+        },
+        {
+          "word": "dos",
+          "meaning": "two",
+          "sound": "dos"
+        },
+        {
+          "word": "estàvem",
+          "meaning": "we were",
+          "sound": "es-tà-vem"
+        },
+        {
+          "word": "molestos",
+          "meaning": "annoying",
+          "sound": "mo-les-tos"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "crec",
+          "meaning": "i think",
+          "sound": "crec"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "potser",
+          "meaning": "maybe",
+          "sound": "pot-ser"
+        },
+        {
+          "word": "hauria",
+          "meaning": "should",
+          "sound": "ha-u-ri-a"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "tornar",
+          "meaning": "come back",
+          "sound": "tor-nar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "parlar",
+          "meaning": "talk",
+          "sound": "par-lar"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "ell",
+          "meaning": "he",
+          "sound": "ell"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "nostra",
+          "meaning": "our",
+          "sound": "nos-tra"
+        },
+        {
+          "word": "amistat",
+          "meaning": "friendship",
+          "sound": "a-mis-tat"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "important",
+          "meaning": "important",
+          "sound": "im-por-tant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Un canvi important",
+      "content": [
+        {
+          "word": "Fa",
+          "meaning": "ago",
+          "sound": "fa"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "any",
+          "meaning": "year",
+          "sound": "a-ny"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "vida",
+          "meaning": "life",
+          "sound": "vi-da"
+        },
+        {
+          "word": "era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "diferent",
+          "meaning": "different",
+          "sound": "di-fe-rent"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "treballar",
+          "meaning": "to work",
+          "sound": "tre-bal-lar"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "lloc",
+          "meaning": "place",
+          "sound": "lloc"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "m'agradava",
+          "meaning": "i liked",
+          "sound": "ma-gra-da-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cada",
+          "meaning": "every",
+          "sound": "ca-da"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "sentia",
+          "meaning": "felt",
+          "sound": "sen-ti-a"
+        },
+        {
+          "word": "cansat",
+          "meaning": "tired",
+          "sound": "can-sat"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "desmotivat",
+          "meaning": "unmotivated",
+          "sound": "des-mo-ti-vat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "decidir",
+          "meaning": "to decide",
+          "sound": "de-ci-dir"
+        },
+        {
+          "word": "canviar",
+          "meaning": "to change",
+          "sound": "can-vi-ar"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ho",
+          "meaning": "it",
+          "sound": "ho"
+        },
+        {
+          "word": "tot",
+          "meaning": "everything",
+          "sound": "tot"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "No",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "ser",
+          "meaning": "to be",
+          "sound": "ser"
+        },
+        {
+          "word": "fàcil",
+          "meaning": "easy",
+          "sound": "fà-cil"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "perquè",
+          "meaning": "because",
+          "sound": "per-qu-è"
+        },
+        {
+          "word": "tenia",
+          "meaning": "had",
+          "sound": "te-ni-a"
+        },
+        {
+          "word": "por",
+          "meaning": "fear",
+          "sound": "por"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "fracassar",
+          "meaning": "to fail",
+          "sound": "fra-cas-sar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "també",
+          "meaning": "too",
+          "sound": "tam-bé"
+        },
+        {
+          "word": "sabia",
+          "meaning": "knew",
+          "sound": "sa-bi-a"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "podia",
+          "meaning": "could",
+          "sound": "po-di-a"
+        },
+        {
+          "word": "continuar",
+          "meaning": "continue",
+          "sound": "con-ti-nu-ar"
+        },
+        {
+          "word": "així",
+          "meaning": "like that",
+          "sound": "a-i-xí"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "començar",
+          "meaning": "start",
+          "sound": "co-men-çar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "aprendre",
+          "meaning": "to learn",
+          "sound": "a-pren-dre"
+        },
+        {
+          "word": "coses",
+          "meaning": "things",
+          "sound": "co-ses"
+        },
+        {
+          "word": "noves",
+          "meaning": "new",
+          "sound": "no-ves"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "treballar",
+          "meaning": "to work",
+          "sound": "tre-bal-lar"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "meus",
+          "meaning": "mine",
+          "sound": "me-us"
+        },
+        {
+          "word": "objectius",
+          "meaning": "objectives",
+          "sound": "ob-jec-ti-us"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "poc",
+          "meaning": "little",
+          "sound": "poc"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "poc",
+          "meaning": "little",
+          "sound": "poc"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "vida",
+          "meaning": "life",
+          "sound": "vi-da"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "canviar",
+          "meaning": "to change",
+          "sound": "can-vi-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "sento",
+          "meaning": "i feel",
+          "sound": "sen-to"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "segura",
+          "meaning": "safe",
+          "sound": "se-gu-ra"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "feliç",
+          "meaning": "happy",
+          "sound": "fe-liç"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "aprendre",
+          "meaning": "to learn",
+          "sound": "a-pren-dre"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "canvis",
+          "meaning": "changes",
+          "sound": "can-vis"
+        },
+        {
+          "word": "són",
+          "meaning": "they are",
+          "sound": "són"
+        },
+        {
+          "word": "difícils",
+          "meaning": "difficult",
+          "sound": "di-fí-cils"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "necessaris",
+          "meaning": "necessary",
+          "sound": "ne-ces-sa-ris"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "El significat del camí",
+      "content": [
+        {
+          "word": "Durant",
+          "meaning": "during",
+          "sound": "du-rant"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "pensar",
+          "meaning": "to think",
+          "sound": "pen-sar"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "l'èxit",
+          "meaning": "the success",
+          "sound": "lè-xit"
+        },
+        {
+          "word": "era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "important",
+          "meaning": "important",
+          "sound": "im-por-tant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "creure",
+          "meaning": "to believe",
+          "sound": "cre-u-re"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "tenir",
+          "meaning": "to have",
+          "sound": "te-nir"
+        },
+        {
+          "word": "diners",
+          "meaning": "money",
+          "sound": "di-ners"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "reconeixement",
+          "meaning": "recognition",
+          "sound": "re-co-ne-i-xe-ment"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "faria",
+          "meaning": "would do",
+          "sound": "fa-ri-a"
+        },
+        {
+          "word": "feliç",
+          "meaning": "happy",
+          "sound": "fe-liç"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "No",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "obstant",
+          "meaning": "however",
+          "sound": "ob-stant"
+        },
+        {
+          "word": "això",
+          "meaning": "this",
+          "sound": "a-i-xò"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "adonar",
+          "meaning": "realize",
+          "sound": "a-do-nar"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "estava",
+          "meaning": "was",
+          "sound": "es-ta-va"
+        },
+        {
+          "word": "equivocat",
+          "meaning": "wrong",
+          "sound": "e-qu-i-vo-cat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "realment",
+          "meaning": "really",
+          "sound": "re-al-ment"
+        },
+        {
+          "word": "importa",
+          "meaning": "it matters",
+          "sound": "im-por-ta"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "camí",
+          "meaning": "road",
+          "sound": "ca-mí"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Les",
+          "meaning": "the",
+          "sound": "les"
+        },
+        {
+          "word": "experiències",
+          "meaning": "experiences",
+          "sound": "ex-pe-ri-èn-ci-es"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "errors",
+          "meaning": "errors",
+          "sound": "er-rors"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "aprenentatges",
+          "meaning": "learnings",
+          "sound": "a-pre-nen-tat-ges"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "parlar",
+          "meaning": "talk",
+          "sound": "par-lar"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "mentor",
+          "meaning": "mentor",
+          "sound": "men-tor"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Em",
+          "meaning": "em",
+          "sound": "em"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "dir",
+          "meaning": "say",
+          "sound": "dir"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "No",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "us",
+          "meaning": "us",
+          "sound": "us"
+        },
+        {
+          "word": "preneu",
+          "meaning": "take",
+          "sound": "pre-ne-u"
+        },
+        {
+          "word": "només",
+          "meaning": "only",
+          "sound": "no-més"
+        },
+        {
+          "word": "per",
+          "meaning": "for",
+          "sound": "per"
+        },
+        {
+          "word": "arribar",
+          "meaning": "arrive",
+          "sound": "ar-ri-bar"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hi",
+          "meaning": "there",
+          "sound": "hi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "apreneu",
+          "meaning": "learn",
+          "sound": "a-pre-ne-u"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "gaudir",
+          "meaning": "to enjoy",
+          "sound": "ga-u-dir"
+        },
+        {
+          "word": "del",
+          "meaning": "of",
+          "sound": "del"
+        },
+        {
+          "word": "procés",
+          "meaning": "process",
+          "sound": "pro-cés"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "partir",
+          "meaning": "leave",
+          "sound": "par-tir"
+        },
+        {
+          "word": "d'aquell",
+          "meaning": "of that",
+          "sound": "da-qu-ell"
+        },
+        {
+          "word": "moment",
+          "meaning": "moment",
+          "sound": "mo-ment"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "manera",
+          "meaning": "way",
+          "sound": "ma-ne-ra"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "pensar",
+          "meaning": "to think",
+          "sound": "pen-sar"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "canviar",
+          "meaning": "to change",
+          "sound": "can-vi-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ara",
+          "meaning": "now",
+          "sound": "a-ra"
+        },
+        {
+          "word": "valoro",
+          "meaning": "i value",
+          "sound": "va-lo-ro"
+        },
+        {
+          "word": "cada",
+          "meaning": "every",
+          "sound": "ca-da"
+        },
+        {
+          "word": "pas",
+          "meaning": "step",
+          "sound": "pas"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "aprenc",
+          "meaning": "i learn",
+          "sound": "a-prenc"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "cada",
+          "meaning": "every",
+          "sound": "ca-da"
+        },
+        {
+          "word": "error",
+          "meaning": "error",
+          "sound": "er-ror"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "qui sóc realment",
+      "content": [
+        {
+          "word": "Durant",
+          "meaning": "during",
+          "sound": "du-rant"
+        },
+        {
+          "word": "molts",
+          "meaning": "many",
+          "sound": "molts"
+        },
+        {
+          "word": "anys",
+          "meaning": "years",
+          "sound": "a-nys"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "preguntar",
+          "meaning": "to ask",
+          "sound": "pre-gun-tar"
+        },
+        {
+          "word": "qui",
+          "meaning": "who",
+          "sound": "qu-i"
+        },
+        {
+          "word": "sóc",
+          "meaning": "i am",
+          "sound": "sóc"
+        },
+        {
+          "word": "realment",
+          "meaning": "really",
+          "sound": "re-al-ment"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Al",
+          "meaning": "al",
+          "sound": "al"
+        },
+        {
+          "word": "principi",
+          "meaning": "beginning",
+          "sound": "prin-ci-pi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "pensar",
+          "meaning": "to think",
+          "sound": "pen-sar"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "identitat",
+          "meaning": "identity",
+          "sound": "i-den-ti-tat"
+        },
+        {
+          "word": "depenia",
+          "meaning": "it depended",
+          "sound": "de-pe-ni-a"
+        },
+        {
+          "word": "del",
+          "meaning": "of",
+          "sound": "del"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "pensaven",
+          "meaning": "they thought",
+          "sound": "pen-sa-ven"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "altres",
+          "meaning": "others",
+          "sound": "al-tres"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Buscava",
+          "meaning": "i was looking",
+          "sound": "bus-ca-va"
+        },
+        {
+          "word": "aprovació",
+          "meaning": "approval",
+          "sound": "a-pro-va-ci-ó"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "tenia",
+          "meaning": "had",
+          "sound": "te-ni-a"
+        },
+        {
+          "word": "por",
+          "meaning": "fear",
+          "sound": "por"
+        },
+        {
+          "word": "d'equivocar",
+          "meaning": "to make a mistake",
+          "sound": "de-qu-i-vo-car"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "me",
+          "meaning": "me",
+          "sound": "me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tanmateix",
+          "meaning": "however",
+          "sound": "tan-ma-te-ix"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "comprendre",
+          "meaning": "understand",
+          "sound": "com-pren-dre"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "valor",
+          "meaning": "value",
+          "sound": "va-lor"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "depèn",
+          "meaning": "it depends",
+          "sound": "de-pèn"
+        },
+        {
+          "word": "dels",
+          "meaning": "of the",
+          "sound": "dels"
+        },
+        {
+          "word": "altres",
+          "meaning": "others",
+          "sound": "al-tres"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "decidir",
+          "meaning": "to decide",
+          "sound": "de-ci-dir"
+        },
+        {
+          "word": "escoltar",
+          "meaning": "to listen",
+          "sound": "es-col-tar"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "meva",
+          "meaning": "mine",
+          "sound": "me-va"
+        },
+        {
+          "word": "pròpia",
+          "meaning": "own",
+          "sound": "prò-pi-a"
+        },
+        {
+          "word": "veu",
+          "meaning": "voice",
+          "sound": "ve-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "començar",
+          "meaning": "start",
+          "sound": "co-men-çar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "prendre",
+          "meaning": "to take",
+          "sound": "pren-dre"
+        },
+        {
+          "word": "decisions",
+          "meaning": "decisions",
+          "sound": "de-ci-si-ons"
+        },
+        {
+          "word": "per",
+          "meaning": "for",
+          "sound": "per"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "mateix",
+          "meaning": "same",
+          "sound": "ma-te-ix"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "No",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "sempre",
+          "meaning": "always",
+          "sound": "sem-pre"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "ser",
+          "meaning": "to be",
+          "sound": "ser"
+        },
+        {
+          "word": "fàcil",
+          "meaning": "easy",
+          "sound": "fà-cil"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "aprendre",
+          "meaning": "to learn",
+          "sound": "a-pren-dre"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "cada",
+          "meaning": "every",
+          "sound": "ca-da"
+        },
+        {
+          "word": "error",
+          "meaning": "error",
+          "sound": "er-ror"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "sé",
+          "meaning": "i know",
+          "sound": "sé"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "ser",
+          "meaning": "to be",
+          "sound": "ser"
+        },
+        {
+          "word": "tu",
+          "meaning": "you",
+          "sound": "tu"
+        },
+        {
+          "word": "mateix",
+          "meaning": "same",
+          "sound": "ma-te-ix"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "millor",
+          "meaning": "better",
+          "sound": "mil-lor"
+        },
+        {
+          "word": "èxit",
+          "meaning": "success",
+          "sound": "è-xit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "El valor del temps",
+      "content": [
+        {
+          "word": "Fa",
+          "meaning": "ago",
+          "sound": "fa"
+        },
+        {
+          "word": "uns",
+          "meaning": "some",
+          "sound": "uns"
+        },
+        {
+          "word": "anys",
+          "meaning": "years",
+          "sound": "a-nys"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "prestar",
+          "meaning": "lend",
+          "sound": "pres-tar"
+        },
+        {
+          "word": "gaire",
+          "meaning": "a lot",
+          "sound": "ga-i-re"
+        },
+        {
+          "word": "atenció",
+          "meaning": "attention",
+          "sound": "a-ten-ci-ó"
+        },
+        {
+          "word": "al",
+          "meaning": "at",
+          "sound": "al"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "pensar",
+          "meaning": "to think",
+          "sound": "pen-sar"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "sempre",
+          "meaning": "always",
+          "sound": "sem-pre"
+        },
+        {
+          "word": "hi",
+          "meaning": "there",
+          "sound": "hi"
+        },
+        {
+          "word": "hauria",
+          "meaning": "should",
+          "sound": "ha-u-ri-a"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "oportunitats",
+          "meaning": "opportunities",
+          "sound": "o-por-tu-ni-tats"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "deixar",
+          "meaning": "to leave",
+          "sound": "de-i-xar"
+        },
+        {
+          "word": "moltes",
+          "meaning": "many",
+          "sound": "mol-tes"
+        },
+        {
+          "word": "coses",
+          "meaning": "things",
+          "sound": "co-ses"
+        },
+        {
+          "word": "per",
+          "meaning": "for",
+          "sound": "per"
+        },
+        {
+          "word": "després",
+          "meaning": "after",
+          "sound": "des-prés"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "amic",
+          "meaning": "friend",
+          "sound": "a-mic"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "dir",
+          "meaning": "say",
+          "sound": "dir"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "espera",
+          "meaning": "wait",
+          "sound": "es-pe-ra"
+        },
+        {
+          "word": "ningú",
+          "meaning": "no one",
+          "sound": "nin-gú"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aquesta",
+          "meaning": "this one",
+          "sound": "a-qu-es-ta"
+        },
+        {
+          "word": "frase",
+          "meaning": "sentence",
+          "sound": "fra-se"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "quedar",
+          "meaning": "stay",
+          "sound": "qu-e-dar"
+        },
+        {
+          "word": "al",
+          "meaning": "at",
+          "sound": "al"
+        },
+        {
+          "word": "cap",
+          "meaning": "none",
+          "sound": "cap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Des",
+          "meaning": "from",
+          "sound": "des"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "llavors",
+          "meaning": "then",
+          "sound": "lla-vors"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "començar",
+          "meaning": "start",
+          "sound": "co-men-çar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "valorar",
+          "meaning": "value",
+          "sound": "va-lo-rar"
+        },
+        {
+          "word": "cada",
+          "meaning": "every",
+          "sound": "ca-da"
+        },
+        {
+          "word": "moment",
+          "meaning": "moment",
+          "sound": "mo-ment"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "aprendre",
+          "meaning": "to learn",
+          "sound": "a-pren-dre"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "organitzar",
+          "meaning": "organize",
+          "sound": "or-ga-nit-zar"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "prioritzar",
+          "meaning": "to prioritize",
+          "sound": "pri-o-rit-zar"
+        },
+        {
+          "word": "allò",
+          "meaning": "that",
+          "sound": "al-lò"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "important",
+          "meaning": "important",
+          "sound": "im-por-tant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "També",
+          "meaning": "also",
+          "sound": "tam-bé"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "entendre",
+          "meaning": "to understand",
+          "sound": "en-ten-dre"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "tot",
+          "meaning": "everything",
+          "sound": "tot"
+        },
+        {
+          "word": "havia",
+          "meaning": "had",
+          "sound": "ha-vi-a"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "ser",
+          "meaning": "to be",
+          "sound": "ser"
+        },
+        {
+          "word": "perfecte",
+          "meaning": "perfect",
+          "sound": "per-fec-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "intento",
+          "meaning": "i try",
+          "sound": "in-ten-to"
+        },
+        {
+          "word": "viure",
+          "meaning": "to live",
+          "sound": "vi-u-re"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "consciència",
+          "meaning": "awareness",
+          "sound": "con-sci-èn-ci-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Perquè",
+          "meaning": "because",
+          "sound": "per-qu-è"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "valuós",
+          "meaning": "valuable",
+          "sound": "va-lu-ós"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "tenim",
+          "meaning": "we have",
+          "sound": "te-nim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Decisions que canvien la vida",
+      "content": [
+        {
+          "word": "De",
+          "meaning": "from",
+          "sound": "de"
+        },
+        {
+          "word": "vegades",
+          "meaning": "times",
+          "sound": "ve-ga-des"
+        },
+        {
+          "word": "penso",
+          "meaning": "i think",
+          "sound": "pen-so"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "les",
+          "meaning": "the",
+          "sound": "les"
+        },
+        {
+          "word": "decisions",
+          "meaning": "decisions",
+          "sound": "de-ci-si-ons"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "prendre",
+          "meaning": "to take",
+          "sound": "pren-dre"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "passat",
+          "meaning": "past",
+          "sound": "pas-sat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alguns",
+          "meaning": "some",
+          "sound": "al-guns"
+        },
+        {
+          "word": "eren",
+          "meaning": "were",
+          "sound": "e-ren"
+        },
+        {
+          "word": "correctes",
+          "meaning": "correct",
+          "sound": "cor-rec-tes"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "d'altres",
+          "meaning": "others",
+          "sound": "dal-tres"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "from",
+          "sound": "de"
+        },
+        {
+          "word": "vegades",
+          "meaning": "times",
+          "sound": "ve-ga-des"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "pregunto",
+          "meaning": "i ask",
+          "sound": "pre-gun-to"
+        },
+        {
+          "word": "què",
+          "meaning": "what",
+          "sound": "qu-è"
+        },
+        {
+          "word": "hauria",
+          "meaning": "should",
+          "sound": "ha-u-ri-a"
+        },
+        {
+          "word": "passat",
+          "meaning": "past",
+          "sound": "pas-sat"
+        },
+        {
+          "word": "si",
+          "meaning": "yes",
+          "sound": "si"
+        },
+        {
+          "word": "hagués",
+          "meaning": "had",
+          "sound": "ha-gu-és"
+        },
+        {
+          "word": "triat",
+          "meaning": "chosen",
+          "sound": "tri-at"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "altre",
+          "meaning": "other",
+          "sound": "al-tre"
+        },
+        {
+          "word": "camí",
+          "meaning": "road",
+          "sound": "ca-mí"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Potser",
+          "meaning": "maybe",
+          "sound": "pot-ser"
+        },
+        {
+          "word": "hauria",
+          "meaning": "should",
+          "sound": "ha-u-ri-a"
+        },
+        {
+          "word": "tingut",
+          "meaning": "had",
+          "sound": "tin-gut"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "èxit",
+          "meaning": "success",
+          "sound": "è-xit"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "or",
+          "sound": "o"
+        },
+        {
+          "word": "potser",
+          "meaning": "maybe",
+          "sound": "pot-ser"
+        },
+        {
+          "word": "hauria",
+          "meaning": "should",
+          "sound": "ha-u-ri-a"
+        },
+        {
+          "word": "après",
+          "meaning": "learned",
+          "sound": "a-près"
+        },
+        {
+          "word": "menys",
+          "meaning": "less",
+          "sound": "me-nys"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tanmateix",
+          "meaning": "however",
+          "sound": "tan-ma-te-ix"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "he",
+          "meaning": "he",
+          "sound": "he"
+        },
+        {
+          "word": "entès",
+          "meaning": "understood",
+          "sound": "en-tès"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "té",
+          "meaning": "has",
+          "sound": "té"
+        },
+        {
+          "word": "sentit",
+          "meaning": "felt",
+          "sound": "sen-tit"
+        },
+        {
+          "word": "viure",
+          "meaning": "to live",
+          "sound": "vi-u-re"
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "passat",
+          "meaning": "past",
+          "sound": "pas-sat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cada",
+          "meaning": "every",
+          "sound": "ca-da"
+        },
+        {
+          "word": "decisió",
+          "meaning": "decision",
+          "sound": "de-ci-si-ó"
+        },
+        {
+          "word": "m'ha",
+          "meaning": "i have",
+          "sound": "m'ha"
+        },
+        {
+          "word": "ensenyat",
+          "meaning": "taught",
+          "sound": "en-se-ny-at"
+        },
+        {
+          "word": "alguna",
+          "meaning": "some",
+          "sound": "al-gu-na"
+        },
+        {
+          "word": "cosa",
+          "meaning": "thing",
+          "sound": "co-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Fins",
+          "meaning": "until",
+          "sound": "fins"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "tot",
+          "meaning": "everything",
+          "sound": "tot"
+        },
+        {
+          "word": "els",
+          "meaning": "the",
+          "sound": "els"
+        },
+        {
+          "word": "errors",
+          "meaning": "errors",
+          "sound": "er-rors"
+        },
+        {
+          "word": "han",
+          "meaning": "they have",
+          "sound": "han"
+        },
+        {
+          "word": "estat",
+          "meaning": "been",
+          "sound": "es-tat"
+        },
+        {
+          "word": "lliçons",
+          "meaning": "lessons",
+          "sound": "lli-çons"
+        },
+        {
+          "word": "importants",
+          "meaning": "important",
+          "sound": "im-por-tants"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avui",
+          "meaning": "today",
+          "sound": "a-vu-i"
+        },
+        {
+          "word": "intento",
+          "meaning": "i try",
+          "sound": "in-ten-to"
+        },
+        {
+          "word": "prendre",
+          "meaning": "to take",
+          "sound": "pren-dre"
+        },
+        {
+          "word": "decisions",
+          "meaning": "decisions",
+          "sound": "de-ci-si-ons"
+        },
+        {
+          "word": "amb",
+          "meaning": "with",
+          "sound": "amb"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "consciència",
+          "meaning": "awareness",
+          "sound": "con-sci-èn-ci-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "No",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "puc",
+          "meaning": "i can",
+          "sound": "puc"
+        },
+        {
+          "word": "canviar",
+          "meaning": "to change",
+          "sound": "can-vi-ar"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "ja",
+          "meaning": "already",
+          "sound": "ja"
+        },
+        {
+          "word": "ha",
+          "meaning": "has",
+          "sound": "ha"
+        },
+        {
+          "word": "passat",
+          "meaning": "past",
+          "sound": "pas-sat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "puc",
+          "meaning": "i can",
+          "sound": "puc"
+        },
+        {
+          "word": "decidir",
+          "meaning": "to decide",
+          "sound": "de-ci-dir"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "meu",
+          "meaning": "mine",
+          "sound": "me-u"
+        },
+        {
+          "word": "futur",
+          "meaning": "future",
+          "sound": "fu-tur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "La veu interior",
+      "content": [
+        {
+          "word": "Durant",
+          "meaning": "during",
+          "sound": "du-rant"
+        },
+        {
+          "word": "molt",
+          "meaning": "a lot",
+          "sound": "molt"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "temps",
+          "meaning": "time",
+          "sound": "temps"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "viure",
+          "meaning": "to live",
+          "sound": "vi-u-re"
+        },
+        {
+          "word": "segons",
+          "meaning": "seconds",
+          "sound": "se-gons"
+        },
+        {
+          "word": "les",
+          "meaning": "the",
+          "sound": "les"
+        },
+        {
+          "word": "expectatives",
+          "meaning": "expectations",
+          "sound": "ex-pec-ta-ti-ves"
+        },
+        {
+          "word": "dels",
+          "meaning": "of the",
+          "sound": "dels"
+        },
+        {
+          "word": "altres",
+          "meaning": "others",
+          "sound": "al-tres"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "creure",
+          "meaning": "to believe",
+          "sound": "cre-u-re"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "camí",
+          "meaning": "road",
+          "sound": "ca-mí"
+        },
+        {
+          "word": "correcte",
+          "meaning": "correct",
+          "sound": "cor-rec-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tanmateix",
+          "meaning": "however",
+          "sound": "tan-ma-te-ix"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "en",
+          "meaning": "in",
+          "sound": "en"
+        },
+        {
+          "word": "el",
+          "meaning": "the",
+          "sound": "el"
+        },
+        {
+          "word": "fons",
+          "meaning": "background",
+          "sound": "fons"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sempre",
+          "meaning": "always",
+          "sound": "sem-pre"
+        },
+        {
+          "word": "hi",
+          "meaning": "there",
+          "sound": "hi"
+        },
+        {
+          "word": "havia",
+          "meaning": "had",
+          "sound": "ha-vi-a"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "veu",
+          "meaning": "voice",
+          "sound": "ve-u"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "deia",
+          "meaning": "he said",
+          "sound": "de-i-a"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "alguna",
+          "meaning": "some",
+          "sound": "al-gu-na"
+        },
+        {
+          "word": "cosa",
+          "meaning": "thing",
+          "sound": "co-sa"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "anava",
+          "meaning": "was going",
+          "sound": "a-na-va"
+        },
+        {
+          "word": "bé",
+          "meaning": "well",
+          "sound": "bé"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "intentar",
+          "meaning": "to try",
+          "sound": "in-ten-tar"
+        },
+        {
+          "word": "ignorar",
+          "meaning": "to ignore",
+          "sound": "ig-no-rar"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ho",
+          "meaning": "it",
+          "sound": "ho"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "es",
+          "meaning": "is",
+          "sound": "es"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "anar",
+          "meaning": "to go",
+          "sound": "a-nar"
+        },
+        {
+          "word": "fent",
+          "meaning": "doing",
+          "sound": "fent"
+        },
+        {
+          "word": "més",
+          "meaning": "more",
+          "sound": "més"
+        },
+        {
+          "word": "fort",
+          "meaning": "strong",
+          "sound": "fort"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "dia",
+          "meaning": "day",
+          "sound": "di-a"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "aturar",
+          "meaning": "to stop",
+          "sound": "a-tu-rar"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "em",
+          "meaning": "me",
+          "sound": "em"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "preguntar",
+          "meaning": "to ask",
+          "sound": "pre-gun-tar"
+        },
+        {
+          "word": "què",
+          "meaning": "what",
+          "sound": "qu-è"
+        },
+        {
+          "word": "volia",
+          "meaning": "wanted",
+          "sound": "vo-li-a"
+        },
+        {
+          "word": "realment",
+          "meaning": "really",
+          "sound": "re-al-ment"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "resposta",
+          "meaning": "answer",
+          "sound": "res-pos-ta"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "va",
+          "meaning": "go",
+          "sound": "va"
+        },
+        {
+          "word": "ser",
+          "meaning": "to be",
+          "sound": "ser"
+        },
+        {
+          "word": "immediata",
+          "meaning": "immediate",
+          "sound": "im-me-di-a-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "però",
+          "meaning": "but",
+          "sound": "pe-rò"
+        },
+        {
+          "word": "per",
+          "meaning": "for",
+          "sound": "per"
+        },
+        {
+          "word": "primera",
+          "meaning": "first",
+          "sound": "pri-me-ra"
+        },
+        {
+          "word": "vegada",
+          "meaning": "time",
+          "sound": "ve-ga-da"
+        },
+        {
+          "word": "vaig",
+          "meaning": "i go",
+          "sound": "va-ig"
+        },
+        {
+          "word": "sentir",
+          "meaning": "feel",
+          "sound": "sen-tir"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "m'escoltava",
+          "meaning": "he listened to me",
+          "sound": "mes-col-ta-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Des",
+          "meaning": "from",
+          "sound": "des"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "llavors",
+          "meaning": "then",
+          "sound": "lla-vors"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "he",
+          "meaning": "he",
+          "sound": "he"
+        },
+        {
+          "word": "après",
+          "meaning": "learned",
+          "sound": "a-près"
+        },
+        {
+          "word": "que",
+          "meaning": "that",
+          "sound": "qu-e"
+        },
+        {
+          "word": "la",
+          "meaning": "the",
+          "sound": "la"
+        },
+        {
+          "word": "veu",
+          "meaning": "voice",
+          "sound": "ve-u"
+        },
+        {
+          "word": "interior",
+          "meaning": "interior",
+          "sound": "in-te-ri-or"
+        },
+        {
+          "word": "no",
+          "meaning": "no",
+          "sound": "no"
+        },
+        {
+          "word": "és",
+          "meaning": "is",
+          "sound": "és"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "obstacle",
+          "meaning": "obstacle",
+          "sound": "ob-sta-cle"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sinó",
+          "meaning": "otherwise",
+          "sound": "si-nó"
+        },
+        {
+          "word": "una",
+          "meaning": "one",
+          "sound": "u-na"
+        },
+        {
+          "word": "guia",
+          "meaning": "guide",
+          "sound": "gu-i-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "catalan": {
+        "present": [
+          "Menjo",
+          "una",
+          "poma"
+        ],
+        "past": [
+          "Vaig",
+          "menjar",
+          "una",
+          "poma"
+        ],
+        "future": [
+          "Me",
+          "menjaré",
+          "una",
+          "poma"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "catalan": {
+        "present": [
+          "Ella",
+          "llegeix",
+          "un",
+          "llibre"
+        ],
+        "past": [
+          "Ella",
+          "va",
+          "llegir",
+          "un",
+          "llibre"
+        ],
+        "future": [
+          "Ella",
+          "llegirà",
+          "un",
+          "llibre"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "catalan": {
+        "present": [
+          "Anem",
+          "a",
+          "l'escola"
+        ],
+        "past": [
+          "Vam",
+          "anar",
+          "a",
+          "l'escola"
+        ],
+        "future": [
+          "Anirem",
+          "a",
+          "l'escola"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "catalan": {
+        "present": [
+          "Beu",
+          "aigua"
+        ],
+        "past": [
+          "Va",
+          "beure",
+          "aigua"
+        ],
+        "future": [
+          "Beurà",
+          "aigua"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "catalan": {
+        "present": [
+          "Juguen",
+          "a",
+          "futbol"
+        ],
+        "past": [
+          "Jugaven",
+          "a",
+          "futbol"
+        ],
+        "future": [
+          "Jugaran",
+          "a",
+          "futbol"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "catalan": {
+        "present": [
+          "Escric",
+          "una",
+          "carta"
+        ],
+        "past": [
+          "Vaig",
+          "escriure",
+          "una",
+          "carta"
+        ],
+        "future": [
+          "Escriuré",
+          "una",
+          "carta"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "catalan": {
+        "present": [
+          "Ella",
+          "menja",
+          "arròs"
+        ],
+        "past": [
+          "Va",
+          "menjar",
+          "arròs"
+        ],
+        "future": [
+          "Ella",
+          "menjarà",
+          "arròs"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "catalan": {
+        "present": [
+          "Mirem",
+          "una",
+          "pel·lícula"
+        ],
+        "past": [
+          "Vam",
+          "veure",
+          "una",
+          "pel·lícula"
+        ],
+        "future": [
+          "Veurem",
+          "una",
+          "pel·lícula"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "catalan": {
+        "present": [
+          "Ell",
+          "obre",
+          "la",
+          "porta"
+        ],
+        "past": [
+          "Va",
+          "obrir",
+          "la",
+          "porta"
+        ],
+        "future": [
+          "Obrirà",
+          "la",
+          "porta"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "catalan": {
+        "present": [
+          "Compren",
+          "menjar"
+        ],
+        "past": [
+          "Van",
+          "comprar",
+          "menjar"
+        ],
+        "future": [
+          "Compraran",
+          "menjar"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "catalan": {
+        "present": [
+          "Menjo",
+          "una",
+          "poma",
+          "i",
+          "bec",
+          "aigua"
+        ],
+        "past": [
+          "Vaig",
+          "menjar",
+          "una",
+          "poma",
+          "i",
+          "vaig",
+          "beure",
+          "aigua"
+        ],
+        "future": [
+          "Menjaré",
+          "una",
+          "poma",
+          "i",
+          "beuré",
+          "aigua"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "catalan": {
+        "present": [
+          "Llegeix",
+          "un",
+          "llibre",
+          "perquè",
+          "li",
+          "agraden",
+          "els",
+          "contes"
+        ],
+        "past": [
+          "Va",
+          "llegir",
+          "un",
+          "llibre",
+          "perquè",
+          "li",
+          "agradaven",
+          "les",
+          "històries"
+        ],
+        "future": [
+          "Llegirà",
+          "un",
+          "llibre",
+          "perquè",
+          "li",
+          "agraden",
+          "els",
+          "contes"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "catalan": {
+        "present": [
+          "Anem",
+          "a",
+          "l'escola",
+          "i",
+          "estudiem",
+          "junts"
+        ],
+        "past": [
+          "Vam",
+          "anar",
+          "a",
+          "l'escola",
+          "i",
+          "vam",
+          "estudiar",
+          "junts"
+        ],
+        "future": [
+          "Anirem",
+          "a",
+          "l'escola",
+          "i",
+          "estudiarem",
+          "junts"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "catalan": {
+        "present": [
+          "Beu",
+          "aigua",
+          "però",
+          "menja",
+          "menjar",
+          "ràpid"
+        ],
+        "past": [
+          "Va",
+          "beure",
+          "aigua",
+          "però",
+          "va",
+          "menjar",
+          "menjar",
+          "ràpid"
+        ],
+        "future": [
+          "Beurà",
+          "aigua",
+          "però",
+          "menjarà",
+          "menjar",
+          "ràpid"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "catalan": {
+        "present": [
+          "Juguen",
+          "a",
+          "futbol",
+          "i",
+          "corren",
+          "al",
+          "parc"
+        ],
+        "past": [
+          "Jugaven",
+          "a",
+          "futbol",
+          "i",
+          "corrien",
+          "al",
+          "parc"
+        ],
+        "future": [
+          "Jugaran",
+          "a",
+          "futbol",
+          "i",
+          "córrer",
+          "al",
+          "parc"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "catalan": {
+        "present": [
+          "Escric",
+          "una",
+          "carta",
+          "perquè",
+          "et",
+          "trobo",
+          "a",
+          "faltar"
+        ],
+        "past": [
+          "He",
+          "escrit",
+          "una",
+          "carta",
+          "perquè",
+          "et",
+          "trobava",
+          "a",
+          "faltar"
+        ],
+        "future": [
+          "Escriuré",
+          "una",
+          "carta",
+          "perquè",
+          "et",
+          "trobo",
+          "a",
+          "faltar"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "catalan": {
+        "present": [
+          "Menja",
+          "arròs",
+          "i",
+          "cuina",
+          "cada",
+          "dia"
+        ],
+        "past": [
+          "Menjava",
+          "arròs",
+          "i",
+          "cuinava",
+          "cada",
+          "dia"
+        ],
+        "future": [
+          "Menjarà",
+          "arròs",
+          "i",
+          "cuinarà",
+          "cada",
+          "dia"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "catalan": {
+        "present": [
+          "Mirem",
+          "una",
+          "pel·lícula",
+          "però",
+          "dormim",
+          "tard"
+        ],
+        "past": [
+          "Vam",
+          "veure",
+          "una",
+          "pel·lícula",
+          "però",
+          "vam",
+          "dormir",
+          "tard"
+        ],
+        "future": [
+          "Veurem",
+          "una",
+          "pel·lícula",
+          "però",
+          "dormirem",
+          "tard"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "catalan": {
+        "present": [
+          "Obre",
+          "la",
+          "porta",
+          "i",
+          "saluda",
+          "la",
+          "gent"
+        ],
+        "past": [
+          "Va",
+          "obrir",
+          "la",
+          "porta",
+          "i",
+          "va",
+          "saludar",
+          "la",
+          "gent"
+        ],
+        "future": [
+          "Obrirà",
+          "la",
+          "porta",
+          "i",
+          "saludarà",
+          "la",
+          "gent"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "catalan": {
+        "present": [
+          "Compren",
+          "menjar",
+          "perquè",
+          "tenen",
+          "gana"
+        ],
+        "past": [
+          "Van",
+          "comprar",
+          "menjar",
+          "perquè",
+          "tenien",
+          "gana"
+        ],
+        "future": [
+          "Compraran",
+          "menjar",
+          "perquè",
+          "tenen",
+          "gana"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "catalan": {
+        "present": [
+          "Esmorzo",
+          "al",
+          "matí"
+        ],
+        "past": [
+          "Vaig",
+          "esmorzar",
+          "al",
+          "matí"
+        ],
+        "future": [
+          "Esmorzaré",
+          "al",
+          "matí"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "catalan": {
+        "present": [
+          "Ella",
+          "estudia",
+          "a",
+          "casa",
+          "cada",
+          "dia"
+        ],
+        "past": [
+          "Ella",
+          "estudiava",
+          "a",
+          "casa",
+          "cada",
+          "dia"
+        ],
+        "future": [
+          "Ella",
+          "estudiarà",
+          "a",
+          "casa",
+          "cada",
+          "dia"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "catalan": {
+        "present": [
+          "Caminem",
+          "pel",
+          "parc",
+          "al",
+          "vespre"
+        ],
+        "past": [
+          "Vam",
+          "caminar",
+          "pel",
+          "parc",
+          "al",
+          "vespre"
+        ],
+        "future": [
+          "Passejarem",
+          "pel",
+          "parc",
+          "al",
+          "vespre"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "catalan": {
+        "present": [
+          "Treballa",
+          "en",
+          "una",
+          "oficina",
+          "de",
+          "la",
+          "ciutat"
+        ],
+        "past": [
+          "Va",
+          "treballar",
+          "en",
+          "una",
+          "oficina",
+          "de",
+          "la",
+          "ciutat"
+        ],
+        "future": [
+          "Treballarà",
+          "en",
+          "una",
+          "oficina",
+          "de",
+          "la",
+          "ciutat"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "catalan": {
+        "present": [
+          "Cada",
+          "any",
+          "viatgen",
+          "a",
+          "un",
+          "altre",
+          "país"
+        ],
+        "past": [
+          "Cada",
+          "any",
+          "viatjaven",
+          "a",
+          "un",
+          "altre",
+          "país"
+        ],
+        "future": [
+          "Cada",
+          "any",
+          "viatjaran",
+          "a",
+          "un",
+          "altre",
+          "país"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "catalan": {
+        "present": [
+          "Llegeixo",
+          "un",
+          "llibre",
+          "a",
+          "la",
+          "nit",
+          "abans",
+          "de",
+          "dormir"
+        ],
+        "past": [
+          "Llegeixo",
+          "un",
+          "llibre",
+          "a",
+          "la",
+          "nit",
+          "abans",
+          "de",
+          "dormir"
+        ],
+        "future": [
+          "Llegiré",
+          "un",
+          "llibre",
+          "a",
+          "la",
+          "nit",
+          "abans",
+          "de",
+          "dormir"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "catalan": {
+        "present": [
+          "Beu",
+          "cafè",
+          "al",
+          "matí",
+          "a",
+          "casa"
+        ],
+        "past": [
+          "Va",
+          "beure",
+          "cafè",
+          "al",
+          "matí",
+          "a",
+          "casa"
+        ],
+        "future": [
+          "Beurà",
+          "cafè",
+          "al",
+          "matí",
+          "a",
+          "casa"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "catalan": {
+        "present": [
+          "Aquesta",
+          "nit",
+          "ens",
+          "trobem",
+          "amb",
+          "els",
+          "amics",
+          "al",
+          "restaurant"
+        ],
+        "past": [
+          "Ens",
+          "hem",
+          "trobat",
+          "amb",
+          "amics",
+          "al",
+          "restaurant",
+          "aquesta",
+          "nit"
+        ],
+        "future": [
+          "Ens",
+          "trobarem",
+          "amb",
+          "amics",
+          "al",
+          "restaurant",
+          "aquesta",
+          "nit"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "catalan": {
+        "present": [
+          "Estudia",
+          "castellà",
+          "a",
+          "l'escola",
+          "cada",
+          "dia"
+        ],
+        "past": [
+          "Estudiava",
+          "castellà",
+          "a",
+          "l'escola",
+          "cada",
+          "dia"
+        ],
+        "future": [
+          "Estudiarà",
+          "castellà",
+          "a",
+          "l'escola",
+          "cada",
+          "dia"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "catalan": {
+        "present": [
+          "Al",
+          "vespre",
+          "miren",
+          "la",
+          "televisió",
+          "a",
+          "casa"
+        ],
+        "past": [
+          "Al",
+          "vespre",
+          "miraven",
+          "la",
+          "televisió",
+          "a",
+          "casa"
+        ],
+        "future": [
+          "Miraran",
+          "la",
+          "televisió",
+          "al",
+          "vespre",
+          "a",
+          "casa"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "catalan": {
+        "present": [
+          "M'agrada",
+          "aquesta",
+          "música"
+        ],
+        "past": [
+          "M'ha",
+          "agradat",
+          "aquesta",
+          "música"
+        ],
+        "future": [
+          "M'agradarà",
+          "aquesta",
+          "música"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "catalan": {
+        "present": [
+          "Avui",
+          "se",
+          "sent",
+          "feliç"
+        ],
+        "past": [
+          "Avui",
+          "es",
+          "va",
+          "sentir",
+          "feliç"
+        ],
+        "future": [
+          "Avui",
+          "se",
+          "sentirà",
+          "feliç"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "catalan": {
+        "present": [
+          "Creiem",
+          "que",
+          "aquesta",
+          "idea",
+          "és",
+          "bona"
+        ],
+        "past": [
+          "Ens",
+          "va",
+          "semblar",
+          "bona",
+          "aquesta",
+          "idea"
+        ],
+        "future": [
+          "Pensarem",
+          "que",
+          "aquesta",
+          "idea",
+          "és",
+          "bona"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "catalan": {
+        "present": [
+          "Vol",
+          "aprendre",
+          "castellà"
+        ],
+        "past": [
+          "Volia",
+          "aprendre",
+          "castellà"
+        ],
+        "future": [
+          "Voldrà",
+          "aprendre",
+          "espanyol"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "catalan": {
+        "present": [
+          "Estimen",
+          "molt",
+          "la",
+          "seva",
+          "família"
+        ],
+        "past": [
+          "Estimaven",
+          "molt",
+          "la",
+          "seva",
+          "família"
+        ],
+        "future": [
+          "Estimaran",
+          "molt",
+          "la",
+          "seva",
+          "família"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "catalan": {
+        "present": [
+          "Em",
+          "sento",
+          "cansat",
+          "després",
+          "de",
+          "la",
+          "feina"
+        ],
+        "past": [
+          "Em",
+          "vaig",
+          "sentir",
+          "cansat",
+          "després",
+          "de",
+          "la",
+          "feina"
+        ],
+        "future": [
+          "Em",
+          "sentiré",
+          "cansat",
+          "després",
+          "de",
+          "la",
+          "feina"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "catalan": {
+        "present": [
+          "Ella",
+          "creu",
+          "en",
+          "ella",
+          "mateixa"
+        ],
+        "past": [
+          "Ella",
+          "creia",
+          "en",
+          "ella",
+          "mateixa"
+        ],
+        "future": [
+          "Ella",
+          "creurà",
+          "en",
+          "ella",
+          "mateixa"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "catalan": {
+        "present": [
+          "Ens",
+          "agrada",
+          "viatjar",
+          "junts"
+        ],
+        "past": [
+          "Ens",
+          "agradava",
+          "viatjar",
+          "junts"
+        ],
+        "future": [
+          "Ens",
+          "agradarà",
+          "viatjar",
+          "junts"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "catalan": {
+        "present": [
+          "Pensa",
+          "en",
+          "el",
+          "seu",
+          "futur"
+        ],
+        "past": [
+          "Va",
+          "pensar",
+          "en",
+          "el",
+          "seu",
+          "futur"
+        ],
+        "future": [
+          "Pensarà",
+          "en",
+          "el",
+          "seu",
+          "futur"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "catalan": {
+        "present": [
+          "Se",
+          "senten",
+          "emocionats",
+          "pel",
+          "viatge"
+        ],
+        "past": [
+          "Es",
+          "van",
+          "sentir",
+          "emocionats",
+          "pel",
+          "viatge"
+        ],
+        "future": [
+          "Se",
+          "sentiran",
+          "emocionats",
+          "pel",
+          "viatge"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "catalan": {
+        "present": [
+          "Intento",
+          "millorar",
+          "cada",
+          "dia"
+        ],
+        "past": [
+          "He",
+          "intentat",
+          "millorar",
+          "cada",
+          "dia"
+        ],
+        "future": [
+          "Intentaré",
+          "millorar",
+          "cada",
+          "dia"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "catalan": {
+        "present": [
+          "Ella",
+          "vol",
+          "assolir",
+          "els",
+          "seus",
+          "objectius"
+        ],
+        "past": [
+          "Ella",
+          "volia",
+          "assolir",
+          "els",
+          "seus",
+          "objectius"
+        ],
+        "future": [
+          "Voldrà",
+          "assolir",
+          "els",
+          "seus",
+          "objectius"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "catalan": {
+        "present": [
+          "Aprenem",
+          "dels",
+          "nostres",
+          "errors"
+        ],
+        "past": [
+          "Hem",
+          "après",
+          "dels",
+          "nostres",
+          "errors"
+        ],
+        "future": [
+          "Aprendrem",
+          "dels",
+          "nostres",
+          "errors"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "catalan": {
+        "present": [
+          "Treballa",
+          "dur",
+          "per",
+          "construir",
+          "el",
+          "seu",
+          "futur"
+        ],
+        "past": [
+          "Va",
+          "treballar",
+          "molt",
+          "per",
+          "construir",
+          "el",
+          "seu",
+          "futur"
+        ],
+        "future": [
+          "Treballarà",
+          "dur",
+          "per",
+          "construir",
+          "el",
+          "seu",
+          "futur"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "catalan": {
+        "present": [
+          "Creuen",
+          "que",
+          "tot",
+          "és",
+          "possible"
+        ],
+        "past": [
+          "Creien",
+          "que",
+          "tot",
+          "era",
+          "possible"
+        ],
+        "future": [
+          "Es",
+          "creuran",
+          "que",
+          "tot",
+          "és",
+          "possible"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "catalan": {
+        "present": [
+          "Penso",
+          "en",
+          "el",
+          "meu",
+          "futur",
+          "cada",
+          "nit"
+        ],
+        "past": [
+          "Cada",
+          "nit",
+          "pensava",
+          "en",
+          "el",
+          "meu",
+          "futur"
+        ],
+        "future": [
+          "Cada",
+          "nit",
+          "pensaré",
+          "en",
+          "el",
+          "meu",
+          "futur"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "catalan": {
+        "present": [
+          "Intenta",
+          "ser",
+          "positiva",
+          "en",
+          "moments",
+          "difícils"
+        ],
+        "past": [
+          "Va",
+          "intentar",
+          "ser",
+          "positiva",
+          "en",
+          "moments",
+          "difícils"
+        ],
+        "future": [
+          "Intentarà",
+          "mantenir-se",
+          "positiva",
+          "en",
+          "moments",
+          "difícils"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "catalan": {
+        "present": [
+          "Volem",
+          "viure",
+          "una",
+          "vida",
+          "amb",
+          "sentit"
+        ],
+        "past": [
+          "Volíem",
+          "viure",
+          "una",
+          "vida",
+          "amb",
+          "sentit"
+        ],
+        "future": [
+          "Voldrem",
+          "viure",
+          "una",
+          "vida",
+          "amb",
+          "sentit"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "catalan": {
+        "present": [
+          "Entén",
+          "que",
+          "el",
+          "canvi",
+          "requereix",
+          "temps"
+        ],
+        "past": [
+          "Va",
+          "entendre",
+          "que",
+          "el",
+          "canvi",
+          "necessitava",
+          "temps"
+        ],
+        "future": [
+          "Ell",
+          "entendrà",
+          "que",
+          "el",
+          "canvi",
+          "requereix",
+          "temps"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "catalan": {
+        "present": [
+          "Decideixen",
+          "seguir",
+          "els",
+          "seus",
+          "somnis"
+        ],
+        "past": [
+          "Van",
+          "decidir",
+          "seguir",
+          "els",
+          "seus",
+          "somnis"
+        ],
+        "future": [
+          "Decidiran",
+          "seguir",
+          "els",
+          "seus",
+          "somnis"
+        ]
+      }
+    }
+  ]
+}

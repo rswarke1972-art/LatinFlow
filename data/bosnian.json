@@ -1,0 +1,7874 @@
+{
+  "language": "Bosnian",
+  "stories": {
+    "story1": {
+      "title": "u kafiću",
+      "content": [
+        {
+          "word": "Svako",
+          "meaning": "everyone",
+          "sound": "sva-ko"
+        },
+        {
+          "word": "jutro",
+          "meaning": "morning",
+          "sound": "ju-tro"
+        },
+        {
+          "word": "idem",
+          "meaning": "i'm going",
+          "sound": "i-dem"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "mali",
+          "meaning": "small",
+          "sound": "ma-li"
+        },
+        {
+          "word": "kafić",
+          "meaning": "cafe",
+          "sound": "ka-fić"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kafić",
+          "meaning": "cafe",
+          "sound": "ka-fić"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "blizu",
+          "meaning": "near",
+          "sound": "bli-zu"
+        },
+        {
+          "word": "moje",
+          "meaning": "mine",
+          "sound": "mo-je"
+        },
+        {
+          "word": "kuće",
+          "meaning": "houses",
+          "sound": "ku-će"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "veoma",
+          "meaning": "very",
+          "sound": "ve-o-ma"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "tih",
+          "meaning": "quiet",
+          "sound": "tih"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uvijek",
+          "meaning": "always",
+          "sound": "u-vi-jek"
+        },
+        {
+          "word": "sjedim",
+          "meaning": "i'm sitting",
+          "sound": "sje-dim"
+        },
+        {
+          "word": "kraj",
+          "meaning": "the end",
+          "sound": "kraj"
+        },
+        {
+          "word": "prozora",
+          "meaning": "windows",
+          "sound": "pro-zo-ra"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "naručim",
+          "meaning": "i order",
+          "sound": "na-ru-čim"
+        },
+        {
+          "word": "toplu",
+          "meaning": "warm",
+          "sound": "to-plu"
+        },
+        {
+          "word": "kafu",
+          "meaning": "coffee",
+          "sound": "ka-fu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Konobar",
+          "meaning": "waiter",
+          "sound": "ko-no-bar"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "ljubazan",
+          "meaning": "kind",
+          "sound": "lju-ba-zan"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "uvek",
+          "meaning": "always",
+          "sound": "u-vek"
+        },
+        {
+          "word": "me",
+          "meaning": "me",
+          "sound": "me"
+        },
+        {
+          "word": "dočeka",
+          "meaning": "welcome",
+          "sound": "do-če-ka"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "osmehom",
+          "meaning": "with a smile",
+          "sound": "os-me-hom"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ponekad",
+          "meaning": "sometimes",
+          "sound": "po-ne-kad"
+        },
+        {
+          "word": "čitam",
+          "meaning": "i'm reading",
+          "sound": "či-tam"
+        },
+        {
+          "word": "zanimljivu",
+          "meaning": "interesting",
+          "sound": "za-nim-lji-vu"
+        },
+        {
+          "word": "knjigu",
+          "meaning": "the book",
+          "sound": "knji-gu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "drugi",
+          "meaning": "others",
+          "sound": "dru-gi"
+        },
+        {
+          "word": "put",
+          "meaning": "road",
+          "sound": "put"
+        },
+        {
+          "word": "zapišem",
+          "meaning": "i write it down",
+          "sound": "za-pi-šem"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "svoju",
+          "meaning": "own",
+          "sound": "svo-ju"
+        },
+        {
+          "word": "svesku",
+          "meaning": "notebook",
+          "sound": "sves-ku"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "vidim",
+          "meaning": "i see",
+          "sound": "vi-dim"
+        },
+        {
+          "word": "novu",
+          "meaning": "the new one",
+          "sound": "no-vu"
+        },
+        {
+          "word": "osobu",
+          "meaning": "person",
+          "sound": "o-so-bu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ona",
+          "meaning": "she",
+          "sound": "o-na"
+        },
+        {
+          "word": "čita",
+          "meaning": "reads",
+          "sound": "či-ta"
+        },
+        {
+          "word": "roman",
+          "meaning": "a novel",
+          "sound": "ro-man"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "pije",
+          "meaning": "he drinks",
+          "sound": "pi-je"
+        },
+        {
+          "word": "čaj",
+          "meaning": "tea",
+          "sound": "čaj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Osećam",
+          "meaning": "i feel it",
+          "sound": "o-se-ćam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "radoznalo",
+          "meaning": "curious",
+          "sound": "ra-doz-na-lo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "malo",
+          "meaning": "a little",
+          "sound": "ma-lo"
+        },
+        {
+          "word": "stidljivo",
+          "meaning": "shyly",
+          "sound": "stid-lji-vo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nakon",
+          "meaning": "after",
+          "sound": "na-kon"
+        },
+        {
+          "word": "nekoliko",
+          "meaning": "a few",
+          "sound": "ne-ko-li-ko"
+        },
+        {
+          "word": "minuta",
+          "meaning": "minutes",
+          "sound": "mi-nu-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pozdravljam",
+          "meaning": "i greet you",
+          "sound": "poz-drav-ljam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ona",
+          "meaning": "she",
+          "sound": "o-na"
+        },
+        {
+          "word": "odgovara",
+          "meaning": "fits",
+          "sound": "od-go-va-ra"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "osmehom",
+          "meaning": "with a smile",
+          "sound": "os-me-hom"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "počinjemo",
+          "meaning": "we begin",
+          "sound": "po-čin-je-mo"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "razgovaramo",
+          "meaning": "we talk",
+          "sound": "raz-go-va-ra-mo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Osjećam",
+          "meaning": "i feel it",
+          "sound": "os-je-ćam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "sretno",
+          "meaning": "good luck",
+          "sound": "sret-no"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "opušteno",
+          "meaning": "relaxed",
+          "sound": "o-puš-te-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "u parku",
+      "content": [
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "idem",
+          "meaning": "i'm going",
+          "sound": "i-dem"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "park",
+          "meaning": "park",
+          "sound": "park"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "drugaricom",
+          "meaning": "friend",
+          "sound": "dru-ga-ri-com"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vrijeme",
+          "meaning": "time",
+          "sound": "vri-je-me"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "vrlo",
+          "meaning": "very",
+          "sound": "vrlo"
+        },
+        {
+          "word": "ugodno",
+          "meaning": "pleasant",
+          "sound": "u-god-no"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "sunce",
+          "meaning": "the sun",
+          "sound": "sun-ce"
+        },
+        {
+          "word": "sija",
+          "meaning": "shines",
+          "sound": "si-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vidim",
+          "meaning": "i see",
+          "sound": "vi-dim"
+        },
+        {
+          "word": "mnogo",
+          "meaning": "a lot",
+          "sound": "mno-go"
+        },
+        {
+          "word": "ljudi",
+          "meaning": "people",
+          "sound": "lju-di"
+        },
+        {
+          "word": "kako",
+          "meaning": "how",
+          "sound": "ka-ko"
+        },
+        {
+          "word": "hodaju",
+          "meaning": "they walk",
+          "sound": "ho-da-ju"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "smiju",
+          "meaning": "they laugh",
+          "sound": "smi-ju"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Neka",
+          "meaning": "let",
+          "sound": "ne-ka"
+        },
+        {
+          "word": "djeca",
+          "meaning": "children",
+          "sound": "dje-ca"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "igraju",
+          "meaning": "they play",
+          "sound": "i-gra-ju"
+        },
+        {
+          "word": "loptom",
+          "meaning": "with the ball",
+          "sound": "lop-tom"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "druga",
+          "meaning": "second",
+          "sound": "dru-ga"
+        },
+        {
+          "word": "brzo",
+          "meaning": "quickly",
+          "sound": "brzo"
+        },
+        {
+          "word": "trče",
+          "meaning": "they run",
+          "sound": "trče"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Moj",
+          "meaning": "mine",
+          "sound": "moj"
+        },
+        {
+          "word": "prijatelj",
+          "meaning": "a friend",
+          "sound": "pri-ja-telj"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "ja",
+          "meaning": "me",
+          "sound": "ja"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "sjedili",
+          "meaning": "sat down",
+          "sound": "sje-di-li"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "klupi",
+          "meaning": "benches",
+          "sound": "klu-pi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pričali",
+          "meaning": "talked",
+          "sound": "pri-ča-li"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "našim",
+          "meaning": "ours",
+          "sound": "na-šim"
+        },
+        {
+          "word": "životima",
+          "meaning": "lives",
+          "sound": "ži-vo-ti-ma"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "mnogo",
+          "meaning": "a lot",
+          "sound": "mno-go"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "smijali",
+          "meaning": "laughed",
+          "sound": "smi-ja-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poslije",
+          "meaning": "afterwards",
+          "sound": "pos-li-je"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "kupili",
+          "meaning": "bought",
+          "sound": "ku-pi-li"
+        },
+        {
+          "word": "sladoled",
+          "meaning": "ice cream",
+          "sound": "sla-do-led"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dan",
+          "meaning": "day",
+          "sound": "dan"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "jednostavan",
+          "meaning": "simple",
+          "sound": "jed-nos-ta-van"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "veoma",
+          "meaning": "very",
+          "sound": "ve-o-ma"
+        },
+        {
+          "word": "lep",
+          "meaning": "nice",
+          "sound": "lep"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "u biblioteci",
+      "content": [
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "idem",
+          "meaning": "i'm going",
+          "sound": "i-dem"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "biblioteku",
+          "meaning": "the library",
+          "sound": "bi-bli-o-te-ku"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "To",
+          "meaning": "that",
+          "sound": "to"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "mirno",
+          "meaning": "calm",
+          "sound": "mir-no"
+        },
+        {
+          "word": "mjesto",
+          "meaning": "place",
+          "sound": "mjes-to"
+        },
+        {
+          "word": "puno",
+          "meaning": "a lot",
+          "sound": "pu-no"
+        },
+        {
+          "word": "knjiga",
+          "meaning": "book",
+          "sound": "knji-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Volim",
+          "meaning": "i love",
+          "sound": "vo-lim"
+        },
+        {
+          "word": "čitati",
+          "meaning": "to read",
+          "sound": "či-ta-ti"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "naučiti",
+          "meaning": "to learn",
+          "sound": "na-u-či-ti"
+        },
+        {
+          "word": "nove",
+          "meaning": "new ones",
+          "sound": "no-ve"
+        },
+        {
+          "word": "stvari",
+          "meaning": "things",
+          "sound": "stva-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tražim",
+          "meaning": "i'm looking",
+          "sound": "tra-žim"
+        },
+        {
+          "word": "zanimljivu",
+          "meaning": "interesting",
+          "sound": "za-nim-lji-vu"
+        },
+        {
+          "word": "knjigu",
+          "meaning": "the book",
+          "sound": "knji-gu"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "istoriji",
+          "meaning": "history",
+          "sound": "is-to-ri-ji"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nakon",
+          "meaning": "after",
+          "sound": "na-kon"
+        },
+        {
+          "word": "toga",
+          "meaning": "that",
+          "sound": "to-ga"
+        },
+        {
+          "word": "sjednem",
+          "meaning": "i sit down",
+          "sound": "sjed-nem"
+        },
+        {
+          "word": "za",
+          "meaning": "for",
+          "sound": "za"
+        },
+        {
+          "word": "sto",
+          "meaning": "hundred",
+          "sound": "sto"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "počnem",
+          "meaning": "i start",
+          "sound": "poč-nem"
+        },
+        {
+          "word": "čitati",
+          "meaning": "to read",
+          "sound": "či-ta-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ima",
+          "meaning": "there is",
+          "sound": "i-ma"
+        },
+        {
+          "word": "drugih",
+          "meaning": "others",
+          "sound": "dru-gih"
+        },
+        {
+          "word": "ljudi",
+          "meaning": "people",
+          "sound": "lju-di"
+        },
+        {
+          "word": "koji",
+          "meaning": "which",
+          "sound": "ko-ji"
+        },
+        {
+          "word": "uče",
+          "meaning": "they learn",
+          "sound": "u-če"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "pišu",
+          "meaning": "they write",
+          "sound": "pi-šu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Atmosfera",
+          "meaning": "atmosphere",
+          "sound": "at-mos-fe-ra"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "vrlo",
+          "meaning": "very",
+          "sound": "vrlo"
+        },
+        {
+          "word": "tiha",
+          "meaning": "silent",
+          "sound": "ti-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nakon",
+          "meaning": "after",
+          "sound": "na-kon"
+        },
+        {
+          "word": "nekog",
+          "meaning": "someone",
+          "sound": "ne-kog"
+        },
+        {
+          "word": "vremena",
+          "meaning": "time",
+          "sound": "vre-me-na"
+        },
+        {
+          "word": "zatvorim",
+          "meaning": "close",
+          "sound": "zat-vo-rim"
+        },
+        {
+          "word": "knjigu",
+          "meaning": "the book",
+          "sound": "knji-gu"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "osjećam",
+          "meaning": "i feel",
+          "sound": "os-je-ćam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "zadovoljno",
+          "meaning": "satisfied",
+          "sound": "za-do-vol-jno"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "u prodavnici",
+      "content": [
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "idem",
+          "meaning": "i'm going",
+          "sound": "i-dem"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "veliku",
+          "meaning": "big",
+          "sound": "ve-li-ku"
+        },
+        {
+          "word": "radnju",
+          "meaning": "action",
+          "sound": "rad-nju"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "kupim",
+          "meaning": "i buy",
+          "sound": "ku-pim"
+        },
+        {
+          "word": "hranu",
+          "meaning": "food",
+          "sound": "hra-nu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Treba",
+          "meaning": "it should",
+          "sound": "tre-ba"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "hleb",
+          "meaning": "bread",
+          "sound": "hleb"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mleko",
+          "meaning": "milk",
+          "sound": "mle-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "voće",
+          "meaning": "fruit",
+          "sound": "vo-će"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "povrće",
+          "meaning": "vegetables",
+          "sound": "pov-rće"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Radnja",
+          "meaning": "action",
+          "sound": "rad-nja"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "puna",
+          "meaning": "full",
+          "sound": "pu-na"
+        },
+        {
+          "word": "ljudi",
+          "meaning": "people",
+          "sound": "lju-di"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "velika",
+          "meaning": "big",
+          "sound": "ve-li-ka"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "buka",
+          "meaning": "noise",
+          "sound": "bu-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tražim",
+          "meaning": "i'm looking",
+          "sound": "tra-žim"
+        },
+        {
+          "word": "proizvode",
+          "meaning": "products",
+          "sound": "pro-iz-vo-de"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "policama",
+          "meaning": "shelves",
+          "sound": "po-li-ca-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Žena",
+          "meaning": "a woman",
+          "sound": "že-na"
+        },
+        {
+          "word": "me",
+          "meaning": "me",
+          "sound": "me"
+        },
+        {
+          "word": "pita",
+          "meaning": "asks",
+          "sound": "pi-ta"
+        },
+        {
+          "word": "gdje",
+          "meaning": "where",
+          "sound": "gdje"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "mlijeko",
+          "meaning": "milk",
+          "sound": "mli-je-ko"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kažem",
+          "meaning": "i say",
+          "sound": "ka-žem"
+        },
+        {
+          "word": "mu",
+          "meaning": "to him",
+          "sound": "mu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tu",
+          "meaning": "there",
+          "sound": "tu"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pored",
+          "meaning": "beside",
+          "sound": "po-red"
+        },
+        {
+          "word": "hljeba",
+          "meaning": "bread",
+          "sound": "hlje-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ona",
+          "meaning": "she",
+          "sound": "o-na"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "smiješi",
+          "meaning": "smile",
+          "sound": "smi-je-ši"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "kaže",
+          "meaning": "he says",
+          "sound": "ka-že"
+        },
+        {
+          "word": "hvala",
+          "meaning": "thank you",
+          "sound": "hva-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Onda",
+          "meaning": "then",
+          "sound": "on-da"
+        },
+        {
+          "word": "odem",
+          "meaning": "i'm leaving",
+          "sound": "o-dem"
+        },
+        {
+          "word": "do",
+          "meaning": "to",
+          "sound": "do"
+        },
+        {
+          "word": "blagajne",
+          "meaning": "cash register",
+          "sound": "bla-gaj-ne"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "platim",
+          "meaning": "i pay",
+          "sound": "pla-tim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Izlazim",
+          "meaning": "i'm going out",
+          "sound": "iz-la-zim"
+        },
+        {
+          "word": "iz",
+          "meaning": "from",
+          "sound": "iz"
+        },
+        {
+          "word": "radnje",
+          "meaning": "actions",
+          "sound": "rad-nje"
+        },
+        {
+          "word": "s",
+          "meaning": "s",
+          "sound": "s"
+        },
+        {
+          "word": "punom",
+          "meaning": "full",
+          "sound": "pu-nom"
+        },
+        {
+          "word": "torbom",
+          "meaning": "bag",
+          "sound": "tor-bom"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "osjećam",
+          "meaning": "i feel",
+          "sound": "os-je-ćam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "sretno",
+          "meaning": "good luck",
+          "sound": "sret-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "u autobusu",
+      "content": [
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "idem",
+          "meaning": "i'm going",
+          "sound": "i-dem"
+        },
+        {
+          "word": "autobusom",
+          "meaning": "by bus",
+          "sound": "a-u-to-bu-som"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "posao",
+          "meaning": "business",
+          "sound": "po-sa-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Autobus",
+          "meaning": "bus",
+          "sound": "a-u-to-bus"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "pun",
+          "meaning": "full",
+          "sound": "pun"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "nema",
+          "meaning": "there is none",
+          "sound": "ne-ma"
+        },
+        {
+          "word": "puno",
+          "meaning": "a lot",
+          "sound": "pu-no"
+        },
+        {
+          "word": "mjesta",
+          "meaning": "places",
+          "sound": "mjes-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Osećam",
+          "meaning": "i feel it",
+          "sound": "o-se-ćam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "malo",
+          "meaning": "a little",
+          "sound": "ma-lo"
+        },
+        {
+          "word": "umorno",
+          "meaning": "tired",
+          "sound": "u-mor-no"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "vidim",
+          "meaning": "i see",
+          "sound": "vi-dim"
+        },
+        {
+          "word": "staru",
+          "meaning": "old",
+          "sound": "sta-ru"
+        },
+        {
+          "word": "osobu",
+          "meaning": "person",
+          "sound": "o-so-bu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nudim",
+          "meaning": "i offer",
+          "sound": "nu-dim"
+        },
+        {
+          "word": "vam",
+          "meaning": "to you",
+          "sound": "vam"
+        },
+        {
+          "word": "svoje",
+          "meaning": "own",
+          "sound": "svo-je"
+        },
+        {
+          "word": "mjesto",
+          "meaning": "place",
+          "sound": "mjes-to"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "On",
+          "meaning": "he",
+          "sound": "on"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "kaže",
+          "meaning": "he says",
+          "sound": "ka-že"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jesi",
+          "meaning": "you are",
+          "sound": "je-si"
+        },
+        {
+          "word": "li",
+          "meaning": "li",
+          "sound": "li"
+        },
+        {
+          "word": "siguran",
+          "meaning": "safe",
+          "sound": "si-gu-ran"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Odgovaram",
+          "meaning": "i answer",
+          "sound": "od-go-va-ram"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nema",
+          "meaning": "there is none",
+          "sound": "ne-ma"
+        },
+        {
+          "word": "problema",
+          "meaning": "problems",
+          "sound": "pro-ble-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "On",
+          "meaning": "he",
+          "sound": "on"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "smiješi",
+          "meaning": "smile",
+          "sound": "smi-je-ši"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "zahvaljuje",
+          "meaning": "thanks",
+          "sound": "zah-val-ju-je"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tokom",
+          "meaning": "during",
+          "sound": "to-kom"
+        },
+        {
+          "word": "putovanja",
+          "meaning": "travel",
+          "sound": "pu-to-van-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "gledam",
+          "meaning": "i'm looking",
+          "sound": "gle-dam"
+        },
+        {
+          "word": "kroz",
+          "meaning": "through",
+          "sound": "kroz"
+        },
+        {
+          "word": "prozor",
+          "meaning": "window",
+          "sound": "pro-zor"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "razmišljam",
+          "meaning": "i'm thinking",
+          "sound": "raz-miš-ljam"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "svom",
+          "meaning": "his own",
+          "sound": "svom"
+        },
+        {
+          "word": "danu",
+          "meaning": "day",
+          "sound": "da-nu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iako",
+          "meaning": "although",
+          "sound": "i-a-ko"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "umoran",
+          "meaning": "tired",
+          "sound": "u-mo-ran"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dobar",
+          "meaning": "good",
+          "sound": "do-bar"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "osjećaj",
+          "meaning": "feeling",
+          "sound": "os-je-ćaj"
+        },
+        {
+          "word": "pomoći",
+          "meaning": "help",
+          "sound": "po-mo-ći"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Jučer na plaži",
+      "content": [
+        {
+          "word": "Jučer",
+          "meaning": "yesterday",
+          "sound": "ju-čer"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "išao",
+          "meaning": "went",
+          "sound": "i-ša-o"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "plažu",
+          "meaning": "the beach",
+          "sound": "pla-žu"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "prijateljima",
+          "meaning": "to friends",
+          "sound": "pri-ja-tel-ji-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vrijeme",
+          "meaning": "time",
+          "sound": "vri-je-me"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "bilo",
+          "meaning": "either",
+          "sound": "bi-lo"
+        },
+        {
+          "word": "savršeno",
+          "meaning": "perfect",
+          "sound": "sav-rše-no"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "more",
+          "meaning": "the sea",
+          "sound": "mo-re"
+        },
+        {
+          "word": "mirno",
+          "meaning": "calm",
+          "sound": "mir-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hodali",
+          "meaning": "walked",
+          "sound": "ho-da-li"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "po",
+          "meaning": "by",
+          "sound": "po"
+        },
+        {
+          "word": "pijesku",
+          "meaning": "sand",
+          "sound": "pi-jes-ku"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "razgovarali",
+          "meaning": "talked",
+          "sound": "raz-go-va-ra-li"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "mnogim",
+          "meaning": "to many",
+          "sound": "mno-gim"
+        },
+        {
+          "word": "stvarima",
+          "meaning": "things",
+          "sound": "stva-ri-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poslije",
+          "meaning": "afterwards",
+          "sound": "pos-li-je"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "plivali",
+          "meaning": "swam",
+          "sound": "pli-va-li"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "hladnoj",
+          "meaning": "cold",
+          "sound": "hlad-noj"
+        },
+        {
+          "word": "vodi",
+          "meaning": "leads",
+          "sound": "vo-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "početku",
+          "meaning": "to the beginning",
+          "sound": "po-čet-ku"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "malo",
+          "meaning": "a little",
+          "sound": "ma-lo"
+        },
+        {
+          "word": "uplašio",
+          "meaning": "scared",
+          "sound": "u-pla-ši-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "onda",
+          "meaning": "then",
+          "sound": "on-da"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "osjećao",
+          "meaning": "felt",
+          "sound": "os-je-ća-o"
+        },
+        {
+          "word": "odlično",
+          "meaning": "excellent",
+          "sound": "o-dlič-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Igrali",
+          "meaning": "played",
+          "sound": "i-gra-li"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "loptom",
+          "meaning": "with the ball",
+          "sound": "lop-tom"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "puno",
+          "meaning": "a lot",
+          "sound": "pu-no"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "smijali",
+          "meaning": "laughed",
+          "sound": "smi-ja-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Popodne",
+          "meaning": "in the afternoon",
+          "sound": "po-pod-ne"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "zajedno",
+          "meaning": "together",
+          "sound": "za-jed-no"
+        },
+        {
+          "word": "jeli",
+          "meaning": "ate",
+          "sound": "je-li"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "gledali",
+          "meaning": "watched",
+          "sound": "gle-da-li"
+        },
+        {
+          "word": "zalazak",
+          "meaning": "sunset",
+          "sound": "za-la-zak"
+        },
+        {
+          "word": "sunca",
+          "meaning": "of the sun",
+          "sound": "sun-ca"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bio",
+          "meaning": "he was",
+          "sound": "bi-o"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "to",
+          "meaning": "that",
+          "sound": "to"
+        },
+        {
+          "word": "veoma",
+          "meaning": "very",
+          "sound": "ve-o-ma"
+        },
+        {
+          "word": "poseban",
+          "meaning": "special",
+          "sound": "po-se-ban"
+        },
+        {
+          "word": "dan",
+          "meaning": "day",
+          "sound": "dan"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "nikada",
+          "meaning": "never",
+          "sound": "ni-ka-da"
+        },
+        {
+          "word": "ga",
+          "meaning": "mr",
+          "sound": "ga"
+        },
+        {
+          "word": "neću",
+          "meaning": "i won't",
+          "sound": "ne-ću"
+        },
+        {
+          "word": "zaboraviti",
+          "meaning": "to forget",
+          "sound": "za-bo-ra-vi-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Važan razgovor",
+      "content": [
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "sreo",
+          "meaning": "met",
+          "sound": "sre-o"
+        },
+        {
+          "word": "starog",
+          "meaning": "old",
+          "sound": "sta-rog"
+        },
+        {
+          "word": "prijatelja",
+          "meaning": "friends",
+          "sound": "pri-ja-tel-ja"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "kafiću",
+          "meaning": "cafe",
+          "sound": "ka-fi-ću"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nisam",
+          "meaning": "i didn't",
+          "sound": "ni-sam"
+        },
+        {
+          "word": "ga",
+          "meaning": "mr",
+          "sound": "ga"
+        },
+        {
+          "word": "dugo",
+          "meaning": "a long time",
+          "sound": "du-go"
+        },
+        {
+          "word": "vidio",
+          "meaning": "saw",
+          "sound": "vi-di-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pa",
+          "meaning": "so",
+          "sound": "pa"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "bio",
+          "meaning": "was",
+          "sound": "bi-o"
+        },
+        {
+          "word": "jako",
+          "meaning": "strongly",
+          "sound": "ja-ko"
+        },
+        {
+          "word": "sretan",
+          "meaning": "happy",
+          "sound": "sre-tan"
+        },
+        {
+          "word": "što",
+          "meaning": "what",
+          "sound": "što"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "ga",
+          "meaning": "mr",
+          "sound": "ga"
+        },
+        {
+          "word": "vidio",
+          "meaning": "saw",
+          "sound": "vi-di-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sjeli",
+          "meaning": "sit down",
+          "sound": "sje-li"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "počeli",
+          "meaning": "started",
+          "sound": "po-če-li"
+        },
+        {
+          "word": "razgovarati",
+          "meaning": "to talk",
+          "sound": "raz-go-va-ra-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rekao",
+          "meaning": "said",
+          "sound": "re-ka-o"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "sada",
+          "meaning": "now",
+          "sound": "sa-da"
+        },
+        {
+          "word": "živi",
+          "meaning": "lives",
+          "sound": "ži-vi"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "drugom",
+          "meaning": "to another",
+          "sound": "dru-gom"
+        },
+        {
+          "word": "gradu",
+          "meaning": "city",
+          "sound": "gra-du"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Takođe",
+          "meaning": "also",
+          "sound": "ta-ko-đe"
+        },
+        {
+          "word": "radi",
+          "meaning": "works",
+          "sound": "ra-di"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "velikoj",
+          "meaning": "big",
+          "sound": "ve-li-koj"
+        },
+        {
+          "word": "kompaniji",
+          "meaning": "to the company",
+          "sound": "kom-pa-ni-ji"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ispričao",
+          "meaning": "told",
+          "sound": "is-pri-ča-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "mu",
+          "meaning": "to him",
+          "sound": "mu"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "svojim",
+          "meaning": "his own",
+          "sound": "svo-jim"
+        },
+        {
+          "word": "studijama",
+          "meaning": "studies",
+          "sound": "stu-di-ja-ma"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "planovima",
+          "meaning": "plans",
+          "sound": "pla-no-vi-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Razgovarali",
+          "meaning": "talked",
+          "sound": "raz-go-va-ra-li"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "satima",
+          "meaning": "for hours",
+          "sound": "sa-ti-ma"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "prisjetili",
+          "meaning": "remembered",
+          "sound": "pris-je-ti-li"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "mnogih",
+          "meaning": "many",
+          "sound": "mno-gih"
+        },
+        {
+          "word": "trenutaka",
+          "meaning": "moments",
+          "sound": "tre-nu-ta-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Prije",
+          "meaning": "before",
+          "sound": "pri-je"
+        },
+        {
+          "word": "nego",
+          "meaning": "rather",
+          "sound": "ne-go"
+        },
+        {
+          "word": "što",
+          "meaning": "what",
+          "sound": "što"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "otišli",
+          "meaning": "gone",
+          "sound": "o-tiš-li"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "rekao",
+          "meaning": "said",
+          "sound": "re-ka-o"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "trebali",
+          "meaning": "should have",
+          "sound": "tre-ba-li"
+        },
+        {
+          "word": "bismo",
+          "meaning": "we would",
+          "sound": "bis-mo"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "češće",
+          "meaning": "more often",
+          "sound": "češ-će"
+        },
+        {
+          "word": "viđati",
+          "meaning": "to see",
+          "sound": "vi-đa-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nasmejao",
+          "meaning": "made me smile",
+          "sound": "nas-me-ja-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "odgovorio",
+          "meaning": "replied",
+          "sound": "od-go-vo-ri-o"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naravno",
+          "meaning": "of course",
+          "sound": "na-rav-no"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "zaista",
+          "meaning": "indeed",
+          "sound": "za-is-ta"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "dopao",
+          "meaning": "liked it",
+          "sound": "do-pa-o"
+        },
+        {
+          "word": "ovaj",
+          "meaning": "this one",
+          "sound": "o-vaj"
+        },
+        {
+          "word": "dan",
+          "meaning": "day",
+          "sound": "dan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Teška odluka",
+      "content": [
+        {
+          "word": "Prije",
+          "meaning": "before",
+          "sound": "pri-je"
+        },
+        {
+          "word": "nekoliko",
+          "meaning": "a few",
+          "sound": "ne-ko-li-ko"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": "dobio",
+          "meaning": "got",
+          "sound": "do-bi-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "ponudu",
+          "meaning": "offer",
+          "sound": "po-nu-du"
+        },
+        {
+          "word": "za",
+          "meaning": "for",
+          "sound": "za"
+        },
+        {
+          "word": "posao",
+          "meaning": "business",
+          "sound": "po-sa-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bilo",
+          "meaning": "any",
+          "sound": "bi-lo"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "to",
+          "meaning": "that",
+          "sound": "to"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "drugom",
+          "meaning": "to another",
+          "sound": "dru-gom"
+        },
+        {
+          "word": "gradu",
+          "meaning": "city",
+          "sound": "gra-du"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "vrlo",
+          "meaning": "very",
+          "sound": "vrlo"
+        },
+        {
+          "word": "zanimljivo",
+          "meaning": "interesting",
+          "sound": "za-nim-lji-vo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "početku",
+          "meaning": "to the beginning",
+          "sound": "po-čet-ku"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "osjećao",
+          "meaning": "felt",
+          "sound": "os-je-ća-o"
+        },
+        {
+          "word": "uzbuđeno",
+          "meaning": "excited",
+          "sound": "uz-bu-đe-no"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "nervozno",
+          "meaning": "nervously",
+          "sound": "ner-voz-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Razgovarao",
+          "meaning": "talked",
+          "sound": "raz-go-va-ra-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "porodicom",
+          "meaning": "family",
+          "sound": "po-ro-di-com"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "prijateljima",
+          "meaning": "to friends",
+          "sound": "pri-ja-tel-ji-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dali",
+          "meaning": "they did",
+          "sound": "da-li"
+        },
+        {
+          "word": "su",
+          "meaning": "are",
+          "sound": "su"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "mnogo",
+          "meaning": "a lot",
+          "sound": "mno-go"
+        },
+        {
+          "word": "savjeta",
+          "meaning": "advice",
+          "sound": "sav-je-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Moja",
+          "meaning": "mine",
+          "sound": "mo-ja"
+        },
+        {
+          "word": "majka",
+          "meaning": "mother",
+          "sound": "maj-ka"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "rekla",
+          "meaning": "she said",
+          "sound": "rek-la"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Moraš",
+          "meaning": "you have to",
+          "sound": "mo-raš"
+        },
+        {
+          "word": "slijediti",
+          "meaning": "to follow",
+          "sound": "sli-je-di-ti"
+        },
+        {
+          "word": "svoje",
+          "meaning": "own",
+          "sound": "svo-je"
+        },
+        {
+          "word": "snove",
+          "meaning": "dreams",
+          "sound": "sno-ve"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "moj",
+          "meaning": "mine",
+          "sound": "moj"
+        },
+        {
+          "word": "prijatelj",
+          "meaning": "a friend",
+          "sound": "pri-ja-telj"
+        },
+        {
+          "word": "me",
+          "meaning": "me",
+          "sound": "me"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "pitao",
+          "meaning": "asked",
+          "sound": "pi-ta-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jesi",
+          "meaning": "you are",
+          "sound": "je-si"
+        },
+        {
+          "word": "li",
+          "meaning": "li",
+          "sound": "li"
+        },
+        {
+          "word": "siguran",
+          "meaning": "safe",
+          "sound": "si-gu-ran"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Proveo",
+          "meaning": "spent",
+          "sound": "pro-ve-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "nekoliko",
+          "meaning": "a few",
+          "sound": "ne-ko-li-ko"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": "razmišljajući",
+          "meaning": "thinking",
+          "sound": "raz-miš-lja-ju-ći"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Konačno",
+          "meaning": "finally",
+          "sound": "ko-nač-no"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "odlučio",
+          "meaning": "decided",
+          "sound": "o-dlu-či-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "prihvatim",
+          "meaning": "i accept",
+          "sound": "prih-va-tim"
+        },
+        {
+          "word": "posao",
+          "meaning": "business",
+          "sound": "po-sa-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Znam",
+          "meaning": "i know",
+          "sound": "znam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "neće",
+          "meaning": "won't",
+          "sound": "ne-će"
+        },
+        {
+          "word": "biti",
+          "meaning": "to be",
+          "sound": "bi-ti"
+        },
+        {
+          "word": "lako",
+          "meaning": "easy",
+          "sound": "la-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "želim",
+          "meaning": "i want",
+          "sound": "že-lim"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "pokušam",
+          "meaning": "i try",
+          "sound": "po-ku-šam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Svađa sa prijateljem",
+      "content": [
+        {
+          "word": "Juče",
+          "meaning": "yesterday",
+          "sound": "ju-če"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "posvađao",
+          "meaning": "quarreled",
+          "sound": "pos-va-đa-o"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "najboljom",
+          "meaning": "the best",
+          "sound": "naj-bol-jom"
+        },
+        {
+          "word": "drugaricom",
+          "meaning": "friend",
+          "sound": "dru-ga-ri-com"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sve",
+          "meaning": "everything",
+          "sound": "sve"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "počelo",
+          "meaning": "started",
+          "sound": "po-če-lo"
+        },
+        {
+          "word": "kada",
+          "meaning": "when",
+          "sound": "ka-da"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "pričali",
+          "meaning": "talked",
+          "sound": "pri-ča-li"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "našim",
+          "meaning": "ours",
+          "sound": "na-šim"
+        },
+        {
+          "word": "planovima",
+          "meaning": "plans",
+          "sound": "pla-no-vi-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Htjela",
+          "meaning": "she wanted to",
+          "sound": "htje-la"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "putovati",
+          "meaning": "to travel",
+          "sound": "pu-to-va-ti"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "on",
+          "meaning": "he",
+          "sound": "on"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "više",
+          "meaning": "more",
+          "sound": "vi-še"
+        },
+        {
+          "word": "volio",
+          "meaning": "loved",
+          "sound": "vo-li-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "ostane",
+          "meaning": "remains",
+          "sound": "os-ta-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rekao",
+          "meaning": "said",
+          "sound": "re-ka-o"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nemamo",
+          "meaning": "we don't have",
+          "sound": "ne-ma-mo"
+        },
+        {
+          "word": "dovoljno",
+          "meaning": "enough",
+          "sound": "do-vol-jno"
+        },
+        {
+          "word": "novca",
+          "meaning": "money",
+          "sound": "nov-ca"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Odgovorio",
+          "meaning": "answered",
+          "sound": "od-go-vo-ri-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "možemo",
+          "meaning": "we can",
+          "sound": "mo-že-mo"
+        },
+        {
+          "word": "spasiti",
+          "meaning": "to save",
+          "sound": "spa-si-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "on",
+          "meaning": "he",
+          "sound": "on"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "nije",
+          "meaning": "it is not",
+          "sound": "ni-je"
+        },
+        {
+          "word": "složio",
+          "meaning": "agreed",
+          "sound": "slo-ži-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Razgovor",
+          "meaning": "conversation",
+          "sound": "raz-go-vor"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "postao",
+          "meaning": "became",
+          "sound": "pos-ta-o"
+        },
+        {
+          "word": "napet",
+          "meaning": "tense",
+          "sound": "na-pet"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "kraju",
+          "meaning": "the end",
+          "sound": "kra-ju"
+        },
+        {
+          "word": "smo",
+          "meaning": "we are",
+          "sound": "smo"
+        },
+        {
+          "word": "oboje",
+          "meaning": "both of them",
+          "sound": "o-bo-je"
+        },
+        {
+          "word": "bili",
+          "meaning": "were",
+          "sound": "bi-li"
+        },
+        {
+          "word": "uznemireni",
+          "meaning": "upset",
+          "sound": "uz-ne-mi-re-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mislim",
+          "meaning": "i think",
+          "sound": "mis-lim"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "bih",
+          "meaning": "i would",
+          "sound": "bih"
+        },
+        {
+          "word": "možda",
+          "meaning": "maybe",
+          "sound": "mož-da"
+        },
+        {
+          "word": "trebao",
+          "meaning": "should have",
+          "sound": "tre-ba-o"
+        },
+        {
+          "word": "ponovo",
+          "meaning": "again",
+          "sound": "po-no-vo"
+        },
+        {
+          "word": "razgovarati",
+          "meaning": "to talk",
+          "sound": "raz-go-va-ra-ti"
+        },
+        {
+          "word": "s",
+          "meaning": "s",
+          "sound": "s"
+        },
+        {
+          "word": "njim",
+          "meaning": "him",
+          "sound": "njim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naše",
+          "meaning": "ours",
+          "sound": "na-še"
+        },
+        {
+          "word": "prijateljstvo",
+          "meaning": "friendship",
+          "sound": "pri-ja-tel-jstvo"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "važnije",
+          "meaning": "more important",
+          "sound": "važ-ni-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Važna promena",
+      "content": [
+        {
+          "word": "Prije",
+          "meaning": "before",
+          "sound": "pri-je"
+        },
+        {
+          "word": "godinu",
+          "meaning": "year",
+          "sound": "go-di-nu"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "moj",
+          "meaning": "mine",
+          "sound": "moj"
+        },
+        {
+          "word": "život",
+          "meaning": "life",
+          "sound": "ži-vot"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "bio",
+          "meaning": "was",
+          "sound": "bi-o"
+        },
+        {
+          "word": "potpuno",
+          "meaning": "completely",
+          "sound": "pot-pu-no"
+        },
+        {
+          "word": "drugačiji",
+          "meaning": "different",
+          "sound": "dru-ga-či-ji"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Radio",
+          "meaning": "the radio",
+          "sound": "ra-di-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "mjestu",
+          "meaning": "place",
+          "sound": "mjes-tu"
+        },
+        {
+          "word": "koje",
+          "meaning": "which",
+          "sound": "ko-je"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "nije",
+          "meaning": "it is not",
+          "sound": "ni-je"
+        },
+        {
+          "word": "svidjelo",
+          "meaning": "liked it",
+          "sound": "svid-je-lo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Svaki",
+          "meaning": "each one",
+          "sound": "sva-ki"
+        },
+        {
+          "word": "dan",
+          "meaning": "day",
+          "sound": "dan"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "osjećala",
+          "meaning": "felt",
+          "sound": "os-je-ća-la"
+        },
+        {
+          "word": "umorno",
+          "meaning": "tired",
+          "sound": "u-mor-no"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "nemotivirano",
+          "meaning": "unmotivated",
+          "sound": "ne-mo-ti-vi-ra-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednog",
+          "meaning": "one",
+          "sound": "jed-nog"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "odlučio",
+          "meaning": "decided",
+          "sound": "o-dlu-či-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "promenim",
+          "meaning": "i change",
+          "sound": "pro-me-nim"
+        },
+        {
+          "word": "sve",
+          "meaning": "everything",
+          "sound": "sve"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nije",
+          "meaning": "it's not",
+          "sound": "ni-je"
+        },
+        {
+          "word": "bilo",
+          "meaning": "either",
+          "sound": "bi-lo"
+        },
+        {
+          "word": "lako",
+          "meaning": "easy",
+          "sound": "la-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jer",
+          "meaning": "because",
+          "sound": "jer"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "bojao",
+          "meaning": "painted",
+          "sound": "bo-ja-o"
+        },
+        {
+          "word": "neuspjeha",
+          "meaning": "of failure",
+          "sound": "ne-us-pje-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "isto",
+          "meaning": "the same",
+          "sound": "is-to"
+        },
+        {
+          "word": "tako",
+          "meaning": "so",
+          "sound": "ta-ko"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "znao",
+          "meaning": "knew",
+          "sound": "zna-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "mogu",
+          "meaning": "i can",
+          "sound": "mo-gu"
+        },
+        {
+          "word": "ovako",
+          "meaning": "like this",
+          "sound": "o-va-ko"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "nastavim",
+          "meaning": "i will continue",
+          "sound": "nas-ta-vim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Počeo",
+          "meaning": "started",
+          "sound": "po-če-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "učiti",
+          "meaning": "to study",
+          "sound": "u-či-ti"
+        },
+        {
+          "word": "nove",
+          "meaning": "new ones",
+          "sound": "no-ve"
+        },
+        {
+          "word": "stvari",
+          "meaning": "things",
+          "sound": "stva-ri"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "raditi",
+          "meaning": "to work",
+          "sound": "ra-di-ti"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "svojim",
+          "meaning": "his own",
+          "sound": "svo-jim"
+        },
+        {
+          "word": "ciljevima",
+          "meaning": "goals",
+          "sound": "cil-je-vi-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Malo",
+          "meaning": "a little",
+          "sound": "ma-lo"
+        },
+        {
+          "word": "po",
+          "meaning": "by",
+          "sound": "po"
+        },
+        {
+          "word": "malo",
+          "meaning": "a little",
+          "sound": "ma-lo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "moj",
+          "meaning": "mine",
+          "sound": "moj"
+        },
+        {
+          "word": "život",
+          "meaning": "life",
+          "sound": "ži-vot"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "promenio",
+          "meaning": "changed",
+          "sound": "pro-me-ni-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "osjećam",
+          "meaning": "i feel",
+          "sound": "os-je-ćam"
+        },
+        {
+          "word": "sigurnije",
+          "meaning": "safer",
+          "sound": "si-gur-ni-je"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "sretnije",
+          "meaning": "happier",
+          "sound": "sret-ni-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naučio",
+          "meaning": "learned",
+          "sound": "na-u-či-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "su",
+          "meaning": "are",
+          "sound": "su"
+        },
+        {
+          "word": "promjene",
+          "meaning": "changes",
+          "sound": "prom-je-ne"
+        },
+        {
+          "word": "teške",
+          "meaning": "difficult",
+          "sound": "teš-ke"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "neophodne",
+          "meaning": "necessary",
+          "sound": "ne-op-hod-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Značenje puta",
+      "content": [
+        {
+          "word": "Dugo",
+          "meaning": "for a long time",
+          "sound": "du-go"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "mislio",
+          "meaning": "thought",
+          "sound": "mis-li-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "uspjeh",
+          "meaning": "success",
+          "sound": "us-pjeh"
+        },
+        {
+          "word": "najvažnija",
+          "meaning": "the most important",
+          "sound": "naj-važ-ni-ja"
+        },
+        {
+          "word": "stvar",
+          "meaning": "thing",
+          "sound": "stvar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vjerovao",
+          "meaning": "believed",
+          "sound": "vje-ro-va-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "će",
+          "meaning": "will",
+          "sound": "će"
+        },
+        {
+          "word": "me",
+          "meaning": "me",
+          "sound": "me"
+        },
+        {
+          "word": "novac",
+          "meaning": "money",
+          "sound": "no-vac"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "priznanje",
+          "meaning": "recognition",
+          "sound": "priz-nan-je"
+        },
+        {
+          "word": "učiniti",
+          "meaning": "to do",
+          "sound": "u-či-ni-ti"
+        },
+        {
+          "word": "sretnim",
+          "meaning": "happy",
+          "sound": "sret-nim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Međutim",
+          "meaning": "however",
+          "sound": "me-đu-tim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vremenom",
+          "meaning": "over time",
+          "sound": "vre-me-nom"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "shvatio",
+          "meaning": "understood",
+          "sound": "shva-ti-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "pogriješio",
+          "meaning": "made a mistake",
+          "sound": "po-gri-je-ši-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ono",
+          "meaning": "that",
+          "sound": "o-no"
+        },
+        {
+          "word": "što",
+          "meaning": "what",
+          "sound": "što"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "zaista",
+          "meaning": "indeed",
+          "sound": "za-is-ta"
+        },
+        {
+          "word": "važno",
+          "meaning": "important",
+          "sound": "važ-no"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "put",
+          "meaning": "road",
+          "sound": "put"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iskustva",
+          "meaning": "experiences",
+          "sound": "is-kus-tva"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "greške",
+          "meaning": "errors",
+          "sound": "greš-ke"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "učenja",
+          "meaning": "learning",
+          "sound": "u-čen-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednog",
+          "meaning": "one",
+          "sound": "jed-nog"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "razgovarao",
+          "meaning": "talked",
+          "sound": "raz-go-va-ra-o"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "mentorom",
+          "meaning": "a mentor",
+          "sound": "men-to-rom"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rekao",
+          "meaning": "said",
+          "sound": "re-ka-o"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "žuri",
+          "meaning": "in a hurry",
+          "sound": "žu-ri"
+        },
+        {
+          "word": "samo",
+          "meaning": "only",
+          "sound": "sa-mo"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "stigneš",
+          "meaning": "you arrive",
+          "sound": "stig-neš"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nauči",
+          "meaning": "learn",
+          "sound": "na-u-či"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "uživaš",
+          "meaning": "you enjoy it",
+          "sound": "u-ži-vaš"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "procesu",
+          "meaning": "process",
+          "sound": "pro-ce-su"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "tog",
+          "meaning": "that",
+          "sound": "tog"
+        },
+        {
+          "word": "trenutka",
+          "meaning": "moment",
+          "sound": "tre-nut-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "moj",
+          "meaning": "mine",
+          "sound": "moj"
+        },
+        {
+          "word": "način",
+          "meaning": "way",
+          "sound": "na-čin"
+        },
+        {
+          "word": "razmišljanja",
+          "meaning": "thoughts",
+          "sound": "raz-miš-ljan-ja"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "promenio",
+          "meaning": "changed",
+          "sound": "pro-me-ni-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sada",
+          "meaning": "now",
+          "sound": "sa-da"
+        },
+        {
+          "word": "cijenim",
+          "meaning": "i appreciate it",
+          "sound": "ci-je-nim"
+        },
+        {
+          "word": "svaki",
+          "meaning": "each one",
+          "sound": "sva-ki"
+        },
+        {
+          "word": "korak",
+          "meaning": "step",
+          "sound": "ko-rak"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "učim",
+          "meaning": "i'm studying",
+          "sound": "u-čim"
+        },
+        {
+          "word": "iz",
+          "meaning": "from",
+          "sound": "iz"
+        },
+        {
+          "word": "svake",
+          "meaning": "each",
+          "sound": "sva-ke"
+        },
+        {
+          "word": "greške",
+          "meaning": "errors",
+          "sound": "greš-ke"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "ko sam ja zaista",
+      "content": [
+        {
+          "word": "Dugi",
+          "meaning": "long",
+          "sound": "du-gi"
+        },
+        {
+          "word": "niz",
+          "meaning": "string",
+          "sound": "niz"
+        },
+        {
+          "word": "godina",
+          "meaning": "year",
+          "sound": "go-di-na"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "pitao",
+          "meaning": "asked",
+          "sound": "pi-ta-o"
+        },
+        {
+          "word": "ko",
+          "meaning": "who",
+          "sound": "ko"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "zapravo",
+          "meaning": "actually",
+          "sound": "za-pra-vo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "početku",
+          "meaning": "to the beginning",
+          "sound": "po-čet-ku"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "mislio",
+          "meaning": "thought",
+          "sound": "mis-li-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "moj",
+          "meaning": "mine",
+          "sound": "moj"
+        },
+        {
+          "word": "identitet",
+          "meaning": "identity",
+          "sound": "i-den-ti-tet"
+        },
+        {
+          "word": "zavisi",
+          "meaning": "it depends",
+          "sound": "za-vi-si"
+        },
+        {
+          "word": "od",
+          "meaning": "of",
+          "sound": "od"
+        },
+        {
+          "word": "toga",
+          "meaning": "that",
+          "sound": "to-ga"
+        },
+        {
+          "word": "šta",
+          "meaning": "what",
+          "sound": "šta"
+        },
+        {
+          "word": "drugi",
+          "meaning": "others",
+          "sound": "dru-gi"
+        },
+        {
+          "word": "misle",
+          "meaning": "they think",
+          "sound": "mis-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tražio",
+          "meaning": "searched for",
+          "sound": "tra-ži-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "odobrenje",
+          "meaning": "approval",
+          "sound": "o-do-bren-je"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "plašio",
+          "meaning": "scared",
+          "sound": "pla-ši-o"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "grešaka",
+          "meaning": "errors",
+          "sound": "gre-ša-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Međutim",
+          "meaning": "however",
+          "sound": "me-đu-tim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vremenom",
+          "meaning": "over time",
+          "sound": "vre-me-nom"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "shvatio",
+          "meaning": "understood",
+          "sound": "shva-ti-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "moja",
+          "meaning": "mine",
+          "sound": "mo-ja"
+        },
+        {
+          "word": "vrijednost",
+          "meaning": "value",
+          "sound": "vri-jed-nost"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "ovisi",
+          "meaning": "it depends",
+          "sound": "o-vi-si"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "drugima",
+          "meaning": "to others",
+          "sound": "dru-gi-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednog",
+          "meaning": "one",
+          "sound": "jed-nog"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "odlučio",
+          "meaning": "decided",
+          "sound": "o-dlu-či-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "slušam",
+          "meaning": "i'm listening",
+          "sound": "slu-šam"
+        },
+        {
+          "word": "svoj",
+          "meaning": "own",
+          "sound": "svoj"
+        },
+        {
+          "word": "glas",
+          "meaning": "voice",
+          "sound": "glas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Počeo",
+          "meaning": "started",
+          "sound": "po-če-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "donosim",
+          "meaning": "i bring",
+          "sound": "do-no-sim"
+        },
+        {
+          "word": "odluke",
+          "meaning": "decisions",
+          "sound": "o-dlu-ke"
+        },
+        {
+          "word": "za",
+          "meaning": "for",
+          "sound": "za"
+        },
+        {
+          "word": "sebe",
+          "meaning": "yourself",
+          "sound": "se-be"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nije",
+          "meaning": "it's not",
+          "sound": "ni-je"
+        },
+        {
+          "word": "uvijek",
+          "meaning": "always",
+          "sound": "u-vi-jek"
+        },
+        {
+          "word": "bilo",
+          "meaning": "either",
+          "sound": "bi-lo"
+        },
+        {
+          "word": "lako",
+          "meaning": "easy",
+          "sound": "la-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "učio",
+          "meaning": "studied",
+          "sound": "u-či-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "iz",
+          "meaning": "from",
+          "sound": "iz"
+        },
+        {
+          "word": "svake",
+          "meaning": "each",
+          "sound": "sva-ke"
+        },
+        {
+          "word": "greške",
+          "meaning": "errors",
+          "sound": "greš-ke"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "znam",
+          "meaning": "i know",
+          "sound": "znam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "najveće",
+          "meaning": "the biggest",
+          "sound": "naj-ve-će"
+        },
+        {
+          "word": "dostignuće",
+          "meaning": "achievement",
+          "sound": "dos-tig-nu-će"
+        },
+        {
+          "word": "biti",
+          "meaning": "to be",
+          "sound": "bi-ti"
+        },
+        {
+          "word": "svoj",
+          "meaning": "own",
+          "sound": "svoj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Vrijednost vremena",
+      "content": [
+        {
+          "word": "Prije",
+          "meaning": "before",
+          "sound": "pri-je"
+        },
+        {
+          "word": "nekoliko",
+          "meaning": "a few",
+          "sound": "ne-ko-li-ko"
+        },
+        {
+          "word": "godina",
+          "meaning": "year",
+          "sound": "go-di-na"
+        },
+        {
+          "word": "nisam",
+          "meaning": "i didn't",
+          "sound": "ni-sam"
+        },
+        {
+          "word": "obraćao",
+          "meaning": "addressed",
+          "sound": "o-bra-ća-o"
+        },
+        {
+          "word": "mnogo",
+          "meaning": "a lot",
+          "sound": "mno-go"
+        },
+        {
+          "word": "pažnje",
+          "meaning": "attention",
+          "sound": "paž-nje"
+        },
+        {
+          "word": "na",
+          "meaning": "on",
+          "sound": "na"
+        },
+        {
+          "word": "vrijeme",
+          "meaning": "time",
+          "sound": "vri-je-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mislio",
+          "meaning": "thought",
+          "sound": "mis-li-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "će",
+          "meaning": "will",
+          "sound": "će"
+        },
+        {
+          "word": "uvijek",
+          "meaning": "always",
+          "sound": "u-vi-jek"
+        },
+        {
+          "word": "biti",
+          "meaning": "to be",
+          "sound": "bi-ti"
+        },
+        {
+          "word": "više",
+          "meaning": "more",
+          "sound": "vi-še"
+        },
+        {
+          "word": "prilika",
+          "meaning": "opportunity",
+          "sound": "pri-li-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mnogo",
+          "meaning": "a lot",
+          "sound": "mno-go"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "stvari",
+          "meaning": "things",
+          "sound": "stva-ri"
+        },
+        {
+          "word": "ostavio",
+          "meaning": "left",
+          "sound": "os-ta-vi-o"
+        },
+        {
+          "word": "za",
+          "meaning": "for",
+          "sound": "za"
+        },
+        {
+          "word": "kasnije",
+          "meaning": "later",
+          "sound": "kas-ni-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednog",
+          "meaning": "one",
+          "sound": "jed-nog"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "prijatelj",
+          "meaning": "a friend",
+          "sound": "pri-ja-telj"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "rekao",
+          "meaning": "said",
+          "sound": "re-ka-o"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vrijeme",
+          "meaning": "time",
+          "sound": "vri-je-me"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "čeka",
+          "meaning": "is waiting",
+          "sound": "če-ka"
+        },
+        {
+          "word": "nikoga",
+          "meaning": "nobody",
+          "sound": "ni-ko-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "that",
+          "sound": "ta"
+        },
+        {
+          "word": "fraza",
+          "meaning": "phrase",
+          "sound": "fra-za"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "ostala",
+          "meaning": "the rest",
+          "sound": "os-ta-la"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "mislima",
+          "meaning": "thoughts",
+          "sound": "mis-li-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "tada",
+          "meaning": "then",
+          "sound": "ta-da"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "počeo",
+          "meaning": "started",
+          "sound": "po-če-o"
+        },
+        {
+          "word": "cijeniti",
+          "meaning": "appreciate",
+          "sound": "ci-je-ni-ti"
+        },
+        {
+          "word": "svaki",
+          "meaning": "each one",
+          "sound": "sva-ki"
+        },
+        {
+          "word": "trenutak",
+          "meaning": "a moment",
+          "sound": "tre-nu-tak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naučila",
+          "meaning": "learned",
+          "sound": "na-u-či-la"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "organizujem",
+          "meaning": "i organize",
+          "sound": "or-ga-ni-zu-jem"
+        },
+        {
+          "word": "svoj",
+          "meaning": "own",
+          "sound": "svoj"
+        },
+        {
+          "word": "dan",
+          "meaning": "day",
+          "sound": "dan"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "dam",
+          "meaning": "dam",
+          "sound": "dam"
+        },
+        {
+          "word": "prioritet",
+          "meaning": "priority",
+          "sound": "pri-o-ri-tet"
+        },
+        {
+          "word": "onome",
+          "meaning": "to that one",
+          "sound": "o-no-me"
+        },
+        {
+          "word": "što",
+          "meaning": "what",
+          "sound": "što"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "važno",
+          "meaning": "important",
+          "sound": "važ-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Također",
+          "meaning": "also",
+          "sound": "ta-ko-đer"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "shvatio",
+          "meaning": "understood",
+          "sound": "shva-ti-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "mora",
+          "meaning": "must",
+          "sound": "mo-ra"
+        },
+        {
+          "word": "sve",
+          "meaning": "everything",
+          "sound": "sve"
+        },
+        {
+          "word": "biti",
+          "meaning": "to be",
+          "sound": "bi-ti"
+        },
+        {
+          "word": "savršeno",
+          "meaning": "perfect",
+          "sound": "sav-rše-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "pokušavam",
+          "meaning": "i'm trying",
+          "sound": "po-ku-ša-vam"
+        },
+        {
+          "word": "živjeti",
+          "meaning": "to live",
+          "sound": "živ-je-ti"
+        },
+        {
+          "word": "s",
+          "meaning": "s",
+          "sound": "s"
+        },
+        {
+          "word": "više",
+          "meaning": "more",
+          "sound": "vi-še"
+        },
+        {
+          "word": "svijesti",
+          "meaning": "consciousness",
+          "sound": "svi-jes-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jer",
+          "meaning": "because",
+          "sound": "jer"
+        },
+        {
+          "word": "vrijeme",
+          "meaning": "time",
+          "sound": "vri-je-me"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "najvrednije",
+          "meaning": "most valuable",
+          "sound": "naj-vred-ni-je"
+        },
+        {
+          "word": "što",
+          "meaning": "what",
+          "sound": "što"
+        },
+        {
+          "word": "imamo",
+          "meaning": "we have",
+          "sound": "i-ma-mo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Odluke koje menjaju život",
+      "content": [
+        {
+          "word": "Ponekad",
+          "meaning": "sometimes",
+          "sound": "po-ne-kad"
+        },
+        {
+          "word": "razmišljam",
+          "meaning": "i'm thinking",
+          "sound": "raz-miš-ljam"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "odlukama",
+          "meaning": "decisions",
+          "sound": "o-dlu-ka-ma"
+        },
+        {
+          "word": "koje",
+          "meaning": "which",
+          "sound": "ko-je"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "donosio",
+          "meaning": "brought",
+          "sound": "do-no-si-o"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "prošlosti",
+          "meaning": "of the past",
+          "sound": "proš-los-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Neki",
+          "meaning": "some",
+          "sound": "ne-ki"
+        },
+        {
+          "word": "su",
+          "meaning": "are",
+          "sound": "su"
+        },
+        {
+          "word": "bili",
+          "meaning": "were",
+          "sound": "bi-li"
+        },
+        {
+          "word": "tačni",
+          "meaning": "accurate",
+          "sound": "tač-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "drugi",
+          "meaning": "others",
+          "sound": "dru-gi"
+        },
+        {
+          "word": "nisu",
+          "meaning": "they are not",
+          "sound": "ni-su"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ponekad",
+          "meaning": "sometimes",
+          "sound": "po-ne-kad"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "pitam",
+          "meaning": "i ask",
+          "sound": "pi-tam"
+        },
+        {
+          "word": "šta",
+          "meaning": "what",
+          "sound": "šta"
+        },
+        {
+          "word": "bi",
+          "meaning": "would",
+          "sound": "bi"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "desilo",
+          "meaning": "happened",
+          "sound": "de-si-lo"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "izabrao",
+          "meaning": "chose",
+          "sound": "i-za-bra-o"
+        },
+        {
+          "word": "drugi",
+          "meaning": "others",
+          "sound": "dru-gi"
+        },
+        {
+          "word": "put",
+          "meaning": "road",
+          "sound": "put"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Možda",
+          "meaning": "maybe",
+          "sound": "mož-da"
+        },
+        {
+          "word": "bih",
+          "meaning": "i would",
+          "sound": "bih"
+        },
+        {
+          "word": "bio",
+          "meaning": "was",
+          "sound": "bi-o"
+        },
+        {
+          "word": "uspješniji",
+          "meaning": "more successful",
+          "sound": "us-pješ-ni-ji"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "možda",
+          "meaning": "maybe",
+          "sound": "mož-da"
+        },
+        {
+          "word": "bih",
+          "meaning": "i would",
+          "sound": "bih"
+        },
+        {
+          "word": "manje",
+          "meaning": "less",
+          "sound": "man-je"
+        },
+        {
+          "word": "naučio",
+          "meaning": "learned",
+          "sound": "na-u-či-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Međutim",
+          "meaning": "however",
+          "sound": "me-đu-tim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "shvatio",
+          "meaning": "understood",
+          "sound": "shva-ti-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "nema",
+          "meaning": "there is none",
+          "sound": "ne-ma"
+        },
+        {
+          "word": "smisla",
+          "meaning": "sense",
+          "sound": "smis-la"
+        },
+        {
+          "word": "živjeti",
+          "meaning": "to live",
+          "sound": "živ-je-ti"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "prošlosti",
+          "meaning": "of the past",
+          "sound": "proš-los-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Svaka",
+          "meaning": "each one",
+          "sound": "sva-ka"
+        },
+        {
+          "word": "odluka",
+          "meaning": "decision",
+          "sound": "o-dlu-ka"
+        },
+        {
+          "word": "me",
+          "meaning": "me",
+          "sound": "me"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "nečemu",
+          "meaning": "something",
+          "sound": "ne-če-mu"
+        },
+        {
+          "word": "naučila",
+          "meaning": "learned",
+          "sound": "na-u-či-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Čak",
+          "meaning": "even",
+          "sound": "čak"
+        },
+        {
+          "word": "su",
+          "meaning": "are",
+          "sound": "su"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "greške",
+          "meaning": "errors",
+          "sound": "greš-ke"
+        },
+        {
+          "word": "bile",
+          "meaning": "were",
+          "sound": "bi-le"
+        },
+        {
+          "word": "važne",
+          "meaning": "important",
+          "sound": "važ-ne"
+        },
+        {
+          "word": "lekcije",
+          "meaning": "lessons",
+          "sound": "lek-ci-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Danas",
+          "meaning": "today",
+          "sound": "da-nas"
+        },
+        {
+          "word": "pokušavam",
+          "meaning": "i'm trying",
+          "sound": "po-ku-ša-vam"
+        },
+        {
+          "word": "donositi",
+          "meaning": "to bring",
+          "sound": "do-no-si-ti"
+        },
+        {
+          "word": "odluke",
+          "meaning": "decisions",
+          "sound": "o-dlu-ke"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "više",
+          "meaning": "more",
+          "sound": "vi-še"
+        },
+        {
+          "word": "svijesti",
+          "meaning": "consciousness",
+          "sound": "svi-jes-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "mogu",
+          "meaning": "i can",
+          "sound": "mo-gu"
+        },
+        {
+          "word": "promijeniti",
+          "meaning": "to change",
+          "sound": "pro-mi-je-ni-ti"
+        },
+        {
+          "word": "ono",
+          "meaning": "that",
+          "sound": "o-no"
+        },
+        {
+          "word": "što",
+          "meaning": "what",
+          "sound": "što"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "već",
+          "meaning": "already",
+          "sound": "već"
+        },
+        {
+          "word": "dogodilo",
+          "meaning": "happened",
+          "sound": "do-go-di-lo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "mogu",
+          "meaning": "i can",
+          "sound": "mo-gu"
+        },
+        {
+          "word": "odlučiti",
+          "meaning": "to decide",
+          "sound": "o-dlu-či-ti"
+        },
+        {
+          "word": "o",
+          "meaning": "fr",
+          "sound": "o"
+        },
+        {
+          "word": "svojoj",
+          "meaning": "own",
+          "sound": "svo-joj"
+        },
+        {
+          "word": "budućnosti",
+          "meaning": "of the future",
+          "sound": "bu-duć-nos-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Unutrašnji glas",
+      "content": [
+        {
+          "word": "Dugo",
+          "meaning": "for a long time",
+          "sound": "du-go"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "živeo",
+          "meaning": "lived",
+          "sound": "ži-ve-o"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "skladu",
+          "meaning": "according to",
+          "sound": "skla-du"
+        },
+        {
+          "word": "sa",
+          "meaning": "with",
+          "sound": "sa"
+        },
+        {
+          "word": "očekivanjima",
+          "meaning": "expectations",
+          "sound": "o-če-ki-van-ji-ma"
+        },
+        {
+          "word": "drugih",
+          "meaning": "others",
+          "sound": "dru-gih"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vjerovao",
+          "meaning": "believed",
+          "sound": "vje-ro-va-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "to",
+          "meaning": "that",
+          "sound": "to"
+        },
+        {
+          "word": "pravi",
+          "meaning": "the real one",
+          "sound": "pra-vi"
+        },
+        {
+          "word": "put",
+          "meaning": "road",
+          "sound": "put"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Međutim",
+          "meaning": "however",
+          "sound": "me-đu-tim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "duboko",
+          "meaning": "deeply",
+          "sound": "du-bo-ko"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "sebi",
+          "meaning": "to himself",
+          "sound": "se-bi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "uvijek",
+          "meaning": "always",
+          "sound": "u-vi-jek"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "postojao",
+          "meaning": "existed",
+          "sound": "pos-to-ja-o"
+        },
+        {
+          "word": "glas",
+          "meaning": "voice",
+          "sound": "glas"
+        },
+        {
+          "word": "koji",
+          "meaning": "which",
+          "sound": "ko-ji"
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "govorio",
+          "meaning": "spoke",
+          "sound": "go-vo-ri-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "nešto",
+          "meaning": "something",
+          "sound": "neš-to"
+        },
+        {
+          "word": "nije",
+          "meaning": "it is not",
+          "sound": "ni-je"
+        },
+        {
+          "word": "u",
+          "meaning": "in",
+          "sound": "u"
+        },
+        {
+          "word": "redu",
+          "meaning": "ok",
+          "sound": "re-du"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pokušao",
+          "meaning": "tried it",
+          "sound": "po-ku-ša-o"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "to",
+          "meaning": "that",
+          "sound": "to"
+        },
+        {
+          "word": "ignorirati",
+          "meaning": "to ignore",
+          "sound": "ig-no-ri-ra-ti"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "je",
+          "meaning": "is",
+          "sound": "je"
+        },
+        {
+          "word": "postajalo",
+          "meaning": "was becoming",
+          "sound": "pos-ta-ja-lo"
+        },
+        {
+          "word": "sve",
+          "meaning": "everything",
+          "sound": "sve"
+        },
+        {
+          "word": "glasnije",
+          "meaning": "louder",
+          "sound": "glas-ni-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jednog",
+          "meaning": "one",
+          "sound": "jed-nog"
+        },
+        {
+          "word": "dana",
+          "meaning": "days",
+          "sound": "da-na"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "stao",
+          "meaning": "stopped",
+          "sound": "sta-o"
+        },
+        {
+          "word": "i",
+          "meaning": "and",
+          "sound": "i"
+        },
+        {
+          "word": "pitao",
+          "meaning": "asked",
+          "sound": "pi-ta-o"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "šta",
+          "meaning": "what",
+          "sound": "šta"
+        },
+        {
+          "word": "zaista",
+          "meaning": "indeed",
+          "sound": "za-is-ta"
+        },
+        {
+          "word": "želim",
+          "meaning": "i want",
+          "sound": "že-lim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Odgovor",
+          "meaning": "the answer",
+          "sound": "od-go-vor"
+        },
+        {
+          "word": "nije",
+          "meaning": "it is not",
+          "sound": "ni-je"
+        },
+        {
+          "word": "bio",
+          "meaning": "was",
+          "sound": "bi-o"
+        },
+        {
+          "word": "trenutan",
+          "meaning": "instant",
+          "sound": "tre-nu-tan"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ali",
+          "meaning": "but",
+          "sound": "a-li"
+        },
+        {
+          "word": "po",
+          "meaning": "by",
+          "sound": "po"
+        },
+        {
+          "word": "prvi",
+          "meaning": "the first",
+          "sound": "prvi"
+        },
+        {
+          "word": "put",
+          "meaning": "road",
+          "sound": "put"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "se",
+          "meaning": "are",
+          "sound": "se"
+        },
+        {
+          "word": "osjećala",
+          "meaning": "felt",
+          "sound": "os-je-ća-la"
+        },
+        {
+          "word": "kao",
+          "meaning": "like",
+          "sound": "ka-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "me",
+          "meaning": "me",
+          "sound": "me"
+        },
+        {
+          "word": "sluša",
+          "meaning": "listens",
+          "sound": "slu-ša"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Od",
+          "meaning": "from",
+          "sound": "od"
+        },
+        {
+          "word": "tada",
+          "meaning": "then",
+          "sound": "ta-da"
+        },
+        {
+          "word": "sam",
+          "meaning": "alone",
+          "sound": "sam"
+        },
+        {
+          "word": "naučio",
+          "meaning": "learned",
+          "sound": "na-u-či-o"
+        },
+        {
+          "word": "da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": "unutrašnji",
+          "meaning": "internal",
+          "sound": "u-nu-traš-nji"
+        },
+        {
+          "word": "glas",
+          "meaning": "voice",
+          "sound": "glas"
+        },
+        {
+          "word": "nije",
+          "meaning": "it is not",
+          "sound": "ni-je"
+        },
+        {
+          "word": "prepreka",
+          "meaning": "obstacle",
+          "sound": "pre-pre-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "već",
+          "meaning": "already",
+          "sound": "već"
+        },
+        {
+          "word": "vodič",
+          "meaning": "a guide",
+          "sound": "vo-dič"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "bosnian": {
+        "present": [
+          "Jedem",
+          "jabuku"
+        ],
+        "past": [
+          "Pojeo",
+          "sam",
+          "jabuku"
+        ],
+        "future": [
+          "Poješću",
+          "jabuku"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "bosnian": {
+        "present": [
+          "Ona",
+          "čita",
+          "knjigu"
+        ],
+        "past": [
+          "Pročitala",
+          "je",
+          "knjigu"
+        ],
+        "future": [
+          "Ona",
+          "će",
+          "pročitati",
+          "knjigu"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "bosnian": {
+        "present": [
+          "Idemo",
+          "u",
+          "školu"
+        ],
+        "past": [
+          "Išli",
+          "smo",
+          "u",
+          "školu"
+        ],
+        "future": [
+          "Ići",
+          "ćemo",
+          "u",
+          "školu"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "bosnian": {
+        "present": [
+          "Pije",
+          "vodu"
+        ],
+        "past": [
+          "Pio",
+          "je",
+          "vodu"
+        ],
+        "future": [
+          "On",
+          "će",
+          "piti",
+          "vodu"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "bosnian": {
+        "present": [
+          "Oni",
+          "igraju",
+          "fudbal"
+        ],
+        "past": [
+          "Igrali",
+          "su",
+          "fudbal"
+        ],
+        "future": [
+          "Oni",
+          "će",
+          "igrati",
+          "fudbal"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "bosnian": {
+        "present": [
+          "Pišem",
+          "pismo"
+        ],
+        "past": [
+          "Napisao",
+          "sam",
+          "pismo"
+        ],
+        "future": [
+          "Napisaću",
+          "pismo"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "bosnian": {
+        "present": [
+          "Ona",
+          "jede",
+          "pirinač"
+        ],
+        "past": [
+          "Jela",
+          "je",
+          "pirinač"
+        ],
+        "future": [
+          "Ona",
+          "će",
+          "jesti",
+          "pirinač"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "bosnian": {
+        "present": [
+          "Gledamo",
+          "film"
+        ],
+        "past": [
+          "Gledali",
+          "smo",
+          "film"
+        ],
+        "future": [
+          "Gledaćemo",
+          "film"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "bosnian": {
+        "present": [
+          "On",
+          "otvara",
+          "vrata"
+        ],
+        "past": [
+          "Otvorio",
+          "je",
+          "vrata"
+        ],
+        "future": [
+          "On",
+          "će",
+          "otvoriti",
+          "vrata"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "bosnian": {
+        "present": [
+          "Kupuju",
+          "hranu"
+        ],
+        "past": [
+          "Kupili",
+          "su",
+          "hranu"
+        ],
+        "future": [
+          "Oni",
+          "će",
+          "kupiti",
+          "hranu"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "bosnian": {
+        "present": [
+          "Jedem",
+          "jabuku",
+          "i",
+          "pijem",
+          "vodu"
+        ],
+        "past": [
+          "Pojeo",
+          "sam",
+          "jabuku",
+          "i",
+          "popio",
+          "vodu"
+        ],
+        "future": [
+          "Poješću",
+          "jabuku",
+          "i",
+          "piti",
+          "vodu"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "bosnian": {
+        "present": [
+          "Ona",
+          "čita",
+          "knjigu",
+          "jer",
+          "voli",
+          "priče"
+        ],
+        "past": [
+          "Čitala",
+          "je",
+          "knjigu",
+          "jer",
+          "je",
+          "volela",
+          "priče"
+        ],
+        "future": [
+          "Ona",
+          "će",
+          "čitati",
+          "knjigu",
+          "jer",
+          "voli",
+          "priče"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "bosnian": {
+        "present": [
+          "Idemo",
+          "u",
+          "školu",
+          "i",
+          "učimo",
+          "zajedno"
+        ],
+        "past": [
+          "Išli",
+          "smo",
+          "u",
+          "školu",
+          "i",
+          "učili",
+          "zajedno"
+        ],
+        "future": [
+          "Ići",
+          "ćemo",
+          "u",
+          "školu",
+          "i",
+          "učiti",
+          "zajedno"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "bosnian": {
+        "present": [
+          "Pije",
+          "vodu",
+          "ali",
+          "jede",
+          "brzu",
+          "hranu"
+        ],
+        "past": [
+          "Pio",
+          "je",
+          "vodu",
+          "ali",
+          "jeo",
+          "brzu",
+          "hranu"
+        ],
+        "future": [
+          "Pit",
+          "će",
+          "vodu",
+          "ali",
+          "jesti",
+          "brzu",
+          "hranu"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "bosnian": {
+        "present": [
+          "Igraju",
+          "fudbal",
+          "i",
+          "trče",
+          "po",
+          "parku"
+        ],
+        "past": [
+          "Igrali",
+          "su",
+          "fudbal",
+          "i",
+          "trčali",
+          "po",
+          "parku"
+        ],
+        "future": [
+          "Igrat",
+          "će",
+          "fudbal",
+          "i",
+          "trčati",
+          "po",
+          "parku"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "bosnian": {
+        "present": [
+          "Pišem",
+          "pismo",
+          "jer",
+          "mi",
+          "nedostaješ"
+        ],
+        "past": [
+          "Napisao",
+          "sam",
+          "pismo",
+          "jer",
+          "si",
+          "mi",
+          "nedostajao"
+        ],
+        "future": [
+          "Napisaću",
+          "pismo",
+          "jer",
+          "mi",
+          "nedostaješ"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "bosnian": {
+        "present": [
+          "Ona",
+          "jede",
+          "pirinač",
+          "i",
+          "kuva",
+          "svaki",
+          "dan"
+        ],
+        "past": [
+          "Svaki",
+          "dan",
+          "je",
+          "jela",
+          "pirinač",
+          "i",
+          "kuvala"
+        ],
+        "future": [
+          "Svaki",
+          "dan",
+          "će",
+          "jesti",
+          "pirinač",
+          "i",
+          "kuvati"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "bosnian": {
+        "present": [
+          "Gledamo",
+          "film",
+          "ali",
+          "spavamo",
+          "do",
+          "kasno"
+        ],
+        "past": [
+          "Gledali",
+          "smo",
+          "film",
+          "ali",
+          "smo",
+          "kasno",
+          "spavali"
+        ],
+        "future": [
+          "Gledaćemo",
+          "film",
+          "ali",
+          "spavamo",
+          "do",
+          "kasno"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "bosnian": {
+        "present": [
+          "Otvara",
+          "vrata",
+          "i",
+          "pozdravlja",
+          "ljude"
+        ],
+        "past": [
+          "Otvorio",
+          "je",
+          "vrata",
+          "i",
+          "pozdravio",
+          "ljude"
+        ],
+        "future": [
+          "On",
+          "će",
+          "otvoriti",
+          "vrata",
+          "i",
+          "pozdraviti",
+          "ljude"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "bosnian": {
+        "present": [
+          "Hranu",
+          "kupuju",
+          "jer",
+          "su",
+          "gladni"
+        ],
+        "past": [
+          "Kupovali",
+          "su",
+          "hranu",
+          "jer",
+          "su",
+          "bili",
+          "gladni"
+        ],
+        "future": [
+          "Kupovaće",
+          "hranu",
+          "jer",
+          "su",
+          "gladni"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "bosnian": {
+        "present": [
+          "Ujutro",
+          "doručkujem"
+        ],
+        "past": [
+          "Ujutro",
+          "sam",
+          "doručkovao"
+        ],
+        "future": [
+          "Ujutro",
+          "ću",
+          "doručkovati"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "bosnian": {
+        "present": [
+          "Svaki",
+          "dan",
+          "uči",
+          "kod",
+          "kuće"
+        ],
+        "past": [
+          "Učila",
+          "je",
+          "kod",
+          "kuće",
+          "svaki",
+          "dan"
+        ],
+        "future": [
+          "Svaki",
+          "dan",
+          "će",
+          "učiti",
+          "kod",
+          "kuće"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "bosnian": {
+        "present": [
+          "Uveče",
+          "šetamo",
+          "parkom"
+        ],
+        "past": [
+          "Uveče",
+          "smo",
+          "šetali",
+          "parkom"
+        ],
+        "future": [
+          "Uveče",
+          "ćemo",
+          "prošetati",
+          "parkom"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "bosnian": {
+        "present": [
+          "Radi",
+          "u",
+          "kancelariji",
+          "u",
+          "gradu"
+        ],
+        "past": [
+          "Radio",
+          "je",
+          "u",
+          "kancelariji",
+          "u",
+          "gradu"
+        ],
+        "future": [
+          "Radiće",
+          "u",
+          "kancelariji",
+          "u",
+          "gradu"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "bosnian": {
+        "present": [
+          "Svake",
+          "godine",
+          "putuju",
+          "u",
+          "drugu",
+          "zemlju"
+        ],
+        "past": [
+          "Svake",
+          "godine",
+          "su",
+          "putovali",
+          "u",
+          "drugu",
+          "zemlju"
+        ],
+        "future": [
+          "Svake",
+          "godine",
+          "će",
+          "putovati",
+          "u",
+          "drugu",
+          "zemlju"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "bosnian": {
+        "present": [
+          "Čitam",
+          "knjigu",
+          "uveče",
+          "pre",
+          "spavanja"
+        ],
+        "past": [
+          "Čitam",
+          "knjigu",
+          "uveče",
+          "pre",
+          "spavanja"
+        ],
+        "future": [
+          "Čitaću",
+          "knjigu",
+          "uveče",
+          "pre",
+          "spavanja"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "bosnian": {
+        "present": [
+          "Pije",
+          "kafu",
+          "ujutro",
+          "kod",
+          "kuće"
+        ],
+        "past": [
+          "Pila",
+          "je",
+          "kafu",
+          "ujutro",
+          "kod",
+          "kuće"
+        ],
+        "future": [
+          "Ujutru",
+          "će",
+          "piti",
+          "kafu",
+          "kod",
+          "kuće"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "bosnian": {
+        "present": [
+          "Večeras",
+          "se",
+          "sastajemo",
+          "sa",
+          "prijateljima",
+          "u",
+          "restoranu"
+        ],
+        "past": [
+          "Večeras",
+          "smo",
+          "se",
+          "našli",
+          "sa",
+          "prijateljima",
+          "u",
+          "restoranu"
+        ],
+        "future": [
+          "Večeras",
+          "ćemo",
+          "se",
+          "naći",
+          "sa",
+          "prijateljima",
+          "u",
+          "restoranu"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "bosnian": {
+        "present": [
+          "Svaki",
+          "dan",
+          "uči",
+          "španski",
+          "u",
+          "školi"
+        ],
+        "past": [
+          "Učio",
+          "je",
+          "španski",
+          "u",
+          "školi",
+          "svaki",
+          "dan"
+        ],
+        "future": [
+          "Svaki",
+          "dan",
+          "će",
+          "učiti",
+          "španski",
+          "u",
+          "školi"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "bosnian": {
+        "present": [
+          "Uveče",
+          "kod",
+          "kuće",
+          "gledaju",
+          "televiziju"
+        ],
+        "past": [
+          "Uveče",
+          "su",
+          "kod",
+          "kuće",
+          "gledali",
+          "televiziju"
+        ],
+        "future": [
+          "Uveče",
+          "će",
+          "kod",
+          "kuće",
+          "gledati",
+          "televiziju"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "bosnian": {
+        "present": [
+          "Sviđa",
+          "mi",
+          "se",
+          "ova",
+          "muzika"
+        ],
+        "past": [
+          "Svidjela",
+          "mi",
+          "se",
+          "ova",
+          "muzika"
+        ],
+        "future": [
+          "Svideće",
+          "mi",
+          "se",
+          "ova",
+          "muzika"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "bosnian": {
+        "present": [
+          "Danas",
+          "se",
+          "oseća",
+          "srećno"
+        ],
+        "past": [
+          "Danas",
+          "se",
+          "osjećala",
+          "sretno"
+        ],
+        "future": [
+          "Danas",
+          "će",
+          "se",
+          "osećati",
+          "srećno"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "bosnian": {
+        "present": [
+          "Mislimo",
+          "da",
+          "je",
+          "ova",
+          "ideja",
+          "dobra"
+        ],
+        "past": [
+          "Mislili",
+          "smo",
+          "da",
+          "je",
+          "ova",
+          "ideja",
+          "dobra"
+        ],
+        "future": [
+          "Smatraćemo",
+          "da",
+          "je",
+          "ova",
+          "ideja",
+          "dobra"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "bosnian": {
+        "present": [
+          "Želi",
+          "da",
+          "nauči",
+          "španski"
+        ],
+        "past": [
+          "Želeo",
+          "je",
+          "da",
+          "nauči",
+          "španski"
+        ],
+        "future": [
+          "Željeće",
+          "da",
+          "nauči",
+          "španski"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "bosnian": {
+        "present": [
+          "Jako",
+          "vole",
+          "svoju",
+          "porodicu"
+        ],
+        "past": [
+          "Jako",
+          "su",
+          "voljeli",
+          "svoju",
+          "porodicu"
+        ],
+        "future": [
+          "Oni",
+          "će",
+          "jako",
+          "voljeti",
+          "svoju",
+          "porodicu"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "bosnian": {
+        "present": [
+          "Osjećam",
+          "se",
+          "umorno",
+          "nakon",
+          "posla"
+        ],
+        "past": [
+          "Osjećao",
+          "sam",
+          "se",
+          "umorno",
+          "nakon",
+          "posla"
+        ],
+        "future": [
+          "Osećaću",
+          "se",
+          "umorno",
+          "posle",
+          "posla"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "bosnian": {
+        "present": [
+          "Ona",
+          "vjeruje",
+          "u",
+          "sebe"
+        ],
+        "past": [
+          "Vjerovala",
+          "je",
+          "u",
+          "sebe"
+        ],
+        "future": [
+          "Ona",
+          "će",
+          "vjerovati",
+          "u",
+          "sebe"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "bosnian": {
+        "present": [
+          "Volimo",
+          "da",
+          "putujemo",
+          "zajedno"
+        ],
+        "past": [
+          "Voleli",
+          "smo",
+          "da",
+          "putujemo",
+          "zajedno"
+        ],
+        "future": [
+          "Voleli",
+          "bismo",
+          "da",
+          "putujemo",
+          "zajedno"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "bosnian": {
+        "present": [
+          "On",
+          "razmišlja",
+          "o",
+          "svojoj",
+          "budućnosti"
+        ],
+        "past": [
+          "Razmišljao",
+          "je",
+          "o",
+          "svojoj",
+          "budućnosti"
+        ],
+        "future": [
+          "Razmišljaće",
+          "o",
+          "svojoj",
+          "budućnosti"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "bosnian": {
+        "present": [
+          "Osjećaju",
+          "se",
+          "uzbuđeno",
+          "zbog",
+          "putovanja"
+        ],
+        "past": [
+          "Bili",
+          "su",
+          "uzbuđeni",
+          "zbog",
+          "putovanja"
+        ],
+        "future": [
+          "Oni",
+          "će",
+          "se",
+          "osjećati",
+          "uzbuđeno",
+          "zbog",
+          "putovanja"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "bosnian": {
+        "present": [
+          "Trudim",
+          "se",
+          "da",
+          "se",
+          "usavršavam",
+          "svaki",
+          "dan"
+        ],
+        "past": [
+          "Svaki",
+          "dan",
+          "sam",
+          "pokušavao",
+          "da",
+          "se",
+          "poboljšam"
+        ],
+        "future": [
+          "Trudiću",
+          "se",
+          "da",
+          "se",
+          "poboljšavam",
+          "svaki",
+          "dan"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "bosnian": {
+        "present": [
+          "Ona",
+          "želi",
+          "da",
+          "postigne",
+          "svoje",
+          "ciljeve"
+        ],
+        "past": [
+          "Željela",
+          "je",
+          "ostvariti",
+          "svoje",
+          "ciljeve"
+        ],
+        "future": [
+          "Željeće",
+          "da",
+          "ostvari",
+          "svoje",
+          "ciljeve"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "bosnian": {
+        "present": [
+          "Učimo",
+          "na",
+          "svojim",
+          "greškama"
+        ],
+        "past": [
+          "Učili",
+          "smo",
+          "na",
+          "svojim",
+          "greškama"
+        ],
+        "future": [
+          "Učićemo",
+          "na",
+          "svojim",
+          "greškama"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "bosnian": {
+        "present": [
+          "On",
+          "naporno",
+          "radi",
+          "na",
+          "izgradnji",
+          "svoje",
+          "budućnosti"
+        ],
+        "past": [
+          "Naporno",
+          "je",
+          "radio",
+          "da",
+          "izgradi",
+          "svoju",
+          "budućnost"
+        ],
+        "future": [
+          "Naporno",
+          "će",
+          "raditi",
+          "na",
+          "izgradnji",
+          "svoje",
+          "budućnosti"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "bosnian": {
+        "present": [
+          "Vjeruju",
+          "da",
+          "je",
+          "sve",
+          "moguće"
+        ],
+        "past": [
+          "Vjerovali",
+          "su",
+          "da",
+          "je",
+          "sve",
+          "moguće"
+        ],
+        "future": [
+          "Oni",
+          "će",
+          "vjerovati",
+          "da",
+          "je",
+          "sve",
+          "moguće"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "bosnian": {
+        "present": [
+          "Svake",
+          "noći",
+          "razmišljam",
+          "o",
+          "svojoj",
+          "budućnosti"
+        ],
+        "past": [
+          "Svake",
+          "noći",
+          "sam",
+          "razmišljao",
+          "o",
+          "svojoj",
+          "budućnosti"
+        ],
+        "future": [
+          "Svake",
+          "noći",
+          "ću",
+          "razmišljati",
+          "o",
+          "svojoj",
+          "budućnosti"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "bosnian": {
+        "present": [
+          "Trudi",
+          "se",
+          "da",
+          "ostane",
+          "pozitivna",
+          "u",
+          "teškim",
+          "trenucima"
+        ],
+        "past": [
+          "Trudila",
+          "se",
+          "da",
+          "ostane",
+          "pozitivna",
+          "u",
+          "teškim",
+          "trenucima"
+        ],
+        "future": [
+          "Pokušat",
+          "će",
+          "ostati",
+          "pozitivna",
+          "u",
+          "teškim",
+          "trenucima"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "bosnian": {
+        "present": [
+          "Želimo",
+          "da",
+          "živimo",
+          "život",
+          "sa",
+          "smislom"
+        ],
+        "past": [
+          "Željeli",
+          "smo",
+          "da",
+          "živimo",
+          "smislenim",
+          "životom"
+        ],
+        "future": [
+          "Željećemo",
+          "da",
+          "živimo",
+          "smislenim",
+          "životom"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "bosnian": {
+        "present": [
+          "Razumije",
+          "da",
+          "je",
+          "za",
+          "promjenu",
+          "potrebno",
+          "vrijeme"
+        ],
+        "past": [
+          "Shvatio",
+          "je",
+          "da",
+          "je",
+          "za",
+          "promjenu",
+          "potrebno",
+          "vrijeme"
+        ],
+        "future": [
+          "On",
+          "će",
+          "shvatiti",
+          "da",
+          "je",
+          "za",
+          "promjenu",
+          "potrebno",
+          "vrijeme"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "bosnian": {
+        "present": [
+          "Odlučuju",
+          "da",
+          "slijede",
+          "svoje",
+          "snove"
+        ],
+        "past": [
+          "Odlučili",
+          "su",
+          "da",
+          "slijede",
+          "svoje",
+          "snove"
+        ],
+        "future": [
+          "Oni",
+          "će",
+          "odlučiti",
+          "da",
+          "slijede",
+          "svoje",
+          "snove"
+        ]
+      }
+    }
+  ]
+}

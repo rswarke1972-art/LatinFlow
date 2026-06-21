@@ -1,0 +1,6902 @@
+{
+  "language": "Finnish",
+  "stories": {
+    "story1": {
+      "title": "kahvilassa",
+      "content": [
+        {
+          "word": "Käyn",
+          "meaning": "i'm going",
+          "sound": "kä-yn"
+        },
+        {
+          "word": "joka",
+          "meaning": "which",
+          "sound": "jo-ka"
+        },
+        {
+          "word": "aamu",
+          "meaning": "morning",
+          "sound": "a-a-mu"
+        },
+        {
+          "word": "pienessä",
+          "meaning": "in small",
+          "sound": "pi-e-nes-sä"
+        },
+        {
+          "word": "kahvilassa",
+          "meaning": "in the cafe",
+          "sound": "kah-vi-las-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kahvila",
+          "meaning": "cafe",
+          "sound": "kah-vi-la"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "lähellä",
+          "meaning": "close by",
+          "sound": "lä-hel-lä"
+        },
+        {
+          "word": "kotiani",
+          "meaning": "my home",
+          "sound": "ko-ti-a-ni"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "se",
+          "meaning": "it",
+          "sound": "se"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "erittäin",
+          "meaning": "very",
+          "sound": "e-rit-tä-in"
+        },
+        {
+          "word": "hiljainen",
+          "meaning": "silent",
+          "sound": "hil-ja-i-nen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Istun",
+          "meaning": "i'm sitting",
+          "sound": "is-tun"
+        },
+        {
+          "word": "aina",
+          "meaning": "always",
+          "sound": "a-i-na"
+        },
+        {
+          "word": "ikkunan",
+          "meaning": "the window",
+          "sound": "ik-ku-nan"
+        },
+        {
+          "word": "vieressä",
+          "meaning": "next to",
+          "sound": "vi-e-res-sä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tilaan",
+          "meaning": "space",
+          "sound": "ti-la-an"
+        },
+        {
+          "word": "kupin",
+          "meaning": "a cup",
+          "sound": "ku-pin"
+        },
+        {
+          "word": "kuumaa",
+          "meaning": "hot",
+          "sound": "ku-u-ma-a"
+        },
+        {
+          "word": "kahvia",
+          "meaning": "coffee",
+          "sound": "kah-vi-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tarjoilija",
+          "meaning": "the waiter",
+          "sound": "tar-jo-i-li-ja"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "ystävällinen",
+          "meaning": "friendly",
+          "sound": "ys-tä-väl-li-nen"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tervehtii",
+          "meaning": "greets",
+          "sound": "ter-veh-ti-i"
+        },
+        {
+          "word": "minua",
+          "meaning": "me",
+          "sound": "mi-nu-a"
+        },
+        {
+          "word": "aina",
+          "meaning": "always",
+          "sound": "a-i-na"
+        },
+        {
+          "word": "hymyillen",
+          "meaning": "smiling",
+          "sound": "hy-my-il-len"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Joskus",
+          "meaning": "sometimes",
+          "sound": "jos-kus"
+        },
+        {
+          "word": "luen",
+          "meaning": "i'm reading",
+          "sound": "lu-en"
+        },
+        {
+          "word": "mielenkiintoisen",
+          "meaning": "interesting",
+          "sound": "mi-e-len-ki-in-to-i-sen"
+        },
+        {
+          "word": "kirjan",
+          "meaning": "the book",
+          "sound": "kir-jan"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "toisinaan",
+          "meaning": "sometimes",
+          "sound": "to-i-si-na-an"
+        },
+        {
+          "word": "kirjoitan",
+          "meaning": "i'm writing",
+          "sound": "kir-jo-i-tan"
+        },
+        {
+          "word": "vihkoon",
+          "meaning": "to the notebook",
+          "sound": "vih-ko-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tänään",
+          "meaning": "today",
+          "sound": "tä-nä-än"
+        },
+        {
+          "word": "näen",
+          "meaning": "i see",
+          "sound": "nä-en"
+        },
+        {
+          "word": "uuden",
+          "meaning": "the new one",
+          "sound": "u-u-den"
+        },
+        {
+          "word": "ihmisen",
+          "meaning": "human",
+          "sound": "ih-mi-sen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "lukee",
+          "meaning": "reads",
+          "sound": "lu-ke-e"
+        },
+        {
+          "word": "romaania",
+          "meaning": "a novel",
+          "sound": "ro-ma-a-ni-a"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "juo",
+          "meaning": "drink",
+          "sound": "ju-o"
+        },
+        {
+          "word": "teetä",
+          "meaning": "tea",
+          "sound": "te-e-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "utelias",
+          "meaning": "curious",
+          "sound": "u-te-li-as"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "hieman",
+          "meaning": "a little",
+          "sound": "hi-e-man"
+        },
+        {
+          "word": "ujo",
+          "meaning": "shy",
+          "sound": "u-jo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Muutaman",
+          "meaning": "a few",
+          "sound": "mu-u-ta-man"
+        },
+        {
+          "word": "minuutin",
+          "meaning": "a minute",
+          "sound": "mi-nu-u-tin"
+        },
+        {
+          "word": "kuluttua",
+          "meaning": "after",
+          "sound": "ku-lut-tu-a"
+        },
+        {
+          "word": "sanon",
+          "meaning": "i say",
+          "sound": "sa-non"
+        },
+        {
+          "word": "hei",
+          "meaning": "hello",
+          "sound": "he-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "vastaa",
+          "meaning": "answers",
+          "sound": "vas-ta-a"
+        },
+        {
+          "word": "hymyillen",
+          "meaning": "smiling",
+          "sound": "hy-my-il-len"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "alamme",
+          "meaning": "our industry",
+          "sound": "a-lam-me"
+        },
+        {
+          "word": "jutella",
+          "meaning": "to chat",
+          "sound": "ju-tel-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "oloni",
+          "meaning": "my mood",
+          "sound": "o-lo-ni"
+        },
+        {
+          "word": "onnelliseksi",
+          "meaning": "to be happy",
+          "sound": "on-nel-li-sek-si"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "rentoutuneeksi",
+          "meaning": "relaxed",
+          "sound": "ren-to-u-tu-ne-ek-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "puistossa",
+      "content": [
+        {
+          "word": "Tänään",
+          "meaning": "today",
+          "sound": "tä-nä-än"
+        },
+        {
+          "word": "menen",
+          "meaning": "i go",
+          "sound": "me-nen"
+        },
+        {
+          "word": "ystäväni",
+          "meaning": "my friend",
+          "sound": "ys-tä-vä-ni"
+        },
+        {
+          "word": "kanssa",
+          "meaning": "with",
+          "sound": "kan-ssa"
+        },
+        {
+          "word": "puistoon",
+          "meaning": "to the park",
+          "sound": "pu-is-to-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sää",
+          "meaning": "the weather",
+          "sound": "sä-ä"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "erittäin",
+          "meaning": "very",
+          "sound": "e-rit-tä-in"
+        },
+        {
+          "word": "miellyttävä",
+          "meaning": "pleasant",
+          "sound": "mi-el-lyt-tä-vä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "aurinko",
+          "meaning": "the sun",
+          "sound": "a-u-rin-ko"
+        },
+        {
+          "word": "paistaa",
+          "meaning": "shine",
+          "sound": "pa-is-ta-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Näen",
+          "meaning": "i see",
+          "sound": "nä-en"
+        },
+        {
+          "word": "monien",
+          "meaning": "of many",
+          "sound": "mo-ni-en"
+        },
+        {
+          "word": "ihmisten",
+          "meaning": "of people",
+          "sound": "ih-mis-ten"
+        },
+        {
+          "word": "kävelevän",
+          "meaning": "to walk",
+          "sound": "kä-ve-le-vän"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "nauravan",
+          "meaning": "laughing",
+          "sound": "na-u-ra-van"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jotkut",
+          "meaning": "some",
+          "sound": "jot-kut"
+        },
+        {
+          "word": "lapset",
+          "meaning": "children",
+          "sound": "lap-set"
+        },
+        {
+          "word": "leikkivät",
+          "meaning": "are playing",
+          "sound": "le-ik-ki-vät"
+        },
+        {
+          "word": "pallolla",
+          "meaning": "with the ball",
+          "sound": "pal-lol-la"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "toiset",
+          "meaning": "others",
+          "sound": "to-i-set"
+        },
+        {
+          "word": "juoksevat",
+          "meaning": "are running",
+          "sound": "ju-ok-se-vat"
+        },
+        {
+          "word": "nopeasti",
+          "meaning": "quickly",
+          "sound": "no-pe-as-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Istuimme",
+          "meaning": "we sat down",
+          "sound": "is-tu-im-me"
+        },
+        {
+          "word": "ystäväni",
+          "meaning": "my friend",
+          "sound": "ys-tä-vä-ni"
+        },
+        {
+          "word": "kanssa",
+          "meaning": "with",
+          "sound": "kan-ssa"
+        },
+        {
+          "word": "penkillä",
+          "meaning": "on the bench",
+          "sound": "pen-kil-lä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Puhuimme",
+          "meaning": "we talked",
+          "sound": "pu-hu-im-me"
+        },
+        {
+          "word": "elämästämme",
+          "meaning": "of our lives",
+          "sound": "e-lä-mäs-täm-me"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "nauroimme",
+          "meaning": "we laughed",
+          "sound": "na-u-ro-im-me"
+        },
+        {
+          "word": "paljon",
+          "meaning": "a lot",
+          "sound": "pal-jon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sen",
+          "meaning": "that",
+          "sound": "sen"
+        },
+        {
+          "word": "jälkeen",
+          "meaning": "after",
+          "sound": "jäl-ke-en"
+        },
+        {
+          "word": "ostimme",
+          "meaning": "we bought",
+          "sound": "os-tim-me"
+        },
+        {
+          "word": "jäätelöä",
+          "meaning": "ice cream",
+          "sound": "jä-ä-te-lö-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Päivä",
+          "meaning": "a day",
+          "sound": "pä-i-vä"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "yksinkertainen",
+          "meaning": "simple",
+          "sound": "yk-sin-ker-ta-i-nen"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "erittäin",
+          "meaning": "very",
+          "sound": "e-rit-tä-in"
+        },
+        {
+          "word": "kaunis",
+          "meaning": "beautiful",
+          "sound": "ka-u-nis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "kirjastossa",
+      "content": [
+        {
+          "word": "Tänään",
+          "meaning": "today",
+          "sound": "tä-nä-än"
+        },
+        {
+          "word": "menen",
+          "meaning": "i go",
+          "sound": "me-nen"
+        },
+        {
+          "word": "kirjastoon",
+          "meaning": "to the library",
+          "sound": "kir-jas-to-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "rauhallinen",
+          "meaning": "calm",
+          "sound": "ra-u-hal-li-nen"
+        },
+        {
+          "word": "paikka",
+          "meaning": "place",
+          "sound": "pa-ik-ka"
+        },
+        {
+          "word": "täynnä",
+          "meaning": "full",
+          "sound": "tä-yn-nä"
+        },
+        {
+          "word": "kirjoja",
+          "meaning": "books",
+          "sound": "kir-jo-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tykkään",
+          "meaning": "i like it",
+          "sound": "tyk-kä-än"
+        },
+        {
+          "word": "lukea",
+          "meaning": "to read",
+          "sound": "lu-ke-a"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "oppia",
+          "meaning": "to learn",
+          "sound": "op-pi-a"
+        },
+        {
+          "word": "uusia",
+          "meaning": "new ones",
+          "sound": "u-u-si-a"
+        },
+        {
+          "word": "asioita",
+          "meaning": "things",
+          "sound": "a-si-o-i-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etsin",
+          "meaning": "i'm looking",
+          "sound": "et-sin"
+        },
+        {
+          "word": "mielenkiintoista",
+          "meaning": "interesting",
+          "sound": "mi-e-len-ki-in-to-is-ta"
+        },
+        {
+          "word": "kirjaa",
+          "meaning": "records",
+          "sound": "kir-ja-a"
+        },
+        {
+          "word": "historiasta",
+          "meaning": "from history",
+          "sound": "his-to-ri-as-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sen",
+          "meaning": "that",
+          "sound": "sen"
+        },
+        {
+          "word": "jälkeen",
+          "meaning": "after",
+          "sound": "jäl-ke-en"
+        },
+        {
+          "word": "istun",
+          "meaning": "i'm sitting",
+          "sound": "is-tun"
+        },
+        {
+          "word": "pöydän",
+          "meaning": "the table",
+          "sound": "pö-y-dän"
+        },
+        {
+          "word": "ääressä",
+          "meaning": "beside",
+          "sound": "ä-ä-res-sä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "aloin",
+          "meaning": "i started",
+          "sound": "a-lo-in"
+        },
+        {
+          "word": "lukemaan",
+          "meaning": "to read",
+          "sound": "lu-ke-ma-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "On",
+          "meaning": "it is",
+          "sound": "on"
+        },
+        {
+          "word": "muitakin",
+          "meaning": "others too",
+          "sound": "mu-i-ta-kin"
+        },
+        {
+          "word": "ihmisiä",
+          "meaning": "people",
+          "sound": "ih-mi-si-ä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jotka",
+          "meaning": "which",
+          "sound": "jot-ka"
+        },
+        {
+          "word": "opiskelevat",
+          "meaning": "are studying",
+          "sound": "o-pis-ke-le-vat"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "kirjoittavat",
+          "meaning": "are writing",
+          "sound": "kir-jo-it-ta-vat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tunnelma",
+          "meaning": "atmosphere",
+          "sound": "tun-nel-ma"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "erittäin",
+          "meaning": "very",
+          "sound": "e-rit-tä-in"
+        },
+        {
+          "word": "hiljainen",
+          "meaning": "silent",
+          "sound": "hil-ja-i-nen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hetken",
+          "meaning": "a moment",
+          "sound": "het-ken"
+        },
+        {
+          "word": "kuluttua",
+          "meaning": "after",
+          "sound": "ku-lut-tu-a"
+        },
+        {
+          "word": "suljen",
+          "meaning": "i close",
+          "sound": "sul-jen"
+        },
+        {
+          "word": "kirjan",
+          "meaning": "the book",
+          "sound": "kir-jan"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "tyytyväinen",
+          "meaning": "satisfied",
+          "sound": "ty-y-ty-vä-i-nen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "kaupassa",
+      "content": [
+        {
+          "word": "Tänään",
+          "meaning": "today",
+          "sound": "tä-nä-än"
+        },
+        {
+          "word": "menen",
+          "meaning": "i go",
+          "sound": "me-nen"
+        },
+        {
+          "word": "isoon",
+          "meaning": "big",
+          "sound": "i-so-on"
+        },
+        {
+          "word": "kauppaan",
+          "meaning": "to shop",
+          "sound": "ka-up-pa-an"
+        },
+        {
+          "word": "ostamaan",
+          "meaning": "to buy",
+          "sound": "os-ta-ma-an"
+        },
+        {
+          "word": "ruokaa",
+          "meaning": "food",
+          "sound": "ru-o-ka-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tarvitsen",
+          "meaning": "i need",
+          "sound": "tar-vit-sen"
+        },
+        {
+          "word": "leipää",
+          "meaning": "bread",
+          "sound": "le-i-pä-ä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "maitoa",
+          "meaning": "milk",
+          "sound": "ma-i-to-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hedelmiä",
+          "meaning": "fruits",
+          "sound": "he-del-mi-ä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "vihanneksia",
+          "meaning": "vegetables",
+          "sound": "vi-han-nek-si-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kauppa",
+          "meaning": "shop",
+          "sound": "ka-up-pa"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "täynnä",
+          "meaning": "full",
+          "sound": "tä-yn-nä"
+        },
+        {
+          "word": "ihmisiä",
+          "meaning": "people",
+          "sound": "ih-mi-si-ä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "melua",
+          "meaning": "noise",
+          "sound": "me-lu-a"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "kova",
+          "meaning": "tough",
+          "sound": "ko-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etsin",
+          "meaning": "i'm looking",
+          "sound": "et-sin"
+        },
+        {
+          "word": "tuotteita",
+          "meaning": "products",
+          "sound": "tu-ot-te-i-ta"
+        },
+        {
+          "word": "hyllyiltä",
+          "meaning": "from the shelves",
+          "sound": "hyl-ly-il-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nainen",
+          "meaning": "a woman",
+          "sound": "na-i-nen"
+        },
+        {
+          "word": "kysyy",
+          "meaning": "asks",
+          "sound": "ky-sy-y"
+        },
+        {
+          "word": "minulta",
+          "meaning": "from me",
+          "sound": "mi-nul-ta"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Missä",
+          "meaning": "where",
+          "sound": "mis-sä"
+        },
+        {
+          "word": "maito",
+          "meaning": "milk",
+          "sound": "ma-i-to"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sanon",
+          "meaning": "i say",
+          "sound": "sa-non"
+        },
+        {
+          "word": "hänelle",
+          "meaning": "to him",
+          "sound": "hä-nel-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "siellä",
+          "meaning": "there",
+          "sound": "si-el-lä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "leivän",
+          "meaning": "bread",
+          "sound": "le-i-vän"
+        },
+        {
+          "word": "vieressä",
+          "meaning": "next to",
+          "sound": "vi-e-res-sä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "hymyilee",
+          "meaning": "smiling",
+          "sound": "hy-my-i-le-e"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "sanoo",
+          "meaning": "says",
+          "sound": "sa-no-o"
+        },
+        {
+          "word": "kiitos",
+          "meaning": "thank you",
+          "sound": "ki-i-tos"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sitten",
+          "meaning": "then",
+          "sound": "sit-ten"
+        },
+        {
+          "word": "menen",
+          "meaning": "i go",
+          "sound": "me-nen"
+        },
+        {
+          "word": "kassalle",
+          "meaning": "to the cashier",
+          "sound": "kas-sal-le"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "maksan",
+          "meaning": "i pay",
+          "sound": "mak-san"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lähden",
+          "meaning": "i'm leaving",
+          "sound": "läh-den"
+        },
+        {
+          "word": "kaupasta",
+          "meaning": "from the store",
+          "sound": "ka-u-pas-ta"
+        },
+        {
+          "word": "täynnä",
+          "meaning": "full",
+          "sound": "tä-yn-nä"
+        },
+        {
+          "word": "laukkua",
+          "meaning": "bag",
+          "sound": "la-uk-ku-a"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "onnellinen",
+          "meaning": "happy",
+          "sound": "on-nel-li-nen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "bussissa",
+      "content": [
+        {
+          "word": "Tänään",
+          "meaning": "today",
+          "sound": "tä-nä-än"
+        },
+        {
+          "word": "menen",
+          "meaning": "i go",
+          "sound": "me-nen"
+        },
+        {
+          "word": "bussilla",
+          "meaning": "by bus",
+          "sound": "bus-sil-la"
+        },
+        {
+          "word": "töihin",
+          "meaning": "to work",
+          "sound": "tö-i-hin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bussi",
+          "meaning": "bus",
+          "sound": "bus-si"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "täynnä",
+          "meaning": "full",
+          "sound": "tä-yn-nä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "eikä",
+          "meaning": "and no",
+          "sound": "e-i-kä"
+        },
+        {
+          "word": "siellä",
+          "meaning": "there",
+          "sound": "si-el-lä"
+        },
+        {
+          "word": "ole",
+          "meaning": "don't be",
+          "sound": "o-le"
+        },
+        {
+          "word": "paljon",
+          "meaning": "a lot",
+          "sound": "pal-jon"
+        },
+        {
+          "word": "tilaa",
+          "meaning": "order",
+          "sound": "ti-la-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "hieman",
+          "meaning": "a little",
+          "sound": "hi-e-man"
+        },
+        {
+          "word": "väsynyt",
+          "meaning": "tired",
+          "sound": "vä-sy-nyt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "näen",
+          "meaning": "i see",
+          "sound": "nä-en"
+        },
+        {
+          "word": "vanhan",
+          "meaning": "the old one",
+          "sound": "van-han"
+        },
+        {
+          "word": "ihmisen",
+          "meaning": "human",
+          "sound": "ih-mi-sen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tarjoan",
+          "meaning": "i offer",
+          "sound": "tar-jo-an"
+        },
+        {
+          "word": "sinulle",
+          "meaning": "to you",
+          "sound": "si-nul-le"
+        },
+        {
+          "word": "istuimeni",
+          "meaning": "my seat",
+          "sound": "is-tu-i-me-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "sanoo",
+          "meaning": "says",
+          "sound": "sa-no-o"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oletko",
+          "meaning": "are you",
+          "sound": "o-let-ko"
+        },
+        {
+          "word": "varma",
+          "meaning": "sure",
+          "sound": "var-ma"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vastaan",
+          "meaning": "i answer",
+          "sound": "vas-ta-an"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kyllä",
+          "meaning": "yes",
+          "sound": "kyl-lä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "hätää",
+          "meaning": "don't worry",
+          "sound": "hä-tä-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "hymyilee",
+          "meaning": "smiling",
+          "sound": "hy-my-i-le-e"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "kiittää",
+          "meaning": "to thank",
+          "sound": "ki-it-tä-ä"
+        },
+        {
+          "word": "minua",
+          "meaning": "me",
+          "sound": "mi-nu-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Matkan",
+          "meaning": "i'm traveling",
+          "sound": "mat-kan"
+        },
+        {
+          "word": "aikana",
+          "meaning": "during",
+          "sound": "a-i-ka-na"
+        },
+        {
+          "word": "katson",
+          "meaning": "i look",
+          "sound": "kat-son"
+        },
+        {
+          "word": "ulos",
+          "meaning": "out",
+          "sound": "u-los"
+        },
+        {
+          "word": "ikkunasta",
+          "meaning": "from the window",
+          "sound": "ik-ku-nas-ta"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "mietin",
+          "meaning": "i'm thinking",
+          "sound": "mi-e-tin"
+        },
+        {
+          "word": "päivääni",
+          "meaning": "my day",
+          "sound": "pä-i-vä-ä-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaikka",
+          "meaning": "although",
+          "sound": "va-ik-ka"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "väsynyt",
+          "meaning": "tired",
+          "sound": "vä-sy-nyt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tuntuu",
+          "meaning": "feel",
+          "sound": "tun-tu-u"
+        },
+        {
+          "word": "hyvältä",
+          "meaning": "good",
+          "sound": "hy-väl-tä"
+        },
+        {
+          "word": "auttaa",
+          "meaning": "to help",
+          "sound": "a-ut-ta-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Eilen rannalla",
+      "content": [
+        {
+          "word": "Kävin",
+          "meaning": "i went",
+          "sound": "kä-vin"
+        },
+        {
+          "word": "eilen",
+          "meaning": "yesterday",
+          "sound": "e-i-len"
+        },
+        {
+          "word": "ystävieni",
+          "meaning": "my friends",
+          "sound": "ys-tä-vi-e-ni"
+        },
+        {
+          "word": "kanssa",
+          "meaning": "with",
+          "sound": "kan-ssa"
+        },
+        {
+          "word": "rannalla",
+          "meaning": "on the beach",
+          "sound": "ran-nal-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sää",
+          "meaning": "the weather",
+          "sound": "sä-ä"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "täydellinen",
+          "meaning": "perfect",
+          "sound": "tä-y-del-li-nen"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "meri",
+          "meaning": "the sea",
+          "sound": "me-ri"
+        },
+        {
+          "word": "tyyni",
+          "meaning": "the calm",
+          "sound": "ty-y-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kävelimme",
+          "meaning": "we walked",
+          "sound": "kä-ve-lim-me"
+        },
+        {
+          "word": "hiekalla",
+          "meaning": "on the sand",
+          "sound": "hi-e-kal-la"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "keskustelimme",
+          "meaning": "we talked",
+          "sound": "kes-kus-te-lim-me"
+        },
+        {
+          "word": "monista",
+          "meaning": "of many",
+          "sound": "mo-nis-ta"
+        },
+        {
+          "word": "asioista",
+          "meaning": "things",
+          "sound": "a-si-o-is-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sen",
+          "meaning": "that",
+          "sound": "sen"
+        },
+        {
+          "word": "jälkeen",
+          "meaning": "after",
+          "sound": "jäl-ke-en"
+        },
+        {
+          "word": "uimme",
+          "meaning": "we swim",
+          "sound": "u-im-me"
+        },
+        {
+          "word": "kylmässä",
+          "meaning": "in the cold",
+          "sound": "kyl-mäs-sä"
+        },
+        {
+          "word": "vedessä",
+          "meaning": "in the water",
+          "sound": "ve-des-sä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aluksi",
+          "meaning": "at first",
+          "sound": "a-luk-si"
+        },
+        {
+          "word": "olin",
+          "meaning": "i was",
+          "sound": "o-lin"
+        },
+        {
+          "word": "hieman",
+          "meaning": "a little",
+          "sound": "hi-e-man"
+        },
+        {
+          "word": "peloissani",
+          "meaning": "scared",
+          "sound": "pe-lo-is-sa-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "sitten",
+          "meaning": "then",
+          "sound": "sit-ten"
+        },
+        {
+          "word": "tuntui",
+          "meaning": "felt",
+          "sound": "tun-tu-i"
+        },
+        {
+          "word": "hyvältä",
+          "meaning": "good",
+          "sound": "hy-väl-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pelasimme",
+          "meaning": "we played",
+          "sound": "pe-la-sim-me"
+        },
+        {
+          "word": "myös",
+          "meaning": "also",
+          "sound": "my-ös"
+        },
+        {
+          "word": "pallolla",
+          "meaning": "with the ball",
+          "sound": "pal-lol-la"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "nauroimme",
+          "meaning": "we laughed",
+          "sound": "na-u-ro-im-me"
+        },
+        {
+          "word": "paljon",
+          "meaning": "a lot",
+          "sound": "pal-jon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iltapäivällä",
+          "meaning": "in the afternoon",
+          "sound": "il-ta-pä-i-väl-lä"
+        },
+        {
+          "word": "söimme",
+          "meaning": "we ate",
+          "sound": "sö-im-me"
+        },
+        {
+          "word": "yhdessä",
+          "meaning": "together",
+          "sound": "yh-des-sä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "katselimme",
+          "meaning": "we watched",
+          "sound": "kat-se-lim-me"
+        },
+        {
+          "word": "auringonlaskua",
+          "meaning": "sunset",
+          "sound": "a-u-rin-gon-las-ku-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "hyvin",
+          "meaning": "well",
+          "sound": "hy-vin"
+        },
+        {
+          "word": "erityinen",
+          "meaning": "special",
+          "sound": "e-ri-ty-i-nen"
+        },
+        {
+          "word": "päivä",
+          "meaning": "day",
+          "sound": "pä-i-vä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "enkä",
+          "meaning": "and i don't",
+          "sound": "en-kä"
+        },
+        {
+          "word": "koskaan",
+          "meaning": "ever",
+          "sound": "kos-ka-an"
+        },
+        {
+          "word": "unohda",
+          "meaning": "forget it",
+          "sound": "u-noh-da"
+        },
+        {
+          "word": "sitä",
+          "meaning": "that",
+          "sound": "si-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Tärkeä keskustelu",
+      "content": [
+        {
+          "word": "Tänään",
+          "meaning": "today",
+          "sound": "tä-nä-än"
+        },
+        {
+          "word": "tapasin",
+          "meaning": "i met",
+          "sound": "ta-pa-sin"
+        },
+        {
+          "word": "vanhan",
+          "meaning": "the old one",
+          "sound": "van-han"
+        },
+        {
+          "word": "ystäväni",
+          "meaning": "my friend",
+          "sound": "ys-tä-vä-ni"
+        },
+        {
+          "word": "kahvilassa",
+          "meaning": "in the cafe",
+          "sound": "kah-vi-las-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "i don't",
+          "sound": "en"
+        },
+        {
+          "word": "ollut",
+          "meaning": "been",
+          "sound": "ol-lut"
+        },
+        {
+          "word": "nähnyt",
+          "meaning": "seen",
+          "sound": "näh-nyt"
+        },
+        {
+          "word": "häntä",
+          "meaning": "him",
+          "sound": "hän-tä"
+        },
+        {
+          "word": "pitkään",
+          "meaning": "for a long time",
+          "sound": "pit-kä-än"
+        },
+        {
+          "word": "aikaan",
+          "meaning": "at the time",
+          "sound": "a-i-ka-an"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "joten",
+          "meaning": "so",
+          "sound": "jo-ten"
+        },
+        {
+          "word": "olin",
+          "meaning": "i was",
+          "sound": "o-lin"
+        },
+        {
+          "word": "erittäin",
+          "meaning": "very",
+          "sound": "e-rit-tä-in"
+        },
+        {
+          "word": "iloinen",
+          "meaning": "happy",
+          "sound": "i-lo-i-nen"
+        },
+        {
+          "word": "nähdessäni",
+          "meaning": "when i see",
+          "sound": "näh-des-sä-ni"
+        },
+        {
+          "word": "hänet",
+          "meaning": "him",
+          "sound": "hä-net"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Istuimme",
+          "meaning": "we sat down",
+          "sound": "is-tu-im-me"
+        },
+        {
+          "word": "alas",
+          "meaning": "down",
+          "sound": "a-las"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "aloimme",
+          "meaning": "we started",
+          "sound": "a-lo-im-me"
+        },
+        {
+          "word": "puhua",
+          "meaning": "to speak",
+          "sound": "pu-hu-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "kertoi",
+          "meaning": "told",
+          "sound": "ker-to-i"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "asuu",
+          "meaning": "lives",
+          "sound": "a-su-u"
+        },
+        {
+          "word": "nyt",
+          "meaning": "now",
+          "sound": "nyt"
+        },
+        {
+          "word": "toisessa",
+          "meaning": "in the other",
+          "sound": "to-i-ses-sa"
+        },
+        {
+          "word": "kaupungissa",
+          "meaning": "in the city",
+          "sound": "ka-u-pun-gis-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "työskentelee",
+          "meaning": "is working",
+          "sound": "ty-ös-ken-te-le-e"
+        },
+        {
+          "word": "myös",
+          "meaning": "also",
+          "sound": "my-ös"
+        },
+        {
+          "word": "suuressa",
+          "meaning": "in large",
+          "sound": "su-u-res-sa"
+        },
+        {
+          "word": "yrityksessä",
+          "meaning": "in the company",
+          "sound": "y-ri-tyk-ses-sä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kerroin",
+          "meaning": "i told you",
+          "sound": "ker-ro-in"
+        },
+        {
+          "word": "hänelle",
+          "meaning": "to him",
+          "sound": "hä-nel-le"
+        },
+        {
+          "word": "opinnoistani",
+          "meaning": "from my studies",
+          "sound": "o-pin-no-is-ta-ni"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "suunnitelmistani",
+          "meaning": "of my plans",
+          "sound": "su-un-ni-tel-mis-ta-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Juttelimme",
+          "meaning": "we talked",
+          "sound": "jut-te-lim-me"
+        },
+        {
+          "word": "tuntikausia",
+          "meaning": "for hours",
+          "sound": "tun-ti-ka-u-si-a"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "muistimme",
+          "meaning": "we remembered",
+          "sound": "mu-is-tim-me"
+        },
+        {
+          "word": "monia",
+          "meaning": "many",
+          "sound": "mo-ni-a"
+        },
+        {
+          "word": "hetkiä",
+          "meaning": "moments",
+          "sound": "het-ki-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ennen",
+          "meaning": "before",
+          "sound": "en-nen"
+        },
+        {
+          "word": "kuin",
+          "meaning": "like",
+          "sound": "ku-in"
+        },
+        {
+          "word": "lähdimme",
+          "meaning": "we left",
+          "sound": "läh-dim-me"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "sanoi",
+          "meaning": "said",
+          "sound": "sa-no-i"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Meidän",
+          "meaning": "ours",
+          "sound": "me-i-dän"
+        },
+        {
+          "word": "pitäisi",
+          "meaning": "should",
+          "sound": "pi-tä-i-si"
+        },
+        {
+          "word": "nähdä",
+          "meaning": "to see",
+          "sound": "näh-dä"
+        },
+        {
+          "word": "toisiamme",
+          "meaning": "each other",
+          "sound": "to-i-si-am-me"
+        },
+        {
+          "word": "useammin",
+          "meaning": "more often",
+          "sound": "u-se-am-min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hymyilin",
+          "meaning": "i smiled",
+          "sound": "hy-my-i-lin"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "vastasin",
+          "meaning": "i answered",
+          "sound": "vas-ta-sin"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Toki",
+          "meaning": "sure",
+          "sound": "to-ki"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pidin",
+          "meaning": "i liked",
+          "sound": "pi-din"
+        },
+        {
+          "word": "todella",
+          "meaning": "really",
+          "sound": "to-del-la"
+        },
+        {
+          "word": "tästä",
+          "meaning": "here",
+          "sound": "täs-tä"
+        },
+        {
+          "word": "päivästä",
+          "meaning": "of the day",
+          "sound": "pä-i-väs-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Vaikea päätös",
+      "content": [
+        {
+          "word": "Muutama",
+          "meaning": "a few",
+          "sound": "mu-u-ta-ma"
+        },
+        {
+          "word": "päivä",
+          "meaning": "day",
+          "sound": "pä-i-vä"
+        },
+        {
+          "word": "sitten",
+          "meaning": "then",
+          "sound": "sit-ten"
+        },
+        {
+          "word": "sain",
+          "meaning": "i got",
+          "sound": "sa-in"
+        },
+        {
+          "word": "työtarjouksen",
+          "meaning": "job offer",
+          "sound": "ty-ö-tar-jo-uk-sen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "toisessa",
+          "meaning": "in the other",
+          "sound": "to-i-ses-sa"
+        },
+        {
+          "word": "kaupungissa",
+          "meaning": "in the city",
+          "sound": "ka-u-pun-gis-sa"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "erittäin",
+          "meaning": "very",
+          "sound": "e-rit-tä-in"
+        },
+        {
+          "word": "mielenkiintoinen",
+          "meaning": "interesting",
+          "sound": "mi-e-len-ki-in-to-i-nen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aluksi",
+          "meaning": "at first",
+          "sound": "a-luk-si"
+        },
+        {
+          "word": "olin",
+          "meaning": "i was",
+          "sound": "o-lin"
+        },
+        {
+          "word": "innostunut",
+          "meaning": "excited",
+          "sound": "in-nos-tu-nut"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "myös",
+          "meaning": "also",
+          "sound": "my-ös"
+        },
+        {
+          "word": "hermostunut",
+          "meaning": "nervous",
+          "sound": "her-mos-tu-nut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Juttelin",
+          "meaning": "i was chatting",
+          "sound": "jut-te-lin"
+        },
+        {
+          "word": "perheeni",
+          "meaning": "my family",
+          "sound": "per-he-e-ni"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "ystävieni",
+          "meaning": "my friends",
+          "sound": "ys-tä-vi-e-ni"
+        },
+        {
+          "word": "kanssa",
+          "meaning": "with",
+          "sound": "kan-ssa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "He",
+          "meaning": "they",
+          "sound": "he"
+        },
+        {
+          "word": "antoivat",
+          "meaning": "gave",
+          "sound": "an-to-i-vat"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": "paljon",
+          "meaning": "a lot",
+          "sound": "pal-jon"
+        },
+        {
+          "word": "neuvoja",
+          "meaning": "advice",
+          "sound": "ne-u-vo-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Äitini",
+          "meaning": "my mother",
+          "sound": "ä-i-ti-ni"
+        },
+        {
+          "word": "sanoi",
+          "meaning": "said",
+          "sound": "sa-no-i"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sinun",
+          "meaning": "yours",
+          "sound": "si-nun"
+        },
+        {
+          "word": "täytyy",
+          "meaning": "have to",
+          "sound": "tä-y-ty-y"
+        },
+        {
+          "word": "seurata",
+          "meaning": "to follow",
+          "sound": "se-u-ra-ta"
+        },
+        {
+          "word": "unelmiasi",
+          "meaning": "your dreams",
+          "sound": "u-nel-mi-a-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "ystäväni",
+          "meaning": "my friend",
+          "sound": "ys-tä-vä-ni"
+        },
+        {
+          "word": "kysyi",
+          "meaning": "asked",
+          "sound": "ky-sy-i"
+        },
+        {
+          "word": "minulta",
+          "meaning": "from me",
+          "sound": "mi-nul-ta"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oletko",
+          "meaning": "are you",
+          "sound": "o-let-ko"
+        },
+        {
+          "word": "varma",
+          "meaning": "sure",
+          "sound": "var-ma"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mietin",
+          "meaning": "i was wondering",
+          "sound": "mi-e-tin"
+        },
+        {
+          "word": "useita",
+          "meaning": "several",
+          "sound": "u-se-i-ta"
+        },
+        {
+          "word": "päiviä",
+          "meaning": "days",
+          "sound": "pä-i-vi-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lopulta",
+          "meaning": "finally",
+          "sound": "lo-pul-ta"
+        },
+        {
+          "word": "päätin",
+          "meaning": "i decided",
+          "sound": "pä-ä-tin"
+        },
+        {
+          "word": "ottaa",
+          "meaning": "to take",
+          "sound": "ot-ta-a"
+        },
+        {
+          "word": "työn",
+          "meaning": "of work",
+          "sound": "ty-ön"
+        },
+        {
+          "word": "vastaan",
+          "meaning": "against",
+          "sound": "vas-ta-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tiedän",
+          "meaning": "i know",
+          "sound": "ti-e-dän"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "se",
+          "meaning": "it",
+          "sound": "se"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "tule",
+          "meaning": "come on",
+          "sound": "tu-le"
+        },
+        {
+          "word": "olemaan",
+          "meaning": "to be",
+          "sound": "o-le-ma-an"
+        },
+        {
+          "word": "helppoa",
+          "meaning": "easy",
+          "sound": "hel-ppo-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "haluan",
+          "meaning": "i want",
+          "sound": "ha-lu-an"
+        },
+        {
+          "word": "yrittää",
+          "meaning": "to try",
+          "sound": "y-rit-tä-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Väittely ystävän kanssa",
+      "content": [
+        {
+          "word": "Eilen",
+          "meaning": "yesterday",
+          "sound": "e-i-len"
+        },
+        {
+          "word": "riitelin",
+          "meaning": "i argued",
+          "sound": "ri-i-te-lin"
+        },
+        {
+          "word": "parhaan",
+          "meaning": "the best",
+          "sound": "par-ha-an"
+        },
+        {
+          "word": "ystäväni",
+          "meaning": "my friend",
+          "sound": "ys-tä-vä-ni"
+        },
+        {
+          "word": "kanssa",
+          "meaning": "with",
+          "sound": "kan-ssa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kaikki",
+          "meaning": "everything",
+          "sound": "ka-ik-ki"
+        },
+        {
+          "word": "alkoi",
+          "meaning": "started",
+          "sound": "al-ko-i"
+        },
+        {
+          "word": "siitä",
+          "meaning": "about it",
+          "sound": "si-i-tä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kun",
+          "meaning": "when",
+          "sound": "kun"
+        },
+        {
+          "word": "puhuimme",
+          "meaning": "we talked",
+          "sound": "pu-hu-im-me"
+        },
+        {
+          "word": "suunnitelmistamme",
+          "meaning": "of our plans",
+          "sound": "su-un-ni-tel-mis-tam-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Halusin",
+          "meaning": "i wanted to",
+          "sound": "ha-lu-sin"
+        },
+        {
+          "word": "matkustaa",
+          "meaning": "travel",
+          "sound": "mat-kus-ta-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "halusi",
+          "meaning": "wanted to",
+          "sound": "ha-lu-si"
+        },
+        {
+          "word": "jäädä",
+          "meaning": "to stay",
+          "sound": "jä-ä-dä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "sanoi",
+          "meaning": "said",
+          "sound": "sa-no-i"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Meillä",
+          "meaning": "with us",
+          "sound": "me-il-lä"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ole",
+          "meaning": "don't be",
+          "sound": "o-le"
+        },
+        {
+          "word": "tarpeeksi",
+          "meaning": "enough",
+          "sound": "tar-pe-ek-si"
+        },
+        {
+          "word": "rahaa",
+          "meaning": "money",
+          "sound": "ra-ha-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vastasin",
+          "meaning": "i answered",
+          "sound": "vas-ta-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "voimme",
+          "meaning": "we can",
+          "sound": "vo-im-me"
+        },
+        {
+          "word": "säästää",
+          "meaning": "to save",
+          "sound": "sä-äs-tä-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "suostunut",
+          "meaning": "agreed to",
+          "sound": "su-os-tu-nut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Keskustelu",
+          "meaning": "discussion",
+          "sound": "kes-kus-te-lu"
+        },
+        {
+          "word": "muuttui",
+          "meaning": "changed",
+          "sound": "mu-ut-tu-i"
+        },
+        {
+          "word": "kireäksi",
+          "meaning": "tight",
+          "sound": "ki-re-äk-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lopulta",
+          "meaning": "finally",
+          "sound": "lo-pul-ta"
+        },
+        {
+          "word": "olimme",
+          "meaning": "we were",
+          "sound": "o-lim-me"
+        },
+        {
+          "word": "molemmat",
+          "meaning": "both of them",
+          "sound": "mo-lem-mat"
+        },
+        {
+          "word": "järkyttyneitä",
+          "meaning": "shocked",
+          "sound": "jär-kyt-ty-ne-i-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tänään",
+          "meaning": "today",
+          "sound": "tä-nä-än"
+        },
+        {
+          "word": "ajattelen",
+          "meaning": "i'm thinking",
+          "sound": "a-jat-te-len"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "ehkä",
+          "meaning": "maybe",
+          "sound": "eh-kä"
+        },
+        {
+          "word": "minun",
+          "meaning": "mine",
+          "sound": "mi-nun"
+        },
+        {
+          "word": "pitäisi",
+          "meaning": "should",
+          "sound": "pi-tä-i-si"
+        },
+        {
+          "word": "puhua",
+          "meaning": "to speak",
+          "sound": "pu-hu-a"
+        },
+        {
+          "word": "hänen",
+          "meaning": "his",
+          "sound": "hä-nen"
+        },
+        {
+          "word": "kanssaan",
+          "meaning": "with him",
+          "sound": "kan-ssa-an"
+        },
+        {
+          "word": "uudelleen",
+          "meaning": "again",
+          "sound": "u-u-del-le-en"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ystävyytemme",
+          "meaning": "our friendship",
+          "sound": "ys-tä-vy-y-tem-me"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "tärkeämpää",
+          "meaning": "more important",
+          "sound": "tär-ke-äm-pä-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Tärkeä muutos",
+      "content": [
+        {
+          "word": "Vuosi",
+          "meaning": "a year",
+          "sound": "vu-o-si"
+        },
+        {
+          "word": "sitten",
+          "meaning": "then",
+          "sound": "sit-ten"
+        },
+        {
+          "word": "elämäni",
+          "meaning": "my life",
+          "sound": "e-lä-mä-ni"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "hyvin",
+          "meaning": "well",
+          "sound": "hy-vin"
+        },
+        {
+          "word": "erilaista",
+          "meaning": "different",
+          "sound": "e-ri-la-is-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Työskentelin",
+          "meaning": "i was working",
+          "sound": "ty-ös-ken-te-lin"
+        },
+        {
+          "word": "paikassa",
+          "meaning": "in the place",
+          "sound": "pa-i-kas-sa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "josta",
+          "meaning": "of which",
+          "sound": "jos-ta"
+        },
+        {
+          "word": "en",
+          "meaning": "i don't",
+          "sound": "en"
+        },
+        {
+          "word": "pitänyt",
+          "meaning": "kept",
+          "sound": "pi-tä-nyt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Joka",
+          "meaning": "which",
+          "sound": "jo-ka"
+        },
+        {
+          "word": "päivä",
+          "meaning": "day",
+          "sound": "pä-i-vä"
+        },
+        {
+          "word": "tunsin",
+          "meaning": "i felt",
+          "sound": "tun-sin"
+        },
+        {
+          "word": "itseni",
+          "meaning": "myself",
+          "sound": "it-se-ni"
+        },
+        {
+          "word": "väsyneeksi",
+          "meaning": "tired",
+          "sound": "vä-sy-ne-ek-si"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "motivoimattomaksi",
+          "meaning": "unmotivated",
+          "sound": "mo-ti-vo-i-mat-to-mak-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eräänä",
+          "meaning": "as one",
+          "sound": "e-rä-ä-nä"
+        },
+        {
+          "word": "päivänä",
+          "meaning": "on the day",
+          "sound": "pä-i-vä-nä"
+        },
+        {
+          "word": "päätin",
+          "meaning": "i decided",
+          "sound": "pä-ä-tin"
+        },
+        {
+          "word": "muuttaa",
+          "meaning": "to change",
+          "sound": "mu-ut-ta-a"
+        },
+        {
+          "word": "kaiken",
+          "meaning": "everything",
+          "sound": "ka-i-ken"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ollut",
+          "meaning": "been",
+          "sound": "ol-lut"
+        },
+        {
+          "word": "helppoa",
+          "meaning": "easy",
+          "sound": "hel-ppo-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "koska",
+          "meaning": "because",
+          "sound": "kos-ka"
+        },
+        {
+          "word": "pelkäsin",
+          "meaning": "i was afraid",
+          "sound": "pel-kä-sin"
+        },
+        {
+          "word": "epäonnistumista",
+          "meaning": "failure",
+          "sound": "e-pä-on-nis-tu-mis-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "tiesin",
+          "meaning": "i knew",
+          "sound": "ti-e-sin"
+        },
+        {
+          "word": "myös",
+          "meaning": "also",
+          "sound": "my-ös"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "en",
+          "meaning": "i don't",
+          "sound": "en"
+        },
+        {
+          "word": "voisi",
+          "meaning": "could",
+          "sound": "vo-i-si"
+        },
+        {
+          "word": "jatkaa",
+          "meaning": "to continue",
+          "sound": "jat-ka-a"
+        },
+        {
+          "word": "näin",
+          "meaning": "like this",
+          "sound": "nä-in"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aloin",
+          "meaning": "i started",
+          "sound": "a-lo-in"
+        },
+        {
+          "word": "oppia",
+          "meaning": "to learn",
+          "sound": "op-pi-a"
+        },
+        {
+          "word": "uusia",
+          "meaning": "new ones",
+          "sound": "u-u-si-a"
+        },
+        {
+          "word": "asioita",
+          "meaning": "things",
+          "sound": "a-si-o-i-ta"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "työskennellä",
+          "meaning": "to work",
+          "sound": "ty-ös-ken-nel-lä"
+        },
+        {
+          "word": "tavoitteideni",
+          "meaning": "my goals",
+          "sound": "ta-vo-it-te-i-de-ni"
+        },
+        {
+          "word": "eteen",
+          "meaning": "forward",
+          "sound": "e-te-en"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pikkuhiljaa",
+          "meaning": "little by little",
+          "sound": "pik-ku-hil-ja-a"
+        },
+        {
+          "word": "elämäni",
+          "meaning": "my life",
+          "sound": "e-lä-mä-ni"
+        },
+        {
+          "word": "muuttui",
+          "meaning": "changed",
+          "sound": "mu-ut-tu-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nykyään",
+          "meaning": "nowadays",
+          "sound": "ny-ky-ä-än"
+        },
+        {
+          "word": "tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "itseni",
+          "meaning": "myself",
+          "sound": "it-se-ni"
+        },
+        {
+          "word": "itsevarmemmaksi",
+          "meaning": "more confident",
+          "sound": "it-se-var-mem-mak-si"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "onnellisemmaksi",
+          "meaning": "happier",
+          "sound": "on-nel-li-sem-mak-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Opin",
+          "meaning": "i learned",
+          "sound": "o-pin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "muutokset",
+          "meaning": "changes",
+          "sound": "mu-u-tok-set"
+        },
+        {
+          "word": "ovat",
+          "meaning": "are",
+          "sound": "o-vat"
+        },
+        {
+          "word": "vaikeita",
+          "meaning": "difficult",
+          "sound": "va-i-ke-i-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "välttämättömiä",
+          "meaning": "necessary",
+          "sound": "väl-ttä-mät-tö-mi-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Polun merkitys",
+      "content": [
+        {
+          "word": "Luulin",
+          "meaning": "i thought",
+          "sound": "lu-u-lin"
+        },
+        {
+          "word": "pitkään",
+          "meaning": "for a long time",
+          "sound": "pit-kä-än"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "menestys",
+          "meaning": "success",
+          "sound": "me-nes-tys"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "tärkeintä",
+          "meaning": "most important",
+          "sound": "tär-ke-in-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uskoin",
+          "meaning": "i believed",
+          "sound": "us-ko-in"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "raha",
+          "meaning": "money",
+          "sound": "ra-ha"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tunnustus",
+          "meaning": "recognition",
+          "sound": "tun-nus-tus"
+        },
+        {
+          "word": "tekisivät",
+          "meaning": "would do",
+          "sound": "te-ki-si-vät"
+        },
+        {
+          "word": "minut",
+          "meaning": "me",
+          "sound": "mi-nut"
+        },
+        {
+          "word": "onnelliseksi",
+          "meaning": "to be happy",
+          "sound": "on-nel-li-sek-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ajan",
+          "meaning": "i drive",
+          "sound": "a-jan"
+        },
+        {
+          "word": "myötä",
+          "meaning": "along with",
+          "sound": "my-ö-tä"
+        },
+        {
+          "word": "kuitenkin",
+          "meaning": "however",
+          "sound": "ku-i-ten-kin"
+        },
+        {
+          "word": "tajusin",
+          "meaning": "i realized",
+          "sound": "ta-ju-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "olin",
+          "meaning": "i was",
+          "sound": "o-lin"
+        },
+        {
+          "word": "väärässä",
+          "meaning": "wrong",
+          "sound": "vä-ä-räs-sä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Polku",
+          "meaning": "the path",
+          "sound": "pol-ku"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "todella",
+          "meaning": "really",
+          "sound": "to-del-la"
+        },
+        {
+          "word": "tärkeä",
+          "meaning": "important",
+          "sound": "tär-ke-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kokemuksia",
+          "meaning": "experiences",
+          "sound": "ko-ke-muk-si-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "virheitä",
+          "meaning": "errors",
+          "sound": "vir-he-i-tä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "opintoja",
+          "meaning": "studies",
+          "sound": "o-pin-to-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eräänä",
+          "meaning": "as one",
+          "sound": "e-rä-ä-nä"
+        },
+        {
+          "word": "päivänä",
+          "meaning": "on the day",
+          "sound": "pä-i-vä-nä"
+        },
+        {
+          "word": "puhuin",
+          "meaning": "i spoke",
+          "sound": "pu-hu-in"
+        },
+        {
+          "word": "mentorin",
+          "meaning": "mentor",
+          "sound": "men-to-rin"
+        },
+        {
+          "word": "kanssa",
+          "meaning": "with",
+          "sound": "kan-ssa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "sanoi",
+          "meaning": "said",
+          "sound": "sa-no-i"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Älä",
+          "meaning": "don't",
+          "sound": "ä-lä"
+        },
+        {
+          "word": "kiirehdi",
+          "meaning": "hurry up",
+          "sound": "ki-i-reh-di"
+        },
+        {
+          "word": "vain",
+          "meaning": "just",
+          "sound": "va-in"
+        },
+        {
+          "word": "päästäksesi",
+          "meaning": "to get to",
+          "sound": "pä-äs-täk-se-si"
+        },
+        {
+          "word": "sinne",
+          "meaning": "there",
+          "sound": "sin-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaan",
+          "meaning": "but",
+          "sound": "va-an"
+        },
+        {
+          "word": "opi",
+          "meaning": "learn",
+          "sound": "o-pi"
+        },
+        {
+          "word": "nauttimaan",
+          "meaning": "to enjoy",
+          "sound": "na-ut-ti-ma-an"
+        },
+        {
+          "word": "prosessista",
+          "meaning": "of the process",
+          "sound": "pro-ses-sis-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siitä",
+          "meaning": "about that",
+          "sound": "si-i-tä"
+        },
+        {
+          "word": "hetkestä",
+          "meaning": "of the moment",
+          "sound": "het-kes-tä"
+        },
+        {
+          "word": "lähtien",
+          "meaning": "since",
+          "sound": "läh-ti-en"
+        },
+        {
+          "word": "ajattelutapani",
+          "meaning": "my way of thinking",
+          "sound": "a-jat-te-lu-ta-pa-ni"
+        },
+        {
+          "word": "muuttui",
+          "meaning": "changed",
+          "sound": "mu-ut-tu-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nyt",
+          "meaning": "now",
+          "sound": "nyt"
+        },
+        {
+          "word": "arvostan",
+          "meaning": "i appreciate",
+          "sound": "ar-vos-tan"
+        },
+        {
+          "word": "jokaista",
+          "meaning": "each one",
+          "sound": "jo-ka-is-ta"
+        },
+        {
+          "word": "askelta",
+          "meaning": "step",
+          "sound": "as-kel-ta"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "opin",
+          "meaning": "i learned",
+          "sound": "o-pin"
+        },
+        {
+          "word": "jokaisesta",
+          "meaning": "of each",
+          "sound": "jo-ka-i-ses-ta"
+        },
+        {
+          "word": "virheestä",
+          "meaning": "about the mistake",
+          "sound": "vir-he-es-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "kuka minä todella olen",
+      "content": [
+        {
+          "word": "Monien",
+          "meaning": "many",
+          "sound": "mo-ni-en"
+        },
+        {
+          "word": "vuosien",
+          "meaning": "years",
+          "sound": "vu-o-si-en"
+        },
+        {
+          "word": "ajan",
+          "meaning": "time",
+          "sound": "a-jan"
+        },
+        {
+          "word": "kyselin",
+          "meaning": "i asked",
+          "sound": "ky-se-lin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuka",
+          "meaning": "who",
+          "sound": "ku-ka"
+        },
+        {
+          "word": "minä",
+          "meaning": "me",
+          "sound": "mi-nä"
+        },
+        {
+          "word": "todella",
+          "meaning": "really",
+          "sound": "to-del-la"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aluksi",
+          "meaning": "at first",
+          "sound": "a-luk-si"
+        },
+        {
+          "word": "ajattelin",
+          "meaning": "i thought",
+          "sound": "a-jat-te-lin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "identiteettini",
+          "meaning": "my identity",
+          "sound": "i-den-ti-te-et-ti-ni"
+        },
+        {
+          "word": "riippui",
+          "meaning": "depended",
+          "sound": "ri-ip-pu-i"
+        },
+        {
+          "word": "muiden",
+          "meaning": "others",
+          "sound": "mu-i-den"
+        },
+        {
+          "word": "mielipiteistä",
+          "meaning": "of opinions",
+          "sound": "mi-e-li-pi-te-is-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etsin",
+          "meaning": "i'm looking",
+          "sound": "et-sin"
+        },
+        {
+          "word": "hyväksyntää",
+          "meaning": "approval",
+          "sound": "hy-väk-syn-tä-ä"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "pelkäsin",
+          "meaning": "i was afraid",
+          "sound": "pel-kä-sin"
+        },
+        {
+          "word": "tekeväni",
+          "meaning": "to do",
+          "sound": "te-ke-vä-ni"
+        },
+        {
+          "word": "virheitä",
+          "meaning": "errors",
+          "sound": "vir-he-i-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ajan",
+          "meaning": "i drive",
+          "sound": "a-jan"
+        },
+        {
+          "word": "myötä",
+          "meaning": "along with",
+          "sound": "my-ö-tä"
+        },
+        {
+          "word": "ymmärsin",
+          "meaning": "i understood",
+          "sound": "ym-mär-sin"
+        },
+        {
+          "word": "kuitenkin",
+          "meaning": "however",
+          "sound": "ku-i-ten-kin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "arvoni",
+          "meaning": "my value",
+          "sound": "ar-vo-ni"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ole",
+          "meaning": "don't be",
+          "sound": "o-le"
+        },
+        {
+          "word": "riippuvainen",
+          "meaning": "dependent",
+          "sound": "ri-ip-pu-va-i-nen"
+        },
+        {
+          "word": "muista",
+          "meaning": "remember",
+          "sound": "mu-is-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eräänä",
+          "meaning": "as one",
+          "sound": "e-rä-ä-nä"
+        },
+        {
+          "word": "päivänä",
+          "meaning": "on the day",
+          "sound": "pä-i-vä-nä"
+        },
+        {
+          "word": "päätin",
+          "meaning": "i decided",
+          "sound": "pä-ä-tin"
+        },
+        {
+          "word": "kuunnella",
+          "meaning": "to listen",
+          "sound": "ku-un-nel-la"
+        },
+        {
+          "word": "omaa",
+          "meaning": "own",
+          "sound": "o-ma-a"
+        },
+        {
+          "word": "ääntäni",
+          "meaning": "my voice",
+          "sound": "ä-än-tä-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aloin",
+          "meaning": "i started",
+          "sound": "a-lo-in"
+        },
+        {
+          "word": "tehdä",
+          "meaning": "to do",
+          "sound": "teh-dä"
+        },
+        {
+          "word": "päätöksiä",
+          "meaning": "decisions",
+          "sound": "pä-ä-tök-si-ä"
+        },
+        {
+          "word": "itselleni",
+          "meaning": "to myself",
+          "sound": "it-sel-le-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ollut",
+          "meaning": "been",
+          "sound": "ol-lut"
+        },
+        {
+          "word": "aina",
+          "meaning": "always",
+          "sound": "a-i-na"
+        },
+        {
+          "word": "helppoa",
+          "meaning": "easy",
+          "sound": "hel-ppo-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "opin",
+          "meaning": "i learned",
+          "sound": "o-pin"
+        },
+        {
+          "word": "jokaisesta",
+          "meaning": "of each",
+          "sound": "jo-ka-i-ses-ta"
+        },
+        {
+          "word": "virheestä",
+          "meaning": "about the mistake",
+          "sound": "vir-he-es-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nykyään",
+          "meaning": "nowadays",
+          "sound": "ny-ky-ä-än"
+        },
+        {
+          "word": "tiedän",
+          "meaning": "i know",
+          "sound": "ti-e-dän"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "oma",
+          "meaning": "my own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "itsensä",
+          "meaning": "himself",
+          "sound": "it-sen-sä"
+        },
+        {
+          "word": "oleminen",
+          "meaning": "being",
+          "sound": "o-le-mi-nen"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "suurin",
+          "meaning": "the largest",
+          "sound": "su-u-rin"
+        },
+        {
+          "word": "saavutus",
+          "meaning": "achievement",
+          "sound": "sa-a-vu-tus"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Ajan arvo",
+      "content": [
+        {
+          "word": "Muutama",
+          "meaning": "a few",
+          "sound": "mu-u-ta-ma"
+        },
+        {
+          "word": "vuosi",
+          "meaning": "year",
+          "sound": "vu-o-si"
+        },
+        {
+          "word": "sitten",
+          "meaning": "then",
+          "sound": "sit-ten"
+        },
+        {
+          "word": "en",
+          "meaning": "i don't",
+          "sound": "en"
+        },
+        {
+          "word": "kiinnittänyt",
+          "meaning": "attached",
+          "sound": "ki-in-nit-tä-nyt"
+        },
+        {
+          "word": "juurikaan",
+          "meaning": "not much",
+          "sound": "ju-u-ri-ka-an"
+        },
+        {
+          "word": "huomiota",
+          "meaning": "attention",
+          "sound": "hu-o-mi-o-ta"
+        },
+        {
+          "word": "aikaan",
+          "meaning": "at the time",
+          "sound": "a-i-ka-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ajattelin",
+          "meaning": "i thought",
+          "sound": "a-jat-te-lin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "aina",
+          "meaning": "always",
+          "sound": "a-i-na"
+        },
+        {
+          "word": "olisi",
+          "meaning": "would be",
+          "sound": "o-li-si"
+        },
+        {
+          "word": "enemmän",
+          "meaning": "more",
+          "sound": "e-nem-män"
+        },
+        {
+          "word": "mahdollisuuksia",
+          "meaning": "opportunities",
+          "sound": "mah-dol-li-su-uk-si-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "jätti",
+          "meaning": "left",
+          "sound": "jät-ti"
+        },
+        {
+          "word": "monia",
+          "meaning": "many",
+          "sound": "mo-ni-a"
+        },
+        {
+          "word": "asioita",
+          "meaning": "things",
+          "sound": "a-si-o-i-ta"
+        },
+        {
+          "word": "myöhemmäksi",
+          "meaning": "for later",
+          "sound": "my-ö-hem-mäk-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eräänä",
+          "meaning": "as one",
+          "sound": "e-rä-ä-nä"
+        },
+        {
+          "word": "päivänä",
+          "meaning": "on the day",
+          "sound": "pä-i-vä-nä"
+        },
+        {
+          "word": "ystäväni",
+          "meaning": "my friend",
+          "sound": "ys-tä-vä-ni"
+        },
+        {
+          "word": "sanoi",
+          "meaning": "said",
+          "sound": "sa-no-i"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aika",
+          "meaning": "time",
+          "sound": "a-i-ka"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "odota",
+          "meaning": "wait",
+          "sound": "o-do-ta"
+        },
+        {
+          "word": "ketään",
+          "meaning": "nobody",
+          "sound": "ke-tä-än"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tuo",
+          "meaning": "that",
+          "sound": "tu-o"
+        },
+        {
+          "word": "lause",
+          "meaning": "sentence",
+          "sound": "la-u-se"
+        },
+        {
+          "word": "jäi",
+          "meaning": "remained",
+          "sound": "jä-i"
+        },
+        {
+          "word": "mieleeni",
+          "meaning": "to my mind",
+          "sound": "mi-e-le-e-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siitä",
+          "meaning": "about that",
+          "sound": "si-i-tä"
+        },
+        {
+          "word": "lähtien",
+          "meaning": "since",
+          "sound": "läh-ti-en"
+        },
+        {
+          "word": "aloin",
+          "meaning": "i started",
+          "sound": "a-lo-in"
+        },
+        {
+          "word": "arvostamaan",
+          "meaning": "to appreciate",
+          "sound": "ar-vos-ta-ma-an"
+        },
+        {
+          "word": "jokaista",
+          "meaning": "each one",
+          "sound": "jo-ka-is-ta"
+        },
+        {
+          "word": "hetkeä",
+          "meaning": "moment",
+          "sound": "het-ke-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Opin",
+          "meaning": "i learned",
+          "sound": "o-pin"
+        },
+        {
+          "word": "järjestämään",
+          "meaning": "to organize",
+          "sound": "jär-jes-tä-mä-än"
+        },
+        {
+          "word": "päiväni",
+          "meaning": "my day",
+          "sound": "pä-i-vä-ni"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "priorisoimaan",
+          "meaning": "to prioritize",
+          "sound": "pri-o-ri-so-i-ma-an"
+        },
+        {
+          "word": "sen",
+          "meaning": "that",
+          "sound": "sen"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mikä",
+          "meaning": "which",
+          "sound": "mi-kä"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "tärkeää",
+          "meaning": "important",
+          "sound": "tär-ke-ä-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ymmärsin",
+          "meaning": "i understood",
+          "sound": "ym-mär-sin"
+        },
+        {
+          "word": "myös",
+          "meaning": "also",
+          "sound": "my-ös"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "kaiken",
+          "meaning": "everything",
+          "sound": "ka-i-ken"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "tarvitse",
+          "meaning": "need",
+          "sound": "tar-vit-se"
+        },
+        {
+          "word": "olla",
+          "meaning": "to be",
+          "sound": "ol-la"
+        },
+        {
+          "word": "täydellistä",
+          "meaning": "perfect",
+          "sound": "tä-y-del-lis-tä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nykyään",
+          "meaning": "nowadays",
+          "sound": "ny-ky-ä-än"
+        },
+        {
+          "word": "yritän",
+          "meaning": "i'm trying",
+          "sound": "y-ri-tän"
+        },
+        {
+          "word": "elää",
+          "meaning": "to live",
+          "sound": "e-lä-ä"
+        },
+        {
+          "word": "tietoisempana",
+          "meaning": "more aware",
+          "sound": "ti-e-to-i-sem-pa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Koska",
+          "meaning": "because",
+          "sound": "kos-ka"
+        },
+        {
+          "word": "aika",
+          "meaning": "time",
+          "sound": "a-i-ka"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "arvokkainta",
+          "meaning": "most valuable",
+          "sound": "ar-vok-ka-in-ta"
+        },
+        {
+          "word": "mitä",
+          "meaning": "what",
+          "sound": "mi-tä"
+        },
+        {
+          "word": "meillä",
+          "meaning": "we have",
+          "sound": "me-il-lä"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Päätöksiä, jotka muuttavat elämää",
+      "content": [
+        {
+          "word": "Joskus",
+          "meaning": "sometimes",
+          "sound": "jos-kus"
+        },
+        {
+          "word": "ajattelen",
+          "meaning": "i'm thinking",
+          "sound": "a-jat-te-len"
+        },
+        {
+          "word": "menneisyydessä",
+          "meaning": "in the past",
+          "sound": "men-ne-i-sy-y-des-sä"
+        },
+        {
+          "word": "tekemiäni",
+          "meaning": "what i did",
+          "sound": "te-ke-mi-ä-ni"
+        },
+        {
+          "word": "päätöksiä",
+          "meaning": "decisions",
+          "sound": "pä-ä-tök-si-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jotkut",
+          "meaning": "some",
+          "sound": "jot-kut"
+        },
+        {
+          "word": "olivat",
+          "meaning": "were",
+          "sound": "o-li-vat"
+        },
+        {
+          "word": "oikeassa",
+          "meaning": "right",
+          "sound": "o-i-ke-as-sa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "toiset",
+          "meaning": "others",
+          "sound": "to-i-set"
+        },
+        {
+          "word": "eivät",
+          "meaning": "they don't",
+          "sound": "e-i-vät"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Joskus",
+          "meaning": "sometimes",
+          "sound": "jos-kus"
+        },
+        {
+          "word": "mietin",
+          "meaning": "i'm thinking",
+          "sound": "mi-e-tin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mitä",
+          "meaning": "what",
+          "sound": "mi-tä"
+        },
+        {
+          "word": "olisi",
+          "meaning": "would be",
+          "sound": "o-li-si"
+        },
+        {
+          "word": "tapahtunut",
+          "meaning": "happened",
+          "sound": "ta-pah-tu-nut"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jos",
+          "meaning": "if",
+          "sound": "jos"
+        },
+        {
+          "word": "olisin",
+          "meaning": "i would be",
+          "sound": "o-li-sin"
+        },
+        {
+          "word": "valinnut",
+          "meaning": "chose",
+          "sound": "va-lin-nut"
+        },
+        {
+          "word": "toisen",
+          "meaning": "another one",
+          "sound": "to-i-sen"
+        },
+        {
+          "word": "tien",
+          "meaning": "road",
+          "sound": "ti-en"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ehkä",
+          "meaning": "maybe",
+          "sound": "eh-kä"
+        },
+        {
+          "word": "olisin",
+          "meaning": "i would be",
+          "sound": "o-li-sin"
+        },
+        {
+          "word": "onnistunut",
+          "meaning": "successful",
+          "sound": "on-nis-tu-nut"
+        },
+        {
+          "word": "paremmin",
+          "meaning": "better",
+          "sound": "pa-rem-min"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tai",
+          "meaning": "or",
+          "sound": "ta-i"
+        },
+        {
+          "word": "ehkä",
+          "meaning": "maybe",
+          "sound": "eh-kä"
+        },
+        {
+          "word": "olisin",
+          "meaning": "i would be",
+          "sound": "o-li-sin"
+        },
+        {
+          "word": "oppinut",
+          "meaning": "learned",
+          "sound": "op-pi-nut"
+        },
+        {
+          "word": "vähemmän",
+          "meaning": "less",
+          "sound": "vä-hem-män"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "kuitenkin",
+          "meaning": "however",
+          "sound": "ku-i-ten-kin"
+        },
+        {
+          "word": "ymmärtänyt",
+          "meaning": "understood",
+          "sound": "ym-mär-tä-nyt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "menneisyydessä",
+          "meaning": "in the past",
+          "sound": "men-ne-i-sy-y-des-sä"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ole",
+          "meaning": "don't be",
+          "sound": "o-le"
+        },
+        {
+          "word": "mitään",
+          "meaning": "nothing",
+          "sound": "mi-tä-än"
+        },
+        {
+          "word": "järkeä",
+          "meaning": "make sense",
+          "sound": "jär-ke-ä"
+        },
+        {
+          "word": "elää",
+          "meaning": "to live",
+          "sound": "e-lä-ä"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jokainen",
+          "meaning": "everyone",
+          "sound": "jo-ka-i-nen"
+        },
+        {
+          "word": "päätös",
+          "meaning": "the decision",
+          "sound": "pä-ä-tös"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "opettanut",
+          "meaning": "taught",
+          "sound": "o-pet-ta-nut"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": "jotain",
+          "meaning": "something",
+          "sound": "jo-ta-in"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jopa",
+          "meaning": "even",
+          "sound": "jo-pa"
+        },
+        {
+          "word": "virheet",
+          "meaning": "errors",
+          "sound": "vir-he-et"
+        },
+        {
+          "word": "ovat",
+          "meaning": "are",
+          "sound": "o-vat"
+        },
+        {
+          "word": "olleet",
+          "meaning": "have been",
+          "sound": "ol-le-et"
+        },
+        {
+          "word": "tärkeitä",
+          "meaning": "important",
+          "sound": "tär-ke-i-tä"
+        },
+        {
+          "word": "oppitunteja",
+          "meaning": "lessons",
+          "sound": "op-pi-tun-te-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nykyään",
+          "meaning": "nowadays",
+          "sound": "ny-ky-ä-än"
+        },
+        {
+          "word": "yritän",
+          "meaning": "i'm trying",
+          "sound": "y-ri-tän"
+        },
+        {
+          "word": "tehdä",
+          "meaning": "to do",
+          "sound": "teh-dä"
+        },
+        {
+          "word": "päätöksiä",
+          "meaning": "decisions",
+          "sound": "pä-ä-tök-si-ä"
+        },
+        {
+          "word": "tietoisemmin",
+          "meaning": "more consciously",
+          "sound": "ti-e-to-i-sem-min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "i don't",
+          "sound": "en"
+        },
+        {
+          "word": "voi",
+          "meaning": "can",
+          "sound": "vo-i"
+        },
+        {
+          "word": "muuttaa",
+          "meaning": "to change",
+          "sound": "mu-ut-ta-a"
+        },
+        {
+          "word": "sitä",
+          "meaning": "that",
+          "sound": "si-tä"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mitä",
+          "meaning": "what",
+          "sound": "mi-tä"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "jo",
+          "meaning": "already",
+          "sound": "jo"
+        },
+        {
+          "word": "tapahtunut",
+          "meaning": "happened",
+          "sound": "ta-pah-tu-nut"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "voin",
+          "meaning": "i can",
+          "sound": "vo-in"
+        },
+        {
+          "word": "päättää",
+          "meaning": "to decide",
+          "sound": "pä-ät-tä-ä"
+        },
+        {
+          "word": "tulevaisuudestani",
+          "meaning": "about my future",
+          "sound": "tu-le-va-i-su-u-des-ta-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Sisäinen ääni",
+      "content": [
+        {
+          "word": "Elin",
+          "meaning": "organ",
+          "sound": "e-lin"
+        },
+        {
+          "word": "pitkään",
+          "meaning": "for a long time",
+          "sound": "pit-kä-än"
+        },
+        {
+          "word": "muiden",
+          "meaning": "others",
+          "sound": "mu-i-den"
+        },
+        {
+          "word": "odotusten",
+          "meaning": "expectations",
+          "sound": "o-do-tus-ten"
+        },
+        {
+          "word": "mukaan",
+          "meaning": "according to",
+          "sound": "mu-ka-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uskoin",
+          "meaning": "i believed",
+          "sound": "us-ko-in"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "se",
+          "meaning": "it",
+          "sound": "se"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "oikea",
+          "meaning": "the right one",
+          "sound": "o-i-ke-a"
+        },
+        {
+          "word": "tie",
+          "meaning": "road",
+          "sound": "ti-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kuitenkin",
+          "meaning": "however",
+          "sound": "ku-i-ten-kin"
+        },
+        {
+          "word": "syvällä",
+          "meaning": "deep down",
+          "sound": "sy-väl-lä"
+        },
+        {
+          "word": "sisimmässäni",
+          "meaning": "inside me",
+          "sound": "si-sim-mäs-sä-ni"
+        },
+        {
+          "word": "kuului",
+          "meaning": "was heard",
+          "sound": "ku-u-lu-i"
+        },
+        {
+          "word": "aina",
+          "meaning": "always",
+          "sound": "a-i-na"
+        },
+        {
+          "word": "ääni",
+          "meaning": "voice",
+          "sound": "ä-ä-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "joka",
+          "meaning": "which",
+          "sound": "jo-ka"
+        },
+        {
+          "word": "kertoi",
+          "meaning": "told",
+          "sound": "ker-to-i"
+        },
+        {
+          "word": "minulle",
+          "meaning": "to me",
+          "sound": "mi-nul-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "jokin",
+          "meaning": "something",
+          "sound": "jo-kin"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "vialla",
+          "meaning": "wrong",
+          "sound": "vi-al-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yritin",
+          "meaning": "i tried",
+          "sound": "y-ri-tin"
+        },
+        {
+          "word": "jättää",
+          "meaning": "to leave",
+          "sound": "jät-tä-ä"
+        },
+        {
+          "word": "sen",
+          "meaning": "that",
+          "sound": "sen"
+        },
+        {
+          "word": "huomioimatta",
+          "meaning": "ignoring",
+          "sound": "hu-o-mi-o-i-mat-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "se",
+          "meaning": "it",
+          "sound": "se"
+        },
+        {
+          "word": "kovempi",
+          "meaning": "harder",
+          "sound": "ko-vem-pi"
+        },
+        {
+          "word": "koko",
+          "meaning": "size",
+          "sound": "ko-ko"
+        },
+        {
+          "word": "ajan",
+          "meaning": "time",
+          "sound": "a-jan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eräänä",
+          "meaning": "as one",
+          "sound": "e-rä-ä-nä"
+        },
+        {
+          "word": "päivänä",
+          "meaning": "on the day",
+          "sound": "pä-i-vä-nä"
+        },
+        {
+          "word": "pysähdyin",
+          "meaning": "i stopped",
+          "sound": "py-säh-dy-in"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "kysyin",
+          "meaning": "i asked",
+          "sound": "ky-sy-in"
+        },
+        {
+          "word": "itseltäni",
+          "meaning": "from myself",
+          "sound": "it-sel-tä-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mitä",
+          "meaning": "what",
+          "sound": "mi-tä"
+        },
+        {
+          "word": "todella",
+          "meaning": "really",
+          "sound": "to-del-la"
+        },
+        {
+          "word": "halusin",
+          "meaning": "i wanted to",
+          "sound": "ha-lu-sin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vastaus",
+          "meaning": "the answer",
+          "sound": "vas-ta-us"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ollut",
+          "meaning": "been",
+          "sound": "ol-lut"
+        },
+        {
+          "word": "välitön",
+          "meaning": "immediate",
+          "sound": "vä-li-tön"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mutta",
+          "meaning": "but",
+          "sound": "mut-ta"
+        },
+        {
+          "word": "ensimmäistä",
+          "meaning": "the first one",
+          "sound": "en-sim-mä-is-tä"
+        },
+        {
+          "word": "kertaa",
+          "meaning": "times",
+          "sound": "ker-ta-a"
+        },
+        {
+          "word": "minusta",
+          "meaning": "about me",
+          "sound": "mi-nus-ta"
+        },
+        {
+          "word": "tuntui",
+          "meaning": "felt",
+          "sound": "tun-tu-i"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "hän",
+          "meaning": "he",
+          "sound": "hän"
+        },
+        {
+          "word": "kuunteli",
+          "meaning": "listened",
+          "sound": "ku-un-te-li"
+        },
+        {
+          "word": "minua",
+          "meaning": "me",
+          "sound": "mi-nu-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siitä",
+          "meaning": "about that",
+          "sound": "si-i-tä"
+        },
+        {
+          "word": "lähtien",
+          "meaning": "since",
+          "sound": "läh-ti-en"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "oppinut",
+          "meaning": "learned",
+          "sound": "op-pi-nut"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "että",
+          "meaning": "that",
+          "sound": "et-tä"
+        },
+        {
+          "word": "sisäinen",
+          "meaning": "internal",
+          "sound": "si-sä-i-nen"
+        },
+        {
+          "word": "ääni",
+          "meaning": "voice",
+          "sound": "ä-ä-ni"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ole",
+          "meaning": "don't be",
+          "sound": "o-le"
+        },
+        {
+          "word": "este",
+          "meaning": "obstacle",
+          "sound": "es-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaan",
+          "meaning": "but",
+          "sound": "va-an"
+        },
+        {
+          "word": "opas",
+          "meaning": "a guide",
+          "sound": "o-pas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "finnish": {
+        "present": [
+          "syön",
+          "omenan"
+        ],
+        "past": [
+          "söin",
+          "omenan"
+        ],
+        "future": [
+          "Syön",
+          "omenan"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "lukee",
+          "kirjaa"
+        ],
+        "past": [
+          "Hän",
+          "luki",
+          "kirjaa"
+        ],
+        "future": [
+          "Hän",
+          "lukee",
+          "kirjaa"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "finnish": {
+        "present": [
+          "Menemme",
+          "kouluun"
+        ],
+        "past": [
+          "Menimme",
+          "kouluun"
+        ],
+        "future": [
+          "Menemme",
+          "kouluun"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "juo",
+          "vettä"
+        ],
+        "past": [
+          "Hän",
+          "joi",
+          "vettä"
+        ],
+        "future": [
+          "Hän",
+          "juo",
+          "vettä"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "pelaavat",
+          "jalkapalloa"
+        ],
+        "past": [
+          "He",
+          "pelasivat",
+          "jalkapalloa"
+        ],
+        "future": [
+          "He",
+          "pelaavat",
+          "jalkapalloa"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "finnish": {
+        "present": [
+          "Kirjoitan",
+          "kirjeen"
+        ],
+        "past": [
+          "kirjoitin",
+          "kirjeen"
+        ],
+        "future": [
+          "Kirjoitan",
+          "kirjeen"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "syö",
+          "riisiä"
+        ],
+        "past": [
+          "Hän",
+          "söi",
+          "riisiä"
+        ],
+        "future": [
+          "Hän",
+          "syö",
+          "riisiä"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "finnish": {
+        "present": [
+          "Katsomme",
+          "elokuvaa"
+        ],
+        "past": [
+          "Katsoimme",
+          "elokuvan"
+        ],
+        "future": [
+          "Katsomme",
+          "elokuvan"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "avaa",
+          "oven"
+        ],
+        "past": [
+          "Hän",
+          "avasi",
+          "oven"
+        ],
+        "future": [
+          "Hän",
+          "avaa",
+          "oven"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "ostavat",
+          "ruokaa"
+        ],
+        "past": [
+          "He",
+          "ostivat",
+          "ruokaa"
+        ],
+        "future": [
+          "He",
+          "ostavat",
+          "ruokaa"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "finnish": {
+        "present": [
+          "Syön",
+          "omenan",
+          "ja",
+          "juon",
+          "vettä"
+        ],
+        "past": [
+          "Söin",
+          "omenan",
+          "ja",
+          "join",
+          "vettä"
+        ],
+        "future": [
+          "Syön",
+          "omenan",
+          "ja",
+          "juon",
+          "vettä"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "lukee",
+          "kirjaa",
+          "koska",
+          "hän",
+          "pitää",
+          "tarinoista"
+        ],
+        "past": [
+          "Hän",
+          "luki",
+          "kirjan",
+          "koska",
+          "hän",
+          "piti",
+          "tarinoista"
+        ],
+        "future": [
+          "Hän",
+          "lukee",
+          "kirjan",
+          "koska",
+          "hän",
+          "pitää",
+          "tarinoista"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "finnish": {
+        "present": [
+          "Menemme",
+          "kouluun",
+          "ja",
+          "opiskelemme",
+          "yhdessä"
+        ],
+        "past": [
+          "Kävimme",
+          "koulua",
+          "ja",
+          "opiskelimme",
+          "yhdessä"
+        ],
+        "future": [
+          "Menemme",
+          "kouluun",
+          "ja",
+          "opiskelemme",
+          "yhdessä"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "juo",
+          "vettä",
+          "mutta",
+          "syö",
+          "pikaruokaa"
+        ],
+        "past": [
+          "Hän",
+          "joi",
+          "vettä",
+          "mutta",
+          "söi",
+          "pikaruokaa"
+        ],
+        "future": [
+          "Hän",
+          "juo",
+          "vettä",
+          "mutta",
+          "syö",
+          "pikaruokaa"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "pelaavat",
+          "jalkapalloa",
+          "ja",
+          "juoksevat",
+          "puistossa"
+        ],
+        "past": [
+          "He",
+          "pelasivat",
+          "jalkapalloa",
+          "ja",
+          "juoksivat",
+          "puistossa"
+        ],
+        "future": [
+          "He",
+          "pelaavat",
+          "jalkapalloa",
+          "ja",
+          "juoksevat",
+          "puistossa"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "finnish": {
+        "present": [
+          "Kirjoitan",
+          "kirjeen",
+          "koska",
+          "kaipaan",
+          "sinua"
+        ],
+        "past": [
+          "Kirjoitin",
+          "kirjeen",
+          "koska",
+          "kaipasin",
+          "sinua"
+        ],
+        "future": [
+          "Kirjoitan",
+          "kirjeen",
+          "koska",
+          "kaipaan",
+          "sinua"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "syö",
+          "riisiä",
+          "ja",
+          "tekee",
+          "ruokaa",
+          "joka",
+          "päivä"
+        ],
+        "past": [
+          "Hän",
+          "söi",
+          "riisiä",
+          "ja",
+          "keitti",
+          "joka",
+          "päivä"
+        ],
+        "future": [
+          "Hän",
+          "syö",
+          "riisiä",
+          "ja",
+          "kokkaa",
+          "joka",
+          "päivä"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "finnish": {
+        "present": [
+          "Katsomme",
+          "elokuvaa",
+          "mutta",
+          "nukumme",
+          "myöhään"
+        ],
+        "past": [
+          "Katsoimme",
+          "elokuvan",
+          "mutta",
+          "nukuimme",
+          "myöhään"
+        ],
+        "future": [
+          "Katsomme",
+          "elokuvan",
+          "mutta",
+          "nukumme",
+          "myöhään"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "avaa",
+          "oven",
+          "ja",
+          "tervehtii",
+          "ihmisiä"
+        ],
+        "past": [
+          "Hän",
+          "avasi",
+          "oven",
+          "ja",
+          "tervehti",
+          "ihmisiä"
+        ],
+        "future": [
+          "Hän",
+          "avaa",
+          "oven",
+          "ja",
+          "tervehtii",
+          "ihmisiä"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "ostavat",
+          "ruokaa",
+          "koska",
+          "he",
+          "ovat",
+          "nälkäisiä"
+        ],
+        "past": [
+          "He",
+          "ostivat",
+          "ruokaa",
+          "koska",
+          "he",
+          "olivat",
+          "nälkäisiä"
+        ],
+        "future": [
+          "He",
+          "ostavat",
+          "ruokaa",
+          "koska",
+          "he",
+          "ovat",
+          "nälkäisiä"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "finnish": {
+        "present": [
+          "Syön",
+          "aamiaista",
+          "aamulla"
+        ],
+        "past": [
+          "Söin",
+          "aamiaisen",
+          "aamulla"
+        ],
+        "future": [
+          "Syön",
+          "aamiaisen",
+          "aamulla"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "opiskelee",
+          "kotona",
+          "joka",
+          "päivä"
+        ],
+        "past": [
+          "Hän",
+          "opiskeli",
+          "kotona",
+          "joka",
+          "päivä"
+        ],
+        "future": [
+          "Hän",
+          "opiskelee",
+          "kotona",
+          "joka",
+          "päivä"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "finnish": {
+        "present": [
+          "Kävelemme",
+          "illalla",
+          "puistossa"
+        ],
+        "past": [
+          "Kävelimme",
+          "puistossa",
+          "illalla"
+        ],
+        "future": [
+          "Illalla",
+          "kävelemme",
+          "puistossa"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "työskentelee",
+          "toimistossa",
+          "kaupungissa"
+        ],
+        "past": [
+          "Hän",
+          "työskenteli",
+          "toimistossa",
+          "kaupungissa"
+        ],
+        "future": [
+          "Hän",
+          "työskentelee",
+          "kaupungin",
+          "toimistossa"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "matkustavat",
+          "joka",
+          "vuosi",
+          "toiseen",
+          "maahan"
+        ],
+        "past": [
+          "He",
+          "matkustivat",
+          "joka",
+          "vuosi",
+          "toiseen",
+          "maahan"
+        ],
+        "future": [
+          "He",
+          "matkustavat",
+          "joka",
+          "vuosi",
+          "toiseen",
+          "maahan"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "finnish": {
+        "present": [
+          "Luin",
+          "kirjaa",
+          "illalla",
+          "ennen",
+          "nukkumaanmenoa"
+        ],
+        "past": [
+          "Luin",
+          "kirjaa",
+          "illalla",
+          "ennen",
+          "nukkumaanmenoa"
+        ],
+        "future": [
+          "Luen",
+          "kirjaa",
+          "illalla",
+          "ennen",
+          "nukkumaanmenoa"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "juo",
+          "kahvia",
+          "aamulla",
+          "kotona"
+        ],
+        "past": [
+          "Hän",
+          "joi",
+          "kahvia",
+          "aamulla",
+          "kotona"
+        ],
+        "future": [
+          "Hän",
+          "juo",
+          "kahvia",
+          "aamulla",
+          "kotona"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "finnish": {
+        "present": [
+          "Tapaamme",
+          "ystäviä",
+          "ravintolassa",
+          "tänä",
+          "iltana"
+        ],
+        "past": [
+          "Tapasimme",
+          "ystäviä",
+          "ravintolassa",
+          "tänä",
+          "iltana"
+        ],
+        "future": [
+          "Tapaamme",
+          "ystäviä",
+          "ravintolassa",
+          "tänä",
+          "iltana"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "opiskelee",
+          "espanjaa",
+          "koulussa",
+          "joka",
+          "päivä"
+        ],
+        "past": [
+          "Hän",
+          "opiskeli",
+          "espanjaa",
+          "koulussa",
+          "joka",
+          "päivä"
+        ],
+        "future": [
+          "Hän",
+          "opiskelee",
+          "espanjaa",
+          "koulussa",
+          "joka",
+          "päivä"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "katsovat",
+          "televisiota",
+          "iltaisin",
+          "kotona"
+        ],
+        "past": [
+          "He",
+          "katsoivat",
+          "televisiota",
+          "iltaisin",
+          "kotona"
+        ],
+        "future": [
+          "He",
+          "katsovat",
+          "televisiota",
+          "iltaisin",
+          "kotona"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "finnish": {
+        "present": [
+          "Pidän",
+          "tästä",
+          "musiikista"
+        ],
+        "past": [
+          "Pidin",
+          "tästä",
+          "musiikista"
+        ],
+        "future": [
+          "Pidän",
+          "tästä",
+          "musiikista"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "on",
+          "onnellinen",
+          "tänään"
+        ],
+        "past": [
+          "Hän",
+          "tunsi",
+          "olevansa",
+          "onnellinen",
+          "tänään"
+        ],
+        "future": [
+          "Hän",
+          "tuntee",
+          "olevansa",
+          "onnellinen",
+          "tänään"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "finnish": {
+        "present": [
+          "Mielestämme",
+          "tämä",
+          "idea",
+          "on",
+          "hyvä"
+        ],
+        "past": [
+          "Tämä",
+          "idea",
+          "oli",
+          "mielestämme",
+          "hyvä"
+        ],
+        "future": [
+          "Mielestämme",
+          "tämä",
+          "idea",
+          "on",
+          "hyvä"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "haluaa",
+          "oppia",
+          "espanjaa"
+        ],
+        "past": [
+          "Hän",
+          "halusi",
+          "oppia",
+          "espanjaa"
+        ],
+        "future": [
+          "Hän",
+          "haluaa",
+          "oppia",
+          "espanjaa"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "rakastavat",
+          "perhettään",
+          "erittäin",
+          "paljon"
+        ],
+        "past": [
+          "He",
+          "rakastivat",
+          "perhettään",
+          "kovasti"
+        ],
+        "future": [
+          "He",
+          "rakastavat",
+          "perhettään",
+          "erittäin",
+          "paljon"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "finnish": {
+        "present": [
+          "Olen",
+          "väsynyt",
+          "töiden",
+          "jälkeen"
+        ],
+        "past": [
+          "Tunsin",
+          "itseni",
+          "väsyneeksi",
+          "töiden",
+          "jälkeen"
+        ],
+        "future": [
+          "Tunnen",
+          "itseni",
+          "väsyneeksi",
+          "töiden",
+          "jälkeen"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "uskoo",
+          "itseensä"
+        ],
+        "past": [
+          "Hän",
+          "uskoi",
+          "itseensä"
+        ],
+        "future": [
+          "Hän",
+          "uskoo",
+          "itseensä"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "finnish": {
+        "present": [
+          "Haluamme",
+          "matkustaa",
+          "yhdessä"
+        ],
+        "past": [
+          "Tykkäsimme",
+          "matkustaa",
+          "yhdessä"
+        ],
+        "future": [
+          "Haluamme",
+          "matkustaa",
+          "yhdessä"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "ajattelee",
+          "tulevaisuuttaan"
+        ],
+        "past": [
+          "Hän",
+          "ajatteli",
+          "tulevaisuuttaan"
+        ],
+        "future": [
+          "Hän",
+          "ajattelee",
+          "tulevaisuuttaan"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "ovat",
+          "innoissaan",
+          "matkasta"
+        ],
+        "past": [
+          "He",
+          "olivat",
+          "innoissaan",
+          "matkasta"
+        ],
+        "future": [
+          "He",
+          "ovat",
+          "innoissaan",
+          "matkasta"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "finnish": {
+        "present": [
+          "Yritän",
+          "parantaa",
+          "joka",
+          "päivä"
+        ],
+        "past": [
+          "Yritin",
+          "parantaa",
+          "joka",
+          "päivä"
+        ],
+        "future": [
+          "Yritän",
+          "parantaa",
+          "joka",
+          "päivä"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "haluaa",
+          "saavuttaa",
+          "tavoitteensa"
+        ],
+        "past": [
+          "Hän",
+          "halusi",
+          "saavuttaa",
+          "tavoitteensa"
+        ],
+        "future": [
+          "Hän",
+          "haluaa",
+          "saavuttaa",
+          "tavoitteensa"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "finnish": {
+        "present": [
+          "Opimme",
+          "virheistämme"
+        ],
+        "past": [
+          "Opimme",
+          "virheistämme"
+        ],
+        "future": [
+          "Otamme",
+          "opiksemme",
+          "virheistämme"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "työskentelee",
+          "lujasti",
+          "rakentaakseen",
+          "tulevaisuuttaan"
+        ],
+        "past": [
+          "Hän",
+          "työskenteli",
+          "lujasti",
+          "rakentaakseen",
+          "tulevaisuuttaan"
+        ],
+        "future": [
+          "Hän",
+          "työskentelee",
+          "lujasti",
+          "rakentaakseen",
+          "tulevaisuutensa"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "uskovat",
+          "että",
+          "kaikki",
+          "on",
+          "mahdollista"
+        ],
+        "past": [
+          "He",
+          "uskoivat",
+          "että",
+          "kaikki",
+          "oli",
+          "mahdollista"
+        ],
+        "future": [
+          "He",
+          "uskovat",
+          "että",
+          "kaikki",
+          "on",
+          "mahdollista"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "finnish": {
+        "present": [
+          "Ajattelen",
+          "tulevaisuuttani",
+          "joka",
+          "ilta"
+        ],
+        "past": [
+          "Mietin",
+          "tulevaisuuttani",
+          "joka",
+          "ilta"
+        ],
+        "future": [
+          "Ajattelen",
+          "tulevaisuuttani",
+          "joka",
+          "ilta"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "yrittää",
+          "pysyä",
+          "positiivisena",
+          "vaikeina",
+          "aikoina"
+        ],
+        "past": [
+          "Hän",
+          "yritti",
+          "pysyä",
+          "positiivisena",
+          "vaikeina",
+          "aikoina"
+        ],
+        "future": [
+          "Hän",
+          "yrittää",
+          "pysyä",
+          "positiivisena",
+          "vaikeina",
+          "aikoina"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "finnish": {
+        "present": [
+          "Haluamme",
+          "elää",
+          "merkityksellistä",
+          "elämää"
+        ],
+        "past": [
+          "Halusimme",
+          "elää",
+          "merkityksellistä",
+          "elämää"
+        ],
+        "future": [
+          "Haluamme",
+          "elää",
+          "merkityksellistä",
+          "elämää"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "finnish": {
+        "present": [
+          "Hän",
+          "ymmärtää",
+          "että",
+          "muutos",
+          "vie",
+          "aikaa"
+        ],
+        "past": [
+          "Hän",
+          "ymmärsi",
+          "että",
+          "muutos",
+          "vei",
+          "aikaa"
+        ],
+        "future": [
+          "Hän",
+          "ymmärtää",
+          "että",
+          "muutos",
+          "vie",
+          "aikaa"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "finnish": {
+        "present": [
+          "He",
+          "päättävät",
+          "seurata",
+          "unelmiaan"
+        ],
+        "past": [
+          "He",
+          "päättivät",
+          "seurata",
+          "unelmiaan"
+        ],
+        "future": [
+          "He",
+          "päättävät",
+          "seurata",
+          "unelmiaan"
+        ]
+      }
+    }
+  ]
+}

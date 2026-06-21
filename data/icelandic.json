@@ -1,0 +1,8617 @@
+{
+  "language": "Icelandic",
+  "stories": {
+    "story1": {
+      "title": "á kaffihúsinu",
+      "content": [
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "fer",
+          "meaning": "goes",
+          "sound": "fer"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "lítið",
+          "meaning": "little",
+          "sound": "lí-tið"
+        },
+        {
+          "word": "kaffihús",
+          "meaning": "coffee shop",
+          "sound": "kaf-fi-hús"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "hverjum",
+          "meaning": "to whom",
+          "sound": "hver-jum"
+        },
+        {
+          "word": "morgni",
+          "meaning": "morning",
+          "sound": "mor-gni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kaffihúsið",
+          "meaning": "the cafe",
+          "sound": "kaf-fi-hú-sið"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "nálægt",
+          "meaning": "near",
+          "sound": "ná-lægt"
+        },
+        {
+          "word": "húsinu",
+          "meaning": "the house",
+          "sound": "hú-si-nu"
+        },
+        {
+          "word": "mínu",
+          "meaning": "mine",
+          "sound": "mí-nu"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "rólegt",
+          "meaning": "quiet",
+          "sound": "ró-legt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "sit",
+          "meaning": "sit",
+          "sound": "sit"
+        },
+        {
+          "word": "alltaf",
+          "meaning": "always",
+          "sound": "al-ltaf"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "gluggann",
+          "meaning": "the window",
+          "sound": "glug-gann"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "panta",
+          "meaning": "order",
+          "sound": "pan-ta"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "heitan",
+          "meaning": "hot",
+          "sound": "he-i-tan"
+        },
+        {
+          "word": "kaffibolla",
+          "meaning": "a cup of coffee",
+          "sound": "kaf-fi-bol-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þjónninn",
+          "meaning": "the waiter",
+          "sound": "þjón-ninn"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "vingjarnlegur",
+          "meaning": "friendly",
+          "sound": "vin-gjar-nle-gur"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "tekur",
+          "meaning": "takes",
+          "sound": "te-kur"
+        },
+        {
+          "word": "alltaf",
+          "meaning": "always",
+          "sound": "al-ltaf"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "móti",
+          "meaning": "opposite",
+          "sound": "mó-ti"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "brosi",
+          "meaning": "smile",
+          "sound": "bro-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Stundum",
+          "meaning": "sometimes",
+          "sound": "stun-dum"
+        },
+        {
+          "word": "les",
+          "meaning": "read",
+          "sound": "les"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "áhugaverða",
+          "meaning": "interesting",
+          "sound": "á-hu-ga-ver-ða"
+        },
+        {
+          "word": "bók",
+          "meaning": "book",
+          "sound": "bók"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "stundum",
+          "meaning": "sometimes",
+          "sound": "stun-dum"
+        },
+        {
+          "word": "skrifa",
+          "meaning": "write",
+          "sound": "skri-fa"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "minnisbókina",
+          "meaning": "the notebook",
+          "sound": "min-nis-bó-ki-na"
+        },
+        {
+          "word": "mína",
+          "meaning": "my",
+          "sound": "mí-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "sé",
+          "meaning": "see",
+          "sound": "sé"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "nýja",
+          "meaning": "new",
+          "sound": "ný-ja"
+        },
+        {
+          "word": "manneskju",
+          "meaning": "a person",
+          "sound": "man-nes-kju"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hún",
+          "meaning": "she",
+          "sound": "hún"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "lesa",
+          "meaning": "read",
+          "sound": "le-sa"
+        },
+        {
+          "word": "skáldsögu",
+          "meaning": "novel",
+          "sound": "skál-dsö-gu"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "drekkur",
+          "meaning": "drinks",
+          "sound": "drek-kur"
+        },
+        {
+          "word": "te",
+          "meaning": "tea",
+          "sound": "te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "finnst",
+          "meaning": "feels",
+          "sound": "finnst"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "forvitin",
+          "meaning": "curious",
+          "sound": "for-vi-tin"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "svolítið",
+          "meaning": "a little",
+          "sound": "svo-lí-tið"
+        },
+        {
+          "word": "feimin",
+          "meaning": "shy",
+          "sound": "fe-i-min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "nokkrar",
+          "meaning": "a few",
+          "sound": "nok-krar"
+        },
+        {
+          "word": "mínútur",
+          "meaning": "minutes",
+          "sound": "mí-nú-tur"
+        },
+        {
+          "word": "segi",
+          "meaning": "say",
+          "sound": "se-gi"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "halló",
+          "meaning": "hello",
+          "sound": "hal-ló"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hún",
+          "meaning": "she",
+          "sound": "hún"
+        },
+        {
+          "word": "svarar",
+          "meaning": "answers",
+          "sound": "sva-rar"
+        },
+        {
+          "word": "brosandi",
+          "meaning": "smiling",
+          "sound": "bro-san-di"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "byrjum",
+          "meaning": "let's start",
+          "sound": "byr-jum"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "tala",
+          "meaning": "number",
+          "sound": "ta-la"
+        },
+        {
+          "word": "saman",
+          "meaning": "together",
+          "sound": "sa-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "finnst",
+          "meaning": "feels",
+          "sound": "finnst"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "vera",
+          "meaning": "being",
+          "sound": "ve-ra"
+        },
+        {
+          "word": "glöð",
+          "meaning": "happy",
+          "sound": "glöð"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "afslappuð",
+          "meaning": "relaxed",
+          "sound": "af-slap-puð"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "í garðinum",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "fer",
+          "meaning": "goes",
+          "sound": "fer"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "garðinn",
+          "meaning": "the garden",
+          "sound": "gar-ðinn"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "vinkonu",
+          "meaning": "a friend",
+          "sound": "vin-ko-nu"
+        },
+        {
+          "word": "minni",
+          "meaning": "memory",
+          "sound": "min-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Veður",
+          "meaning": "weather",
+          "sound": "ve-ður"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "gott",
+          "meaning": "good",
+          "sound": "gott"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "sólin",
+          "meaning": "the sun",
+          "sound": "só-lin"
+        },
+        {
+          "word": "skín",
+          "meaning": "shine",
+          "sound": "skín"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "sé",
+          "meaning": "see",
+          "sound": "sé"
+        },
+        {
+          "word": "marga",
+          "meaning": "many",
+          "sound": "mar-ga"
+        },
+        {
+          "word": "ganga",
+          "meaning": "walk",
+          "sound": "gan-ga"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hlæja",
+          "meaning": "laugh",
+          "sound": "hlæ-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sum",
+          "meaning": "some",
+          "sound": "sum"
+        },
+        {
+          "word": "börn",
+          "meaning": "children",
+          "sound": "börn"
+        },
+        {
+          "word": "leika",
+          "meaning": "play",
+          "sound": "le-i-ka"
+        },
+        {
+          "word": "sér",
+          "meaning": "see",
+          "sound": "sér"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "bolta",
+          "meaning": "ball",
+          "sound": "bol-ta"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "önnur",
+          "meaning": "others",
+          "sound": "ön-nur"
+        },
+        {
+          "word": "hlaupa",
+          "meaning": "run",
+          "sound": "hla-u-pa"
+        },
+        {
+          "word": "hratt",
+          "meaning": "fast",
+          "sound": "hratt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "vinur",
+          "meaning": "friend",
+          "sound": "vi-nur"
+        },
+        {
+          "word": "minn",
+          "meaning": "my",
+          "sound": "minn"
+        },
+        {
+          "word": "sátum",
+          "meaning": "we sat",
+          "sound": "sá-tum"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "bekk",
+          "meaning": "class",
+          "sound": "bekk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "töluðum",
+          "meaning": "we talked",
+          "sound": "tö-lu-ðum"
+        },
+        {
+          "word": "um",
+          "meaning": "about",
+          "sound": "um"
+        },
+        {
+          "word": "líf",
+          "meaning": "life",
+          "sound": "líf"
+        },
+        {
+          "word": "okkar",
+          "meaning": "our",
+          "sound": "ok-kar"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hlógum",
+          "meaning": "we laughed",
+          "sound": "hló-gum"
+        },
+        {
+          "word": "mikið",
+          "meaning": "a lot",
+          "sound": "mi-kið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "keyptum",
+          "meaning": "bought",
+          "sound": "ke-yp-tum"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "ís",
+          "meaning": "ice cream",
+          "sound": "ís"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dagurinn",
+          "meaning": "the day",
+          "sound": "da-gu-rinn"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "einfaldur",
+          "meaning": "simple",
+          "sound": "e-in-fal-dur"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "fallegur",
+          "meaning": "beautiful",
+          "sound": "fal-le-gur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "á bókasafninu",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "fer",
+          "meaning": "goes",
+          "sound": "fer"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "bókasafnið",
+          "meaning": "the library",
+          "sound": "bó-ka-saf-nið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þetta",
+          "meaning": "this",
+          "sound": "þet-ta"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "rólegur",
+          "meaning": "quiet",
+          "sound": "ró-le-gur"
+        },
+        {
+          "word": "staður",
+          "meaning": "place",
+          "sound": "sta-ður"
+        },
+        {
+          "word": "fullur",
+          "meaning": "full",
+          "sound": "ful-lur"
+        },
+        {
+          "word": "af",
+          "meaning": "of",
+          "sound": "af"
+        },
+        {
+          "word": "bókum",
+          "meaning": "books",
+          "sound": "bó-kum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "finnst",
+          "meaning": "feels",
+          "sound": "finnst"
+        },
+        {
+          "word": "gaman",
+          "meaning": "fun",
+          "sound": "ga-man"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "lesa",
+          "meaning": "read",
+          "sound": "le-sa"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "læra",
+          "meaning": "learn",
+          "sound": "læ-ra"
+        },
+        {
+          "word": "nýja",
+          "meaning": "new",
+          "sound": "ný-ja"
+        },
+        {
+          "word": "hluti",
+          "meaning": "thing",
+          "sound": "hlu-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "leita",
+          "meaning": "search",
+          "sound": "le-i-ta"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "áhugaverðri",
+          "meaning": "more interesting",
+          "sound": "á-hu-ga-ver-ðri"
+        },
+        {
+          "word": "bók",
+          "meaning": "book",
+          "sound": "bók"
+        },
+        {
+          "word": "um",
+          "meaning": "about",
+          "sound": "um"
+        },
+        {
+          "word": "sögu",
+          "meaning": "story",
+          "sound": "sö-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "sest",
+          "meaning": "sits down",
+          "sound": "sest"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "borð",
+          "meaning": "table",
+          "sound": "borð"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "byrja",
+          "meaning": "start",
+          "sound": "byr-ja"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "lesa",
+          "meaning": "read",
+          "sound": "le-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "annað",
+          "meaning": "another",
+          "sound": "an-nað"
+        },
+        {
+          "word": "fólk",
+          "meaning": "people",
+          "sound": "fólk"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "læra",
+          "meaning": "learn",
+          "sound": "læ-ra"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "skrifa",
+          "meaning": "write",
+          "sound": "skri-fa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Andrúmsloftið",
+          "meaning": "the atmosphere",
+          "sound": "an-drúm-slof-tið"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "rólegt",
+          "meaning": "quiet",
+          "sound": "ró-legt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "smá",
+          "meaning": "a little",
+          "sound": "smá"
+        },
+        {
+          "word": "stund",
+          "meaning": "moment",
+          "sound": "stund"
+        },
+        {
+          "word": "loka",
+          "meaning": "close",
+          "sound": "lo-ka"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "bókinni",
+          "meaning": "the book",
+          "sound": "bó-kin-ni"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "finnst",
+          "meaning": "feels",
+          "sound": "finnst"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "vera",
+          "meaning": "being",
+          "sound": "ve-ra"
+        },
+        {
+          "word": "sáttur",
+          "meaning": "satisfied",
+          "sound": "sát-tur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "í búðinni",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "fara",
+          "meaning": "go",
+          "sound": "fa-ra"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "stóra",
+          "meaning": "big",
+          "sound": "stó-ra"
+        },
+        {
+          "word": "búð",
+          "meaning": "shop",
+          "sound": "búð"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "kaupa",
+          "meaning": "buy",
+          "sound": "ka-u-pa"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "matinn",
+          "meaning": "the food",
+          "sound": "ma-tinn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": "vantar",
+          "meaning": "missing",
+          "sound": "van-tar"
+        },
+        {
+          "word": "brauð",
+          "meaning": "bread",
+          "sound": "bra-uð"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mjólk",
+          "meaning": "milk",
+          "sound": "mjólk"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ávexti",
+          "meaning": "fruits",
+          "sound": "á-vex-ti"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "grænmeti",
+          "meaning": "vegetables",
+          "sound": "græn-me-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Verslunin",
+          "meaning": "the shop",
+          "sound": "ver-slu-nin"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "full",
+          "meaning": "full",
+          "sound": "full"
+        },
+        {
+          "word": "af",
+          "meaning": "of",
+          "sound": "af"
+        },
+        {
+          "word": "fólki",
+          "meaning": "people",
+          "sound": "fól-ki"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "mikill",
+          "meaning": "great",
+          "sound": "mi-kill"
+        },
+        {
+          "word": "hávaði",
+          "meaning": "noise",
+          "sound": "há-va-ði"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "leita",
+          "meaning": "search",
+          "sound": "le-i-ta"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "vörunum",
+          "meaning": "the products",
+          "sound": "vö-ru-num"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "hillunum",
+          "meaning": "the shelves",
+          "sound": "hil-lu-num"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kona",
+          "meaning": "a woman",
+          "sound": "ko-na"
+        },
+        {
+          "word": "spyr",
+          "meaning": "asks",
+          "sound": "spyr"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hvar",
+          "meaning": "where",
+          "sound": "hvar"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mjólkin",
+          "meaning": "the milk",
+          "sound": "mjól-kin"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "segi",
+          "meaning": "say",
+          "sound": "se-gi"
+        },
+        {
+          "word": "honum",
+          "meaning": "him",
+          "sound": "ho-num"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "þarna",
+          "meaning": "there",
+          "sound": "þar-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "hliðina",
+          "meaning": "the side",
+          "sound": "hli-ði-na"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "brauðinu",
+          "meaning": "the bread",
+          "sound": "bra-u-ði-nu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hún",
+          "meaning": "she",
+          "sound": "hún"
+        },
+        {
+          "word": "brosir",
+          "meaning": "smiles",
+          "sound": "bro-sir"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "segir",
+          "meaning": "says",
+          "sound": "se-gir"
+        },
+        {
+          "word": "takk",
+          "meaning": "thank you",
+          "sound": "takk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Svo",
+          "meaning": "so",
+          "sound": "svo"
+        },
+        {
+          "word": "fer",
+          "meaning": "goes",
+          "sound": "fer"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "gjaldkera",
+          "meaning": "treasurer",
+          "sound": "gjal-dke-ra"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "borga",
+          "meaning": "pay",
+          "sound": "bor-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "fer",
+          "meaning": "goes",
+          "sound": "fer"
+        },
+        {
+          "word": "út",
+          "meaning": "out",
+          "sound": "út"
+        },
+        {
+          "word": "úr",
+          "meaning": "from",
+          "sound": "úr"
+        },
+        {
+          "word": "búðinni",
+          "meaning": "the shop",
+          "sound": "bú-ðin-ni"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "fulla",
+          "meaning": "full",
+          "sound": "ful-la"
+        },
+        {
+          "word": "tösku",
+          "meaning": "bag",
+          "sound": "tös-ku"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "ánægð",
+          "meaning": "happy",
+          "sound": "á-nægð"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "í rútunni",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "tek",
+          "meaning": "take",
+          "sound": "tek"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "strætó",
+          "meaning": "bus",
+          "sound": "stræ-tó"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "fara",
+          "meaning": "go",
+          "sound": "fa-ra"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "vinnuna",
+          "meaning": "the work",
+          "sound": "vin-nu-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rútan",
+          "meaning": "the bus",
+          "sound": "rú-tan"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "full",
+          "meaning": "full",
+          "sound": "full"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "lítið",
+          "meaning": "little",
+          "sound": "lí-tið"
+        },
+        {
+          "word": "pláss",
+          "meaning": "space",
+          "sound": "pláss"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "finnst",
+          "meaning": "feels",
+          "sound": "finnst"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "vera",
+          "meaning": "being",
+          "sound": "ve-ra"
+        },
+        {
+          "word": "svolítið",
+          "meaning": "a little",
+          "sound": "svo-lí-tið"
+        },
+        {
+          "word": "þreyttur",
+          "meaning": "tired",
+          "sound": "þre-yt-tur"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "sé",
+          "meaning": "see",
+          "sound": "sé"
+        },
+        {
+          "word": "gamla",
+          "meaning": "old",
+          "sound": "gam-la"
+        },
+        {
+          "word": "manneskju",
+          "meaning": "a person",
+          "sound": "man-nes-kju"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "býð",
+          "meaning": "offers",
+          "sound": "býð"
+        },
+        {
+          "word": "þér",
+          "meaning": "you",
+          "sound": "þér"
+        },
+        {
+          "word": "sæti",
+          "meaning": "seat",
+          "sound": "sæ-ti"
+        },
+        {
+          "word": "mitt",
+          "meaning": "my",
+          "sound": "mitt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "segir",
+          "meaning": "says",
+          "sound": "se-gir"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ertu",
+          "meaning": "are you",
+          "sound": "er-tu"
+        },
+        {
+          "word": "viss",
+          "meaning": "sure",
+          "sound": "viss"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "svara",
+          "meaning": "answer",
+          "sound": "sva-ra"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Já",
+          "meaning": "yes",
+          "sound": "já"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ekkert",
+          "meaning": "nothing",
+          "sound": "ek-kert"
+        },
+        {
+          "word": "mál",
+          "meaning": "matter",
+          "sound": "mál"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "brosir",
+          "meaning": "smiles",
+          "sound": "bro-sir"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "þakkar",
+          "meaning": "thanks",
+          "sound": "þak-kar"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "ferðinni",
+          "meaning": "the journey",
+          "sound": "fer-ðin-ni"
+        },
+        {
+          "word": "horfi",
+          "meaning": "look",
+          "sound": "hor-fi"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "út",
+          "meaning": "out",
+          "sound": "út"
+        },
+        {
+          "word": "um",
+          "meaning": "about",
+          "sound": "um"
+        },
+        {
+          "word": "gluggann",
+          "meaning": "the window",
+          "sound": "glug-gann"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hugsa",
+          "meaning": "think",
+          "sound": "hug-sa"
+        },
+        {
+          "word": "um",
+          "meaning": "about",
+          "sound": "um"
+        },
+        {
+          "word": "daginn",
+          "meaning": "the day",
+          "sound": "da-ginn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þó",
+          "meaning": "although",
+          "sound": "þó"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "sé",
+          "meaning": "see",
+          "sound": "sé"
+        },
+        {
+          "word": "þreytt",
+          "meaning": "tired",
+          "sound": "þre-ytt"
+        },
+        {
+          "word": "þá",
+          "meaning": "then",
+          "sound": "þá"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "gott",
+          "meaning": "good",
+          "sound": "gott"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hjálpa",
+          "meaning": "help",
+          "sound": "hjál-pa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Í gær á ströndinni",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "gær",
+          "meaning": "yesterday",
+          "sound": "gær"
+        },
+        {
+          "word": "fór",
+          "meaning": "went",
+          "sound": "fór"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "ströndina",
+          "meaning": "the beach",
+          "sound": "strön-di-na"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "vinum",
+          "meaning": "friends",
+          "sound": "vi-num"
+        },
+        {
+          "word": "mínum",
+          "meaning": "my",
+          "sound": "mí-num"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Veðrið",
+          "meaning": "the weather",
+          "sound": "veð-rið"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "besta",
+          "meaning": "the best",
+          "sound": "bes-ta"
+        },
+        {
+          "word": "móti",
+          "meaning": "opposite",
+          "sound": "mó-ti"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "sjórinn",
+          "meaning": "the sea",
+          "sound": "sjó-rinn"
+        },
+        {
+          "word": "logn",
+          "meaning": "calm",
+          "sound": "logn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "gengum",
+          "meaning": "walked",
+          "sound": "gen-gum"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "sandinum",
+          "meaning": "the sand",
+          "sound": "san-di-num"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "ræddum",
+          "meaning": "let's talk",
+          "sound": "ræd-dum"
+        },
+        {
+          "word": "ýmislegt",
+          "meaning": "various things",
+          "sound": "ý-mis-legt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "syntum",
+          "meaning": "swimming",
+          "sound": "syn-tum"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "köldu",
+          "meaning": "cold",
+          "sound": "köl-du"
+        },
+        {
+          "word": "vatni",
+          "meaning": "water",
+          "sound": "vat-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "fyrstu",
+          "meaning": "the first",
+          "sound": "fyr-stu"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "svolítið",
+          "meaning": "a little",
+          "sound": "svo-lí-tið"
+        },
+        {
+          "word": "hrædd",
+          "meaning": "scared",
+          "sound": "hrædd"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "svo",
+          "meaning": "so",
+          "sound": "svo"
+        },
+        {
+          "word": "leið",
+          "meaning": "way",
+          "sound": "le-ið"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "vel",
+          "meaning": "well",
+          "sound": "vel"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "lékum",
+          "meaning": "let's play",
+          "sound": "lé-kum"
+        },
+        {
+          "word": "okkur",
+          "meaning": "us",
+          "sound": "ok-kur"
+        },
+        {
+          "word": "líka",
+          "meaning": "too",
+          "sound": "lí-ka"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "bolta",
+          "meaning": "ball",
+          "sound": "bol-ta"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hlógum",
+          "meaning": "we laughed",
+          "sound": "hló-gum"
+        },
+        {
+          "word": "mikið",
+          "meaning": "a lot",
+          "sound": "mi-kið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "hádegi",
+          "meaning": "noon",
+          "sound": "há-de-gi"
+        },
+        {
+          "word": "borðuðum",
+          "meaning": "we ate",
+          "sound": "bor-ðu-ðum"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "saman",
+          "meaning": "together",
+          "sound": "sa-man"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "horfðum",
+          "meaning": "watched",
+          "sound": "hor-fðum"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "sólsetrið",
+          "meaning": "the sunset",
+          "sound": "sól-se-trið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þetta",
+          "meaning": "this",
+          "sound": "þet-ta"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "sérstakur",
+          "meaning": "special",
+          "sound": "sér-sta-kur"
+        },
+        {
+          "word": "dagur",
+          "meaning": "day",
+          "sound": "da-gur"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "mun",
+          "meaning": "will",
+          "sound": "mun"
+        },
+        {
+          "word": "aldrei",
+          "meaning": "never",
+          "sound": "al-dre-i"
+        },
+        {
+          "word": "gleyma",
+          "meaning": "forget",
+          "sound": "gle-y-ma"
+        },
+        {
+          "word": "honum",
+          "meaning": "him",
+          "sound": "ho-num"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Mikilvægt samtal",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "hitti",
+          "meaning": "met",
+          "sound": "hit-ti"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "gamlan",
+          "meaning": "old",
+          "sound": "gam-lan"
+        },
+        {
+          "word": "vin",
+          "meaning": "a friend",
+          "sound": "vin"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "kaffihúsi",
+          "meaning": "a cafe",
+          "sound": "kaf-fi-hú-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "hafði",
+          "meaning": "had",
+          "sound": "haf-ði"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "séð",
+          "meaning": "seen",
+          "sound": "séð"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "langan",
+          "meaning": "long",
+          "sound": "lan-gan"
+        },
+        {
+          "word": "tíma",
+          "meaning": "time",
+          "sound": "tí-ma"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "svo",
+          "meaning": "so",
+          "sound": "svo"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "ánægður",
+          "meaning": "happy",
+          "sound": "á-næg-ður"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "sjá",
+          "meaning": "see",
+          "sound": "sjá"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "settumst",
+          "meaning": "sat down",
+          "sound": "set-tumst"
+        },
+        {
+          "word": "niður",
+          "meaning": "down",
+          "sound": "ni-ður"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "byrjuðum",
+          "meaning": "we started",
+          "sound": "byr-ju-ðum"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "tala",
+          "meaning": "number",
+          "sound": "ta-la"
+        },
+        {
+          "word": "saman",
+          "meaning": "together",
+          "sound": "sa-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "byggi",
+          "meaning": "barley",
+          "sound": "byg-gi"
+        },
+        {
+          "word": "núna",
+          "meaning": "now",
+          "sound": "nú-na"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "annarri",
+          "meaning": "another one",
+          "sound": "an-nar-ri"
+        },
+        {
+          "word": "borg",
+          "meaning": "city",
+          "sound": "borg"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "starfar",
+          "meaning": "works",
+          "sound": "star-far"
+        },
+        {
+          "word": "líka",
+          "meaning": "too",
+          "sound": "lí-ka"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "stóru",
+          "meaning": "the big one",
+          "sound": "stó-ru"
+        },
+        {
+          "word": "fyrirtæki",
+          "meaning": "company",
+          "sound": "fy-rir-tæ-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": "honum",
+          "meaning": "him",
+          "sound": "ho-num"
+        },
+        {
+          "word": "frá",
+          "meaning": "from",
+          "sound": "frá"
+        },
+        {
+          "word": "náminu",
+          "meaning": "the study",
+          "sound": "ná-mi-nu"
+        },
+        {
+          "word": "mínu",
+          "meaning": "mine",
+          "sound": "mí-nu"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "áætlunum",
+          "meaning": "plans",
+          "sound": "á-æ-tlu-num"
+        },
+        {
+          "word": "mínum",
+          "meaning": "my",
+          "sound": "mí-num"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "töluðum",
+          "meaning": "we talked",
+          "sound": "tö-lu-ðum"
+        },
+        {
+          "word": "saman",
+          "meaning": "together",
+          "sound": "sa-man"
+        },
+        {
+          "word": "tímunum",
+          "meaning": "the hours",
+          "sound": "tí-mu-num"
+        },
+        {
+          "word": "saman",
+          "meaning": "together",
+          "sound": "sa-man"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "minntumst",
+          "meaning": "remember",
+          "sound": "min-ntumst"
+        },
+        {
+          "word": "margra",
+          "meaning": "many",
+          "sound": "mar-gra"
+        },
+        {
+          "word": "stunda",
+          "meaning": "pursue",
+          "sound": "stun-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Áður",
+          "meaning": "before",
+          "sound": "á-ður"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "fórum",
+          "meaning": "went",
+          "sound": "fó-rum"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "ættum",
+          "meaning": "should",
+          "sound": "æt-tum"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hittast",
+          "meaning": "meet",
+          "sound": "hit-tast"
+        },
+        {
+          "word": "oftar",
+          "meaning": "more often",
+          "sound": "of-tar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "brosti",
+          "meaning": "smiled",
+          "sound": "bros-ti"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "svaraði",
+          "meaning": "answered",
+          "sound": "sva-ra-ði"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jú",
+          "meaning": "sure",
+          "sound": "jú"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "líkaði",
+          "meaning": "liked",
+          "sound": "lí-ka-ði"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "vel",
+          "meaning": "well",
+          "sound": "vel"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "þennan",
+          "meaning": "this one",
+          "sound": "þen-nan"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Erfið ákvörðun",
+      "content": [
+        {
+          "word": "Fyrir",
+          "meaning": "for",
+          "sound": "fy-rir"
+        },
+        {
+          "word": "nokkrum",
+          "meaning": "a few",
+          "sound": "nok-krum"
+        },
+        {
+          "word": "dögum",
+          "meaning": "days",
+          "sound": "dö-gum"
+        },
+        {
+          "word": "fékk",
+          "meaning": "got",
+          "sound": "fékk"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "atvinnutilboð",
+          "meaning": "job offer",
+          "sound": "at-vin-nu-til-boð"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "annarri",
+          "meaning": "another one",
+          "sound": "an-nar-ri"
+        },
+        {
+          "word": "borg",
+          "meaning": "city",
+          "sound": "borg"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "mjög",
+          "meaning": "very",
+          "sound": "mjög"
+        },
+        {
+          "word": "áhugavert",
+          "meaning": "interesting",
+          "sound": "á-hu-ga-vert"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "fyrstu",
+          "meaning": "the first",
+          "sound": "fyr-stu"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "spenntur",
+          "meaning": "excited",
+          "sound": "spen-ntur"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "líka",
+          "meaning": "too",
+          "sound": "lí-ka"
+        },
+        {
+          "word": "stressaður",
+          "meaning": "stressed out",
+          "sound": "stres-sa-ður"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "talaði",
+          "meaning": "spoke",
+          "sound": "ta-la-ði"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "fjölskyldu",
+          "meaning": "family",
+          "sound": "fjöl-skyl-du"
+        },
+        {
+          "word": "mína",
+          "meaning": "my",
+          "sound": "mí-na"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "vini",
+          "meaning": "friends",
+          "sound": "vi-ni"
+        },
+        {
+          "word": "mína",
+          "meaning": "my",
+          "sound": "mí-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þeir",
+          "meaning": "they",
+          "sound": "þe-ir"
+        },
+        {
+          "word": "gáfu",
+          "meaning": "gave",
+          "sound": "gá-fu"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "mörg",
+          "meaning": "many",
+          "sound": "mörg"
+        },
+        {
+          "word": "ráð",
+          "meaning": "advice",
+          "sound": "ráð"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Móðir",
+          "meaning": "mother",
+          "sound": "mó-ðir"
+        },
+        {
+          "word": "mín",
+          "meaning": "min",
+          "sound": "mín"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þú",
+          "meaning": "you",
+          "sound": "þú"
+        },
+        {
+          "word": "verður",
+          "meaning": "will be",
+          "sound": "ver-ður"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "fylgja",
+          "meaning": "follow",
+          "sound": "fyl-gja"
+        },
+        {
+          "word": "draumum",
+          "meaning": "dreams",
+          "sound": "dra-u-mum"
+        },
+        {
+          "word": "þínum",
+          "meaning": "your",
+          "sound": "þí-num"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "vinur",
+          "meaning": "friend",
+          "sound": "vi-nur"
+        },
+        {
+          "word": "minn",
+          "meaning": "my",
+          "sound": "minn"
+        },
+        {
+          "word": "spurði",
+          "meaning": "asked",
+          "sound": "spur-ði"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ertu",
+          "meaning": "are you",
+          "sound": "er-tu"
+        },
+        {
+          "word": "viss",
+          "meaning": "sure",
+          "sound": "viss"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "eyddi",
+          "meaning": "spent",
+          "sound": "e-yd-di"
+        },
+        {
+          "word": "nokkrum",
+          "meaning": "a few",
+          "sound": "nok-krum"
+        },
+        {
+          "word": "dögum",
+          "meaning": "days",
+          "sound": "dö-gum"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hugsa",
+          "meaning": "think",
+          "sound": "hug-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "lokum",
+          "meaning": "finally",
+          "sound": "lo-kum"
+        },
+        {
+          "word": "ákvað",
+          "meaning": "decided",
+          "sound": "ák-vað"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "þiggja",
+          "meaning": "accept",
+          "sound": "þig-gja"
+        },
+        {
+          "word": "starfið",
+          "meaning": "the job",
+          "sound": "star-fið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "veit",
+          "meaning": "know",
+          "sound": "ve-it"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "verður",
+          "meaning": "will be",
+          "sound": "ver-ður"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "auðvelt",
+          "meaning": "easy",
+          "sound": "a-uð-velt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": "langar",
+          "meaning": "want",
+          "sound": "lan-gar"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "reyna",
+          "meaning": "try",
+          "sound": "re-y-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Deilur við vin",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "gær",
+          "meaning": "yesterday",
+          "sound": "gær"
+        },
+        {
+          "word": "átti",
+          "meaning": "had",
+          "sound": "át-ti"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "rifrildi",
+          "meaning": "argument",
+          "sound": "ri-fril-di"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "besta",
+          "meaning": "the best",
+          "sound": "bes-ta"
+        },
+        {
+          "word": "vin",
+          "meaning": "a friend",
+          "sound": "vin"
+        },
+        {
+          "word": "minn",
+          "meaning": "my",
+          "sound": "minn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þetta",
+          "meaning": "this",
+          "sound": "þet-ta"
+        },
+        {
+          "word": "byrjaði",
+          "meaning": "started",
+          "sound": "byr-ja-ði"
+        },
+        {
+          "word": "allt",
+          "meaning": "everything",
+          "sound": "allt"
+        },
+        {
+          "word": "þegar",
+          "meaning": "already",
+          "sound": "þe-gar"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "vorum",
+          "meaning": "were",
+          "sound": "vo-rum"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "tala",
+          "meaning": "number",
+          "sound": "ta-la"
+        },
+        {
+          "word": "um",
+          "meaning": "about",
+          "sound": "um"
+        },
+        {
+          "word": "áætlanir",
+          "meaning": "plans",
+          "sound": "á-æ-tla-nir"
+        },
+        {
+          "word": "okkar",
+          "meaning": "our",
+          "sound": "ok-kar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": "langaði",
+          "meaning": "wanted",
+          "sound": "lan-ga-ði"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "ferðast",
+          "meaning": "travel",
+          "sound": "fer-ðast"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "vildi",
+          "meaning": "wanted",
+          "sound": "vil-di"
+        },
+        {
+          "word": "helst",
+          "meaning": "preferably",
+          "sound": "helst"
+        },
+        {
+          "word": "vera",
+          "meaning": "being",
+          "sound": "ve-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "eigum",
+          "meaning": "have",
+          "sound": "e-i-gum"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "nóg",
+          "meaning": "enough",
+          "sound": "nóg"
+        },
+        {
+          "word": "af",
+          "meaning": "of",
+          "sound": "af"
+        },
+        {
+          "word": "peningum",
+          "meaning": "money",
+          "sound": "pe-nin-gum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "svaraði",
+          "meaning": "answered",
+          "sound": "sva-ra-ði"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "getum",
+          "meaning": "can",
+          "sound": "ge-tum"
+        },
+        {
+          "word": "bjargað",
+          "meaning": "saved",
+          "sound": "bjar-gað"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "sammála",
+          "meaning": "agree",
+          "sound": "sam-má-la"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Samtalið",
+          "meaning": "the conversation",
+          "sound": "sam-ta-lið"
+        },
+        {
+          "word": "varð",
+          "meaning": "became",
+          "sound": "varð"
+        },
+        {
+          "word": "spennuþrungið",
+          "meaning": "tense",
+          "sound": "spen-nuþ-run-gið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "endanum",
+          "meaning": "the end",
+          "sound": "en-da-num"
+        },
+        {
+          "word": "vorum",
+          "meaning": "were",
+          "sound": "vo-rum"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "bæði",
+          "meaning": "both",
+          "sound": "bæ-ði"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "uppnámi",
+          "meaning": "uproar",
+          "sound": "up-pná-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "held",
+          "meaning": "think",
+          "sound": "held"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "ætti",
+          "meaning": "should",
+          "sound": "æt-ti"
+        },
+        {
+          "word": "kannski",
+          "meaning": "maybe",
+          "sound": "kan-nski"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "tala",
+          "meaning": "number",
+          "sound": "ta-la"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "aftur",
+          "meaning": "again",
+          "sound": "af-tur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vinátta",
+          "meaning": "friendship",
+          "sound": "vi-nát-ta"
+        },
+        {
+          "word": "okkar",
+          "meaning": "our",
+          "sound": "ok-kar"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mikilvægari",
+          "meaning": "more important",
+          "sound": "mi-kil-væ-ga-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Mikilvæg breyting",
+      "content": [
+        {
+          "word": "Fyrir",
+          "meaning": "for",
+          "sound": "fy-rir"
+        },
+        {
+          "word": "ári",
+          "meaning": "year",
+          "sound": "á-ri"
+        },
+        {
+          "word": "síðan",
+          "meaning": "ago",
+          "sound": "sí-ðan"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "líf",
+          "meaning": "life",
+          "sound": "líf"
+        },
+        {
+          "word": "mitt",
+          "meaning": "my",
+          "sound": "mitt"
+        },
+        {
+          "word": "allt",
+          "meaning": "everything",
+          "sound": "allt"
+        },
+        {
+          "word": "öðruvísi",
+          "meaning": "differently",
+          "sound": "öð-ru-ví-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "vann",
+          "meaning": "won",
+          "sound": "vann"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "stað",
+          "meaning": "place",
+          "sound": "stað"
+        },
+        {
+          "word": "sem",
+          "meaning": "which",
+          "sound": "sem"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "líkaði",
+          "meaning": "liked",
+          "sound": "lí-ka-ði"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "hverjum",
+          "meaning": "to whom",
+          "sound": "hver-jum"
+        },
+        {
+          "word": "degi",
+          "meaning": "day",
+          "sound": "de-gi"
+        },
+        {
+          "word": "fann",
+          "meaning": "felt",
+          "sound": "fann"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "fyrir",
+          "meaning": "for",
+          "sound": "fy-rir"
+        },
+        {
+          "word": "þreytu",
+          "meaning": "tiredness",
+          "sound": "þre-y-tu"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "áhugaleysi",
+          "meaning": "lack of interest",
+          "sound": "á-hu-ga-le-y-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Einn",
+          "meaning": "one",
+          "sound": "e-inn"
+        },
+        {
+          "word": "daginn",
+          "meaning": "the day",
+          "sound": "da-ginn"
+        },
+        {
+          "word": "ákvað",
+          "meaning": "decided",
+          "sound": "ák-vað"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "breyta",
+          "meaning": "change",
+          "sound": "bre-y-ta"
+        },
+        {
+          "word": "öllu",
+          "meaning": "everything",
+          "sound": "öl-lu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "auðvelt",
+          "meaning": "easy",
+          "sound": "a-uð-velt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "hræddur",
+          "meaning": "scared",
+          "sound": "hræd-dur"
+        },
+        {
+          "word": "um",
+          "meaning": "about",
+          "sound": "um"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "mistakast",
+          "meaning": "fail",
+          "sound": "mis-ta-kast"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "vissi",
+          "meaning": "knew",
+          "sound": "vis-si"
+        },
+        {
+          "word": "líka",
+          "meaning": "too",
+          "sound": "lí-ka"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "gæti",
+          "meaning": "could",
+          "sound": "gæ-ti"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "haldið",
+          "meaning": "kept",
+          "sound": "hal-dið"
+        },
+        {
+          "word": "svona",
+          "meaning": "like this",
+          "sound": "svo-na"
+        },
+        {
+          "word": "áfram",
+          "meaning": "forward",
+          "sound": "á-fram"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "byrjaði",
+          "meaning": "started",
+          "sound": "byr-ja-ði"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "læra",
+          "meaning": "learn",
+          "sound": "læ-ra"
+        },
+        {
+          "word": "nýja",
+          "meaning": "new",
+          "sound": "ný-ja"
+        },
+        {
+          "word": "hluti",
+          "meaning": "thing",
+          "sound": "hlu-ti"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "vinna",
+          "meaning": "win",
+          "sound": "vin-na"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "markmiðum",
+          "meaning": "goals",
+          "sound": "mar-kmi-ðum"
+        },
+        {
+          "word": "mínum",
+          "meaning": "my",
+          "sound": "mí-num"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Smám",
+          "meaning": "little by little",
+          "sound": "smám"
+        },
+        {
+          "word": "saman",
+          "meaning": "together",
+          "sound": "sa-man"
+        },
+        {
+          "word": "breyttist",
+          "meaning": "changed",
+          "sound": "bre-yt-tist"
+        },
+        {
+          "word": "líf",
+          "meaning": "life",
+          "sound": "líf"
+        },
+        {
+          "word": "mitt",
+          "meaning": "my",
+          "sound": "mitt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "öruggari",
+          "meaning": "safer",
+          "sound": "ö-rug-ga-ri"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hamingjusamari",
+          "meaning": "happier",
+          "sound": "ha-min-gju-sa-ma-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "lærði",
+          "meaning": "learned",
+          "sound": "lær-ði"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "breytingar",
+          "meaning": "changes",
+          "sound": "bre-y-tin-gar"
+        },
+        {
+          "word": "eru",
+          "meaning": "are",
+          "sound": "e-ru"
+        },
+        {
+          "word": "erfiðar",
+          "meaning": "difficult",
+          "sound": "er-fi-ðar"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "nauðsynlegar",
+          "meaning": "necessary",
+          "sound": "na-uð-syn-le-gar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Merking leiðarinnar",
+      "content": [
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "hélt",
+          "meaning": "thought",
+          "sound": "hélt"
+        },
+        {
+          "word": "lengi",
+          "meaning": "for a long time",
+          "sound": "len-gi"
+        },
+        {
+          "word": "vel",
+          "meaning": "well",
+          "sound": "vel"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "árangur",
+          "meaning": "success",
+          "sound": "á-ran-gur"
+        },
+        {
+          "word": "væri",
+          "meaning": "would be",
+          "sound": "væ-ri"
+        },
+        {
+          "word": "mikilvægast",
+          "meaning": "most important",
+          "sound": "mi-kil-væ-gast"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "trúði",
+          "meaning": "believed",
+          "sound": "trú-ði"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hafa",
+          "meaning": "have",
+          "sound": "ha-fa"
+        },
+        {
+          "word": "peninga",
+          "meaning": "money",
+          "sound": "pe-nin-ga"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "viðurkenningu",
+          "meaning": "recognition",
+          "sound": "vi-ður-ken-nin-gu"
+        },
+        {
+          "word": "myndi",
+          "meaning": "would",
+          "sound": "myn-di"
+        },
+        {
+          "word": "gera",
+          "meaning": "do",
+          "sound": "ge-ra"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": "hamingjusama",
+          "meaning": "happy",
+          "sound": "ha-min-gju-sa-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "tímanum",
+          "meaning": "the time",
+          "sound": "tí-ma-num"
+        },
+        {
+          "word": "áttaði",
+          "meaning": "realized",
+          "sound": "át-ta-ði"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "hafði",
+          "meaning": "had",
+          "sound": "haf-ði"
+        },
+        {
+          "word": "rangt",
+          "meaning": "wrong",
+          "sound": "rangt"
+        },
+        {
+          "word": "fyrir",
+          "meaning": "for",
+          "sound": "fy-rir"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "sem",
+          "meaning": "which",
+          "sound": "sem"
+        },
+        {
+          "word": "raunverulega",
+          "meaning": "really",
+          "sound": "ra-un-ve-ru-le-ga"
+        },
+        {
+          "word": "skiptir",
+          "meaning": "divides",
+          "sound": "skip-tir"
+        },
+        {
+          "word": "máli",
+          "meaning": "matter",
+          "sound": "má-li"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "leiðin",
+          "meaning": "the way",
+          "sound": "le-i-ðin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Reynslan",
+          "meaning": "the experience",
+          "sound": "re-yn-slan"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mistökin",
+          "meaning": "the mistakes",
+          "sound": "mis-tö-kin"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "lærdómurinn",
+          "meaning": "the lesson",
+          "sound": "lær-dó-mu-rinn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Einn",
+          "meaning": "one",
+          "sound": "e-inn"
+        },
+        {
+          "word": "daginn",
+          "meaning": "the day",
+          "sound": "da-ginn"
+        },
+        {
+          "word": "talaði",
+          "meaning": "spoke",
+          "sound": "ta-la-ði"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "leiðbeinanda",
+          "meaning": "instructor",
+          "sound": "le-ið-be-i-nan-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "flýta",
+          "meaning": "hurry up",
+          "sound": "flý-ta"
+        },
+        {
+          "word": "þér",
+          "meaning": "you",
+          "sound": "þér"
+        },
+        {
+          "word": "bara",
+          "meaning": "just",
+          "sound": "ba-ra"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "komast",
+          "meaning": "get",
+          "sound": "ko-mast"
+        },
+        {
+          "word": "þangað",
+          "meaning": "there",
+          "sound": "þan-gað"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lærðu",
+          "meaning": "learn",
+          "sound": "lær-ðu"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "njóta",
+          "meaning": "enjoy",
+          "sound": "njó-ta"
+        },
+        {
+          "word": "ferlisins",
+          "meaning": "of the process",
+          "sound": "fer-li-sins"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Frá",
+          "meaning": "from",
+          "sound": "frá"
+        },
+        {
+          "word": "þeirri",
+          "meaning": "that one",
+          "sound": "þe-ir-ri"
+        },
+        {
+          "word": "stundu",
+          "meaning": "moment",
+          "sound": "stun-du"
+        },
+        {
+          "word": "breyttist",
+          "meaning": "changed",
+          "sound": "bre-yt-tist"
+        },
+        {
+          "word": "hugsunarháttur",
+          "meaning": "way of thinking",
+          "sound": "hug-su-nar-hát-tur"
+        },
+        {
+          "word": "minn",
+          "meaning": "my",
+          "sound": "minn"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Núna",
+          "meaning": "right now",
+          "sound": "nú-na"
+        },
+        {
+          "word": "met",
+          "meaning": "record",
+          "sound": "met"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "hvert",
+          "meaning": "every",
+          "sound": "hvert"
+        },
+        {
+          "word": "skref",
+          "meaning": "step",
+          "sound": "skref"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "læri",
+          "meaning": "thigh",
+          "sound": "læ-ri"
+        },
+        {
+          "word": "af",
+          "meaning": "of",
+          "sound": "af"
+        },
+        {
+          "word": "öllum",
+          "meaning": "everyone",
+          "sound": "öl-lum"
+        },
+        {
+          "word": "mistökum",
+          "meaning": "mistakes",
+          "sound": "mis-tö-kum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "hver ég er í raun og veru",
+      "content": [
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "mörg",
+          "meaning": "many",
+          "sound": "mörg"
+        },
+        {
+          "word": "ár",
+          "meaning": "year",
+          "sound": "ár"
+        },
+        {
+          "word": "spurði",
+          "meaning": "asked",
+          "sound": "spur-ði"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": "hver",
+          "meaning": "who",
+          "sound": "hver"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "væri",
+          "meaning": "would be",
+          "sound": "væ-ri"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "raun",
+          "meaning": "really",
+          "sound": "ra-un"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "veru",
+          "meaning": "creature",
+          "sound": "ve-ru"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "fyrstu",
+          "meaning": "the first",
+          "sound": "fyr-stu"
+        },
+        {
+          "word": "hélt",
+          "meaning": "thought",
+          "sound": "hélt"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "sjálfsmynd",
+          "meaning": "identity",
+          "sound": "sjál-fsmynd"
+        },
+        {
+          "word": "mín",
+          "meaning": "min",
+          "sound": "mín"
+        },
+        {
+          "word": "væri",
+          "meaning": "would be",
+          "sound": "væ-ri"
+        },
+        {
+          "word": "háð",
+          "meaning": "dependent",
+          "sound": "háð"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "hvað",
+          "meaning": "what",
+          "sound": "hvað"
+        },
+        {
+          "word": "öðrum",
+          "meaning": "others",
+          "sound": "öð-rum"
+        },
+        {
+          "word": "fannst",
+          "meaning": "was found",
+          "sound": "fannst"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "leita",
+          "meaning": "search",
+          "sound": "le-i-ta"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "samþykki",
+          "meaning": "consent",
+          "sound": "sam-þyk-ki"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hræddur",
+          "meaning": "scared",
+          "sound": "hræd-dur"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "gera",
+          "meaning": "do",
+          "sound": "ge-ra"
+        },
+        {
+          "word": "mistök",
+          "meaning": "mistake",
+          "sound": "mis-tök"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hins",
+          "meaning": "however",
+          "sound": "hins"
+        },
+        {
+          "word": "vegar",
+          "meaning": "road",
+          "sound": "ve-gar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "tímanum",
+          "meaning": "the time",
+          "sound": "tí-ma-num"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "skildi",
+          "meaning": "understood",
+          "sound": "skil-di"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "gildi",
+          "meaning": "value",
+          "sound": "gil-di"
+        },
+        {
+          "word": "mitt",
+          "meaning": "my",
+          "sound": "mitt"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "háð",
+          "meaning": "dependent",
+          "sound": "háð"
+        },
+        {
+          "word": "öðrum",
+          "meaning": "others",
+          "sound": "öð-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Einn",
+          "meaning": "one",
+          "sound": "e-inn"
+        },
+        {
+          "word": "daginn",
+          "meaning": "the day",
+          "sound": "da-ginn"
+        },
+        {
+          "word": "ákvað",
+          "meaning": "decided",
+          "sound": "ák-vað"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hlusta",
+          "meaning": "listen",
+          "sound": "hlus-ta"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "mína",
+          "meaning": "my",
+          "sound": "mí-na"
+        },
+        {
+          "word": "eigin",
+          "meaning": "own",
+          "sound": "e-i-gin"
+        },
+        {
+          "word": "rödd",
+          "meaning": "voice",
+          "sound": "rödd"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "fór",
+          "meaning": "went",
+          "sound": "fór"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "taka",
+          "meaning": "take",
+          "sound": "ta-ka"
+        },
+        {
+          "word": "ákvarðanir",
+          "meaning": "decisions",
+          "sound": "ák-var-ða-nir"
+        },
+        {
+          "word": "fyrir",
+          "meaning": "for",
+          "sound": "fy-rir"
+        },
+        {
+          "word": "sjálfan",
+          "meaning": "himself",
+          "sound": "sjál-fan"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "alltaf",
+          "meaning": "always",
+          "sound": "al-ltaf"
+        },
+        {
+          "word": "auðvelt",
+          "meaning": "easy",
+          "sound": "a-uð-velt"
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "lærði",
+          "meaning": "learned",
+          "sound": "lær-ði"
+        },
+        {
+          "word": "af",
+          "meaning": "of",
+          "sound": "af"
+        },
+        {
+          "word": "öllum",
+          "meaning": "everyone",
+          "sound": "öl-lum"
+        },
+        {
+          "word": "mistökum",
+          "meaning": "mistakes",
+          "sound": "mis-tö-kum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "veit",
+          "meaning": "know",
+          "sound": "ve-it"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "vera",
+          "meaning": "being",
+          "sound": "ve-ra"
+        },
+        {
+          "word": "þú",
+          "meaning": "you",
+          "sound": "þú"
+        },
+        {
+          "word": "sjálfur",
+          "meaning": "himself",
+          "sound": "sjál-fur"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mesta",
+          "meaning": "the greatest",
+          "sound": "mes-ta"
+        },
+        {
+          "word": "afrekið",
+          "meaning": "the achievement",
+          "sound": "a-fre-kið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Gildi tímans",
+      "content": [
+        {
+          "word": "Fyrir",
+          "meaning": "for",
+          "sound": "fy-rir"
+        },
+        {
+          "word": "nokkrum",
+          "meaning": "a few",
+          "sound": "nok-krum"
+        },
+        {
+          "word": "árum",
+          "meaning": "years",
+          "sound": "á-rum"
+        },
+        {
+          "word": "fylgdist",
+          "meaning": "observed",
+          "sound": "fyl-gdist"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "mikið",
+          "meaning": "a lot",
+          "sound": "mi-kið"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "tímanum",
+          "meaning": "the time",
+          "sound": "tí-ma-num"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "hélt",
+          "meaning": "thought",
+          "sound": "hélt"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "væru",
+          "meaning": "would be",
+          "sound": "væ-ru"
+        },
+        {
+          "word": "alltaf",
+          "meaning": "always",
+          "sound": "al-ltaf"
+        },
+        {
+          "word": "fleiri",
+          "meaning": "more",
+          "sound": "fle-i-ri"
+        },
+        {
+          "word": "tækifæri",
+          "meaning": "opportunity",
+          "sound": "tæ-ki-fæ-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Margt",
+          "meaning": "a lot",
+          "sound": "margt"
+        },
+        {
+          "word": "skildi",
+          "meaning": "understood",
+          "sound": "skil-di"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "síðari",
+          "meaning": "later",
+          "sound": "sí-ða-ri"
+        },
+        {
+          "word": "tíma",
+          "meaning": "time",
+          "sound": "tí-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Einn",
+          "meaning": "one",
+          "sound": "e-inn"
+        },
+        {
+          "word": "daginn",
+          "meaning": "the day",
+          "sound": "da-ginn"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": "vinur",
+          "meaning": "friend",
+          "sound": "vi-nur"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tíminn",
+          "meaning": "the time",
+          "sound": "tí-minn"
+        },
+        {
+          "word": "bíður",
+          "meaning": "waiting",
+          "sound": "bí-ður"
+        },
+        {
+          "word": "engans",
+          "meaning": "nobody",
+          "sound": "en-gans"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Þessi",
+          "meaning": "this one",
+          "sound": "þes-si"
+        },
+        {
+          "word": "setning",
+          "meaning": "sentence",
+          "sound": "set-ning"
+        },
+        {
+          "word": "sat",
+          "meaning": "sat",
+          "sound": "sat"
+        },
+        {
+          "word": "eftir",
+          "meaning": "after",
+          "sound": "ef-tir"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "huga",
+          "meaning": "mind",
+          "sound": "hu-ga"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Síðan",
+          "meaning": "then",
+          "sound": "sí-ðan"
+        },
+        {
+          "word": "þá",
+          "meaning": "then",
+          "sound": "þá"
+        },
+        {
+          "word": "fór",
+          "meaning": "went",
+          "sound": "fór"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "meta",
+          "meaning": "value",
+          "sound": "me-ta"
+        },
+        {
+          "word": "hverja",
+          "meaning": "each",
+          "sound": "hver-ja"
+        },
+        {
+          "word": "stund",
+          "meaning": "moment",
+          "sound": "stund"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "lærði",
+          "meaning": "learned",
+          "sound": "lær-ði"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "skipuleggja",
+          "meaning": "organize",
+          "sound": "ski-pu-leg-gja"
+        },
+        {
+          "word": "daginn",
+          "meaning": "the day",
+          "sound": "da-ginn"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "forgangsraða",
+          "meaning": "prioritize",
+          "sound": "for-gan-gsra-ða"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "sem",
+          "meaning": "which",
+          "sound": "sem"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mikilvægt",
+          "meaning": "important",
+          "sound": "mi-kil-vægt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "skildi",
+          "meaning": "understood",
+          "sound": "skil-di"
+        },
+        {
+          "word": "líka",
+          "meaning": "too",
+          "sound": "lí-ka"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "þarf",
+          "meaning": "need",
+          "sound": "þarf"
+        },
+        {
+          "word": "allt",
+          "meaning": "everything",
+          "sound": "allt"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "vera",
+          "meaning": "being",
+          "sound": "ve-ra"
+        },
+        {
+          "word": "fullkomið",
+          "meaning": "perfect",
+          "sound": "ful-lko-mið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "reyni",
+          "meaning": "try",
+          "sound": "re-y-ni"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "lifa",
+          "meaning": "live",
+          "sound": "li-fa"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "meiri",
+          "meaning": "more",
+          "sound": "me-i-ri"
+        },
+        {
+          "word": "meðvitund",
+          "meaning": "consciousness",
+          "sound": "með-vi-tund"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "tíminn",
+          "meaning": "the time",
+          "sound": "tí-minn"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "dýrmætasta",
+          "meaning": "most precious",
+          "sound": "dýr-mæ-tas-ta"
+        },
+        {
+          "word": "sem",
+          "meaning": "which",
+          "sound": "sem"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "eigum",
+          "meaning": "have",
+          "sound": "e-i-gum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Ákvarðanir sem breyta lífinu",
+      "content": [
+        {
+          "word": "Stundum",
+          "meaning": "sometimes",
+          "sound": "stun-dum"
+        },
+        {
+          "word": "hugsa",
+          "meaning": "think",
+          "sound": "hug-sa"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "um",
+          "meaning": "about",
+          "sound": "um"
+        },
+        {
+          "word": "þær",
+          "meaning": "them",
+          "sound": "þær"
+        },
+        {
+          "word": "ákvarðanir",
+          "meaning": "decisions",
+          "sound": "ák-var-ða-nir"
+        },
+        {
+          "word": "sem",
+          "meaning": "which",
+          "sound": "sem"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "tók",
+          "meaning": "took",
+          "sound": "tók"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "fortíðinni",
+          "meaning": "the past",
+          "sound": "for-tí-ðin-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sumt",
+          "meaning": "some things",
+          "sound": "sumt"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "rétt",
+          "meaning": "right",
+          "sound": "rétt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "annað",
+          "meaning": "another",
+          "sound": "an-nað"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Stundum",
+          "meaning": "sometimes",
+          "sound": "stun-dum"
+        },
+        {
+          "word": "velti",
+          "meaning": "tumbled",
+          "sound": "vel-ti"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "fyrir",
+          "meaning": "for",
+          "sound": "fy-rir"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "hvað",
+          "meaning": "what",
+          "sound": "hvað"
+        },
+        {
+          "word": "hefði",
+          "meaning": "would have",
+          "sound": "hef-ði"
+        },
+        {
+          "word": "gerst",
+          "meaning": "happened",
+          "sound": "gerst"
+        },
+        {
+          "word": "ef",
+          "meaning": "if",
+          "sound": "ef"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "hefði",
+          "meaning": "would have",
+          "sound": "hef-ði"
+        },
+        {
+          "word": "valið",
+          "meaning": "selected",
+          "sound": "va-lið"
+        },
+        {
+          "word": "aðra",
+          "meaning": "others",
+          "sound": "að-ra"
+        },
+        {
+          "word": "leið",
+          "meaning": "way",
+          "sound": "le-ið"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kannski",
+          "meaning": "maybe",
+          "sound": "kan-nski"
+        },
+        {
+          "word": "hefði",
+          "meaning": "would have",
+          "sound": "hef-ði"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "náð",
+          "meaning": "reached",
+          "sound": "náð"
+        },
+        {
+          "word": "meiri",
+          "meaning": "more",
+          "sound": "me-i-ri"
+        },
+        {
+          "word": "árangri",
+          "meaning": "success",
+          "sound": "á-ran-gri"
+        },
+        {
+          "word": "eða",
+          "meaning": "or",
+          "sound": "e-ða"
+        },
+        {
+          "word": "kannski",
+          "meaning": "maybe",
+          "sound": "kan-nski"
+        },
+        {
+          "word": "hefði",
+          "meaning": "would have",
+          "sound": "hef-ði"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "lært",
+          "meaning": "learned",
+          "sound": "lært"
+        },
+        {
+          "word": "minna",
+          "meaning": "less",
+          "sound": "min-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hins",
+          "meaning": "however",
+          "sound": "hins"
+        },
+        {
+          "word": "vegar",
+          "meaning": "road",
+          "sound": "ve-gar"
+        },
+        {
+          "word": "hef",
+          "meaning": "have",
+          "sound": "hef"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "skilið",
+          "meaning": "understood",
+          "sound": "ski-lið"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "þýðir",
+          "meaning": "means",
+          "sound": "þý-ðir"
+        },
+        {
+          "word": "ekkert",
+          "meaning": "nothing",
+          "sound": "ek-kert"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "lifa",
+          "meaning": "live",
+          "sound": "li-fa"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "fortíðinni",
+          "meaning": "the past",
+          "sound": "for-tí-ðin-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sérhver",
+          "meaning": "every",
+          "sound": "sér-hver"
+        },
+        {
+          "word": "ákvörðun",
+          "meaning": "decision",
+          "sound": "ák-vör-ðun"
+        },
+        {
+          "word": "hefur",
+          "meaning": "has",
+          "sound": "he-fur"
+        },
+        {
+          "word": "kennt",
+          "meaning": "taught",
+          "sound": "kennt"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "eitthvað",
+          "meaning": "something",
+          "sound": "e-it-thvað"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jafnvel",
+          "meaning": "even",
+          "sound": "jaf-nvel"
+        },
+        {
+          "word": "mistökin",
+          "meaning": "the mistakes",
+          "sound": "mis-tö-kin"
+        },
+        {
+          "word": "hafa",
+          "meaning": "have",
+          "sound": "ha-fa"
+        },
+        {
+          "word": "verið",
+          "meaning": "been",
+          "sound": "ve-rið"
+        },
+        {
+          "word": "mikilvægur",
+          "meaning": "important",
+          "sound": "mi-kil-væ-gur"
+        },
+        {
+          "word": "lærdómur",
+          "meaning": "a lesson",
+          "sound": "lær-dó-mur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "reyni",
+          "meaning": "try",
+          "sound": "re-y-ni"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "taka",
+          "meaning": "take",
+          "sound": "ta-ka"
+        },
+        {
+          "word": "ákvarðanir",
+          "meaning": "decisions",
+          "sound": "ák-var-ða-nir"
+        },
+        {
+          "word": "með",
+          "meaning": "with",
+          "sound": "með"
+        },
+        {
+          "word": "meiri",
+          "meaning": "more",
+          "sound": "me-i-ri"
+        },
+        {
+          "word": "meðvitund",
+          "meaning": "consciousness",
+          "sound": "með-vi-tund"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "get",
+          "meaning": "can",
+          "sound": "get"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "breytt",
+          "meaning": "changed",
+          "sound": "bre-ytt"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "sem",
+          "meaning": "which",
+          "sound": "sem"
+        },
+        {
+          "word": "þegar",
+          "meaning": "already",
+          "sound": "þe-gar"
+        },
+        {
+          "word": "hefur",
+          "meaning": "has",
+          "sound": "he-fur"
+        },
+        {
+          "word": "gerst",
+          "meaning": "happened",
+          "sound": "gerst"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "get",
+          "meaning": "can",
+          "sound": "get"
+        },
+        {
+          "word": "ákveðið",
+          "meaning": "definitely",
+          "sound": "ák-ve-ðið"
+        },
+        {
+          "word": "framtíð",
+          "meaning": "future",
+          "sound": "fram-tíð"
+        },
+        {
+          "word": "mína",
+          "meaning": "my",
+          "sound": "mí-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Innri röddin",
+      "content": [
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "lifði",
+          "meaning": "lived",
+          "sound": "lif-ði"
+        },
+        {
+          "word": "lengi",
+          "meaning": "for a long time",
+          "sound": "len-gi"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "samræmi",
+          "meaning": "compliance",
+          "sound": "sam-ræ-mi"
+        },
+        {
+          "word": "við",
+          "meaning": "we",
+          "sound": "við"
+        },
+        {
+          "word": "væntingar",
+          "meaning": "expectations",
+          "sound": "væn-tin-gar"
+        },
+        {
+          "word": "annarra",
+          "meaning": "others",
+          "sound": "an-nar-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "trúði",
+          "meaning": "believed",
+          "sound": "trú-ði"
+        },
+        {
+          "word": "því",
+          "meaning": "therefore",
+          "sound": "því"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "þetta",
+          "meaning": "this",
+          "sound": "þet-ta"
+        },
+        {
+          "word": "væri",
+          "meaning": "would be",
+          "sound": "væ-ri"
+        },
+        {
+          "word": "rétta",
+          "meaning": "correct",
+          "sound": "rét-ta"
+        },
+        {
+          "word": "leiðin",
+          "meaning": "the way",
+          "sound": "le-i-ðin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "innst",
+          "meaning": "int",
+          "sound": "innst"
+        },
+        {
+          "word": "inni",
+          "meaning": "inside",
+          "sound": "in-ni"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "alltaf",
+          "meaning": "always",
+          "sound": "al-ltaf"
+        },
+        {
+          "word": "rödd",
+          "meaning": "voice",
+          "sound": "rödd"
+        },
+        {
+          "word": "sem",
+          "meaning": "which",
+          "sound": "sem"
+        },
+        {
+          "word": "sagði",
+          "meaning": "said",
+          "sound": "sag-ði"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "eitthvað",
+          "meaning": "something",
+          "sound": "e-it-thvað"
+        },
+        {
+          "word": "væri",
+          "meaning": "would be",
+          "sound": "væ-ri"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "lagi",
+          "meaning": "song",
+          "sound": "la-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "reyndi",
+          "meaning": "tried",
+          "sound": "re-yn-di"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hunsa",
+          "meaning": "ignore",
+          "sound": "hun-sa"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "það",
+          "meaning": "that",
+          "sound": "það"
+        },
+        {
+          "word": "varð",
+          "meaning": "became",
+          "sound": "varð"
+        },
+        {
+          "word": "sífellt",
+          "meaning": "continuously",
+          "sound": "sí-fellt"
+        },
+        {
+          "word": "háværara",
+          "meaning": "louder",
+          "sound": "há-væ-ra-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Einn",
+          "meaning": "one",
+          "sound": "e-inn"
+        },
+        {
+          "word": "daginn",
+          "meaning": "the day",
+          "sound": "da-ginn"
+        },
+        {
+          "word": "stoppaði",
+          "meaning": "stopped",
+          "sound": "stop-pa-ði"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "spurði",
+          "meaning": "asked",
+          "sound": "spur-ði"
+        },
+        {
+          "word": "sjálfan",
+          "meaning": "himself",
+          "sound": "sjál-fan"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": "hvað",
+          "meaning": "what",
+          "sound": "hvað"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "vildi",
+          "meaning": "wanted",
+          "sound": "vil-di"
+        },
+        {
+          "word": "eiginlega",
+          "meaning": "really",
+          "sound": "e-i-gin-le-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Viðbrögðin",
+          "meaning": "the reaction",
+          "sound": "við-brög-ðin"
+        },
+        {
+          "word": "komu",
+          "meaning": "came",
+          "sound": "ko-mu"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "strax",
+          "meaning": "immediately",
+          "sound": "strax"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "en",
+          "meaning": "but",
+          "sound": "en"
+        },
+        {
+          "word": "í",
+          "meaning": "in",
+          "sound": "í"
+        },
+        {
+          "word": "fyrsta",
+          "meaning": "the first",
+          "sound": "fyr-sta"
+        },
+        {
+          "word": "skipti",
+          "meaning": "exchange",
+          "sound": "skip-ti"
+        },
+        {
+          "word": "fannst",
+          "meaning": "was found",
+          "sound": "fannst"
+        },
+        {
+          "word": "mér",
+          "meaning": "me",
+          "sound": "mér"
+        },
+        {
+          "word": "eins",
+          "meaning": "like",
+          "sound": "e-ins"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hann",
+          "meaning": "he",
+          "sound": "hann"
+        },
+        {
+          "word": "væri",
+          "meaning": "would be",
+          "sound": "væ-ri"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "hlusta",
+          "meaning": "listen",
+          "sound": "hlus-ta"
+        },
+        {
+          "word": "á",
+          "meaning": "on",
+          "sound": "á"
+        },
+        {
+          "word": "mig",
+          "meaning": "me",
+          "sound": "mig"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Síðan",
+          "meaning": "then",
+          "sound": "sí-ðan"
+        },
+        {
+          "word": "þá",
+          "meaning": "then",
+          "sound": "þá"
+        },
+        {
+          "word": "hef",
+          "meaning": "have",
+          "sound": "hef"
+        },
+        {
+          "word": "ég",
+          "meaning": "me",
+          "sound": "ég"
+        },
+        {
+          "word": "lært",
+          "meaning": "learned",
+          "sound": "lært"
+        },
+        {
+          "word": "að",
+          "meaning": "that",
+          "sound": "að"
+        },
+        {
+          "word": "innri",
+          "meaning": "internal",
+          "sound": "in-nri"
+        },
+        {
+          "word": "röddin",
+          "meaning": "the voice",
+          "sound": "röd-din"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "ekki",
+          "meaning": "not",
+          "sound": "ek-ki"
+        },
+        {
+          "word": "hindrun",
+          "meaning": "obstacle",
+          "sound": "hin-drun"
+        },
+        {
+          "word": "heldur",
+          "meaning": "either",
+          "sound": "hel-dur"
+        },
+        {
+          "word": "leiðbeinandi",
+          "meaning": "instructor",
+          "sound": "le-ið-be-i-nan-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "borða",
+          "epli"
+        ],
+        "past": [
+          "Ég",
+          "borðaði",
+          "epli"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "borða",
+          "epli"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "les",
+          "bók"
+        ],
+        "past": [
+          "Hún",
+          "las",
+          "bók"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "lesa",
+          "bók"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "förum",
+          "í",
+          "skólann"
+        ],
+        "past": [
+          "Við",
+          "fórum",
+          "í",
+          "skólann"
+        ],
+        "future": [
+          "Við",
+          "munum",
+          "fara",
+          "í",
+          "skólann"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "drekkur",
+          "vatn"
+        ],
+        "past": [
+          "Hann",
+          "drakk",
+          "vatn"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "drekka",
+          "vatn"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "spila",
+          "fótbolta"
+        ],
+        "past": [
+          "Þeir",
+          "spiluðu",
+          "fótbolta"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "spila",
+          "fótbolta"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "skrifa",
+          "bréf"
+        ],
+        "past": [
+          "Ég",
+          "skrifaði",
+          "bréf"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "skrifa",
+          "bréf"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "borðar",
+          "hrísgrjón"
+        ],
+        "past": [
+          "Hún",
+          "borðaði",
+          "hrísgrjón"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "borða",
+          "hrísgrjón"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "horfum",
+          "á",
+          "kvikmynd"
+        ],
+        "past": [
+          "Við",
+          "horfðum",
+          "á",
+          "kvikmynd"
+        ],
+        "future": [
+          "Við",
+          "munum",
+          "horfa",
+          "á",
+          "kvikmynd"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "opnar",
+          "hurðina"
+        ],
+        "past": [
+          "Hann",
+          "opnaði",
+          "hurðina"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "opna",
+          "dyrnar"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "kaupa",
+          "mat"
+        ],
+        "past": [
+          "Þeir",
+          "keyptu",
+          "mat"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "kaupa",
+          "mat"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "borða",
+          "epli",
+          "og",
+          "drekk",
+          "vatn"
+        ],
+        "past": [
+          "Ég",
+          "borðaði",
+          "epli",
+          "og",
+          "drakk",
+          "vatn"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "borða",
+          "epli",
+          "og",
+          "drekka",
+          "vatn"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "les",
+          "bók",
+          "af",
+          "því",
+          "að",
+          "hún",
+          "hefur",
+          "gaman",
+          "af",
+          "sögum"
+        ],
+        "past": [
+          "Hún",
+          "las",
+          "bók",
+          "af",
+          "því",
+          "að",
+          "hún",
+          "hafði",
+          "gaman",
+          "af",
+          "sögum"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "lesa",
+          "bók",
+          "vegna",
+          "þess",
+          "að",
+          "hún",
+          "hefur",
+          "gaman",
+          "af",
+          "sögum"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "förum",
+          "í",
+          "skólann",
+          "og",
+          "lærum",
+          "saman"
+        ],
+        "past": [
+          "Við",
+          "fórum",
+          "í",
+          "skóla",
+          "og",
+          "lærðum",
+          "saman"
+        ],
+        "future": [
+          "Við",
+          "munum",
+          "fara",
+          "í",
+          "skóla",
+          "og",
+          "læra",
+          "saman"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "drekkur",
+          "vatn",
+          "en",
+          "borðar",
+          "skyndibita"
+        ],
+        "past": [
+          "Hann",
+          "drakk",
+          "vatn",
+          "en",
+          "borðaði",
+          "skyndibita"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "drekka",
+          "vatn",
+          "en",
+          "borða",
+          "skyndibita"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "spila",
+          "fótbolta",
+          "og",
+          "hlaupa",
+          "í",
+          "garðinum"
+        ],
+        "past": [
+          "Þeir",
+          "spiluðu",
+          "fótbolta",
+          "og",
+          "hlupu",
+          "í",
+          "garðinum"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "spila",
+          "fótbolta",
+          "og",
+          "hlaupa",
+          "í",
+          "garðinum"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "skrifa",
+          "bréf",
+          "vegna",
+          "þess",
+          "að",
+          "ég",
+          "sakna",
+          "þín"
+        ],
+        "past": [
+          "Ég",
+          "skrifaði",
+          "bréf",
+          "vegna",
+          "þess",
+          "að",
+          "ég",
+          "saknaði",
+          "þín"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "skrifa",
+          "bréf",
+          "vegna",
+          "þess",
+          "að",
+          "ég",
+          "sakna",
+          "þín"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "borðar",
+          "hrísgrjón",
+          "og",
+          "eldar",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "past": [
+          "Hún",
+          "borðaði",
+          "hrísgrjón",
+          "og",
+          "eldaði",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "borða",
+          "hrísgrjón",
+          "og",
+          "elda",
+          "á",
+          "hverjum",
+          "degi"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "horfum",
+          "á",
+          "kvikmynd",
+          "en",
+          "sofum",
+          "seint"
+        ],
+        "past": [
+          "Við",
+          "horfðum",
+          "á",
+          "kvikmynd",
+          "en",
+          "sváfum",
+          "seint"
+        ],
+        "future": [
+          "Við",
+          "horfum",
+          "á",
+          "kvikmynd",
+          "en",
+          "sofum",
+          "seint"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "opnar",
+          "hurðina",
+          "og",
+          "heilsar",
+          "fólki"
+        ],
+        "past": [
+          "Hann",
+          "opnaði",
+          "dyrnar",
+          "og",
+          "heilsaði",
+          "fólki"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "opna",
+          "dyrnar",
+          "og",
+          "heilsa",
+          "fólki"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "kaupa",
+          "mat",
+          "vegna",
+          "þess",
+          "að",
+          "þeir",
+          "eru",
+          "svangir"
+        ],
+        "past": [
+          "Þeir",
+          "keyptu",
+          "mat",
+          "vegna",
+          "þess",
+          "að",
+          "þeir",
+          "voru",
+          "svangir"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "kaupa",
+          "mat",
+          "vegna",
+          "þess",
+          "að",
+          "þeir",
+          "eru",
+          "svangir"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "borða",
+          "morgunmat",
+          "á",
+          "morgnana"
+        ],
+        "past": [
+          "Ég",
+          "borðaði",
+          "morgunmat",
+          "á",
+          "morgnana"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "borða",
+          "morgunmat",
+          "á",
+          "morgnana"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "lærir",
+          "heima",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "past": [
+          "Hún",
+          "lærði",
+          "heima",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "læra",
+          "heima",
+          "á",
+          "hverjum",
+          "degi"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "göngum",
+          "í",
+          "garðinn",
+          "á",
+          "kvöldin"
+        ],
+        "past": [
+          "Við",
+          "gengum",
+          "í",
+          "garðinn",
+          "á",
+          "kvöldin"
+        ],
+        "future": [
+          "Gengið",
+          "verður",
+          "um",
+          "garðinn",
+          "um",
+          "kvöldið"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "vinnur",
+          "á",
+          "skrifstofu",
+          "í",
+          "borginni"
+        ],
+        "past": [
+          "Hann",
+          "vann",
+          "á",
+          "skrifstofu",
+          "í",
+          "borginni"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "starfa",
+          "á",
+          "skrifstofu",
+          "í",
+          "borginni"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "ferðast",
+          "til",
+          "annars",
+          "lands",
+          "á",
+          "hverju",
+          "ári"
+        ],
+        "past": [
+          "Þau",
+          "ferðuðust",
+          "til",
+          "annars",
+          "lands",
+          "á",
+          "hverju",
+          "ári"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "ferðast",
+          "til",
+          "annars",
+          "lands",
+          "á",
+          "hverju",
+          "ári"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "las",
+          "bók",
+          "á",
+          "kvöldin",
+          "áður",
+          "en",
+          "ég",
+          "sofnaði"
+        ],
+        "past": [
+          "Ég",
+          "las",
+          "bók",
+          "á",
+          "kvöldin",
+          "áður",
+          "en",
+          "ég",
+          "sofnaði"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "lesa",
+          "bók",
+          "á",
+          "kvöldin",
+          "áður",
+          "en",
+          "ég",
+          "fer",
+          "að",
+          "sofa"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "drekkur",
+          "kaffi",
+          "á",
+          "morgnana",
+          "heima"
+        ],
+        "past": [
+          "Hún",
+          "drakk",
+          "kaffi",
+          "á",
+          "morgnana",
+          "heima"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "drekka",
+          "kaffi",
+          "á",
+          "morgnana",
+          "heima"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "hittum",
+          "vini",
+          "á",
+          "veitingastaðnum",
+          "í",
+          "kvöld"
+        ],
+        "past": [
+          "Við",
+          "hittum",
+          "vini",
+          "á",
+          "veitingastaðnum",
+          "í",
+          "kvöld"
+        ],
+        "future": [
+          "Við",
+          "hittum",
+          "vini",
+          "á",
+          "veitingastaðnum",
+          "í",
+          "kvöld"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "lærir",
+          "spænsku",
+          "í",
+          "skólanum",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "past": [
+          "Hann",
+          "lærði",
+          "spænsku",
+          "í",
+          "skólanum",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "læra",
+          "spænsku",
+          "í",
+          "skólanum",
+          "á",
+          "hverjum",
+          "degi"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "horfa",
+          "á",
+          "sjónvarpið",
+          "á",
+          "kvöldin",
+          "heima"
+        ],
+        "past": [
+          "Þeir",
+          "horfðu",
+          "á",
+          "sjónvarp",
+          "á",
+          "kvöldin",
+          "heima"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "horfa",
+          "á",
+          "sjónvarpið",
+          "á",
+          "kvöldin",
+          "heima"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "fíla",
+          "þessa",
+          "tónlist"
+        ],
+        "past": [
+          "Mér",
+          "líkaði",
+          "þessi",
+          "tónlist"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "líka",
+          "við",
+          "þessa",
+          "tónlist"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "icelandic": {
+        "present": [
+          "Henni",
+          "líður",
+          "vel",
+          "í",
+          "dag"
+        ],
+        "past": [
+          "Hún",
+          "var",
+          "ánægð",
+          "í",
+          "dag"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "líða",
+          "hamingjusöm",
+          "í",
+          "dag"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "icelandic": {
+        "present": [
+          "Okkur",
+          "finnst",
+          "þessi",
+          "hugmynd",
+          "góð"
+        ],
+        "past": [
+          "Okkur",
+          "fannst",
+          "þessi",
+          "hugmynd",
+          "góð"
+        ],
+        "future": [
+          "Okkur",
+          "mun",
+          "finnast",
+          "þessi",
+          "hugmynd",
+          "góð"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "vill",
+          "læra",
+          "spænsku"
+        ],
+        "past": [
+          "Hann",
+          "vildi",
+          "læra",
+          "spænsku"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "vilja",
+          "læra",
+          "spænsku"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "icelandic": {
+        "present": [
+          "Þeim",
+          "þykir",
+          "mjög",
+          "vænt",
+          "um",
+          "fjölskylduna",
+          "sína"
+        ],
+        "past": [
+          "Þeim",
+          "þótti",
+          "mjög",
+          "vænt",
+          "um",
+          "fjölskyldu",
+          "sína"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "elska",
+          "fjölskyldu",
+          "sína",
+          "mjög",
+          "mikið"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "finn",
+          "fyrir",
+          "þreytu",
+          "eftir",
+          "vinnu"
+        ],
+        "past": [
+          "Ég",
+          "fann",
+          "fyrir",
+          "þreytu",
+          "eftir",
+          "vinnu"
+        ],
+        "future": [
+          "Ég",
+          "verð",
+          "þreyttur",
+          "eftir",
+          "vinnu"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "trúir",
+          "á",
+          "sjálfa",
+          "sig"
+        ],
+        "past": [
+          "Hún",
+          "trúði",
+          "á",
+          "sjálfa",
+          "sig"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "trúa",
+          "á",
+          "sjálfa",
+          "sig"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "icelandic": {
+        "present": [
+          "Okkur",
+          "finnst",
+          "gaman",
+          "að",
+          "ferðast",
+          "saman"
+        ],
+        "past": [
+          "Okkur",
+          "fannst",
+          "gaman",
+          "að",
+          "ferðast",
+          "saman"
+        ],
+        "future": [
+          "Okkur",
+          "langar",
+          "að",
+          "ferðast",
+          "saman"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "hugsar",
+          "um",
+          "framtíð",
+          "sína"
+        ],
+        "past": [
+          "Hann",
+          "hugsaði",
+          "um",
+          "framtíð",
+          "sína"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "hugsa",
+          "um",
+          "framtíð",
+          "sína"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "eru",
+          "spenntir",
+          "fyrir",
+          "ferðinni"
+        ],
+        "past": [
+          "Þeir",
+          "voru",
+          "spenntir",
+          "fyrir",
+          "ferðinni"
+        ],
+        "future": [
+          "Þeir",
+          "verða",
+          "spenntir",
+          "fyrir",
+          "ferðinni"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "reyni",
+          "að",
+          "bæta",
+          "mig",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "past": [
+          "Ég",
+          "reyndi",
+          "að",
+          "bæta",
+          "mig",
+          "á",
+          "hverjum",
+          "degi"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "reyna",
+          "að",
+          "bæta",
+          "mig",
+          "á",
+          "hverjum",
+          "degi"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "vill",
+          "ná",
+          "markmiðum",
+          "sínum"
+        ],
+        "past": [
+          "Hún",
+          "vildi",
+          "ná",
+          "markmiðum",
+          "sínum"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "vilja",
+          "ná",
+          "markmiðum",
+          "sínum"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "lærum",
+          "af",
+          "mistökum",
+          "okkar"
+        ],
+        "past": [
+          "Við",
+          "lærðum",
+          "af",
+          "mistökum",
+          "okkar"
+        ],
+        "future": [
+          "Við",
+          "munum",
+          "læra",
+          "af",
+          "mistökum",
+          "okkar"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "vinnur",
+          "hörðum",
+          "höndum",
+          "að",
+          "því",
+          "að",
+          "byggja",
+          "upp",
+          "framtíð",
+          "sína"
+        ],
+        "past": [
+          "Hann",
+          "vann",
+          "hörðum",
+          "höndum",
+          "að",
+          "því",
+          "að",
+          "byggja",
+          "upp",
+          "framtíð",
+          "sína"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "leggja",
+          "hart",
+          "að",
+          "sér",
+          "til",
+          "að",
+          "byggja",
+          "upp",
+          "framtíð",
+          "sína"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "icelandic": {
+        "present": [
+          "Þeir",
+          "trúa",
+          "því",
+          "að",
+          "allt",
+          "sé",
+          "mögulegt"
+        ],
+        "past": [
+          "Þeir",
+          "trúðu",
+          "því",
+          "að",
+          "allt",
+          "væri",
+          "mögulegt"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "trúa",
+          "því",
+          "að",
+          "allt",
+          "sé",
+          "mögulegt"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "icelandic": {
+        "present": [
+          "Ég",
+          "hugsa",
+          "um",
+          "framtíð",
+          "mína",
+          "á",
+          "hverju",
+          "kvöldi"
+        ],
+        "past": [
+          "Ég",
+          "hugsaði",
+          "um",
+          "framtíð",
+          "mína",
+          "á",
+          "hverju",
+          "kvöldi"
+        ],
+        "future": [
+          "Ég",
+          "mun",
+          "hugsa",
+          "um",
+          "framtíð",
+          "mína",
+          "á",
+          "hverju",
+          "kvöldi"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "icelandic": {
+        "present": [
+          "Hún",
+          "reynir",
+          "að",
+          "vera",
+          "jákvæð",
+          "á",
+          "erfiðum",
+          "tímum"
+        ],
+        "past": [
+          "Hún",
+          "reyndi",
+          "að",
+          "vera",
+          "jákvæð",
+          "á",
+          "erfiðum",
+          "tímum"
+        ],
+        "future": [
+          "Hún",
+          "mun",
+          "reyna",
+          "að",
+          "vera",
+          "jákvæð",
+          "á",
+          "erfiðum",
+          "tímum"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "icelandic": {
+        "present": [
+          "Við",
+          "viljum",
+          "lifa",
+          "innihaldsríku",
+          "lífi"
+        ],
+        "past": [
+          "Við",
+          "vildum",
+          "lifa",
+          "innihaldsríku",
+          "lífi"
+        ],
+        "future": [
+          "Við",
+          "munum",
+          "vilja",
+          "lifa",
+          "innihaldsríku",
+          "lífi"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "icelandic": {
+        "present": [
+          "Hann",
+          "skilur",
+          "að",
+          "breytingar",
+          "taka",
+          "tíma"
+        ],
+        "past": [
+          "Hann",
+          "skildi",
+          "að",
+          "breytingar",
+          "tóku",
+          "tíma"
+        ],
+        "future": [
+          "Hann",
+          "mun",
+          "skilja",
+          "að",
+          "breytingar",
+          "taka",
+          "tíma"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "icelandic": {
+        "present": [
+          "Þau",
+          "ákveða",
+          "að",
+          "fylgja",
+          "draumum",
+          "sínum"
+        ],
+        "past": [
+          "Þau",
+          "ákváðu",
+          "að",
+          "fylgja",
+          "draumum",
+          "sínum"
+        ],
+        "future": [
+          "Þeir",
+          "munu",
+          "ákveða",
+          "að",
+          "fylgja",
+          "draumum",
+          "sínum"
+        ]
+      }
+    }
+  ]
+}

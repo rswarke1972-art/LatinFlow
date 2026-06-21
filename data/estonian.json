@@ -1,0 +1,7224 @@
+{
+  "language": "Estonian",
+  "stories": {
+    "story1": {
+      "title": "kohvikus",
+      "content": [
+        {
+          "word": "Ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "käin",
+          "meaning": "i'm going",
+          "sound": "kä-in"
+        },
+        {
+          "word": "igal",
+          "meaning": "every",
+          "sound": "i-gal"
+        },
+        {
+          "word": "hommikul",
+          "meaning": "in the morning",
+          "sound": "hom-mi-kul"
+        },
+        {
+          "word": "väikeses",
+          "meaning": "in small",
+          "sound": "vä-i-ke-ses"
+        },
+        {
+          "word": "kohvikus",
+          "meaning": "in the cafe",
+          "sound": "koh-vi-kus"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kohvik",
+          "meaning": "cafe",
+          "sound": "koh-vik"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "minu",
+          "meaning": "mine",
+          "sound": "mi-nu"
+        },
+        {
+          "word": "maja",
+          "meaning": "house",
+          "sound": "ma-ja"
+        },
+        {
+          "word": "lähedal",
+          "meaning": "close by",
+          "sound": "lä-he-dal"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "seal",
+          "meaning": "there",
+          "sound": "se-al"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": "vaikne",
+          "meaning": "silent",
+          "sound": "va-ik-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Istun",
+          "meaning": "i'm sitting",
+          "sound": "is-tun"
+        },
+        {
+          "word": "alati",
+          "meaning": "always",
+          "sound": "a-la-ti"
+        },
+        {
+          "word": "akna",
+          "meaning": "the window",
+          "sound": "ak-na"
+        },
+        {
+          "word": "ääres",
+          "meaning": "at the edge",
+          "sound": "ä-ä-res"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tellin",
+          "meaning": "i order",
+          "sound": "tel-lin"
+        },
+        {
+          "word": "kuuma",
+          "meaning": "hot",
+          "sound": "ku-u-ma"
+        },
+        {
+          "word": "kohvi",
+          "meaning": "coffee",
+          "sound": "koh-vi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kelner",
+          "meaning": "a waiter",
+          "sound": "kel-ner"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "sõbralik",
+          "meaning": "friendly",
+          "sound": "sõ-bra-lik"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tervitab",
+          "meaning": "greets",
+          "sound": "ter-vi-tab"
+        },
+        {
+          "word": "mind",
+          "meaning": "me",
+          "sound": "mind"
+        },
+        {
+          "word": "alati",
+          "meaning": "always",
+          "sound": "a-la-ti"
+        },
+        {
+          "word": "naeratusega",
+          "meaning": "with a smile",
+          "sound": "na-e-ra-tu-se-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mõnikord",
+          "meaning": "sometimes",
+          "sound": "mõ-ni-kord"
+        },
+        {
+          "word": "loen",
+          "meaning": "i'm reading",
+          "sound": "lo-en"
+        },
+        {
+          "word": "mõnda",
+          "meaning": "some",
+          "sound": "mõn-da"
+        },
+        {
+          "word": "huvitavat",
+          "meaning": "interesting",
+          "sound": "hu-vi-ta-vat"
+        },
+        {
+          "word": "raamatut",
+          "meaning": "a book",
+          "sound": "ra-a-ma-tut"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "teinekord",
+          "meaning": "other times",
+          "sound": "te-i-ne-kord"
+        },
+        {
+          "word": "kirjutan",
+          "meaning": "i am writing",
+          "sound": "kir-ju-tan"
+        },
+        {
+          "word": "märkmikku",
+          "meaning": "notebook",
+          "sound": "mär-kmik-ku"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "näen",
+          "meaning": "i see",
+          "sound": "nä-en"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "uut",
+          "meaning": "new",
+          "sound": "u-ut"
+        },
+        {
+          "word": "inimest",
+          "meaning": "people",
+          "sound": "i-ni-mest"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "loeb",
+          "meaning": "counts",
+          "sound": "lo-eb"
+        },
+        {
+          "word": "romaani",
+          "meaning": "a novel",
+          "sound": "ro-ma-a-ni"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "joob",
+          "meaning": "drinks",
+          "sound": "jo-ob"
+        },
+        {
+          "word": "teed",
+          "meaning": "the way",
+          "sound": "te-ed"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "uudishimulikku",
+          "meaning": "curious",
+          "sound": "u-u-dis-hi-mu-lik-ku"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuid",
+          "meaning": "but",
+          "sound": "ku-id"
+        },
+        {
+          "word": "pisut",
+          "meaning": "a little",
+          "sound": "pi-sut"
+        },
+        {
+          "word": "häbelikut",
+          "meaning": "shy",
+          "sound": "hä-be-li-kut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mõne",
+          "meaning": "some",
+          "sound": "mõ-ne"
+        },
+        {
+          "word": "minuti",
+          "meaning": "minute",
+          "sound": "mi-nu-ti"
+        },
+        {
+          "word": "pärast",
+          "meaning": "after",
+          "sound": "pä-rast"
+        },
+        {
+          "word": "ütlen",
+          "meaning": "i say",
+          "sound": "ü-tlen"
+        },
+        {
+          "word": "tere",
+          "meaning": "hello",
+          "sound": "te-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "vastab",
+          "meaning": "answers",
+          "sound": "vas-tab"
+        },
+        {
+          "word": "naeratades",
+          "meaning": "smiling",
+          "sound": "na-e-ra-ta-des"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "me",
+          "meaning": "we",
+          "sound": "me"
+        },
+        {
+          "word": "hakkame",
+          "meaning": "let's start",
+          "sound": "hak-ka-me"
+        },
+        {
+          "word": "rääkima",
+          "meaning": "to talk",
+          "sound": "rä-ä-ki-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "end",
+          "meaning": "yourself",
+          "sound": "end"
+        },
+        {
+          "word": "õnnelikuna",
+          "meaning": "as happy",
+          "sound": "õn-ne-li-ku-na"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "lõdvestunult",
+          "meaning": "relaxed",
+          "sound": "lõd-ves-tu-nult"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "pargis",
+      "content": [
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "lähen",
+          "meaning": "i'm going",
+          "sound": "lä-hen"
+        },
+        {
+          "word": "sõbraga",
+          "meaning": "with a friend",
+          "sound": "sõ-bra-ga"
+        },
+        {
+          "word": "parki",
+          "meaning": "park",
+          "sound": "par-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ilm",
+          "meaning": "weather",
+          "sound": "ilm"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": "mõnus",
+          "meaning": "nice",
+          "sound": "mõ-nus"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "päike",
+          "meaning": "the sun",
+          "sound": "pä-i-ke"
+        },
+        {
+          "word": "paistab",
+          "meaning": "it seems",
+          "sound": "pa-is-tab"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "näen",
+          "meaning": "i see",
+          "sound": "nä-en"
+        },
+        {
+          "word": "palju",
+          "meaning": "a lot",
+          "sound": "pal-ju"
+        },
+        {
+          "word": "inimesi",
+          "meaning": "people",
+          "sound": "i-ni-me-si"
+        },
+        {
+          "word": "kõndimas",
+          "meaning": "walking",
+          "sound": "kõn-di-mas"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "naermas",
+          "meaning": "laughing",
+          "sound": "na-er-mas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mõned",
+          "meaning": "some",
+          "sound": "mõ-ned"
+        },
+        {
+          "word": "lapsed",
+          "meaning": "children",
+          "sound": "lap-sed"
+        },
+        {
+          "word": "mängivad",
+          "meaning": "are playing",
+          "sound": "män-gi-vad"
+        },
+        {
+          "word": "palliga",
+          "meaning": "with the ball",
+          "sound": "pal-li-ga"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "teised",
+          "meaning": "others",
+          "sound": "te-i-sed"
+        },
+        {
+          "word": "jooksevad",
+          "meaning": "are running",
+          "sound": "jo-ok-se-vad"
+        },
+        {
+          "word": "kiiresti",
+          "meaning": "quickly",
+          "sound": "ki-i-res-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Istusime",
+          "meaning": "we sat down",
+          "sound": "is-tu-si-me"
+        },
+        {
+          "word": "sõbraga",
+          "meaning": "with a friend",
+          "sound": "sõ-bra-ga"
+        },
+        {
+          "word": "pingil",
+          "meaning": "on the bench",
+          "sound": "pin-gil"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rääkisime",
+          "meaning": "we talked",
+          "sound": "rä-ä-ki-si-me"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "elust",
+          "meaning": "of life",
+          "sound": "e-lust"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "naersime",
+          "meaning": "we laughed",
+          "sound": "na-er-si-me"
+        },
+        {
+          "word": "palju",
+          "meaning": "a lot",
+          "sound": "pal-ju"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pärast",
+          "meaning": "after",
+          "sound": "pä-rast"
+        },
+        {
+          "word": "ostsime",
+          "meaning": "we bought",
+          "sound": "os-tsi-me"
+        },
+        {
+          "word": "jäätist",
+          "meaning": "ice cream",
+          "sound": "jä-ä-tist"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Päev",
+          "meaning": "day",
+          "sound": "pä-ev"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "lihtne",
+          "meaning": "simple",
+          "sound": "lih-tne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": "ilus",
+          "meaning": "beautiful",
+          "sound": "i-lus"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "raamatukogus",
+      "content": [
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "lähen",
+          "meaning": "i'm going",
+          "sound": "lä-hen"
+        },
+        {
+          "word": "raamatukokku",
+          "meaning": "to the library",
+          "sound": "ra-a-ma-tu-kok-ku"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "See",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "vaikne",
+          "meaning": "silent",
+          "sound": "va-ik-ne"
+        },
+        {
+          "word": "koht",
+          "meaning": "place",
+          "sound": "koht"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mis",
+          "meaning": "what",
+          "sound": "mis"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "täis",
+          "meaning": "full",
+          "sound": "tä-is"
+        },
+        {
+          "word": "raamatuid",
+          "meaning": "books",
+          "sound": "ra-a-ma-tu-id"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": "meeldib",
+          "meaning": "like",
+          "sound": "me-el-dib"
+        },
+        {
+          "word": "lugeda",
+          "meaning": "to read",
+          "sound": "lu-ge-da"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "uusi",
+          "meaning": "new ones",
+          "sound": "u-u-si"
+        },
+        {
+          "word": "asju",
+          "meaning": "things",
+          "sound": "as-ju"
+        },
+        {
+          "word": "õppida",
+          "meaning": "to learn",
+          "sound": "õp-pi-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Otsin",
+          "meaning": "i'm looking",
+          "sound": "ot-sin"
+        },
+        {
+          "word": "huvitavat",
+          "meaning": "interesting",
+          "sound": "hu-vi-ta-vat"
+        },
+        {
+          "word": "ajalooraamatut",
+          "meaning": "history book",
+          "sound": "a-ja-lo-o-ra-a-ma-tut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pärast",
+          "meaning": "after",
+          "sound": "pä-rast"
+        },
+        {
+          "word": "istun",
+          "meaning": "i'm sitting",
+          "sound": "is-tun"
+        },
+        {
+          "word": "laua",
+          "meaning": "table",
+          "sound": "la-u-a"
+        },
+        {
+          "word": "taha",
+          "meaning": "behind",
+          "sound": "ta-ha"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "hakkan",
+          "meaning": "i will",
+          "sound": "hak-kan"
+        },
+        {
+          "word": "lugema",
+          "meaning": "to read",
+          "sound": "lu-ge-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "On",
+          "meaning": "it is",
+          "sound": "on"
+        },
+        {
+          "word": "ka",
+          "meaning": "too",
+          "sound": "ka"
+        },
+        {
+          "word": "teisi",
+          "meaning": "others",
+          "sound": "te-i-si"
+        },
+        {
+          "word": "inimesi",
+          "meaning": "people",
+          "sound": "i-ni-me-si"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kes",
+          "meaning": "who",
+          "sound": "kes"
+        },
+        {
+          "word": "õpivad",
+          "meaning": "are studying",
+          "sound": "õ-pi-vad"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "kirjutavad",
+          "meaning": "are writing",
+          "sound": "kir-ju-ta-vad"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Õhkkond",
+          "meaning": "atmosphere",
+          "sound": "õh-kkond"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": "vaikne",
+          "meaning": "silent",
+          "sound": "va-ik-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mõne",
+          "meaning": "some",
+          "sound": "mõ-ne"
+        },
+        {
+          "word": "aja",
+          "meaning": "time",
+          "sound": "a-ja"
+        },
+        {
+          "word": "pärast",
+          "meaning": "after",
+          "sound": "pä-rast"
+        },
+        {
+          "word": "panen",
+          "meaning": "i put",
+          "sound": "pa-nen"
+        },
+        {
+          "word": "raamatu",
+          "meaning": "book",
+          "sound": "ra-a-ma-tu"
+        },
+        {
+          "word": "kinni",
+          "meaning": "closed",
+          "sound": "kin-ni"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "rahulolu",
+          "meaning": "satisfaction",
+          "sound": "ra-hu-lo-lu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "poes",
+      "content": [
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "lähen",
+          "meaning": "i'm going",
+          "sound": "lä-hen"
+        },
+        {
+          "word": "suurde",
+          "meaning": "big",
+          "sound": "su-ur-de"
+        },
+        {
+          "word": "poodi",
+          "meaning": "shop",
+          "sound": "po-o-di"
+        },
+        {
+          "word": "süüa",
+          "meaning": "to eat",
+          "sound": "sü-ü-a"
+        },
+        {
+          "word": "ostma",
+          "meaning": "to buy",
+          "sound": "os-tma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vajan",
+          "meaning": "i need",
+          "sound": "va-jan"
+        },
+        {
+          "word": "leiba",
+          "meaning": "bread",
+          "sound": "le-i-ba"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "piima",
+          "meaning": "milk",
+          "sound": "pi-i-ma"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "puu",
+          "meaning": "a tree",
+          "sound": "pu-u"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "juurvilju",
+          "meaning": "vegetables",
+          "sound": "ju-ur-vil-ju"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pood",
+          "meaning": "shop",
+          "sound": "po-od"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "rahvast",
+          "meaning": "the people",
+          "sound": "rah-vast"
+        },
+        {
+          "word": "täis",
+          "meaning": "full",
+          "sound": "tä-is"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "lärm",
+          "meaning": "noise",
+          "sound": "lärm"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "kõva",
+          "meaning": "hard",
+          "sound": "kõ-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Otsin",
+          "meaning": "i'm looking",
+          "sound": "ot-sin"
+        },
+        {
+          "word": "tooteid",
+          "meaning": "products",
+          "sound": "to-o-te-id"
+        },
+        {
+          "word": "riiulitelt",
+          "meaning": "from the shelves",
+          "sound": "ri-i-u-li-telt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naine",
+          "meaning": "a woman",
+          "sound": "na-i-ne"
+        },
+        {
+          "word": "küsib",
+          "meaning": "asks",
+          "sound": "kü-sib"
+        },
+        {
+          "word": "minult",
+          "meaning": "from me",
+          "sound": "mi-nult"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kus",
+          "meaning": "where",
+          "sound": "kus"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "piim",
+          "meaning": "milk",
+          "sound": "pi-im"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "ütlen",
+          "meaning": "i say",
+          "sound": "ü-tlen"
+        },
+        {
+          "word": "talle",
+          "meaning": "to him",
+          "sound": "tal-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "see",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "seal",
+          "meaning": "there",
+          "sound": "se-al"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "leiva",
+          "meaning": "bread",
+          "sound": "le-i-va"
+        },
+        {
+          "word": "kõrval",
+          "meaning": "beside",
+          "sound": "kõr-val"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "naeratab",
+          "meaning": "smiles",
+          "sound": "na-e-ra-tab"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "ütleb",
+          "meaning": "says",
+          "sound": "ü-tleb"
+        },
+        {
+          "word": "aitäh",
+          "meaning": "thank you",
+          "sound": "a-i-täh"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siis",
+          "meaning": "then",
+          "sound": "si-is"
+        },
+        {
+          "word": "lähen",
+          "meaning": "i'm going",
+          "sound": "lä-hen"
+        },
+        {
+          "word": "kassasse",
+          "meaning": "to the checkout",
+          "sound": "kas-sas-se"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "maksan",
+          "meaning": "i pay",
+          "sound": "mak-san"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lahkun",
+          "meaning": "i'm leaving",
+          "sound": "lah-kun"
+        },
+        {
+          "word": "poest",
+          "meaning": "from the store",
+          "sound": "po-est"
+        },
+        {
+          "word": "täis",
+          "meaning": "full",
+          "sound": "tä-is"
+        },
+        {
+          "word": "kotiga",
+          "meaning": "with a bag",
+          "sound": "ko-ti-ga"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "end",
+          "meaning": "yourself",
+          "sound": "end"
+        },
+        {
+          "word": "õnnelikuna",
+          "meaning": "as happy",
+          "sound": "õn-ne-li-ku-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "bussis",
+      "content": [
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "sõidan",
+          "meaning": "i'm driving",
+          "sound": "sõ-i-dan"
+        },
+        {
+          "word": "bussiga",
+          "meaning": "by bus",
+          "sound": "bus-si-ga"
+        },
+        {
+          "word": "tööle",
+          "meaning": "to work",
+          "sound": "tö-ö-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Buss",
+          "meaning": "a bus",
+          "sound": "buss"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "täis",
+          "meaning": "full",
+          "sound": "tä-is"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "ruumi",
+          "meaning": "space",
+          "sound": "ru-u-mi"
+        },
+        {
+          "word": "vähe",
+          "meaning": "little",
+          "sound": "vä-he"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "end",
+          "meaning": "yourself",
+          "sound": "end"
+        },
+        {
+          "word": "veidi",
+          "meaning": "a little",
+          "sound": "ve-i-di"
+        },
+        {
+          "word": "väsinuna",
+          "meaning": "tired",
+          "sound": "vä-si-nu-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "näen",
+          "meaning": "i see",
+          "sound": "nä-en"
+        },
+        {
+          "word": "vana",
+          "meaning": "old",
+          "sound": "va-na"
+        },
+        {
+          "word": "inimest",
+          "meaning": "people",
+          "sound": "i-ni-mest"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pakun",
+          "meaning": "i offer",
+          "sound": "pa-kun"
+        },
+        {
+          "word": "sulle",
+          "meaning": "to you",
+          "sound": "sul-le"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "istet",
+          "meaning": "seat",
+          "sound": "is-tet"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "ütleb",
+          "meaning": "says",
+          "sound": "ü-tleb"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oled",
+          "meaning": "you are",
+          "sound": "o-led"
+        },
+        {
+          "word": "sa",
+          "meaning": "you",
+          "sound": "sa"
+        },
+        {
+          "word": "kindel",
+          "meaning": "certain",
+          "sound": "kin-del"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vastan",
+          "meaning": "i answer",
+          "sound": "vas-tan"
+        },
+        {
+          "word": "jah",
+          "meaning": "yes",
+          "sound": "jah"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pole",
+          "meaning": "there isn't",
+          "sound": "po-le"
+        },
+        {
+          "word": "probleemi",
+          "meaning": "problem",
+          "sound": "pro-ble-e-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "naeratab",
+          "meaning": "smiles",
+          "sound": "na-e-ra-tab"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tänab",
+          "meaning": "thanks",
+          "sound": "tä-nab"
+        },
+        {
+          "word": "mind",
+          "meaning": "me",
+          "sound": "mind"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Reisi",
+          "meaning": "travel",
+          "sound": "re-i-si"
+        },
+        {
+          "word": "ajal",
+          "meaning": "during",
+          "sound": "a-jal"
+        },
+        {
+          "word": "vaatan",
+          "meaning": "i look",
+          "sound": "va-a-tan"
+        },
+        {
+          "word": "aknast",
+          "meaning": "from the window",
+          "sound": "ak-nast"
+        },
+        {
+          "word": "välja",
+          "meaning": "out",
+          "sound": "väl-ja"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "mõtlen",
+          "meaning": "i mean",
+          "sound": "mõ-tlen"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "päevale",
+          "meaning": "for the day",
+          "sound": "pä-e-va-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kuigi",
+          "meaning": "although",
+          "sound": "ku-i-gi"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "väsinud",
+          "meaning": "tired",
+          "sound": "vä-si-nud"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "hea",
+          "meaning": "good",
+          "sound": "he-a"
+        },
+        {
+          "word": "tunne",
+          "meaning": "feeling",
+          "sound": "tun-ne"
+        },
+        {
+          "word": "aidata",
+          "meaning": "to help",
+          "sound": "a-i-da-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Eile rannas",
+      "content": [
+        {
+          "word": "Eile",
+          "meaning": "yesterday",
+          "sound": "e-i-le"
+        },
+        {
+          "word": "käisin",
+          "meaning": "i went",
+          "sound": "kä-i-sin"
+        },
+        {
+          "word": "sõpradega",
+          "meaning": "with friends",
+          "sound": "sõ-pra-de-ga"
+        },
+        {
+          "word": "rannas",
+          "meaning": "on the beach",
+          "sound": "ran-nas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ilm",
+          "meaning": "weather",
+          "sound": "ilm"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "ideaalne",
+          "meaning": "ideal",
+          "sound": "i-de-a-al-ne"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "meri",
+          "meaning": "the sea",
+          "sound": "me-ri"
+        },
+        {
+          "word": "vaikne",
+          "meaning": "silent",
+          "sound": "va-ik-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kõndisime",
+          "meaning": "we walked",
+          "sound": "kõn-di-si-me"
+        },
+        {
+          "word": "liival",
+          "meaning": "on the sand",
+          "sound": "li-i-val"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "rääkisime",
+          "meaning": "we talked",
+          "sound": "rä-ä-ki-si-me"
+        },
+        {
+          "word": "paljudest",
+          "meaning": "of many",
+          "sound": "pal-ju-dest"
+        },
+        {
+          "word": "asjadest",
+          "meaning": "of things",
+          "sound": "as-ja-dest"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pärast",
+          "meaning": "after",
+          "sound": "pä-rast"
+        },
+        {
+          "word": "ujusime",
+          "meaning": "we swam",
+          "sound": "u-ju-si-me"
+        },
+        {
+          "word": "külmas",
+          "meaning": "in the cold",
+          "sound": "kül-mas"
+        },
+        {
+          "word": "vees",
+          "meaning": "in the water",
+          "sound": "ve-es"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alguses",
+          "meaning": "in the beginning",
+          "sound": "al-gu-ses"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "natuke",
+          "meaning": "a bit",
+          "sound": "na-tu-ke"
+        },
+        {
+          "word": "kartsin",
+          "meaning": "i was afraid",
+          "sound": "kar-tsin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "siis",
+          "meaning": "then",
+          "sound": "si-is"
+        },
+        {
+          "word": "tundsin",
+          "meaning": "i felt",
+          "sound": "tun-dsin"
+        },
+        {
+          "word": "end",
+          "meaning": "yourself",
+          "sound": "end"
+        },
+        {
+          "word": "suurepäraselt",
+          "meaning": "perfectly",
+          "sound": "su-u-re-pä-ra-selt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mängisime",
+          "meaning": "we played",
+          "sound": "män-gi-si-me"
+        },
+        {
+          "word": "ka",
+          "meaning": "too",
+          "sound": "ka"
+        },
+        {
+          "word": "palliga",
+          "meaning": "with the ball",
+          "sound": "pal-li-ga"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "naersime",
+          "meaning": "we laughed",
+          "sound": "na-er-si-me"
+        },
+        {
+          "word": "palju",
+          "meaning": "a lot",
+          "sound": "pal-ju"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pärastlõunal",
+          "meaning": "in the afternoon",
+          "sound": "pä-ras-tlõ-u-nal"
+        },
+        {
+          "word": "sõime",
+          "meaning": "we ate",
+          "sound": "sõ-i-me"
+        },
+        {
+          "word": "koos",
+          "meaning": "together",
+          "sound": "ko-os"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "vaatasime",
+          "meaning": "we looked",
+          "sound": "va-a-ta-si-me"
+        },
+        {
+          "word": "päikeseloojangut",
+          "meaning": "sunset",
+          "sound": "pä-i-ke-se-lo-o-jan-gut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "See",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": "eriline",
+          "meaning": "special",
+          "sound": "e-ri-li-ne"
+        },
+        {
+          "word": "päev",
+          "meaning": "day",
+          "sound": "pä-ev"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "unusta",
+          "meaning": "forget it",
+          "sound": "u-nus-ta"
+        },
+        {
+          "word": "seda",
+          "meaning": "this",
+          "sound": "se-da"
+        },
+        {
+          "word": "kunagi",
+          "meaning": "ever",
+          "sound": "ku-na-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Tähtis vestlus",
+      "content": [
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "kohtasin",
+          "meaning": "i met",
+          "sound": "koh-ta-sin"
+        },
+        {
+          "word": "kohvikus",
+          "meaning": "in the cafe",
+          "sound": "koh-vi-kus"
+        },
+        {
+          "word": "vana",
+          "meaning": "old",
+          "sound": "va-na"
+        },
+        {
+          "word": "sõpra",
+          "meaning": "a friend",
+          "sound": "sõ-pra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "polnud",
+          "meaning": "there wasn't",
+          "sound": "pol-nud"
+        },
+        {
+          "word": "teda",
+          "meaning": "him",
+          "sound": "te-da"
+        },
+        {
+          "word": "ammu",
+          "meaning": "a long time ago",
+          "sound": "am-mu"
+        },
+        {
+          "word": "näinud",
+          "meaning": "seen",
+          "sound": "nä-i-nud"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nii",
+          "meaning": "so",
+          "sound": "ni-i"
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "mul",
+          "meaning": "i have",
+          "sound": "mul"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": "hea",
+          "meaning": "good",
+          "sound": "he-a"
+        },
+        {
+          "word": "meel",
+          "meaning": "mind",
+          "sound": "me-el"
+        },
+        {
+          "word": "teda",
+          "meaning": "him",
+          "sound": "te-da"
+        },
+        {
+          "word": "näha",
+          "meaning": "to see",
+          "sound": "nä-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Istusime",
+          "meaning": "we sat down",
+          "sound": "is-tu-si-me"
+        },
+        {
+          "word": "maha",
+          "meaning": "down",
+          "sound": "ma-ha"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "hakkasime",
+          "meaning": "we started",
+          "sound": "hak-ka-si-me"
+        },
+        {
+          "word": "rääkima",
+          "meaning": "to talk",
+          "sound": "rä-ä-ki-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "ütles",
+          "meaning": "said",
+          "sound": "ü-tles"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "elab",
+          "meaning": "lives",
+          "sound": "e-lab"
+        },
+        {
+          "word": "nüüd",
+          "meaning": "now",
+          "sound": "nü-üd"
+        },
+        {
+          "word": "teises",
+          "meaning": "in the other",
+          "sound": "te-i-ses"
+        },
+        {
+          "word": "linnas",
+          "meaning": "in the city",
+          "sound": "lin-nas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "töötab",
+          "meaning": "is working",
+          "sound": "tö-ö-tab"
+        },
+        {
+          "word": "ka",
+          "meaning": "too",
+          "sound": "ka"
+        },
+        {
+          "word": "suures",
+          "meaning": "in large",
+          "sound": "su-u-res"
+        },
+        {
+          "word": "ettevõttes",
+          "meaning": "in the company",
+          "sound": "et-te-võt-tes"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rääkisin",
+          "meaning": "i spoke",
+          "sound": "rä-ä-ki-sin"
+        },
+        {
+          "word": "talle",
+          "meaning": "to him",
+          "sound": "tal-le"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "õpingutest",
+          "meaning": "of studies",
+          "sound": "õ-pin-gu-test"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "plaanidest",
+          "meaning": "plans",
+          "sound": "pla-a-ni-dest"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rääkisime",
+          "meaning": "we talked",
+          "sound": "rä-ä-ki-si-me"
+        },
+        {
+          "word": "tunde",
+          "meaning": "hours",
+          "sound": "tun-de"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "meenutasime",
+          "meaning": "we remembered",
+          "sound": "me-e-nu-ta-si-me"
+        },
+        {
+          "word": "palju",
+          "meaning": "a lot",
+          "sound": "pal-ju"
+        },
+        {
+          "word": "hetki",
+          "meaning": "moments",
+          "sound": "het-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Enne",
+          "meaning": "before",
+          "sound": "en-ne"
+        },
+        {
+          "word": "lahkumist",
+          "meaning": "departure",
+          "sound": "lah-ku-mist"
+        },
+        {
+          "word": "ütles",
+          "meaning": "said",
+          "sound": "ü-tles"
+        },
+        {
+          "word": "ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "me",
+          "meaning": "we",
+          "sound": "me"
+        },
+        {
+          "word": "peaksime",
+          "meaning": "we should",
+          "sound": "pe-ak-si-me"
+        },
+        {
+          "word": "üksteist",
+          "meaning": "each other",
+          "sound": "ük-ste-ist"
+        },
+        {
+          "word": "sagedamini",
+          "meaning": "more often",
+          "sound": "sa-ge-da-mi-ni"
+        },
+        {
+          "word": "nägema",
+          "meaning": "to see",
+          "sound": "nä-ge-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naeratasin",
+          "meaning": "i smiled",
+          "sound": "na-e-ra-ta-sin"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "vastasin",
+          "meaning": "i answered",
+          "sound": "vas-ta-sin"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Muidugi",
+          "meaning": "of course",
+          "sound": "mu-i-du-gi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "see",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "päev",
+          "meaning": "day",
+          "sound": "pä-ev"
+        },
+        {
+          "word": "meeldis",
+          "meaning": "liked it",
+          "sound": "me-el-dis"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Raske otsus",
+      "content": [
+        {
+          "word": "Paar",
+          "meaning": "a couple",
+          "sound": "pa-ar"
+        },
+        {
+          "word": "päeva",
+          "meaning": "days",
+          "sound": "pä-e-va"
+        },
+        {
+          "word": "tagasi",
+          "meaning": "back",
+          "sound": "ta-ga-si"
+        },
+        {
+          "word": "sain",
+          "meaning": "i got",
+          "sound": "sa-in"
+        },
+        {
+          "word": "tööpakkumise",
+          "meaning": "job offer",
+          "sound": "tö-ö-pak-ku-mi-se"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "See",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "teises",
+          "meaning": "in the other",
+          "sound": "te-i-ses"
+        },
+        {
+          "word": "linnas",
+          "meaning": "in the city",
+          "sound": "lin-nas"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "väga",
+          "meaning": "very",
+          "sound": "vä-ga"
+        },
+        {
+          "word": "huvitav",
+          "meaning": "interesting",
+          "sound": "hu-vi-tav"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alguses",
+          "meaning": "in the beginning",
+          "sound": "al-gu-ses"
+        },
+        {
+          "word": "tundsin",
+          "meaning": "i felt",
+          "sound": "tun-dsin"
+        },
+        {
+          "word": "elevust",
+          "meaning": "excitement",
+          "sound": "e-le-vust"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "ka",
+          "meaning": "too",
+          "sound": "ka"
+        },
+        {
+          "word": "närvilisust",
+          "meaning": "nervousness",
+          "sound": "när-vi-li-sust"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rääkisin",
+          "meaning": "i spoke",
+          "sound": "rä-ä-ki-sin"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "pere",
+          "meaning": "family",
+          "sound": "pe-re"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "sõpradega",
+          "meaning": "with friends",
+          "sound": "sõ-pra-de-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nad",
+          "meaning": "they",
+          "sound": "nad"
+        },
+        {
+          "word": "andsid",
+          "meaning": "gave",
+          "sound": "an-dsid"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": "palju",
+          "meaning": "a lot",
+          "sound": "pal-ju"
+        },
+        {
+          "word": "nõu",
+          "meaning": "advice",
+          "sound": "nõ-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mu",
+          "meaning": "my",
+          "sound": "mu"
+        },
+        {
+          "word": "ema",
+          "meaning": "mother",
+          "sound": "e-ma"
+        },
+        {
+          "word": "ütles",
+          "meaning": "said",
+          "sound": "ü-tles"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sa",
+          "meaning": "you",
+          "sound": "sa"
+        },
+        {
+          "word": "pead",
+          "meaning": "heads",
+          "sound": "pe-ad"
+        },
+        {
+          "word": "järgima",
+          "meaning": "to follow",
+          "sound": "jär-gi-ma"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "unistusi",
+          "meaning": "dreams",
+          "sound": "u-nis-tu-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aga",
+          "meaning": "but",
+          "sound": "a-ga"
+        },
+        {
+          "word": "mu",
+          "meaning": "my",
+          "sound": "mu"
+        },
+        {
+          "word": "sõber",
+          "meaning": "a friend",
+          "sound": "sõ-ber"
+        },
+        {
+          "word": "küsis",
+          "meaning": "asked",
+          "sound": "kü-sis"
+        },
+        {
+          "word": "minult",
+          "meaning": "from me",
+          "sound": "mi-nult"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oled",
+          "meaning": "you are",
+          "sound": "o-led"
+        },
+        {
+          "word": "sa",
+          "meaning": "you",
+          "sound": "sa"
+        },
+        {
+          "word": "kindel",
+          "meaning": "certain",
+          "sound": "kin-del"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "mõtlesin",
+          "meaning": "i thought",
+          "sound": "mõ-tle-sin"
+        },
+        {
+          "word": "mitu",
+          "meaning": "several",
+          "sound": "mi-tu"
+        },
+        {
+          "word": "päeva",
+          "meaning": "days",
+          "sound": "pä-e-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lõpuks",
+          "meaning": "finally",
+          "sound": "lõ-puks"
+        },
+        {
+          "word": "otsustasin",
+          "meaning": "i decided",
+          "sound": "ot-sus-ta-sin"
+        },
+        {
+          "word": "selle",
+          "meaning": "this",
+          "sound": "sel-le"
+        },
+        {
+          "word": "töö",
+          "meaning": "work",
+          "sound": "tö-ö"
+        },
+        {
+          "word": "vastu",
+          "meaning": "against",
+          "sound": "vas-tu"
+        },
+        {
+          "word": "võtta",
+          "meaning": "to take",
+          "sound": "võt-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "tean",
+          "meaning": "i know",
+          "sound": "te-an"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "see",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "saa",
+          "meaning": "can",
+          "sound": "sa-a"
+        },
+        {
+          "word": "olema",
+          "meaning": "to be",
+          "sound": "o-le-ma"
+        },
+        {
+          "word": "lihtne",
+          "meaning": "simple",
+          "sound": "lih-tne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "tahan",
+          "meaning": "i want",
+          "sound": "ta-han"
+        },
+        {
+          "word": "proovida",
+          "meaning": "to try",
+          "sound": "pro-o-vi-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Tüli sõbraga",
+      "content": [
+        {
+          "word": "Eile",
+          "meaning": "yesterday",
+          "sound": "e-i-le"
+        },
+        {
+          "word": "tülitsesin",
+          "meaning": "i quarreled",
+          "sound": "tü-lit-se-sin"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "parima",
+          "meaning": "the best",
+          "sound": "pa-ri-ma"
+        },
+        {
+          "word": "sõbraga",
+          "meaning": "with a friend",
+          "sound": "sõ-bra-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kõik",
+          "meaning": "everything",
+          "sound": "kõ-ik"
+        },
+        {
+          "word": "sai",
+          "meaning": "got",
+          "sound": "sa-i"
+        },
+        {
+          "word": "alguse",
+          "meaning": "the beginning",
+          "sound": "al-gu-se"
+        },
+        {
+          "word": "sellest",
+          "meaning": "of it",
+          "sound": "sel-lest"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "rääkisime",
+          "meaning": "we talked",
+          "sound": "rä-ä-ki-si-me"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "plaanidest",
+          "meaning": "plans",
+          "sound": "pla-a-ni-dest"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tahtsin",
+          "meaning": "i wanted to",
+          "sound": "tah-tsin"
+        },
+        {
+          "word": "reisida",
+          "meaning": "to travel",
+          "sound": "re-i-si-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "eelistas",
+          "meaning": "preferred",
+          "sound": "e-e-lis-tas"
+        },
+        {
+          "word": "jääda",
+          "meaning": "stay",
+          "sound": "jä-ä-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "ütles",
+          "meaning": "said",
+          "sound": "ü-tles"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Meil",
+          "meaning": "we have",
+          "sound": "me-il"
+        },
+        {
+          "word": "​",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "​",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pole",
+          "meaning": "there isn't",
+          "sound": "po-le"
+        },
+        {
+          "word": "piisavalt",
+          "meaning": "enough",
+          "sound": "pi-i-sa-valt"
+        },
+        {
+          "word": "raha",
+          "meaning": "money",
+          "sound": "ra-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vastasin",
+          "meaning": "i answered",
+          "sound": "vas-ta-sin"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saame",
+          "meaning": "we can",
+          "sound": "sa-a-me"
+        },
+        {
+          "word": "säästa",
+          "meaning": "to save",
+          "sound": "sä-äs-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kuid",
+          "meaning": "however",
+          "sound": "ku-id"
+        },
+        {
+          "word": "ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "nõustunud",
+          "meaning": "agreed",
+          "sound": "nõ-us-tu-nud"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vestlus",
+          "meaning": "a conversation",
+          "sound": "ves-tlus"
+        },
+        {
+          "word": "muutus",
+          "meaning": "change",
+          "sound": "mu-u-tus"
+        },
+        {
+          "word": "pingeliseks",
+          "meaning": "tense",
+          "sound": "pin-ge-li-seks"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lõpuks",
+          "meaning": "finally",
+          "sound": "lõ-puks"
+        },
+        {
+          "word": "olime",
+          "meaning": "we were",
+          "sound": "o-li-me"
+        },
+        {
+          "word": "mõlemad",
+          "meaning": "both",
+          "sound": "mõ-le-mad"
+        },
+        {
+          "word": "ärritunud",
+          "meaning": "upset",
+          "sound": "är-ri-tu-nud"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "mõtlen",
+          "meaning": "i mean",
+          "sound": "mõ-tlen"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "äkki",
+          "meaning": "suddenly",
+          "sound": "äk-ki"
+        },
+        {
+          "word": "peaksin",
+          "meaning": "i should",
+          "sound": "pe-ak-sin"
+        },
+        {
+          "word": "temaga",
+          "meaning": "with him",
+          "sound": "te-ma-ga"
+        },
+        {
+          "word": "uuesti",
+          "meaning": "again",
+          "sound": "u-u-es-ti"
+        },
+        {
+          "word": "rääkima",
+          "meaning": "to talk",
+          "sound": "rä-ä-ki-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Meie",
+          "meaning": "we",
+          "sound": "me-i-e"
+        },
+        {
+          "word": "sõprus",
+          "meaning": "friendship",
+          "sound": "sõ-prus"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "tähtsam",
+          "meaning": "more important",
+          "sound": "täh-tsam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Oluline muudatus",
+      "content": [
+        {
+          "word": "Aasta",
+          "meaning": "a year",
+          "sound": "a-as-ta"
+        },
+        {
+          "word": "tagasi",
+          "meaning": "back",
+          "sound": "ta-ga-si"
+        },
+        {
+          "word": "oli",
+          "meaning": "was",
+          "sound": "o-li"
+        },
+        {
+          "word": "mu",
+          "meaning": "my",
+          "sound": "mu"
+        },
+        {
+          "word": "elu",
+          "meaning": "life",
+          "sound": "e-lu"
+        },
+        {
+          "word": "hoopis",
+          "meaning": "instead",
+          "sound": "ho-o-pis"
+        },
+        {
+          "word": "teistsugune",
+          "meaning": "different",
+          "sound": "te-is-tsu-gu-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Töötasin",
+          "meaning": "i worked",
+          "sound": "tö-ö-ta-sin"
+        },
+        {
+          "word": "kohas",
+          "meaning": "place",
+          "sound": "ko-has"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mis",
+          "meaning": "what",
+          "sound": "mis"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "meeldinud",
+          "meaning": "liked",
+          "sound": "me-el-di-nud"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tundsin",
+          "meaning": "i felt",
+          "sound": "tun-dsin"
+        },
+        {
+          "word": "end",
+          "meaning": "yourself",
+          "sound": "end"
+        },
+        {
+          "word": "iga",
+          "meaning": "each",
+          "sound": "i-ga"
+        },
+        {
+          "word": "päev",
+          "meaning": "day",
+          "sound": "pä-ev"
+        },
+        {
+          "word": "väsinuna",
+          "meaning": "tired",
+          "sound": "vä-si-nu-na"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "motiveerimata",
+          "meaning": "unmotivated",
+          "sound": "mo-ti-ve-e-ri-ma-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ühel",
+          "meaning": "on one",
+          "sound": "ü-hel"
+        },
+        {
+          "word": "päeval",
+          "meaning": "during the day",
+          "sound": "pä-e-val"
+        },
+        {
+          "word": "otsustasin",
+          "meaning": "i decided",
+          "sound": "ot-sus-ta-sin"
+        },
+        {
+          "word": "kõike",
+          "meaning": "everything",
+          "sound": "kõ-i-ke"
+        },
+        {
+          "word": "muuta",
+          "meaning": "to change",
+          "sound": "mu-u-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "See",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "olnud",
+          "meaning": "been",
+          "sound": "ol-nud"
+        },
+        {
+          "word": "lihtne",
+          "meaning": "simple",
+          "sound": "lih-tne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sest",
+          "meaning": "because",
+          "sound": "sest"
+        },
+        {
+          "word": "kartsin",
+          "meaning": "i was afraid",
+          "sound": "kar-tsin"
+        },
+        {
+          "word": "läbi",
+          "meaning": "through",
+          "sound": "lä-bi"
+        },
+        {
+          "word": "kukkuda",
+          "meaning": "to fall",
+          "sound": "kuk-ku-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aga",
+          "meaning": "but",
+          "sound": "a-ga"
+        },
+        {
+          "word": "teadsin",
+          "meaning": "i knew",
+          "sound": "te-ad-sin"
+        },
+        {
+          "word": "ka",
+          "meaning": "too",
+          "sound": "ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "niimoodi",
+          "meaning": "like this",
+          "sound": "ni-i-mo-o-di"
+        },
+        {
+          "word": "jätkata",
+          "meaning": "to continue",
+          "sound": "jät-ka-ta"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "saa",
+          "meaning": "can",
+          "sound": "sa-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hakkasin",
+          "meaning": "i started",
+          "sound": "hak-ka-sin"
+        },
+        {
+          "word": "uusi",
+          "meaning": "new ones",
+          "sound": "u-u-si"
+        },
+        {
+          "word": "asju",
+          "meaning": "things",
+          "sound": "as-ju"
+        },
+        {
+          "word": "õppima",
+          "meaning": "to learn",
+          "sound": "õp-pi-ma"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "eesmärkide",
+          "meaning": "goals",
+          "sound": "e-es-mär-ki-de"
+        },
+        {
+          "word": "nimel",
+          "meaning": "on behalf of",
+          "sound": "ni-mel"
+        },
+        {
+          "word": "tegutsema",
+          "meaning": "to act",
+          "sound": "te-gut-se-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vähehaaval",
+          "meaning": "little by little",
+          "sound": "vä-he-ha-a-val"
+        },
+        {
+          "word": "mu",
+          "meaning": "my",
+          "sound": "mu"
+        },
+        {
+          "word": "elu",
+          "meaning": "life",
+          "sound": "e-lu"
+        },
+        {
+          "word": "muutus",
+          "meaning": "change",
+          "sound": "mu-u-tus"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "tunnen",
+          "meaning": "i feel",
+          "sound": "tun-nen"
+        },
+        {
+          "word": "end",
+          "meaning": "yourself",
+          "sound": "end"
+        },
+        {
+          "word": "enesekindlamalt",
+          "meaning": "more confident",
+          "sound": "e-ne-se-kin-dla-malt"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "õnnelikumalt",
+          "meaning": "more happily",
+          "sound": "õn-ne-li-ku-malt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sain",
+          "meaning": "i got it",
+          "sound": "sa-in"
+        },
+        {
+          "word": "teada",
+          "meaning": "know",
+          "sound": "te-a-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "muutused",
+          "meaning": "changes",
+          "sound": "mu-u-tu-sed"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "rasked",
+          "meaning": "difficult",
+          "sound": "ras-ked"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuid",
+          "meaning": "but",
+          "sound": "ku-id"
+        },
+        {
+          "word": "vajalikud",
+          "meaning": "necessary",
+          "sound": "va-ja-li-kud"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Tee tähendus",
+      "content": [
+        {
+          "word": "Pikka",
+          "meaning": "long",
+          "sound": "pik-ka"
+        },
+        {
+          "word": "aega",
+          "meaning": "time",
+          "sound": "a-e-ga"
+        },
+        {
+          "word": "arvasin",
+          "meaning": "i thought",
+          "sound": "ar-va-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "edu",
+          "meaning": "success",
+          "sound": "e-du"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "kõige",
+          "meaning": "everything",
+          "sound": "kõ-i-ge"
+        },
+        {
+          "word": "tähtsam",
+          "meaning": "more important",
+          "sound": "täh-tsam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uskusin",
+          "meaning": "i believed",
+          "sound": "us-ku-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "raha",
+          "meaning": "money",
+          "sound": "ra-ha"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "tunnustuse",
+          "meaning": "recognition",
+          "sound": "tun-nus-tu-se"
+        },
+        {
+          "word": "olemasolu",
+          "meaning": "existence",
+          "sound": "o-le-ma-so-lu"
+        },
+        {
+          "word": "teeb",
+          "meaning": "does",
+          "sound": "te-eb"
+        },
+        {
+          "word": "mind",
+          "meaning": "me",
+          "sound": "mind"
+        },
+        {
+          "word": "õnnelikuks",
+          "meaning": "to be happy",
+          "sound": "õn-ne-li-kuks"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aja",
+          "meaning": "time",
+          "sound": "a-ja"
+        },
+        {
+          "word": "jooksul",
+          "meaning": "during",
+          "sound": "jo-ok-sul"
+        },
+        {
+          "word": "sain",
+          "meaning": "i got",
+          "sound": "sa-in"
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "aru",
+          "meaning": "understood",
+          "sound": "a-ru"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "eksisin",
+          "meaning": "i was wrong",
+          "sound": "ek-si-sin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tegelikult",
+          "meaning": "in fact",
+          "sound": "te-ge-li-kult"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "oluline",
+          "meaning": "important",
+          "sound": "o-lu-li-ne"
+        },
+        {
+          "word": "tee",
+          "meaning": "do",
+          "sound": "te-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kogemused",
+          "meaning": "experiences",
+          "sound": "ko-ge-mu-sed"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vead",
+          "meaning": "errors",
+          "sound": "ve-ad"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "õppimised",
+          "meaning": "studies",
+          "sound": "õp-pi-mi-sed"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ühel",
+          "meaning": "on one",
+          "sound": "ü-hel"
+        },
+        {
+          "word": "päeval",
+          "meaning": "during the day",
+          "sound": "pä-e-val"
+        },
+        {
+          "word": "rääkisin",
+          "meaning": "i spoke",
+          "sound": "rä-ä-ki-sin"
+        },
+        {
+          "word": "mentoriga",
+          "meaning": "with a mentor",
+          "sound": "men-to-ri-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "ütles",
+          "meaning": "said",
+          "sound": "ü-tles"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ära",
+          "meaning": "don't",
+          "sound": "ä-ra"
+        },
+        {
+          "word": "kiirusta",
+          "meaning": "hurry up",
+          "sound": "ki-i-rus-ta"
+        },
+        {
+          "word": "lihtsalt",
+          "meaning": "simply",
+          "sound": "lih-tsalt"
+        },
+        {
+          "word": "selleks",
+          "meaning": "for that",
+          "sound": "sel-leks"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "sinna",
+          "meaning": "there",
+          "sound": "sin-na"
+        },
+        {
+          "word": "jõuda",
+          "meaning": "to reach",
+          "sound": "jõ-u-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaid",
+          "meaning": "but",
+          "sound": "va-id"
+        },
+        {
+          "word": "õppige",
+          "meaning": "learn",
+          "sound": "õp-pi-ge"
+        },
+        {
+          "word": "protsessi",
+          "meaning": "process",
+          "sound": "prot-ses-si"
+        },
+        {
+          "word": "nautima",
+          "meaning": "to enjoy",
+          "sound": "na-u-ti-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sellest",
+          "meaning": "from this",
+          "sound": "sel-lest"
+        },
+        {
+          "word": "hetkest",
+          "meaning": "from the moment",
+          "sound": "het-kest"
+        },
+        {
+          "word": "alates",
+          "meaning": "from",
+          "sound": "a-la-tes"
+        },
+        {
+          "word": "muutus",
+          "meaning": "change",
+          "sound": "mu-u-tus"
+        },
+        {
+          "word": "mu",
+          "meaning": "my",
+          "sound": "mu"
+        },
+        {
+          "word": "mõtteviis",
+          "meaning": "way of thinking",
+          "sound": "mõt-te-vi-is"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nüüd",
+          "meaning": "now",
+          "sound": "nü-üd"
+        },
+        {
+          "word": "hindan",
+          "meaning": "appreciate",
+          "sound": "hin-dan"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "iga",
+          "meaning": "each",
+          "sound": "i-ga"
+        },
+        {
+          "word": "sammu",
+          "meaning": "step",
+          "sound": "sam-mu"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "õpin",
+          "meaning": "i am studying",
+          "sound": "õ-pin"
+        },
+        {
+          "word": "igast",
+          "meaning": "of each",
+          "sound": "i-gast"
+        },
+        {
+          "word": "veast",
+          "meaning": "of error",
+          "sound": "ve-ast"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "kes ma tegelikult olen",
+      "content": [
+        {
+          "word": "Mitu",
+          "meaning": "how many",
+          "sound": "mi-tu"
+        },
+        {
+          "word": "aastat",
+          "meaning": "years",
+          "sound": "a-as-tat"
+        },
+        {
+          "word": "küsisin",
+          "meaning": "i asked",
+          "sound": "kü-si-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kes",
+          "meaning": "who",
+          "sound": "kes"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "tegelikult",
+          "meaning": "actually",
+          "sound": "te-ge-li-kult"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alguses",
+          "meaning": "in the beginning",
+          "sound": "al-gu-ses"
+        },
+        {
+          "word": "arvasin",
+          "meaning": "i thought",
+          "sound": "ar-va-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "minu",
+          "meaning": "mine",
+          "sound": "mi-nu"
+        },
+        {
+          "word": "identiteet",
+          "meaning": "identity",
+          "sound": "i-den-ti-te-et"
+        },
+        {
+          "word": "sõltub",
+          "meaning": "depends",
+          "sound": "sõl-tub"
+        },
+        {
+          "word": "sellest",
+          "meaning": "of it",
+          "sound": "sel-lest"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mida",
+          "meaning": "what",
+          "sound": "mi-da"
+        },
+        {
+          "word": "teised",
+          "meaning": "others",
+          "sound": "te-i-sed"
+        },
+        {
+          "word": "arvavad",
+          "meaning": "think",
+          "sound": "ar-va-vad"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Otsisin",
+          "meaning": "i searched",
+          "sound": "ot-si-sin"
+        },
+        {
+          "word": "heakskiitu",
+          "meaning": "approval",
+          "sound": "he-ak-ski-i-tu"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "kartsin",
+          "meaning": "i was afraid",
+          "sound": "kar-tsin"
+        },
+        {
+          "word": "teha",
+          "meaning": "to do",
+          "sound": "te-ha"
+        },
+        {
+          "word": "vigu",
+          "meaning": "mistakes",
+          "sound": "vi-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aja",
+          "meaning": "time",
+          "sound": "a-ja"
+        },
+        {
+          "word": "jooksul",
+          "meaning": "during",
+          "sound": "jo-ok-sul"
+        },
+        {
+          "word": "sain",
+          "meaning": "i got",
+          "sound": "sa-in"
+        },
+        {
+          "word": "aga",
+          "meaning": "however",
+          "sound": "a-ga"
+        },
+        {
+          "word": "aru",
+          "meaning": "understood",
+          "sound": "a-ru"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "minu",
+          "meaning": "mine",
+          "sound": "mi-nu"
+        },
+        {
+          "word": "väärtus",
+          "meaning": "value",
+          "sound": "vä-är-tus"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "sõltu",
+          "meaning": "depends",
+          "sound": "sõl-tu"
+        },
+        {
+          "word": "teistest",
+          "meaning": "from others",
+          "sound": "te-is-test"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ühel",
+          "meaning": "on one",
+          "sound": "ü-hel"
+        },
+        {
+          "word": "päeval",
+          "meaning": "during the day",
+          "sound": "pä-e-val"
+        },
+        {
+          "word": "otsustasin",
+          "meaning": "i decided",
+          "sound": "ot-sus-ta-sin"
+        },
+        {
+          "word": "kuulata",
+          "meaning": "to listen",
+          "sound": "ku-u-la-ta"
+        },
+        {
+          "word": "enda",
+          "meaning": "own",
+          "sound": "en-da"
+        },
+        {
+          "word": "häält",
+          "meaning": "voice",
+          "sound": "hä-ält"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hakkasin",
+          "meaning": "i started",
+          "sound": "hak-ka-sin"
+        },
+        {
+          "word": "ise",
+          "meaning": "himself",
+          "sound": "i-se"
+        },
+        {
+          "word": "otsuseid",
+          "meaning": "decisions",
+          "sound": "ot-su-se-id"
+        },
+        {
+          "word": "langetama",
+          "meaning": "to lower",
+          "sound": "lan-ge-ta-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "See",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "olnud",
+          "meaning": "been",
+          "sound": "ol-nud"
+        },
+        {
+          "word": "alati",
+          "meaning": "always",
+          "sound": "a-la-ti"
+        },
+        {
+          "word": "lihtne",
+          "meaning": "simple",
+          "sound": "lih-tne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuid",
+          "meaning": "but",
+          "sound": "ku-id"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "õppisin",
+          "meaning": "i learned",
+          "sound": "õp-pi-sin"
+        },
+        {
+          "word": "igast",
+          "meaning": "of each",
+          "sound": "i-gast"
+        },
+        {
+          "word": "veast",
+          "meaning": "of error",
+          "sound": "ve-ast"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "tean",
+          "meaning": "i know",
+          "sound": "te-an"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "iseendaks",
+          "meaning": "for myself",
+          "sound": "i-se-en-daks"
+        },
+        {
+          "word": "olemine",
+          "meaning": "being",
+          "sound": "o-le-mi-ne"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "suurim",
+          "meaning": "the biggest",
+          "sound": "su-u-rim"
+        },
+        {
+          "word": "saavutus",
+          "meaning": "achievement",
+          "sound": "sa-a-vu-tus"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Aja väärtus",
+      "content": [
+        {
+          "word": "Mõned",
+          "meaning": "some",
+          "sound": "mõ-ned"
+        },
+        {
+          "word": "aastad",
+          "meaning": "years",
+          "sound": "a-as-tad"
+        },
+        {
+          "word": "tagasi",
+          "meaning": "back",
+          "sound": "ta-ga-si"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "pööranud",
+          "meaning": "turned",
+          "sound": "pö-ö-ra-nud"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "ajale",
+          "meaning": "to time",
+          "sound": "a-ja-le"
+        },
+        {
+          "word": "erilist",
+          "meaning": "special",
+          "sound": "e-ri-list"
+        },
+        {
+          "word": "tähelepanu",
+          "meaning": "attention",
+          "sound": "tä-he-le-pa-nu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Arvasin",
+          "meaning": "i thought",
+          "sound": "ar-va-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "võimalusi",
+          "meaning": "possibilities",
+          "sound": "võ-i-ma-lu-si"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "alati",
+          "meaning": "always",
+          "sound": "a-la-ti"
+        },
+        {
+          "word": "rohkem",
+          "meaning": "more",
+          "sound": "roh-kem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "jättis",
+          "meaning": "left",
+          "sound": "jät-tis"
+        },
+        {
+          "word": "palju",
+          "meaning": "a lot",
+          "sound": "pal-ju"
+        },
+        {
+          "word": "asju",
+          "meaning": "things",
+          "sound": "as-ju"
+        },
+        {
+          "word": "hilisemaks",
+          "meaning": "for later",
+          "sound": "hi-li-se-maks"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ühel",
+          "meaning": "on one",
+          "sound": "ü-hel"
+        },
+        {
+          "word": "päeval",
+          "meaning": "during the day",
+          "sound": "pä-e-val"
+        },
+        {
+          "word": "ütles",
+          "meaning": "said",
+          "sound": "ü-tles"
+        },
+        {
+          "word": "sõber",
+          "meaning": "a friend",
+          "sound": "sõ-ber"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aeg",
+          "meaning": "time",
+          "sound": "a-eg"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "oota",
+          "meaning": "wait",
+          "sound": "o-o-ta"
+        },
+        {
+          "word": "kedagi",
+          "meaning": "someone",
+          "sound": "ke-da-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "See",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "lause",
+          "meaning": "sentence",
+          "sound": "la-u-se"
+        },
+        {
+          "word": "jäi",
+          "meaning": "remained",
+          "sound": "jä-i"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": "meelde",
+          "meaning": "remember",
+          "sound": "me-el-de"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sellest",
+          "meaning": "from this",
+          "sound": "sel-lest"
+        },
+        {
+          "word": "ajast",
+          "meaning": "of the time",
+          "sound": "a-jast"
+        },
+        {
+          "word": "peale",
+          "meaning": "on",
+          "sound": "pe-a-le"
+        },
+        {
+          "word": "hakkasin",
+          "meaning": "i started",
+          "sound": "hak-ka-sin"
+        },
+        {
+          "word": "väärtustama",
+          "meaning": "value",
+          "sound": "vä-är-tus-ta-ma"
+        },
+        {
+          "word": "iga",
+          "meaning": "each",
+          "sound": "i-ga"
+        },
+        {
+          "word": "hetke",
+          "meaning": "moment",
+          "sound": "het-ke"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Õppisin",
+          "meaning": "i studied",
+          "sound": "õp-pi-sin"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "päeva",
+          "meaning": "days",
+          "sound": "pä-e-va"
+        },
+        {
+          "word": "organiseerima",
+          "meaning": "organize",
+          "sound": "or-ga-ni-se-e-ri-ma"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "olulise",
+          "meaning": "important",
+          "sound": "o-lu-li-se"
+        },
+        {
+          "word": "tähtsuse",
+          "meaning": "importance",
+          "sound": "täh-tsu-se"
+        },
+        {
+          "word": "järjekorda",
+          "meaning": "queue",
+          "sound": "jär-je-kor-da"
+        },
+        {
+          "word": "seadma",
+          "meaning": "to set",
+          "sound": "se-ad-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sain",
+          "meaning": "i got it",
+          "sound": "sa-in"
+        },
+        {
+          "word": "ka",
+          "meaning": "too",
+          "sound": "ka"
+        },
+        {
+          "word": "aru",
+          "meaning": "understood",
+          "sound": "a-ru"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "kõik",
+          "meaning": "everything",
+          "sound": "kõ-ik"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "pea",
+          "meaning": "the head",
+          "sound": "pe-a"
+        },
+        {
+          "word": "olema",
+          "meaning": "to be",
+          "sound": "o-le-ma"
+        },
+        {
+          "word": "täiuslik",
+          "meaning": "perfect",
+          "sound": "tä-i-us-lik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "püüan",
+          "meaning": "i try",
+          "sound": "pü-ü-an"
+        },
+        {
+          "word": "elada",
+          "meaning": "to live",
+          "sound": "e-la-da"
+        },
+        {
+          "word": "teadlikumalt",
+          "meaning": "more consciously",
+          "sound": "te-a-dli-ku-malt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sest",
+          "meaning": "because",
+          "sound": "sest"
+        },
+        {
+          "word": "aeg",
+          "meaning": "time",
+          "sound": "a-eg"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "kõige",
+          "meaning": "everything",
+          "sound": "kõ-i-ge"
+        },
+        {
+          "word": "väärtuslikum",
+          "meaning": "more valuable",
+          "sound": "vä-är-tus-li-kum"
+        },
+        {
+          "word": "asi",
+          "meaning": "thing",
+          "sound": "a-si"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mis",
+          "meaning": "what",
+          "sound": "mis"
+        },
+        {
+          "word": "meil",
+          "meaning": "we have",
+          "sound": "me-il"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Otsused, mis muudavad elu",
+      "content": [
+        {
+          "word": "Mõnikord",
+          "meaning": "sometimes",
+          "sound": "mõ-ni-kord"
+        },
+        {
+          "word": "mõtlen",
+          "meaning": "i mean",
+          "sound": "mõ-tlen"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "minevikus",
+          "meaning": "in the past",
+          "sound": "mi-ne-vi-kus"
+        },
+        {
+          "word": "tehtud",
+          "meaning": "done",
+          "sound": "teh-tud"
+        },
+        {
+          "word": "otsustele",
+          "meaning": "to decisions",
+          "sound": "ot-sus-te-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mõned",
+          "meaning": "some",
+          "sound": "mõ-ned"
+        },
+        {
+          "word": "olid",
+          "meaning": "were",
+          "sound": "o-lid"
+        },
+        {
+          "word": "õiged",
+          "meaning": "correct ones",
+          "sound": "õ-i-ged"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuid",
+          "meaning": "but",
+          "sound": "ku-id"
+        },
+        {
+          "word": "teised",
+          "meaning": "others",
+          "sound": "te-i-sed"
+        },
+        {
+          "word": "mitte",
+          "meaning": "not",
+          "sound": "mit-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vahel",
+          "meaning": "sometimes",
+          "sound": "va-hel"
+        },
+        {
+          "word": "mõtlen",
+          "meaning": "i mean",
+          "sound": "mõ-tlen"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mis",
+          "meaning": "what",
+          "sound": "mis"
+        },
+        {
+          "word": "oleks",
+          "meaning": "would be",
+          "sound": "o-leks"
+        },
+        {
+          "word": "saanud",
+          "meaning": "received",
+          "sound": "sa-a-nud"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kui",
+          "meaning": "if",
+          "sound": "ku-i"
+        },
+        {
+          "word": "oleksin",
+          "meaning": "i would be",
+          "sound": "o-lek-sin"
+        },
+        {
+          "word": "valinud",
+          "meaning": "chose",
+          "sound": "va-li-nud"
+        },
+        {
+          "word": "teise",
+          "meaning": "another",
+          "sound": "te-i-se"
+        },
+        {
+          "word": "tee",
+          "meaning": "do",
+          "sound": "te-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Võib",
+          "meaning": "maybe",
+          "sound": "võ-ib"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "olla",
+          "meaning": "to be",
+          "sound": "ol-la"
+        },
+        {
+          "word": "oleksin",
+          "meaning": "i would be",
+          "sound": "o-lek-sin"
+        },
+        {
+          "word": "olnud",
+          "meaning": "been",
+          "sound": "ol-nud"
+        },
+        {
+          "word": "edukam",
+          "meaning": "more successful",
+          "sound": "e-du-kam"
+        },
+        {
+          "word": "või",
+          "meaning": "or",
+          "sound": "võ-i"
+        },
+        {
+          "word": "oleksin",
+          "meaning": "i would be",
+          "sound": "o-lek-sin"
+        },
+        {
+          "word": "vähem",
+          "meaning": "less",
+          "sound": "vä-hem"
+        },
+        {
+          "word": "õppinud",
+          "meaning": "studied",
+          "sound": "õp-pi-nud"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Samas",
+          "meaning": "at the same time",
+          "sound": "sa-mas"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "aru",
+          "meaning": "understood",
+          "sound": "a-ru"
+        },
+        {
+          "word": "saanud",
+          "meaning": "received",
+          "sound": "sa-a-nud"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "minevikus",
+          "meaning": "in the past",
+          "sound": "mi-ne-vi-kus"
+        },
+        {
+          "word": "pole",
+          "meaning": "there isn't",
+          "sound": "po-le"
+        },
+        {
+          "word": "mõtet",
+          "meaning": "sense",
+          "sound": "mõ-tet"
+        },
+        {
+          "word": "elada",
+          "meaning": "to live",
+          "sound": "e-la-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iga",
+          "meaning": "each",
+          "sound": "i-ga"
+        },
+        {
+          "word": "otsus",
+          "meaning": "decision",
+          "sound": "ot-sus"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "mulle",
+          "meaning": "to me",
+          "sound": "mul-le"
+        },
+        {
+          "word": "midagi",
+          "meaning": "something",
+          "sound": "mi-da-gi"
+        },
+        {
+          "word": "õpetanud",
+          "meaning": "taught",
+          "sound": "õ-pe-ta-nud"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Isegi",
+          "meaning": "even",
+          "sound": "i-se-gi"
+        },
+        {
+          "word": "vead",
+          "meaning": "errors",
+          "sound": "ve-ad"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "olnud",
+          "meaning": "been",
+          "sound": "ol-nud"
+        },
+        {
+          "word": "olulised",
+          "meaning": "important",
+          "sound": "o-lu-li-sed"
+        },
+        {
+          "word": "õppetunnid",
+          "meaning": "lessons",
+          "sound": "õp-pe-tun-nid"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Täna",
+          "meaning": "today",
+          "sound": "tä-na"
+        },
+        {
+          "word": "püüan",
+          "meaning": "i try",
+          "sound": "pü-ü-an"
+        },
+        {
+          "word": "teha",
+          "meaning": "to do",
+          "sound": "te-ha"
+        },
+        {
+          "word": "otsuseid",
+          "meaning": "decisions",
+          "sound": "ot-su-se-id"
+        },
+        {
+          "word": "teadlikumalt",
+          "meaning": "more consciously",
+          "sound": "te-a-dli-ku-malt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "saa",
+          "meaning": "can",
+          "sound": "sa-a"
+        },
+        {
+          "word": "muuta",
+          "meaning": "to change",
+          "sound": "mu-u-ta"
+        },
+        {
+          "word": "seda",
+          "meaning": "this",
+          "sound": "se-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mis",
+          "meaning": "what",
+          "sound": "mis"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "juba",
+          "meaning": "already",
+          "sound": "ju-ba"
+        },
+        {
+          "word": "juhtunud",
+          "meaning": "happened",
+          "sound": "juh-tu-nud"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuid",
+          "meaning": "but",
+          "sound": "ku-id"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "saan",
+          "meaning": "i can",
+          "sound": "sa-an"
+        },
+        {
+          "word": "otsustada",
+          "meaning": "to decide",
+          "sound": "ot-sus-ta-da"
+        },
+        {
+          "word": "oma",
+          "meaning": "own",
+          "sound": "o-ma"
+        },
+        {
+          "word": "tuleviku",
+          "meaning": "of the future",
+          "sound": "tu-le-vi-ku"
+        },
+        {
+          "word": "üle",
+          "meaning": "over",
+          "sound": "ü-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Sisemine hääl",
+      "content": [
+        {
+          "word": "Pikka",
+          "meaning": "long",
+          "sound": "pik-ka"
+        },
+        {
+          "word": "aega",
+          "meaning": "time",
+          "sound": "a-e-ga"
+        },
+        {
+          "word": "elasin",
+          "meaning": "i lived",
+          "sound": "e-la-sin"
+        },
+        {
+          "word": "teiste",
+          "meaning": "others",
+          "sound": "te-is-te"
+        },
+        {
+          "word": "ootuste",
+          "meaning": "expectations",
+          "sound": "o-o-tus-te"
+        },
+        {
+          "word": "järgi",
+          "meaning": "according to",
+          "sound": "jär-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uskusin",
+          "meaning": "i believed",
+          "sound": "us-ku-sin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "see",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "õige",
+          "meaning": "correct",
+          "sound": "õ-i-ge"
+        },
+        {
+          "word": "tee",
+          "meaning": "do",
+          "sound": "te-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kuid",
+          "meaning": "however",
+          "sound": "ku-id"
+        },
+        {
+          "word": "sügaval",
+          "meaning": "deep down",
+          "sound": "sü-ga-val"
+        },
+        {
+          "word": "sisimas",
+          "meaning": "inside",
+          "sound": "si-si-mas"
+        },
+        {
+          "word": "kostis",
+          "meaning": "was heard",
+          "sound": "kos-tis"
+        },
+        {
+          "word": "alati",
+          "meaning": "always",
+          "sound": "a-la-ti"
+        },
+        {
+          "word": "hääl",
+          "meaning": "voice",
+          "sound": "hä-äl"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mis",
+          "meaning": "what",
+          "sound": "mis"
+        },
+        {
+          "word": "ütles",
+          "meaning": "said",
+          "sound": "ü-tles"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "midagi",
+          "meaning": "something",
+          "sound": "mi-da-gi"
+        },
+        {
+          "word": "on",
+          "meaning": "is",
+          "sound": "on"
+        },
+        {
+          "word": "valesti",
+          "meaning": "wrongly",
+          "sound": "va-les-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Üritasin",
+          "meaning": "i tried",
+          "sound": "ü-ri-ta-sin"
+        },
+        {
+          "word": "seda",
+          "meaning": "this",
+          "sound": "se-da"
+        },
+        {
+          "word": "ignoreerida",
+          "meaning": "to ignore",
+          "sound": "ig-no-re-e-ri-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuid",
+          "meaning": "but",
+          "sound": "ku-id"
+        },
+        {
+          "word": "see",
+          "meaning": "this",
+          "sound": "se-e"
+        },
+        {
+          "word": "muutus",
+          "meaning": "change",
+          "sound": "mu-u-tus"
+        },
+        {
+          "word": "aina",
+          "meaning": "always",
+          "sound": "a-i-na"
+        },
+        {
+          "word": "valjemaks",
+          "meaning": "louder",
+          "sound": "val-je-maks"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ühel",
+          "meaning": "on one",
+          "sound": "ü-hel"
+        },
+        {
+          "word": "päeval",
+          "meaning": "during the day",
+          "sound": "pä-e-val"
+        },
+        {
+          "word": "peatusin",
+          "meaning": "i stopped",
+          "sound": "pe-a-tu-sin"
+        },
+        {
+          "word": "ja",
+          "meaning": "and",
+          "sound": "ja"
+        },
+        {
+          "word": "küsisin",
+          "meaning": "i asked",
+          "sound": "kü-si-sin"
+        },
+        {
+          "word": "endalt",
+          "meaning": "from myself",
+          "sound": "en-dalt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mida",
+          "meaning": "what",
+          "sound": "mi-da"
+        },
+        {
+          "word": "ma",
+          "meaning": "i",
+          "sound": "ma"
+        },
+        {
+          "word": "tegelikult",
+          "meaning": "actually",
+          "sound": "te-ge-li-kult"
+        },
+        {
+          "word": "tahan",
+          "meaning": "i want",
+          "sound": "ta-han"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vastus",
+          "meaning": "answer",
+          "sound": "vas-tus"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "tulnud",
+          "meaning": "came",
+          "sound": "tul-nud"
+        },
+        {
+          "word": "kohe",
+          "meaning": "immediately",
+          "sound": "ko-he"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuid",
+          "meaning": "but",
+          "sound": "ku-id"
+        },
+        {
+          "word": "esimest",
+          "meaning": "the first",
+          "sound": "e-si-mest"
+        },
+        {
+          "word": "korda",
+          "meaning": "order",
+          "sound": "kor-da"
+        },
+        {
+          "word": "tundsin",
+          "meaning": "i felt",
+          "sound": "tun-dsin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "ta",
+          "meaning": "he",
+          "sound": "ta"
+        },
+        {
+          "word": "kuulab",
+          "meaning": "listens",
+          "sound": "ku-u-lab"
+        },
+        {
+          "word": "mind",
+          "meaning": "me",
+          "sound": "mind"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sellest",
+          "meaning": "from this",
+          "sound": "sel-lest"
+        },
+        {
+          "word": "ajast",
+          "meaning": "of the time",
+          "sound": "a-jast"
+        },
+        {
+          "word": "alates",
+          "meaning": "from",
+          "sound": "a-la-tes"
+        },
+        {
+          "word": "olen",
+          "meaning": "i am",
+          "sound": "o-len"
+        },
+        {
+          "word": "õppinud",
+          "meaning": "studied",
+          "sound": "õp-pi-nud"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "et",
+          "meaning": "that",
+          "sound": "et"
+        },
+        {
+          "word": "sisemine",
+          "meaning": "internal",
+          "sound": "si-se-mi-ne"
+        },
+        {
+          "word": "hääl",
+          "meaning": "voice",
+          "sound": "hä-äl"
+        },
+        {
+          "word": "ei",
+          "meaning": "no",
+          "sound": "ei"
+        },
+        {
+          "word": "ole",
+          "meaning": "be",
+          "sound": "o-le"
+        },
+        {
+          "word": "takistus",
+          "meaning": "obstacle",
+          "sound": "ta-kis-tus"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaid",
+          "meaning": "but",
+          "sound": "va-id"
+        },
+        {
+          "word": "teejuht",
+          "meaning": "guide",
+          "sound": "te-e-juht"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "estonian": {
+        "present": [
+          "Ma",
+          "söön",
+          "õuna"
+        ],
+        "past": [
+          "Sõin",
+          "õuna"
+        ],
+        "future": [
+          "ma",
+          "söön",
+          "õuna"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "loeb",
+          "raamatut"
+        ],
+        "past": [
+          "Ta",
+          "luges",
+          "raamatut"
+        ],
+        "future": [
+          "Ta",
+          "loeb",
+          "raamatut"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "estonian": {
+        "present": [
+          "Käime",
+          "koolis"
+        ],
+        "past": [
+          "Käisime",
+          "koolis"
+        ],
+        "future": [
+          "Me",
+          "läheme",
+          "kooli"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "joob",
+          "vett"
+        ],
+        "past": [
+          "Ta",
+          "jõi",
+          "vett"
+        ],
+        "future": [
+          "Ta",
+          "joob",
+          "vett"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "mängivad",
+          "jalgpalli"
+        ],
+        "past": [
+          "Nad",
+          "mängisid",
+          "jalgpalli"
+        ],
+        "future": [
+          "Nad",
+          "hakkavad",
+          "jalgpalli",
+          "mängima"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "estonian": {
+        "present": [
+          "Kirjutan",
+          "kirja"
+        ],
+        "past": [
+          "Kirjutasin",
+          "kirja"
+        ],
+        "future": [
+          "ma",
+          "kirjutan",
+          "kirja"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "sööb",
+          "riisi"
+        ],
+        "past": [
+          "Ta",
+          "sõi",
+          "riisi"
+        ],
+        "future": [
+          "Ta",
+          "sööb",
+          "riisi"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "estonian": {
+        "present": [
+          "Vaatame",
+          "filmi"
+        ],
+        "past": [
+          "Vaatasime",
+          "filmi"
+        ],
+        "future": [
+          "Vaatame",
+          "filmi"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "avab",
+          "ukse"
+        ],
+        "past": [
+          "Ta",
+          "avas",
+          "ukse"
+        ],
+        "future": [
+          "Ta",
+          "teeb",
+          "ukse",
+          "lahti"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "ostavad",
+          "süüa"
+        ],
+        "past": [
+          "Nad",
+          "ostsid",
+          "süüa"
+        ],
+        "future": [
+          "Nad",
+          "ostavad",
+          "süüa"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "estonian": {
+        "present": [
+          "Söön",
+          "õuna",
+          "ja",
+          "joon",
+          "vett"
+        ],
+        "past": [
+          "Sõin",
+          "õuna",
+          "ja",
+          "jõin",
+          "vett"
+        ],
+        "future": [
+          "Ma",
+          "söön",
+          "õuna",
+          "ja",
+          "joon",
+          "vett"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "loeb",
+          "raamatut",
+          "sest",
+          "talle",
+          "meeldivad",
+          "lood"
+        ],
+        "past": [
+          "Ta",
+          "luges",
+          "raamatut",
+          "sest",
+          "talle",
+          "meeldisid",
+          "lood"
+        ],
+        "future": [
+          "Ta",
+          "loeb",
+          "raamatut",
+          "sest",
+          "talle",
+          "meeldivad",
+          "lood"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "estonian": {
+        "present": [
+          "Käime",
+          "koos",
+          "koolis",
+          "ja",
+          "õpime"
+        ],
+        "past": [
+          "Käisime",
+          "koos",
+          "koolis",
+          "ja",
+          "õppisime"
+        ],
+        "future": [
+          "Me",
+          "läheme",
+          "koos",
+          "kooli",
+          "ja",
+          "õpime"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "joob",
+          "vett",
+          "kuid",
+          "sööb",
+          "kiirtoitu"
+        ],
+        "past": [
+          "Ta",
+          "jõi",
+          "vett",
+          "kuid",
+          "sõi",
+          "kiirtoitu"
+        ],
+        "future": [
+          "Ta",
+          "joob",
+          "vett",
+          "kuid",
+          "sööb",
+          "kiirtoitu"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "mängivad",
+          "jalgpalli",
+          "ja",
+          "jooksevad",
+          "pargis"
+        ],
+        "past": [
+          "Nad",
+          "mängisid",
+          "jalgpalli",
+          "ja",
+          "jooksid",
+          "pargis"
+        ],
+        "future": [
+          "Nad",
+          "mängivad",
+          "jalgpalli",
+          "ja",
+          "jooksevad",
+          "pargis"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "estonian": {
+        "present": [
+          "Kirjutan",
+          "kirja",
+          "sest",
+          "igatsen",
+          "sind"
+        ],
+        "past": [
+          "Kirjutasin",
+          "kirja",
+          "sest",
+          "igatsesin",
+          "sind"
+        ],
+        "future": [
+          "Kirjutan",
+          "kirja",
+          "sest",
+          "igatsen",
+          "sind"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "sööb",
+          "riisi",
+          "ja",
+          "teeb",
+          "süüa",
+          "iga",
+          "päev"
+        ],
+        "past": [
+          "Ta",
+          "sõi",
+          "riisi",
+          "ja",
+          "küpsetas",
+          "iga",
+          "päev"
+        ],
+        "future": [
+          "Ta",
+          "sööb",
+          "riisi",
+          "ja",
+          "küpsetab",
+          "iga",
+          "päev"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "estonian": {
+        "present": [
+          "Vaatame",
+          "filmi",
+          "aga",
+          "magame",
+          "hilja"
+        ],
+        "past": [
+          "Vaatasime",
+          "filmi",
+          "aga",
+          "magasime",
+          "hilja"
+        ],
+        "future": [
+          "Vaatame",
+          "filmi",
+          "aga",
+          "magame",
+          "hilja"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "avab",
+          "ukse",
+          "ja",
+          "tervitab",
+          "inimesi"
+        ],
+        "past": [
+          "Ta",
+          "avas",
+          "ukse",
+          "ja",
+          "tervitas",
+          "inimesi"
+        ],
+        "future": [
+          "Ta",
+          "avab",
+          "ukse",
+          "ja",
+          "tervitab",
+          "inimesi"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "ostavad",
+          "süüa",
+          "sest",
+          "on",
+          "näljased"
+        ],
+        "past": [
+          "Nad",
+          "ostsid",
+          "süüa",
+          "sest",
+          "olid",
+          "näljased"
+        ],
+        "future": [
+          "Nad",
+          "ostavad",
+          "süüa",
+          "sest",
+          "on",
+          "näljased"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "estonian": {
+        "present": [
+          "Söön",
+          "hommikust",
+          "hommikusööki"
+        ],
+        "past": [
+          "Hommikust",
+          "sõin",
+          "hommikust"
+        ],
+        "future": [
+          "Hommikul",
+          "söön",
+          "hommikust"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "õpib",
+          "iga",
+          "päev",
+          "kodus"
+        ],
+        "past": [
+          "Ta",
+          "õppis",
+          "iga",
+          "päev",
+          "kodus"
+        ],
+        "future": [
+          "Ta",
+          "õpib",
+          "iga",
+          "päev",
+          "kodus"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "estonian": {
+        "present": [
+          "Jalutame",
+          "õhtul",
+          "pargis"
+        ],
+        "past": [
+          "Jalutasime",
+          "õhtul",
+          "pargis"
+        ],
+        "future": [
+          "Õhtul",
+          "jalutame",
+          "pargis"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "töötab",
+          "linnas",
+          "kontoris"
+        ],
+        "past": [
+          "Ta",
+          "töötas",
+          "linnas",
+          "kontoris"
+        ],
+        "future": [
+          "Ta",
+          "hakkab",
+          "tööle",
+          "linnas",
+          "asuvas",
+          "kontoris"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "reisivad",
+          "igal",
+          "aastal",
+          "teise",
+          "riiki"
+        ],
+        "past": [
+          "Nad",
+          "reisisid",
+          "igal",
+          "aastal",
+          "teise",
+          "riiki"
+        ],
+        "future": [
+          "Nad",
+          "reisivad",
+          "igal",
+          "aastal",
+          "mõnda",
+          "teise",
+          "riiki"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "estonian": {
+        "present": [
+          "Lugesin",
+          "õhtul",
+          "enne",
+          "magamaminekut",
+          "raamatut"
+        ],
+        "past": [
+          "Lugesin",
+          "õhtul",
+          "enne",
+          "magamaminekut",
+          "raamatut"
+        ],
+        "future": [
+          "Ma",
+          "loen",
+          "õhtul",
+          "enne",
+          "magamaminekut",
+          "raamatut"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "joob",
+          "hommikul",
+          "kodus",
+          "kohvi"
+        ],
+        "past": [
+          "Ta",
+          "jõi",
+          "hommikul",
+          "kodus",
+          "kohvi"
+        ],
+        "future": [
+          "Ta",
+          "joob",
+          "hommikul",
+          "kodus",
+          "kohvi"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "estonian": {
+        "present": [
+          "Kohtume",
+          "täna",
+          "õhtul",
+          "restoranis",
+          "sõpradega"
+        ],
+        "past": [
+          "Kohtusime",
+          "täna",
+          "õhtul",
+          "restoranis",
+          "sõpradega"
+        ],
+        "future": [
+          "Kohtume",
+          "täna",
+          "õhtul",
+          "restoranis",
+          "sõpradega"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "õpib",
+          "koolis",
+          "iga",
+          "päev",
+          "hispaania",
+          "keelt"
+        ],
+        "past": [
+          "Ta",
+          "õppis",
+          "iga",
+          "päev",
+          "koolis",
+          "hispaania",
+          "keelt"
+        ],
+        "future": [
+          "Ta",
+          "hakkab",
+          "iga",
+          "päev",
+          "koolis",
+          "hispaania",
+          "keelt",
+          "õppima"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "vaatavad",
+          "õhtul",
+          "kodus",
+          "televiisorit"
+        ],
+        "past": [
+          "Nad",
+          "vaatasid",
+          "õhtul",
+          "kodus",
+          "televiisorit"
+        ],
+        "future": [
+          "Nad",
+          "vaatavad",
+          "õhtul",
+          "kodus",
+          "televiisorit"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "estonian": {
+        "present": [
+          "Mulle",
+          "meeldib",
+          "see",
+          "muusika"
+        ],
+        "past": [
+          "Mulle",
+          "meeldis",
+          "see",
+          "muusika"
+        ],
+        "future": [
+          "Mulle",
+          "hakkab",
+          "see",
+          "muusika",
+          "meeldima"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "tunneb",
+          "end",
+          "täna",
+          "õnnelikuna"
+        ],
+        "past": [
+          "Ta",
+          "tundis",
+          "end",
+          "täna",
+          "õnnelikuna"
+        ],
+        "future": [
+          "Ta",
+          "tunneb",
+          "end",
+          "täna",
+          "õnnelikuna"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "estonian": {
+        "present": [
+          "Meie",
+          "arvates",
+          "on",
+          "see",
+          "idee",
+          "hea"
+        ],
+        "past": [
+          "Meie",
+          "arvates",
+          "oli",
+          "see",
+          "idee",
+          "hea"
+        ],
+        "future": [
+          "Arvame",
+          "et",
+          "see",
+          "idee",
+          "on",
+          "hea"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "tahab",
+          "õppida",
+          "hispaania",
+          "keelt"
+        ],
+        "past": [
+          "Ta",
+          "tahtis",
+          "hispaania",
+          "keelt",
+          "õppida"
+        ],
+        "future": [
+          "Ta",
+          "tahab",
+          "õppida",
+          "hispaania",
+          "keelt"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "armastavad",
+          "väga",
+          "oma",
+          "perekonda"
+        ],
+        "past": [
+          "Nad",
+          "armastasid",
+          "oma",
+          "perekonda",
+          "väga"
+        ],
+        "future": [
+          "Nad",
+          "armastavad",
+          "oma",
+          "perekonda",
+          "väga"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "estonian": {
+        "present": [
+          "Tunnen",
+          "end",
+          "pärast",
+          "tööd",
+          "väsinuna"
+        ],
+        "past": [
+          "Tundsin",
+          "end",
+          "pärast",
+          "tööd",
+          "väsinuna"
+        ],
+        "future": [
+          "Tunnen",
+          "end",
+          "pärast",
+          "tööd",
+          "väsinuna"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "usub",
+          "endasse"
+        ],
+        "past": [
+          "Ta",
+          "uskus",
+          "endasse"
+        ],
+        "future": [
+          "Ta",
+          "hakkab",
+          "endasse",
+          "uskuma"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "estonian": {
+        "present": [
+          "Meile",
+          "meeldib",
+          "koos",
+          "reisida"
+        ],
+        "past": [
+          "Meile",
+          "meeldis",
+          "koos",
+          "reisida"
+        ],
+        "future": [
+          "Meile",
+          "meeldib",
+          "koos",
+          "reisida"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "mõtleb",
+          "oma",
+          "tuleviku",
+          "peale"
+        ],
+        "past": [
+          "Ta",
+          "mõtles",
+          "oma",
+          "tuleviku",
+          "peale"
+        ],
+        "future": [
+          "Ta",
+          "hakkab",
+          "mõtlema",
+          "oma",
+          "tuleviku",
+          "peale"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "tunnevad",
+          "reisist",
+          "põnevust"
+        ],
+        "past": [
+          "Nad",
+          "tundsid",
+          "reisist",
+          "põnevust"
+        ],
+        "future": [
+          "Nad",
+          "tunnevad",
+          "reisist",
+          "põnevust"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "estonian": {
+        "present": [
+          "Püüan",
+          "end",
+          "iga",
+          "päev",
+          "parandada"
+        ],
+        "past": [
+          "Püüdsin",
+          "end",
+          "iga",
+          "päev",
+          "parandada"
+        ],
+        "future": [
+          "Püüan",
+          "end",
+          "iga",
+          "päev",
+          "parandada"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "tahab",
+          "oma",
+          "eesmärke",
+          "saavutada"
+        ],
+        "past": [
+          "Ta",
+          "tahtis",
+          "oma",
+          "eesmärke",
+          "saavutada"
+        ],
+        "future": [
+          "Ta",
+          "soovib",
+          "oma",
+          "eesmärke",
+          "saavutada"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "estonian": {
+        "present": [
+          "Õpime",
+          "oma",
+          "vigadest"
+        ],
+        "past": [
+          "Õppisime",
+          "oma",
+          "vigadest"
+        ],
+        "future": [
+          "Me",
+          "õpime",
+          "oma",
+          "vigadest"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "teeb",
+          "kõvasti",
+          "tööd",
+          "oma",
+          "tuleviku",
+          "ehitamiseks"
+        ],
+        "past": [
+          "Ta",
+          "tegi",
+          "kõvasti",
+          "tööd",
+          "oma",
+          "tuleviku",
+          "ehitamiseks"
+        ],
+        "future": [
+          "Ta",
+          "teeb",
+          "oma",
+          "tuleviku",
+          "ehitamiseks",
+          "kõvasti",
+          "tööd"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "usuvad",
+          "et",
+          "kõik",
+          "on",
+          "võimalik"
+        ],
+        "past": [
+          "Nad",
+          "uskusid",
+          "et",
+          "kõik",
+          "on",
+          "võimalik"
+        ],
+        "future": [
+          "Nad",
+          "usuvad",
+          "et",
+          "kõik",
+          "on",
+          "võimalik"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "estonian": {
+        "present": [
+          "Ma",
+          "mõtlen",
+          "igal",
+          "õhtul",
+          "oma",
+          "tulevikule"
+        ],
+        "past": [
+          "Mõtlesin",
+          "igal",
+          "õhtul",
+          "oma",
+          "tuleviku",
+          "peale"
+        ],
+        "future": [
+          "Ma",
+          "mõtlen",
+          "igal",
+          "õhtul",
+          "oma",
+          "tulevikule"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "püüab",
+          "rasketel",
+          "aegadel",
+          "positiivseks",
+          "jääda"
+        ],
+        "past": [
+          "Ta",
+          "püüdis",
+          "rasketel",
+          "aegadel",
+          "positiivseks",
+          "jääda"
+        ],
+        "future": [
+          "Ta",
+          "püüab",
+          "rasketel",
+          "aegadel",
+          "positiivseks",
+          "jääda"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "estonian": {
+        "present": [
+          "Me",
+          "tahame",
+          "elada",
+          "tähendusrikast",
+          "elu"
+        ],
+        "past": [
+          "Tahtsime",
+          "elada",
+          "tähendusrikast",
+          "elu"
+        ],
+        "future": [
+          "Tahame",
+          "elada",
+          "tähendusrikast",
+          "elu"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "estonian": {
+        "present": [
+          "Ta",
+          "mõistab",
+          "et",
+          "muutus",
+          "võtab",
+          "aega"
+        ],
+        "past": [
+          "Ta",
+          "mõistis",
+          "et",
+          "muutus",
+          "võttis",
+          "aega"
+        ],
+        "future": [
+          "Ta",
+          "mõistab",
+          "et",
+          "muutus",
+          "võtab",
+          "aega"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "estonian": {
+        "present": [
+          "Nad",
+          "otsustavad",
+          "järgida",
+          "oma",
+          "unistusi"
+        ],
+        "past": [
+          "Nad",
+          "otsustasid",
+          "järgida",
+          "oma",
+          "unistusi"
+        ],
+        "future": [
+          "Nad",
+          "otsustavad",
+          "järgida",
+          "oma",
+          "unistusi"
+        ]
+      }
+    }
+  ]
+}

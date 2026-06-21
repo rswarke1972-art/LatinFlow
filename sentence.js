@@ -20,6 +20,7 @@ async function init() {
     document.getElementById("langTitle").innerText =
       data.language || currentLanguage;
 
+    updateTenseButtonsUI();
     buildWordPool();
     loadSentence();
 
@@ -31,6 +32,27 @@ async function init() {
 }
 
 init();
+
+function changeTense(t) {
+  tense = t;
+  localStorage.setItem("tense", t);
+  updateTenseButtonsUI();
+  selected = [];
+  updateSentenceView();
+}
+
+function updateTenseButtonsUI() {
+  ["present", "past", "future"].forEach(t => {
+    const btn = document.getElementById(`tense-${t}`);
+    if (btn) {
+      if (t === tense) {
+        btn.classList.add("active-tense");
+      } else {
+        btn.classList.remove("active-tense");
+      }
+    }
+  });
+}
 
 
 // ===== BUILD WORD POOL =====
@@ -210,6 +232,12 @@ function renderSelected() {
 function checkSentence() {
 
   const result = document.getElementById("result");
+  const container = document.querySelector(".container");
+
+  if (container) {
+    container.classList.remove("correct-pulse", "incorrect-shake");
+    void container.offsetWidth;
+  }
 
   if (!currentSentence) return;
 
@@ -218,6 +246,7 @@ function checkSentence() {
   if (selected.length !== correctWords.length) {
     result.innerText = "⚠️ Complete the sentence first!";
     result.style.color = "orange";
+    if (container) container.classList.add("incorrect-shake");
     return;
   }
 
@@ -226,9 +255,11 @@ function checkSentence() {
 
   if (user === correct) {
     result.innerText = "✅ Correct!";
-    result.style.color = "lightgreen";
+    result.style.color = "#34d399";
+    if (container) container.classList.add("correct-pulse");
   } else {
     result.innerText = "❌ Wrong! Correct: " + correct;
-    result.style.color = "red";
+    result.style.color = "#f87171";
+    if (container) container.classList.add("incorrect-shake");
   }
 }

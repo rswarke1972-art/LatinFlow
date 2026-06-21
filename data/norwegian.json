@@ -1,0 +1,8776 @@
+{
+  "language": "Norwegian",
+  "stories": {
+    "story1": {
+      "title": "i kafeen",
+      "content": [
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "går",
+          "meaning": "goes",
+          "sound": "går"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "liten",
+          "meaning": "small",
+          "sound": "li-ten"
+        },
+        {
+          "word": "kafé",
+          "meaning": "cafe",
+          "sound": "ka-fé"
+        },
+        {
+          "word": "hver",
+          "meaning": "each",
+          "sound": "hver"
+        },
+        {
+          "word": "morgen",
+          "meaning": "morning",
+          "sound": "mor-gen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kafeen",
+          "meaning": "kafeen",
+          "sound": "ka-fe-en"
+        },
+        {
+          "word": "ligger",
+          "meaning": "lies",
+          "sound": "lig-ger"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "nærheten",
+          "meaning": "the vicinity",
+          "sound": "nær-he-ten"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "huset",
+          "meaning": "the house",
+          "sound": "hu-set"
+        },
+        {
+          "word": "mitt",
+          "meaning": "mine",
+          "sound": "mitt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "stille",
+          "meaning": "quietly",
+          "sound": "stil-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "sitter",
+          "meaning": "sitting",
+          "sound": "sit-ter"
+        },
+        {
+          "word": "alltid",
+          "meaning": "always",
+          "sound": "al-ltid"
+        },
+        {
+          "word": "ved",
+          "meaning": "wood",
+          "sound": "ved"
+        },
+        {
+          "word": "vinduet",
+          "meaning": "the window",
+          "sound": "vin-du-et"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "bestiller",
+          "meaning": "orders",
+          "sound": "bes-til-ler"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "varm",
+          "meaning": "hot",
+          "sound": "varm"
+        },
+        {
+          "word": "kopp",
+          "meaning": "cup",
+          "sound": "kopp"
+        },
+        {
+          "word": "kaffe",
+          "meaning": "coffee",
+          "sound": "kaf-fe"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Servitøren",
+          "meaning": "servitøren",
+          "sound": "ser-vi-tø-ren"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "vennlig",
+          "meaning": "friendly",
+          "sound": "ven-nlig"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "hilser",
+          "meaning": "greetings",
+          "sound": "hil-ser"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "alltid",
+          "meaning": "always",
+          "sound": "al-ltid"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "smil",
+          "meaning": "smile",
+          "sound": "smil"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "ganger",
+          "meaning": "times",
+          "sound": "gan-ger"
+        },
+        {
+          "word": "leser",
+          "meaning": "reader",
+          "sound": "le-ser"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "interessant",
+          "meaning": "interesting",
+          "sound": "in-te-res-sant"
+        },
+        {
+          "word": "bok",
+          "meaning": "book",
+          "sound": "bok"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "andre",
+          "meaning": "others",
+          "sound": "an-dre"
+        },
+        {
+          "word": "ganger",
+          "meaning": "times",
+          "sound": "gan-ger"
+        },
+        {
+          "word": "skriver",
+          "meaning": "writes",
+          "sound": "skri-ver"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "notatboken",
+          "meaning": "the notebook",
+          "sound": "no-tat-bo-ken"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "ser",
+          "meaning": "looking",
+          "sound": "ser"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "ny",
+          "meaning": "new",
+          "sound": "ny"
+        },
+        {
+          "word": "person",
+          "meaning": "person",
+          "sound": "per-son"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hun",
+          "meaning": "she",
+          "sound": "hun"
+        },
+        {
+          "word": "leser",
+          "meaning": "reader",
+          "sound": "le-ser"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "roman",
+          "meaning": "novel",
+          "sound": "ro-man"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "drikker",
+          "meaning": "drinks",
+          "sound": "drik-ker"
+        },
+        {
+          "word": "te",
+          "meaning": "tea",
+          "sound": "te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "føler",
+          "meaning": "feeling",
+          "sound": "fø-ler"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "nysgjerrig",
+          "meaning": "curious",
+          "sound": "nys-gjer-rig"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "litt",
+          "meaning": "a little",
+          "sound": "litt"
+        },
+        {
+          "word": "sjenert",
+          "meaning": "shy",
+          "sound": "sje-nert"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etter",
+          "meaning": "etter",
+          "sound": "et-ter"
+        },
+        {
+          "word": "noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "minutter",
+          "meaning": "minutes",
+          "sound": "mi-nut-ter"
+        },
+        {
+          "word": "sier",
+          "meaning": "says",
+          "sound": "si-er"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "hei",
+          "meaning": "hi",
+          "sound": "he-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hun",
+          "meaning": "she",
+          "sound": "hun"
+        },
+        {
+          "word": "svarer",
+          "meaning": "answers",
+          "sound": "sva-rer"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "smil",
+          "meaning": "smile",
+          "sound": "smil"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "begynner",
+          "meaning": "begins",
+          "sound": "be-gyn-ner"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "snakke",
+          "meaning": "talk",
+          "sound": "snak-ke"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "føler",
+          "meaning": "feeling",
+          "sound": "fø-ler"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "glad",
+          "meaning": "happy",
+          "sound": "glad"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "avslappet",
+          "meaning": "relaxed",
+          "sound": "av-slap-pet"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "i parken",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "skal",
+          "meaning": "must",
+          "sound": "skal"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "parken",
+          "meaning": "the park",
+          "sound": "par-ken"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "vennen",
+          "meaning": "the friend",
+          "sound": "ven-nen"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Været",
+          "meaning": "the weather",
+          "sound": "væ-ret"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "behagelig",
+          "meaning": "comfortable",
+          "sound": "be-ha-ge-lig"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "solen",
+          "meaning": "the sun",
+          "sound": "so-len"
+        },
+        {
+          "word": "skinner",
+          "meaning": "shining",
+          "sound": "skin-ner"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ser",
+          "meaning": "looking",
+          "sound": "ser"
+        },
+        {
+          "word": "mange",
+          "meaning": "many",
+          "sound": "man-ge"
+        },
+        {
+          "word": "mennesker",
+          "meaning": "people",
+          "sound": "men-nes-ker"
+        },
+        {
+          "word": "som",
+          "meaning": "which",
+          "sound": "som"
+        },
+        {
+          "word": "går",
+          "meaning": "goes",
+          "sound": "går"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "ler",
+          "meaning": "laughing",
+          "sound": "ler"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "barn",
+          "meaning": "child",
+          "sound": "barn"
+        },
+        {
+          "word": "leker",
+          "meaning": "toys",
+          "sound": "le-ker"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "ball",
+          "meaning": "ball",
+          "sound": "ball"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "andre",
+          "meaning": "others",
+          "sound": "an-dre"
+        },
+        {
+          "word": "løper",
+          "meaning": "running",
+          "sound": "lø-per"
+        },
+        {
+          "word": "fort",
+          "meaning": "fast",
+          "sound": "fort"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vennen",
+          "meaning": "the friend",
+          "sound": "ven-nen"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "satt",
+          "meaning": "set",
+          "sound": "satt"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "benk",
+          "meaning": "bench",
+          "sound": "benk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "snakket",
+          "meaning": "spoke",
+          "sound": "snak-ket"
+        },
+        {
+          "word": "om",
+          "meaning": "about",
+          "sound": "om"
+        },
+        {
+          "word": "livene",
+          "meaning": "the lives",
+          "sound": "li-ve-ne"
+        },
+        {
+          "word": "våre",
+          "meaning": "ours",
+          "sound": "vå-re"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "lo",
+          "meaning": "laughed",
+          "sound": "lo"
+        },
+        {
+          "word": "mye",
+          "meaning": "a lot",
+          "sound": "my-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etterpå",
+          "meaning": "etterpå",
+          "sound": "et-ter-på"
+        },
+        {
+          "word": "kjøpte",
+          "meaning": "bought",
+          "sound": "kjøp-te"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "is",
+          "meaning": "ice",
+          "sound": "is"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dagen",
+          "meaning": "the day",
+          "sound": "da-gen"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "enkel",
+          "meaning": "simple",
+          "sound": "en-kel"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "vakker",
+          "meaning": "beautiful",
+          "sound": "vak-ker"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "i biblioteket",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "skal",
+          "meaning": "must",
+          "sound": "skal"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "biblioteket",
+          "meaning": "the library",
+          "sound": "bi-bli-o-te-ket"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "rolig",
+          "meaning": "calm down",
+          "sound": "ro-lig"
+        },
+        {
+          "word": "sted",
+          "meaning": "place",
+          "sound": "sted"
+        },
+        {
+          "word": "fullt",
+          "meaning": "full",
+          "sound": "fullt"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "bøker",
+          "meaning": "books",
+          "sound": "bø-ker"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "liker",
+          "meaning": "like",
+          "sound": "li-ker"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "lese",
+          "meaning": "read",
+          "sound": "le-se"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "lære",
+          "meaning": "learn",
+          "sound": "læ-re"
+        },
+        {
+          "word": "nye",
+          "meaning": "new",
+          "sound": "ny-e"
+        },
+        {
+          "word": "ting",
+          "meaning": "things",
+          "sound": "ting"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ser",
+          "meaning": "looking",
+          "sound": "ser"
+        },
+        {
+          "word": "etter",
+          "meaning": "after",
+          "sound": "et-ter"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "interessant",
+          "meaning": "interesting",
+          "sound": "in-te-res-sant"
+        },
+        {
+          "word": "bok",
+          "meaning": "book",
+          "sound": "bok"
+        },
+        {
+          "word": "om",
+          "meaning": "about",
+          "sound": "om"
+        },
+        {
+          "word": "historie",
+          "meaning": "history",
+          "sound": "his-to-ri-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etterpå",
+          "meaning": "etterpå",
+          "sound": "et-ter-på"
+        },
+        {
+          "word": "setter",
+          "meaning": "sets",
+          "sound": "set-ter"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "ved",
+          "meaning": "wood",
+          "sound": "ved"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "bord",
+          "meaning": "table",
+          "sound": "bord"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "begynner",
+          "meaning": "begins",
+          "sound": "be-gyn-ner"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "lese",
+          "meaning": "read",
+          "sound": "le-se"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "andre",
+          "meaning": "others",
+          "sound": "an-dre"
+        },
+        {
+          "word": "som",
+          "meaning": "which",
+          "sound": "som"
+        },
+        {
+          "word": "studerer",
+          "meaning": "studying",
+          "sound": "stu-de-rer"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "skriver",
+          "meaning": "writes",
+          "sound": "skri-ver"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Atmosfæren",
+          "meaning": "atmosfæren",
+          "sound": "at-mos-fæ-ren"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "stille",
+          "meaning": "quietly",
+          "sound": "stil-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etter",
+          "meaning": "etter",
+          "sound": "et-ter"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "stund",
+          "meaning": "while",
+          "sound": "stund"
+        },
+        {
+          "word": "lukker",
+          "meaning": "closes",
+          "sound": "luk-ker"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "boken",
+          "meaning": "the book",
+          "sound": "bo-ken"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "føler",
+          "meaning": "feeling",
+          "sound": "fø-ler"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "fornøyd",
+          "meaning": "satisfied",
+          "sound": "for-nø-yd"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "i butikken",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "skal",
+          "meaning": "must",
+          "sound": "skal"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "stor",
+          "meaning": "large",
+          "sound": "stor"
+        },
+        {
+          "word": "butikk",
+          "meaning": "butikk",
+          "sound": "bu-tikk"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "kjøpe",
+          "meaning": "buy",
+          "sound": "kjø-pe"
+        },
+        {
+          "word": "mat",
+          "meaning": "food",
+          "sound": "mat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "trenger",
+          "meaning": "need",
+          "sound": "tren-ger"
+        },
+        {
+          "word": "brød",
+          "meaning": "bread",
+          "sound": "brød"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "melk",
+          "meaning": "milk",
+          "sound": "melk"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "frukt",
+          "meaning": "fruit",
+          "sound": "frukt"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "grønnsaker",
+          "meaning": "vegetables",
+          "sound": "grøn-nsa-ker"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Butikken",
+          "meaning": "butikken",
+          "sound": "bu-tik-ken"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "full",
+          "meaning": "full",
+          "sound": "full"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "folk",
+          "meaning": "people",
+          "sound": "folk"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "mye",
+          "meaning": "a lot",
+          "sound": "my-e"
+        },
+        {
+          "word": "bråk",
+          "meaning": "noise",
+          "sound": "bråk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ser",
+          "meaning": "looking",
+          "sound": "ser"
+        },
+        {
+          "word": "etter",
+          "meaning": "after",
+          "sound": "et-ter"
+        },
+        {
+          "word": "produktene",
+          "meaning": "the products",
+          "sound": "pro-duk-te-ne"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "hyllene",
+          "meaning": "the shelves",
+          "sound": "hyl-le-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "kvinne",
+          "meaning": "woman",
+          "sound": "kvin-ne"
+        },
+        {
+          "word": "spør",
+          "meaning": "ask",
+          "sound": "spør"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hvor",
+          "meaning": "hvor",
+          "sound": "hvor"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "melken",
+          "meaning": "the milk",
+          "sound": "mel-ken"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "sier",
+          "meaning": "says",
+          "sound": "si-er"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "ham",
+          "meaning": "him",
+          "sound": "ham"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Den",
+          "meaning": "the one",
+          "sound": "den"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "der",
+          "meaning": "there",
+          "sound": "der"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ved",
+          "meaning": "wood",
+          "sound": "ved"
+        },
+        {
+          "word": "siden",
+          "meaning": "ago",
+          "sound": "si-den"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "brødet",
+          "meaning": "the bread",
+          "sound": "brø-det"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hun",
+          "meaning": "she",
+          "sound": "hun"
+        },
+        {
+          "word": "smiler",
+          "meaning": "smiling",
+          "sound": "smi-ler"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "sier",
+          "meaning": "says",
+          "sound": "si-er"
+        },
+        {
+          "word": "takk",
+          "meaning": "thank you",
+          "sound": "takk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Så",
+          "meaning": "så",
+          "sound": "så"
+        },
+        {
+          "word": "går",
+          "meaning": "goes",
+          "sound": "går"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "kassen",
+          "meaning": "the cash register",
+          "sound": "kas-sen"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "betaler",
+          "meaning": "pays",
+          "sound": "be-ta-ler"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "går",
+          "meaning": "goes",
+          "sound": "går"
+        },
+        {
+          "word": "ut",
+          "meaning": "out",
+          "sound": "ut"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "butikken",
+          "meaning": "the store",
+          "sound": "bu-tik-ken"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "full",
+          "meaning": "full",
+          "sound": "full"
+        },
+        {
+          "word": "pose",
+          "meaning": "bag",
+          "sound": "po-se"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "føler",
+          "meaning": "feeling",
+          "sound": "fø-ler"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "glad",
+          "meaning": "happy",
+          "sound": "glad"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "på bussen",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "tar",
+          "meaning": "takes",
+          "sound": "tar"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "bussen",
+          "meaning": "the bus",
+          "sound": "bus-sen"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "gå",
+          "meaning": "go",
+          "sound": "gå"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "jobb",
+          "meaning": "job",
+          "sound": "jobb"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bussen",
+          "meaning": "the bus",
+          "sound": "bus-sen"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "full",
+          "meaning": "full",
+          "sound": "full"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "mye",
+          "meaning": "a lot",
+          "sound": "my-e"
+        },
+        {
+          "word": "plass",
+          "meaning": "space",
+          "sound": "plass"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "føler",
+          "meaning": "feeling",
+          "sound": "fø-ler"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "litt",
+          "meaning": "a little",
+          "sound": "litt"
+        },
+        {
+          "word": "sliten",
+          "meaning": "tired",
+          "sound": "sli-ten"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ser",
+          "meaning": "looking",
+          "sound": "ser"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "gammel",
+          "meaning": "old",
+          "sound": "gam-mel"
+        },
+        {
+          "word": "person",
+          "meaning": "person",
+          "sound": "per-son"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "tilbyr",
+          "meaning": "offers",
+          "sound": "til-byr"
+        },
+        {
+          "word": "deg",
+          "meaning": "you",
+          "sound": "deg"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "plass",
+          "meaning": "space",
+          "sound": "plass"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "forteller",
+          "meaning": "tells",
+          "sound": "for-tel-ler"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Er",
+          "meaning": "are",
+          "sound": "er"
+        },
+        {
+          "word": "du",
+          "meaning": "you",
+          "sound": "du"
+        },
+        {
+          "word": "sikker",
+          "meaning": "safe",
+          "sound": "sik-ker"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "svarer",
+          "meaning": "answers",
+          "sound": "sva-rer"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ja",
+          "meaning": "yes",
+          "sound": "ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "noe",
+          "meaning": "something",
+          "sound": "no-e"
+        },
+        {
+          "word": "problem",
+          "meaning": "problem",
+          "sound": "pro-blem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "smiler",
+          "meaning": "smiling",
+          "sound": "smi-ler"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "takker",
+          "meaning": "thanks",
+          "sound": "tak-ker"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "løpet",
+          "meaning": "the race",
+          "sound": "lø-pet"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "turen",
+          "meaning": "the trip",
+          "sound": "tu-ren"
+        },
+        {
+          "word": "ser",
+          "meaning": "looking",
+          "sound": "ser"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ut",
+          "meaning": "out",
+          "sound": "ut"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "vinduet",
+          "meaning": "the window",
+          "sound": "vin-du-et"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "tenker",
+          "meaning": "thinking",
+          "sound": "ten-ker"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "dagen",
+          "meaning": "the day",
+          "sound": "da-gen"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Selv",
+          "meaning": "even",
+          "sound": "selv"
+        },
+        {
+          "word": "om",
+          "meaning": "about",
+          "sound": "om"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "sliten",
+          "meaning": "tired",
+          "sound": "sli-ten"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "føles",
+          "meaning": "feels",
+          "sound": "fø-les"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "godt",
+          "meaning": "good",
+          "sound": "godt"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "hjelpe",
+          "meaning": "help",
+          "sound": "hjel-pe"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "I går på stranden",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "går",
+          "meaning": "goes",
+          "sound": "går"
+        },
+        {
+          "word": "dro",
+          "meaning": "left",
+          "sound": "dro"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "stranden",
+          "meaning": "the beach",
+          "sound": "stran-den"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "vennene",
+          "meaning": "the friends",
+          "sound": "ven-ne-ne"
+        },
+        {
+          "word": "mine",
+          "meaning": "mine",
+          "sound": "mi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Været",
+          "meaning": "the weather",
+          "sound": "væ-ret"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "perfekt",
+          "meaning": "perfect",
+          "sound": "per-fekt"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "sjøen",
+          "meaning": "the sea",
+          "sound": "sjø-en"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "rolig",
+          "meaning": "calm down",
+          "sound": "ro-lig"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "gikk",
+          "meaning": "went",
+          "sound": "gikk"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "sanden",
+          "meaning": "the sand",
+          "sound": "san-den"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "snakket",
+          "meaning": "spoke",
+          "sound": "snak-ket"
+        },
+        {
+          "word": "om",
+          "meaning": "about",
+          "sound": "om"
+        },
+        {
+          "word": "mange",
+          "meaning": "many",
+          "sound": "man-ge"
+        },
+        {
+          "word": "ting",
+          "meaning": "things",
+          "sound": "ting"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Etterpå",
+          "meaning": "etterpå",
+          "sound": "et-ter-på"
+        },
+        {
+          "word": "svømte",
+          "meaning": "swam",
+          "sound": "svøm-te"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "kalde",
+          "meaning": "cold",
+          "sound": "kal-de"
+        },
+        {
+          "word": "vannet",
+          "meaning": "the water",
+          "sound": "van-net"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Først",
+          "meaning": "først",
+          "sound": "først"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "litt",
+          "meaning": "a little",
+          "sound": "litt"
+        },
+        {
+          "word": "redd",
+          "meaning": "scared",
+          "sound": "redd"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "så",
+          "meaning": "so",
+          "sound": "så"
+        },
+        {
+          "word": "følte",
+          "meaning": "felt",
+          "sound": "føl-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "bra",
+          "meaning": "good",
+          "sound": "bra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "lekte",
+          "meaning": "played",
+          "sound": "lek-te"
+        },
+        {
+          "word": "også",
+          "meaning": "too",
+          "sound": "og-så"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "ball",
+          "meaning": "ball",
+          "sound": "ball"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "lo",
+          "meaning": "laughed",
+          "sound": "lo"
+        },
+        {
+          "word": "mye",
+          "meaning": "a lot",
+          "sound": "my-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "På",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "ettermiddagen",
+          "meaning": "the afternoon",
+          "sound": "et-ter-mid-da-gen"
+        },
+        {
+          "word": "spiste",
+          "meaning": "ate",
+          "sound": "spis-te"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "sammen",
+          "meaning": "together",
+          "sound": "sam-men"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "så",
+          "meaning": "so",
+          "sound": "så"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "solnedgangen",
+          "meaning": "the sunset",
+          "sound": "sol-ned-gan-gen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "spesiell",
+          "meaning": "special",
+          "sound": "spe-si-ell"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "vil",
+          "meaning": "will",
+          "sound": "vil"
+        },
+        {
+          "word": "aldri",
+          "meaning": "aldri",
+          "sound": "al-dri"
+        },
+        {
+          "word": "glemme",
+          "meaning": "forget",
+          "sound": "glem-me"
+        },
+        {
+          "word": "den",
+          "meaning": "it",
+          "sound": "den"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "En viktig samtale",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "møtte",
+          "meaning": "met",
+          "sound": "møt-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "gammel",
+          "meaning": "old",
+          "sound": "gam-mel"
+        },
+        {
+          "word": "venn",
+          "meaning": "friend",
+          "sound": "venn"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "kafé",
+          "meaning": "cafe",
+          "sound": "ka-fé"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "hadde",
+          "meaning": "had",
+          "sound": "had-de"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "sett",
+          "meaning": "seen",
+          "sound": "sett"
+        },
+        {
+          "word": "ham",
+          "meaning": "him",
+          "sound": "ham"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "lenge",
+          "meaning": "for a long time",
+          "sound": "len-ge"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "så",
+          "meaning": "so",
+          "sound": "så"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "glad",
+          "meaning": "happy",
+          "sound": "glad"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "se",
+          "meaning": "look",
+          "sound": "se"
+        },
+        {
+          "word": "ham",
+          "meaning": "him",
+          "sound": "ham"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "satte",
+          "meaning": "put",
+          "sound": "sat-te"
+        },
+        {
+          "word": "oss",
+          "meaning": "us",
+          "sound": "oss"
+        },
+        {
+          "word": "ned",
+          "meaning": "down",
+          "sound": "ned"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "begynte",
+          "meaning": "began",
+          "sound": "be-gyn-te"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "snakke",
+          "meaning": "talk",
+          "sound": "snak-ke"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "fortalte",
+          "meaning": "told",
+          "sound": "for-tal-te"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "nå",
+          "meaning": "now",
+          "sound": "nå"
+        },
+        {
+          "word": "bor",
+          "meaning": "lives",
+          "sound": "bor"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "annen",
+          "meaning": "other",
+          "sound": "an-nen"
+        },
+        {
+          "word": "by",
+          "meaning": "city",
+          "sound": "by"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "jobber",
+          "meaning": "works",
+          "sound": "job-ber"
+        },
+        {
+          "word": "også",
+          "meaning": "too",
+          "sound": "og-så"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "stort",
+          "meaning": "large",
+          "sound": "stort"
+        },
+        {
+          "word": "selskap",
+          "meaning": "company",
+          "sound": "sel-skap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "fortalte",
+          "meaning": "told",
+          "sound": "for-tal-te"
+        },
+        {
+          "word": "ham",
+          "meaning": "him",
+          "sound": "ham"
+        },
+        {
+          "word": "om",
+          "meaning": "about",
+          "sound": "om"
+        },
+        {
+          "word": "studiene",
+          "meaning": "the studies",
+          "sound": "stu-di-e-ne"
+        },
+        {
+          "word": "mine",
+          "meaning": "mine",
+          "sound": "mi-ne"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "planene",
+          "meaning": "the plans",
+          "sound": "pla-ne-ne"
+        },
+        {
+          "word": "mine",
+          "meaning": "mine",
+          "sound": "mi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "snakket",
+          "meaning": "spoke",
+          "sound": "snak-ket"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "timevis",
+          "meaning": "for hours",
+          "sound": "ti-me-vis"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "husket",
+          "meaning": "remembered",
+          "sound": "hus-ket"
+        },
+        {
+          "word": "mange",
+          "meaning": "many",
+          "sound": "man-ge"
+        },
+        {
+          "word": "øyeblikk",
+          "meaning": "moment",
+          "sound": "ø-y-e-blikk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Før",
+          "meaning": "before",
+          "sound": "før"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "dro",
+          "meaning": "left",
+          "sound": "dro"
+        },
+        {
+          "word": "sa",
+          "meaning": "said",
+          "sound": "sa"
+        },
+        {
+          "word": "han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "burde",
+          "meaning": "should",
+          "sound": "bur-de"
+        },
+        {
+          "word": "se",
+          "meaning": "look",
+          "sound": "se"
+        },
+        {
+          "word": "hverandre",
+          "meaning": "each other",
+          "sound": "hve-ran-dre"
+        },
+        {
+          "word": "oftere",
+          "meaning": "more often",
+          "sound": "of-te-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "smilte",
+          "meaning": "smiled",
+          "sound": "smil-te"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "svarte",
+          "meaning": "replied",
+          "sound": "svar-te"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jada",
+          "meaning": "sure",
+          "sound": "ja-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "likte",
+          "meaning": "liked",
+          "sound": "lik-te"
+        },
+        {
+          "word": "denne",
+          "meaning": "this one",
+          "sound": "den-ne"
+        },
+        {
+          "word": "dagen",
+          "meaning": "the day",
+          "sound": "da-gen"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "godt",
+          "meaning": "good",
+          "sound": "godt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "En vanskelig avgjørelse",
+      "content": [
+        {
+          "word": "For",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "dager",
+          "meaning": "days",
+          "sound": "da-ger"
+        },
+        {
+          "word": "siden",
+          "meaning": "ago",
+          "sound": "si-den"
+        },
+        {
+          "word": "fikk",
+          "meaning": "got",
+          "sound": "fikk"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "jobbtilbud",
+          "meaning": "job offer",
+          "sound": "job-btil-bud"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "annen",
+          "meaning": "other",
+          "sound": "an-nen"
+        },
+        {
+          "word": "by",
+          "meaning": "city",
+          "sound": "by"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "interessant",
+          "meaning": "interesting",
+          "sound": "in-te-res-sant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Først",
+          "meaning": "først",
+          "sound": "først"
+        },
+        {
+          "word": "følte",
+          "meaning": "felt",
+          "sound": "føl-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "spent",
+          "meaning": "excited",
+          "sound": "spent"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "også",
+          "meaning": "too",
+          "sound": "og-så"
+        },
+        {
+          "word": "nervøs",
+          "meaning": "nervous",
+          "sound": "ner-vøs"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "snakket",
+          "meaning": "spoke",
+          "sound": "snak-ket"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "familien",
+          "meaning": "the family",
+          "sound": "fa-mi-li-en"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "vennene",
+          "meaning": "the friends",
+          "sound": "ven-ne-ne"
+        },
+        {
+          "word": "mine",
+          "meaning": "mine",
+          "sound": "mi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "they",
+          "sound": "de"
+        },
+        {
+          "word": "ga",
+          "meaning": "gave",
+          "sound": "ga"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "mange",
+          "meaning": "many",
+          "sound": "man-ge"
+        },
+        {
+          "word": "råd",
+          "meaning": "advice",
+          "sound": "råd"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Moren",
+          "meaning": "the mother",
+          "sound": "mo-ren"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "sa",
+          "meaning": "said",
+          "sound": "sa"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Du",
+          "meaning": "you",
+          "sound": "du"
+        },
+        {
+          "word": "må",
+          "meaning": "must",
+          "sound": "må"
+        },
+        {
+          "word": "følge",
+          "meaning": "follow",
+          "sound": "føl-ge"
+        },
+        {
+          "word": "drømmene",
+          "meaning": "the dreams",
+          "sound": "drøm-me-ne"
+        },
+        {
+          "word": "dine",
+          "meaning": "yours",
+          "sound": "di-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "vennen",
+          "meaning": "the friend",
+          "sound": "ven-nen"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "spurte",
+          "meaning": "asked",
+          "sound": "spur-te"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Er",
+          "meaning": "are",
+          "sound": "er"
+        },
+        {
+          "word": "du",
+          "meaning": "you",
+          "sound": "du"
+        },
+        {
+          "word": "sikker",
+          "meaning": "safe",
+          "sound": "sik-ker"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "brukte",
+          "meaning": "used",
+          "sound": "bruk-te"
+        },
+        {
+          "word": "flere",
+          "meaning": "several",
+          "sound": "fle-re"
+        },
+        {
+          "word": "dager",
+          "meaning": "days",
+          "sound": "da-ger"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "tenke",
+          "meaning": "think",
+          "sound": "ten-ke"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "slutt",
+          "meaning": "end",
+          "sound": "slutt"
+        },
+        {
+          "word": "bestemte",
+          "meaning": "determined",
+          "sound": "bes-tem-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "takke",
+          "meaning": "thank",
+          "sound": "tak-ke"
+        },
+        {
+          "word": "ja",
+          "meaning": "yes",
+          "sound": "ja"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "jobben",
+          "meaning": "the job",
+          "sound": "job-ben"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "vet",
+          "meaning": "know",
+          "sound": "vet"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "blir",
+          "meaning": "becomes",
+          "sound": "blir"
+        },
+        {
+          "word": "lett",
+          "meaning": "easy",
+          "sound": "lett"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "vil",
+          "meaning": "will",
+          "sound": "vil"
+        },
+        {
+          "word": "prøve",
+          "meaning": "try",
+          "sound": "prø-ve"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "En krangel med en venn",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "går",
+          "meaning": "goes",
+          "sound": "går"
+        },
+        {
+          "word": "kranglet",
+          "meaning": "argued",
+          "sound": "kran-glet"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "bestevennen",
+          "meaning": "the best friend",
+          "sound": "bes-te-ven-nen"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "hele",
+          "meaning": "whole",
+          "sound": "he-le"
+        },
+        {
+          "word": "startet",
+          "meaning": "started",
+          "sound": "star-tet"
+        },
+        {
+          "word": "da",
+          "meaning": "then",
+          "sound": "da"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "snakket",
+          "meaning": "spoke",
+          "sound": "snak-ket"
+        },
+        {
+          "word": "om",
+          "meaning": "about",
+          "sound": "om"
+        },
+        {
+          "word": "planene",
+          "meaning": "the plans",
+          "sound": "pla-ne-ne"
+        },
+        {
+          "word": "våre",
+          "meaning": "ours",
+          "sound": "vå-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ville",
+          "meaning": "would",
+          "sound": "vil-le"
+        },
+        {
+          "word": "reise",
+          "meaning": "travel",
+          "sound": "re-i-se"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "foretrakk",
+          "meaning": "preferred",
+          "sound": "fo-re-trakk"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "bli",
+          "meaning": "stay",
+          "sound": "bli"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "sa",
+          "meaning": "said",
+          "sound": "sa"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "har",
+          "meaning": "has",
+          "sound": "har"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "nok",
+          "meaning": "enough",
+          "sound": "nok"
+        },
+        {
+          "word": "penger",
+          "meaning": "money",
+          "sound": "pen-ger"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "svarte",
+          "meaning": "replied",
+          "sound": "svar-te"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "kan",
+          "meaning": "can",
+          "sound": "kan"
+        },
+        {
+          "word": "redde",
+          "meaning": "save",
+          "sound": "red-de"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "enig",
+          "meaning": "agreed",
+          "sound": "e-nig"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Samtalen",
+          "meaning": "samtalen",
+          "sound": "sam-ta-len"
+        },
+        {
+          "word": "ble",
+          "meaning": "became",
+          "sound": "ble"
+        },
+        {
+          "word": "anspent",
+          "meaning": "tense",
+          "sound": "an-spent"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "slutt",
+          "meaning": "end",
+          "sound": "slutt"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "begge",
+          "meaning": "both",
+          "sound": "beg-ge"
+        },
+        {
+          "word": "lei",
+          "meaning": "fed up",
+          "sound": "le-i"
+        },
+        {
+          "word": "oss",
+          "meaning": "us",
+          "sound": "oss"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "tror",
+          "meaning": "believe",
+          "sound": "tror"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "kanskje",
+          "meaning": "maybe",
+          "sound": "kan-skje"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "burde",
+          "meaning": "should",
+          "sound": "bur-de"
+        },
+        {
+          "word": "snakke",
+          "meaning": "talk",
+          "sound": "snak-ke"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "ham",
+          "meaning": "him",
+          "sound": "ham"
+        },
+        {
+          "word": "igjen",
+          "meaning": "again",
+          "sound": "ig-jen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vårt",
+          "meaning": "ours",
+          "sound": "vårt"
+        },
+        {
+          "word": "vennskap",
+          "meaning": "friendship",
+          "sound": "ven-nskap"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "viktigere",
+          "meaning": "more important",
+          "sound": "vik-ti-ge-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "En viktig endring",
+      "content": [
+        {
+          "word": "For",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "år",
+          "meaning": "year",
+          "sound": "år"
+        },
+        {
+          "word": "siden",
+          "meaning": "ago",
+          "sound": "si-den"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "livet",
+          "meaning": "life",
+          "sound": "li-vet"
+        },
+        {
+          "word": "mitt",
+          "meaning": "mine",
+          "sound": "mitt"
+        },
+        {
+          "word": "veldig",
+          "meaning": "very",
+          "sound": "vel-dig"
+        },
+        {
+          "word": "annerledes",
+          "meaning": "different",
+          "sound": "an-ner-le-des"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "jobbet",
+          "meaning": "worked",
+          "sound": "job-bet"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "sted",
+          "meaning": "place",
+          "sound": "sted"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "likte",
+          "meaning": "liked",
+          "sound": "lik-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hver",
+          "meaning": "each",
+          "sound": "hver"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "følte",
+          "meaning": "felt",
+          "sound": "føl-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "sliten",
+          "meaning": "tired",
+          "sound": "sli-ten"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "umotivert",
+          "meaning": "unmotivated",
+          "sound": "u-mo-ti-vert"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "bestemte",
+          "meaning": "determined",
+          "sound": "bes-tem-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "endre",
+          "meaning": "change",
+          "sound": "en-dre"
+        },
+        {
+          "word": "alt",
+          "meaning": "everything",
+          "sound": "alt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "lett",
+          "meaning": "easy",
+          "sound": "lett"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "redd",
+          "meaning": "scared",
+          "sound": "redd"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "mislykkes",
+          "meaning": "fail",
+          "sound": "mis-lyk-kes"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "visste",
+          "meaning": "knew",
+          "sound": "vis-ste"
+        },
+        {
+          "word": "også",
+          "meaning": "too",
+          "sound": "og-så"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "kunne",
+          "meaning": "could",
+          "sound": "kun-ne"
+        },
+        {
+          "word": "fortsette",
+          "meaning": "continue",
+          "sound": "for-tset-te"
+        },
+        {
+          "word": "slik",
+          "meaning": "like this",
+          "sound": "slik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "begynte",
+          "meaning": "began",
+          "sound": "be-gyn-te"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "lære",
+          "meaning": "learn",
+          "sound": "læ-re"
+        },
+        {
+          "word": "nye",
+          "meaning": "new",
+          "sound": "ny-e"
+        },
+        {
+          "word": "ting",
+          "meaning": "things",
+          "sound": "ting"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "jobbe",
+          "meaning": "work",
+          "sound": "job-be"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "målene",
+          "meaning": "the goals",
+          "sound": "må-le-ne"
+        },
+        {
+          "word": "mine",
+          "meaning": "mine",
+          "sound": "mi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Litt",
+          "meaning": "a little",
+          "sound": "litt"
+        },
+        {
+          "word": "etter",
+          "meaning": "after",
+          "sound": "et-ter"
+        },
+        {
+          "word": "litt",
+          "meaning": "a little",
+          "sound": "litt"
+        },
+        {
+          "word": "forandret",
+          "meaning": "changed",
+          "sound": "fo-ran-dret"
+        },
+        {
+          "word": "livet",
+          "meaning": "life",
+          "sound": "li-vet"
+        },
+        {
+          "word": "mitt",
+          "meaning": "mine",
+          "sound": "mitt"
+        },
+        {
+          "word": "seg",
+          "meaning": "themselves",
+          "sound": "seg"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "føler",
+          "meaning": "feeling",
+          "sound": "fø-ler"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "mer",
+          "meaning": "more",
+          "sound": "mer"
+        },
+        {
+          "word": "selvsikker",
+          "meaning": "confident",
+          "sound": "sel-vsik-ker"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "glad",
+          "meaning": "happy",
+          "sound": "glad"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "lærte",
+          "meaning": "learned",
+          "sound": "lær-te"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "endringer",
+          "meaning": "changes",
+          "sound": "en-drin-ger"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "vanskelige",
+          "meaning": "difficult",
+          "sound": "van-ske-li-ge"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "nødvendige",
+          "meaning": "necessary",
+          "sound": "nød-ven-di-ge"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Meningen med stien",
+      "content": [
+        {
+          "word": "Lenge",
+          "meaning": "long",
+          "sound": "len-ge"
+        },
+        {
+          "word": "trodde",
+          "meaning": "believed",
+          "sound": "trod-de"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "suksess",
+          "meaning": "success",
+          "sound": "suk-sess"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "viktigste",
+          "meaning": "most important",
+          "sound": "vik-tig-ste"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "trodde",
+          "meaning": "believed",
+          "sound": "trod-de"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "ha",
+          "meaning": "ha",
+          "sound": "ha"
+        },
+        {
+          "word": "penger",
+          "meaning": "money",
+          "sound": "pen-ger"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "anerkjennelse",
+          "meaning": "recognition",
+          "sound": "a-ner-kjen-nel-se"
+        },
+        {
+          "word": "ville",
+          "meaning": "would",
+          "sound": "vil-le"
+        },
+        {
+          "word": "gjøre",
+          "meaning": "do",
+          "sound": "gjø-re"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "lykkelig",
+          "meaning": "happy",
+          "sound": "lyk-ke-lig"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "over",
+          "meaning": "over",
+          "sound": "o-ver"
+        },
+        {
+          "word": "tid",
+          "meaning": "time",
+          "sound": "tid"
+        },
+        {
+          "word": "innså",
+          "meaning": "realized",
+          "sound": "in-nså"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "tok",
+          "meaning": "took",
+          "sound": "tok"
+        },
+        {
+          "word": "feil",
+          "meaning": "error",
+          "sound": "fe-il"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "som",
+          "meaning": "which",
+          "sound": "som"
+        },
+        {
+          "word": "virkelig",
+          "meaning": "really",
+          "sound": "vir-ke-lig"
+        },
+        {
+          "word": "betyr",
+          "meaning": "means",
+          "sound": "be-tyr"
+        },
+        {
+          "word": "noe",
+          "meaning": "something",
+          "sound": "no-e"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "veien",
+          "meaning": "the road",
+          "sound": "ve-i-en"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Erfaringene",
+          "meaning": "erfaringene",
+          "sound": "er-fa-rin-ge-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "feilene",
+          "meaning": "the errors",
+          "sound": "fe-i-le-ne"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "læringen",
+          "meaning": "the learning",
+          "sound": "læ-rin-gen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "snakket",
+          "meaning": "spoke",
+          "sound": "snak-ket"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "mentor",
+          "meaning": "mentor",
+          "sound": "men-tor"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "sa",
+          "meaning": "said",
+          "sound": "sa"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "skynd",
+          "meaning": "hurry up",
+          "sound": "skynd"
+        },
+        {
+          "word": "deg",
+          "meaning": "you",
+          "sound": "deg"
+        },
+        {
+          "word": "bare",
+          "meaning": "only",
+          "sound": "ba-re"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "komme",
+          "meaning": "come",
+          "sound": "kom-me"
+        },
+        {
+          "word": "dit",
+          "meaning": "there",
+          "sound": "dit"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lær",
+          "meaning": "learn",
+          "sound": "lær"
+        },
+        {
+          "word": "deg",
+          "meaning": "you",
+          "sound": "deg"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "nyte",
+          "meaning": "enjoy",
+          "sound": "ny-te"
+        },
+        {
+          "word": "prosessen",
+          "meaning": "the process",
+          "sound": "pro-ses-sen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Fra",
+          "meaning": "fra",
+          "sound": "fra"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "øyeblikket",
+          "meaning": "the moment",
+          "sound": "ø-y-e-blik-ket"
+        },
+        {
+          "word": "endret",
+          "meaning": "changed",
+          "sound": "en-dret"
+        },
+        {
+          "word": "tankegangen",
+          "meaning": "the mindset",
+          "sound": "tan-ke-gan-gen"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "seg",
+          "meaning": "themselves",
+          "sound": "seg"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nå",
+          "meaning": "now",
+          "sound": "nå"
+        },
+        {
+          "word": "verdsetter",
+          "meaning": "values",
+          "sound": "ver-dset-ter"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "hvert",
+          "meaning": "each",
+          "sound": "hvert"
+        },
+        {
+          "word": "trinn",
+          "meaning": "steps",
+          "sound": "trinn"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "lærer",
+          "meaning": "teacher",
+          "sound": "læ-rer"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "hver",
+          "meaning": "each",
+          "sound": "hver"
+        },
+        {
+          "word": "feil",
+          "meaning": "error",
+          "sound": "fe-il"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "hvem jeg egentlig er",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "mange",
+          "meaning": "many",
+          "sound": "man-ge"
+        },
+        {
+          "word": "år",
+          "meaning": "year",
+          "sound": "år"
+        },
+        {
+          "word": "stilte",
+          "meaning": "silenced",
+          "sound": "stil-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "spørsmål",
+          "meaning": "questions",
+          "sound": "spør-smål"
+        },
+        {
+          "word": "ved",
+          "meaning": "wood",
+          "sound": "ved"
+        },
+        {
+          "word": "hvem",
+          "meaning": "who",
+          "sound": "hvem"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "egentlig",
+          "meaning": "actually",
+          "sound": "e-gen-tlig"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Først",
+          "meaning": "først",
+          "sound": "først"
+        },
+        {
+          "word": "trodde",
+          "meaning": "believed",
+          "sound": "trod-de"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "identiteten",
+          "meaning": "the identity",
+          "sound": "i-den-ti-te-ten"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "avhengig",
+          "meaning": "dependent",
+          "sound": "av-hen-gig"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "hva",
+          "meaning": "what",
+          "sound": "hva"
+        },
+        {
+          "word": "andre",
+          "meaning": "others",
+          "sound": "an-dre"
+        },
+        {
+          "word": "mente",
+          "meaning": "meant",
+          "sound": "men-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "lette",
+          "meaning": "easy",
+          "sound": "let-te"
+        },
+        {
+          "word": "etter",
+          "meaning": "after",
+          "sound": "et-ter"
+        },
+        {
+          "word": "godkjenning",
+          "meaning": "approval",
+          "sound": "god-kjen-ning"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "redd",
+          "meaning": "scared",
+          "sound": "redd"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "gjøre",
+          "meaning": "do",
+          "sound": "gjø-re"
+        },
+        {
+          "word": "feil",
+          "meaning": "error",
+          "sound": "fe-il"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "over",
+          "meaning": "over",
+          "sound": "o-ver"
+        },
+        {
+          "word": "tid",
+          "meaning": "time",
+          "sound": "tid"
+        },
+        {
+          "word": "forsto",
+          "meaning": "understood",
+          "sound": "for-sto"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "verdien",
+          "meaning": "the value",
+          "sound": "ver-di-en"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "avhengig",
+          "meaning": "dependent",
+          "sound": "av-hen-gig"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "andre",
+          "meaning": "others",
+          "sound": "an-dre"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "bestemte",
+          "meaning": "determined",
+          "sound": "bes-tem-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "lytte",
+          "meaning": "listen",
+          "sound": "lyt-te"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "egen",
+          "meaning": "own",
+          "sound": "e-gen"
+        },
+        {
+          "word": "stemme",
+          "meaning": "vote",
+          "sound": "stem-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "begynte",
+          "meaning": "began",
+          "sound": "be-gyn-te"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "ta",
+          "meaning": "take",
+          "sound": "ta"
+        },
+        {
+          "word": "avgjørelser",
+          "meaning": "decisions",
+          "sound": "av-gjø-rel-ser"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "selv",
+          "meaning": "even",
+          "sound": "selv"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "alltid",
+          "meaning": "always",
+          "sound": "al-ltid"
+        },
+        {
+          "word": "lett",
+          "meaning": "easy",
+          "sound": "lett"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "lærte",
+          "meaning": "learned",
+          "sound": "lær-te"
+        },
+        {
+          "word": "av",
+          "meaning": "off",
+          "sound": "av"
+        },
+        {
+          "word": "hver",
+          "meaning": "each",
+          "sound": "hver"
+        },
+        {
+          "word": "feil",
+          "meaning": "error",
+          "sound": "fe-il"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "vet",
+          "meaning": "know",
+          "sound": "vet"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "være",
+          "meaning": "be",
+          "sound": "væ-re"
+        },
+        {
+          "word": "deg",
+          "meaning": "you",
+          "sound": "deg"
+        },
+        {
+          "word": "selv",
+          "meaning": "even",
+          "sound": "selv"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "den",
+          "meaning": "it",
+          "sound": "den"
+        },
+        {
+          "word": "største",
+          "meaning": "largest",
+          "sound": "stør-ste"
+        },
+        {
+          "word": "prestasjonen",
+          "meaning": "the achievement",
+          "sound": "pres-tas-jo-nen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Verdien av tid",
+      "content": [
+        {
+          "word": "For",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "år",
+          "meaning": "year",
+          "sound": "år"
+        },
+        {
+          "word": "siden",
+          "meaning": "ago",
+          "sound": "si-den"
+        },
+        {
+          "word": "fulgte",
+          "meaning": "followed",
+          "sound": "ful-gte"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "så",
+          "meaning": "so",
+          "sound": "så"
+        },
+        {
+          "word": "mye",
+          "meaning": "a lot",
+          "sound": "my-e"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "tiden",
+          "meaning": "the time",
+          "sound": "ti-den"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "trodde",
+          "meaning": "believed",
+          "sound": "trod-de"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "alltid",
+          "meaning": "always",
+          "sound": "al-ltid"
+        },
+        {
+          "word": "ville",
+          "meaning": "would",
+          "sound": "vil-le"
+        },
+        {
+          "word": "være",
+          "meaning": "be",
+          "sound": "væ-re"
+        },
+        {
+          "word": "flere",
+          "meaning": "several",
+          "sound": "fle-re"
+        },
+        {
+          "word": "muligheter",
+          "meaning": "possibilities",
+          "sound": "mu-lig-he-ter"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "forlot",
+          "meaning": "left",
+          "sound": "for-lot"
+        },
+        {
+          "word": "mange",
+          "meaning": "many",
+          "sound": "man-ge"
+        },
+        {
+          "word": "ting",
+          "meaning": "things",
+          "sound": "ting"
+        },
+        {
+          "word": "til",
+          "meaning": "to",
+          "sound": "til"
+        },
+        {
+          "word": "senere",
+          "meaning": "later",
+          "sound": "se-ne-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "fortalte",
+          "meaning": "told",
+          "sound": "for-tal-te"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "venn",
+          "meaning": "friend",
+          "sound": "venn"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tiden",
+          "meaning": "tiden",
+          "sound": "ti-den"
+        },
+        {
+          "word": "venter",
+          "meaning": "waiting",
+          "sound": "ven-ter"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "ingen",
+          "meaning": "none",
+          "sound": "in-gen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Den",
+          "meaning": "the one",
+          "sound": "den"
+        },
+        {
+          "word": "setningen",
+          "meaning": "the sentence",
+          "sound": "set-nin-gen"
+        },
+        {
+          "word": "ble",
+          "meaning": "became",
+          "sound": "ble"
+        },
+        {
+          "word": "værende",
+          "meaning": "being",
+          "sound": "væ-ren-de"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "tankene",
+          "meaning": "the thoughts",
+          "sound": "tan-ke-ne"
+        },
+        {
+          "word": "mine",
+          "meaning": "mine",
+          "sound": "mi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siden",
+          "meaning": "since",
+          "sound": "si-den"
+        },
+        {
+          "word": "den",
+          "meaning": "it",
+          "sound": "den"
+        },
+        {
+          "word": "gang",
+          "meaning": "time",
+          "sound": "gang"
+        },
+        {
+          "word": "begynte",
+          "meaning": "began",
+          "sound": "be-gyn-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "verdsette",
+          "meaning": "appreciate",
+          "sound": "ver-dset-te"
+        },
+        {
+          "word": "hvert",
+          "meaning": "each",
+          "sound": "hvert"
+        },
+        {
+          "word": "øyeblikk",
+          "meaning": "moment",
+          "sound": "ø-y-e-blikk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "lærte",
+          "meaning": "learned",
+          "sound": "lær-te"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "organisere",
+          "meaning": "organize",
+          "sound": "or-ga-ni-se-re"
+        },
+        {
+          "word": "dagen",
+          "meaning": "the day",
+          "sound": "da-gen"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "prioritere",
+          "meaning": "prioritize",
+          "sound": "pri-o-ri-te-re"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "som",
+          "meaning": "which",
+          "sound": "som"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "viktig",
+          "meaning": "important",
+          "sound": "vik-tig"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "forsto",
+          "meaning": "understood",
+          "sound": "for-sto"
+        },
+        {
+          "word": "også",
+          "meaning": "too",
+          "sound": "og-så"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "alt",
+          "meaning": "everything",
+          "sound": "alt"
+        },
+        {
+          "word": "trenger",
+          "meaning": "need",
+          "sound": "tren-ger"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "være",
+          "meaning": "be",
+          "sound": "væ-re"
+        },
+        {
+          "word": "perfekt",
+          "meaning": "perfect",
+          "sound": "per-fekt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "prøver",
+          "meaning": "samples",
+          "sound": "prø-ver"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "leve",
+          "meaning": "live",
+          "sound": "le-ve"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "mer",
+          "meaning": "more",
+          "sound": "mer"
+        },
+        {
+          "word": "bevissthet",
+          "meaning": "consciousness",
+          "sound": "be-vis-sthet"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "For",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "tid",
+          "meaning": "time",
+          "sound": "tid"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "mest",
+          "meaning": "most",
+          "sound": "mest"
+        },
+        {
+          "word": "verdifulle",
+          "meaning": "valuable",
+          "sound": "ver-di-ful-le"
+        },
+        {
+          "word": "vi",
+          "meaning": "we",
+          "sound": "vi"
+        },
+        {
+          "word": "har",
+          "meaning": "has",
+          "sound": "har"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Avgjørelser som endrer livet",
+      "content": [
+        {
+          "word": "Noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "ganger",
+          "meaning": "times",
+          "sound": "gan-ger"
+        },
+        {
+          "word": "tenker",
+          "meaning": "thinking",
+          "sound": "ten-ker"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "avgjørelsene",
+          "meaning": "the decisions",
+          "sound": "av-gjø-rel-se-ne"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "tok",
+          "meaning": "took",
+          "sound": "tok"
+        },
+        {
+          "word": "tidligere",
+          "meaning": "previously",
+          "sound": "ti-dli-ge-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "riktige",
+          "meaning": "correct",
+          "sound": "rik-ti-ge"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "andre",
+          "meaning": "others",
+          "sound": "an-dre"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Noen",
+          "meaning": "someone",
+          "sound": "no-en"
+        },
+        {
+          "word": "ganger",
+          "meaning": "times",
+          "sound": "gan-ger"
+        },
+        {
+          "word": "lurer",
+          "meaning": "wonder",
+          "sound": "lu-rer"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "hva",
+          "meaning": "what",
+          "sound": "hva"
+        },
+        {
+          "word": "som",
+          "meaning": "which",
+          "sound": "som"
+        },
+        {
+          "word": "hadde",
+          "meaning": "had",
+          "sound": "had-de"
+        },
+        {
+          "word": "skjedd",
+          "meaning": "happened",
+          "sound": "skjedd"
+        },
+        {
+          "word": "hvis",
+          "meaning": "if",
+          "sound": "hvis"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "hadde",
+          "meaning": "had",
+          "sound": "had-de"
+        },
+        {
+          "word": "valgt",
+          "meaning": "selected",
+          "sound": "valgt"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "annen",
+          "meaning": "other",
+          "sound": "an-nen"
+        },
+        {
+          "word": "vei",
+          "meaning": "road",
+          "sound": "ve-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kanskje",
+          "meaning": "maybe",
+          "sound": "kan-skje"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "hadde",
+          "meaning": "had",
+          "sound": "had-de"
+        },
+        {
+          "word": "vært",
+          "meaning": "been",
+          "sound": "vært"
+        },
+        {
+          "word": "mer",
+          "meaning": "more",
+          "sound": "mer"
+        },
+        {
+          "word": "vellykket",
+          "meaning": "successful",
+          "sound": "vel-lyk-ket"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "eller",
+          "meaning": "or",
+          "sound": "el-ler"
+        },
+        {
+          "word": "kanskje",
+          "meaning": "maybe",
+          "sound": "kan-skje"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "ville",
+          "meaning": "would",
+          "sound": "vil-le"
+        },
+        {
+          "word": "ha",
+          "meaning": "ha",
+          "sound": "ha"
+        },
+        {
+          "word": "lært",
+          "meaning": "learned",
+          "sound": "lært"
+        },
+        {
+          "word": "mindre",
+          "meaning": "less",
+          "sound": "min-dre"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "har",
+          "meaning": "has",
+          "sound": "har"
+        },
+        {
+          "word": "imidlertid",
+          "meaning": "however",
+          "sound": "i-mi-dler-tid"
+        },
+        {
+          "word": "forstått",
+          "meaning": "understood",
+          "sound": "for-stått"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "nytter",
+          "meaning": "benefits",
+          "sound": "nyt-ter"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "leve",
+          "meaning": "live",
+          "sound": "le-ve"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "fortiden",
+          "meaning": "the past",
+          "sound": "for-ti-den"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hver",
+          "meaning": "each",
+          "sound": "hver"
+        },
+        {
+          "word": "avgjørelse",
+          "meaning": "avgjørelse",
+          "sound": "av-gjø-rel-se"
+        },
+        {
+          "word": "har",
+          "meaning": "has",
+          "sound": "har"
+        },
+        {
+          "word": "lært",
+          "meaning": "learned",
+          "sound": "lært"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "noe",
+          "meaning": "something",
+          "sound": "no-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Selv",
+          "meaning": "even",
+          "sound": "selv"
+        },
+        {
+          "word": "feilene",
+          "meaning": "the errors",
+          "sound": "fe-i-le-ne"
+        },
+        {
+          "word": "har",
+          "meaning": "has",
+          "sound": "har"
+        },
+        {
+          "word": "vært",
+          "meaning": "been",
+          "sound": "vært"
+        },
+        {
+          "word": "viktige",
+          "meaning": "important",
+          "sound": "vik-ti-ge"
+        },
+        {
+          "word": "lærdommer",
+          "meaning": "lessons learned",
+          "sound": "lær-dom-mer"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "prøver",
+          "meaning": "samples",
+          "sound": "prø-ver"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "ta",
+          "meaning": "take",
+          "sound": "ta"
+        },
+        {
+          "word": "beslutninger",
+          "meaning": "decisions",
+          "sound": "bes-lut-nin-ger"
+        },
+        {
+          "word": "med",
+          "meaning": "with",
+          "sound": "med"
+        },
+        {
+          "word": "mer",
+          "meaning": "more",
+          "sound": "mer"
+        },
+        {
+          "word": "bevissthet",
+          "meaning": "consciousness",
+          "sound": "be-vis-sthet"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "kan",
+          "meaning": "can",
+          "sound": "kan"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "endre",
+          "meaning": "change",
+          "sound": "en-dre"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "som",
+          "meaning": "which",
+          "sound": "som"
+        },
+        {
+          "word": "allerede",
+          "meaning": "already",
+          "sound": "al-le-re-de"
+        },
+        {
+          "word": "har",
+          "meaning": "has",
+          "sound": "har"
+        },
+        {
+          "word": "skjedd",
+          "meaning": "happened",
+          "sound": "skjedd"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "kan",
+          "meaning": "can",
+          "sound": "kan"
+        },
+        {
+          "word": "bestemme",
+          "meaning": "decide",
+          "sound": "bes-tem-me"
+        },
+        {
+          "word": "fremtiden",
+          "meaning": "the future",
+          "sound": "frem-ti-den"
+        },
+        {
+          "word": "min",
+          "meaning": "min",
+          "sound": "min"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Den indre stemmen",
+      "content": [
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "lang",
+          "meaning": "long",
+          "sound": "lang"
+        },
+        {
+          "word": "tid",
+          "meaning": "time",
+          "sound": "tid"
+        },
+        {
+          "word": "levde",
+          "meaning": "lived",
+          "sound": "lev-de"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "etter",
+          "meaning": "after",
+          "sound": "et-ter"
+        },
+        {
+          "word": "andres",
+          "meaning": "someone else's",
+          "sound": "an-dres"
+        },
+        {
+          "word": "forventninger",
+          "meaning": "expectations",
+          "sound": "for-ven-tnin-ger"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "trodde",
+          "meaning": "believed",
+          "sound": "trod-de"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "den",
+          "meaning": "it",
+          "sound": "den"
+        },
+        {
+          "word": "rette",
+          "meaning": "correct",
+          "sound": "ret-te"
+        },
+        {
+          "word": "veien",
+          "meaning": "the road",
+          "sound": "ve-i-en"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "innerst",
+          "meaning": "innermost",
+          "sound": "in-nerst"
+        },
+        {
+          "word": "inne",
+          "meaning": "inside",
+          "sound": "in-ne"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "alltid",
+          "meaning": "always",
+          "sound": "al-ltid"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "stemme",
+          "meaning": "vote",
+          "sound": "stem-me"
+        },
+        {
+          "word": "som",
+          "meaning": "which",
+          "sound": "som"
+        },
+        {
+          "word": "fortalte",
+          "meaning": "told",
+          "sound": "for-tal-te"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "noe",
+          "meaning": "something",
+          "sound": "no-e"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "stemte",
+          "meaning": "voted",
+          "sound": "stem-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "prøvde",
+          "meaning": "tried",
+          "sound": "prøv-de"
+        },
+        {
+          "word": "å",
+          "meaning": "to",
+          "sound": "å"
+        },
+        {
+          "word": "ignorere",
+          "meaning": "ignore",
+          "sound": "ig-no-re-re"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "det",
+          "meaning": "that",
+          "sound": "det"
+        },
+        {
+          "word": "ble",
+          "meaning": "became",
+          "sound": "ble"
+        },
+        {
+          "word": "stadig",
+          "meaning": "constantly",
+          "sound": "sta-dig"
+        },
+        {
+          "word": "høyere",
+          "meaning": "higher",
+          "sound": "hø-y-e-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "En",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "dag",
+          "meaning": "day",
+          "sound": "dag"
+        },
+        {
+          "word": "stoppet",
+          "meaning": "stopped",
+          "sound": "stop-pet"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "opp",
+          "meaning": "up",
+          "sound": "opp"
+        },
+        {
+          "word": "og",
+          "meaning": "and",
+          "sound": "og"
+        },
+        {
+          "word": "spurte",
+          "meaning": "asked",
+          "sound": "spur-te"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": "selv",
+          "meaning": "even",
+          "sound": "selv"
+        },
+        {
+          "word": "hva",
+          "meaning": "what",
+          "sound": "hva"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "egentlig",
+          "meaning": "actually",
+          "sound": "e-gen-tlig"
+        },
+        {
+          "word": "ville",
+          "meaning": "would",
+          "sound": "vil-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Responsen",
+          "meaning": "responsen",
+          "sound": "res-pon-sen"
+        },
+        {
+          "word": "var",
+          "meaning": "was",
+          "sound": "var"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "umiddelbar",
+          "meaning": "immediate",
+          "sound": "u-mid-del-bar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "for",
+          "meaning": "for",
+          "sound": "for"
+        },
+        {
+          "word": "første",
+          "meaning": "first",
+          "sound": "før-ste"
+        },
+        {
+          "word": "gang",
+          "meaning": "time",
+          "sound": "gang"
+        },
+        {
+          "word": "følte",
+          "meaning": "felt",
+          "sound": "føl-te"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "han",
+          "meaning": "he",
+          "sound": "han"
+        },
+        {
+          "word": "hørte",
+          "meaning": "heard",
+          "sound": "hør-te"
+        },
+        {
+          "word": "på",
+          "meaning": "on",
+          "sound": "på"
+        },
+        {
+          "word": "meg",
+          "meaning": "me",
+          "sound": "meg"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siden",
+          "meaning": "since",
+          "sound": "si-den"
+        },
+        {
+          "word": "den",
+          "meaning": "it",
+          "sound": "den"
+        },
+        {
+          "word": "gang",
+          "meaning": "time",
+          "sound": "gang"
+        },
+        {
+          "word": "har",
+          "meaning": "has",
+          "sound": "har"
+        },
+        {
+          "word": "jeg",
+          "meaning": "i",
+          "sound": "jeg"
+        },
+        {
+          "word": "lært",
+          "meaning": "learned",
+          "sound": "lært"
+        },
+        {
+          "word": "at",
+          "meaning": "that",
+          "sound": "at"
+        },
+        {
+          "word": "den",
+          "meaning": "it",
+          "sound": "den"
+        },
+        {
+          "word": "indre",
+          "meaning": "inner",
+          "sound": "in-dre"
+        },
+        {
+          "word": "stemmen",
+          "meaning": "the voice",
+          "sound": "stem-men"
+        },
+        {
+          "word": "ikke",
+          "meaning": "not",
+          "sound": "ik-ke"
+        },
+        {
+          "word": "er",
+          "meaning": "is",
+          "sound": "er"
+        },
+        {
+          "word": "et",
+          "meaning": "a",
+          "sound": "et"
+        },
+        {
+          "word": "hinder",
+          "meaning": "obstacle",
+          "sound": "hin-der"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "but",
+          "sound": "men"
+        },
+        {
+          "word": "en",
+          "meaning": "one",
+          "sound": "en"
+        },
+        {
+          "word": "veileder",
+          "meaning": "supervisor",
+          "sound": "ve-i-le-der"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "spiser",
+          "et",
+          "eple"
+        ],
+        "past": [
+          "Jeg",
+          "spiste",
+          "et",
+          "eple"
+        ],
+        "future": [
+          "Jeg",
+          "skal",
+          "spise",
+          "et",
+          "eple"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "leser",
+          "en",
+          "bok"
+        ],
+        "past": [
+          "Hun",
+          "leste",
+          "en",
+          "bok"
+        ],
+        "future": [
+          "Hun",
+          "skal",
+          "lese",
+          "en",
+          "bok"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "går",
+          "på",
+          "skolen"
+        ],
+        "past": [
+          "Vi",
+          "gikk",
+          "på",
+          "skolen"
+        ],
+        "future": [
+          "Vi",
+          "skal",
+          "gå",
+          "på",
+          "skolen"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "drikker",
+          "vann"
+        ],
+        "past": [
+          "Han",
+          "drakk",
+          "vann"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "drikke",
+          "vann"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "spiller",
+          "fotball"
+        ],
+        "past": [
+          "De",
+          "spilte",
+          "fotball"
+        ],
+        "future": [
+          "De",
+          "skal",
+          "spille",
+          "fotball"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "skriver",
+          "et",
+          "brev"
+        ],
+        "past": [
+          "Jeg",
+          "skrev",
+          "et",
+          "brev"
+        ],
+        "future": [
+          "Jeg",
+          "skal",
+          "skrive",
+          "et",
+          "brev"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "spiser",
+          "ris"
+        ],
+        "past": [
+          "Hun",
+          "spiste",
+          "ris"
+        ],
+        "future": [
+          "Hun",
+          "vil",
+          "spise",
+          "ris"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "ser",
+          "en",
+          "film"
+        ],
+        "past": [
+          "Vi",
+          "så",
+          "en",
+          "film"
+        ],
+        "future": [
+          "Vi",
+          "skal",
+          "se",
+          "en",
+          "film"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "åpner",
+          "døren"
+        ],
+        "past": [
+          "Han",
+          "åpnet",
+          "døren"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "åpne",
+          "døren"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "kjøper",
+          "mat"
+        ],
+        "past": [
+          "De",
+          "kjøpte",
+          "mat"
+        ],
+        "future": [
+          "De",
+          "vil",
+          "kjøpe",
+          "mat"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "spiser",
+          "et",
+          "eple",
+          "og",
+          "drikker",
+          "vann"
+        ],
+        "past": [
+          "Jeg",
+          "spiste",
+          "et",
+          "eple",
+          "og",
+          "drakk",
+          "vann"
+        ],
+        "future": [
+          "Jeg",
+          "skal",
+          "spise",
+          "et",
+          "eple",
+          "og",
+          "drikke",
+          "vann"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "leser",
+          "en",
+          "bok",
+          "fordi",
+          "hun",
+          "liker",
+          "historier"
+        ],
+        "past": [
+          "Hun",
+          "leste",
+          "en",
+          "bok",
+          "fordi",
+          "hun",
+          "likte",
+          "historier"
+        ],
+        "future": [
+          "Hun",
+          "vil",
+          "lese",
+          "en",
+          "bok",
+          "fordi",
+          "hun",
+          "liker",
+          "historier"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "går",
+          "på",
+          "skolen",
+          "og",
+          "studerer",
+          "sammen"
+        ],
+        "past": [
+          "Vi",
+          "gikk",
+          "på",
+          "skolen",
+          "og",
+          "studerte",
+          "sammen"
+        ],
+        "future": [
+          "Vi",
+          "skal",
+          "gå",
+          "på",
+          "skole",
+          "og",
+          "studere",
+          "sammen"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "drikker",
+          "vann",
+          "men",
+          "spiser",
+          "hurtigmat"
+        ],
+        "past": [
+          "Han",
+          "drakk",
+          "vann",
+          "men",
+          "spiste",
+          "hurtigmat"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "drikke",
+          "vann",
+          "men",
+          "spise",
+          "hurtigmat"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "spiller",
+          "fotball",
+          "og",
+          "løper",
+          "i",
+          "parken"
+        ],
+        "past": [
+          "De",
+          "spilte",
+          "fotball",
+          "og",
+          "løp",
+          "i",
+          "parken"
+        ],
+        "future": [
+          "De",
+          "skal",
+          "spille",
+          "fotball",
+          "og",
+          "løpe",
+          "i",
+          "parken"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "skriver",
+          "et",
+          "brev",
+          "fordi",
+          "jeg",
+          "savner",
+          "deg"
+        ],
+        "past": [
+          "Jeg",
+          "skrev",
+          "et",
+          "brev",
+          "fordi",
+          "jeg",
+          "savnet",
+          "deg"
+        ],
+        "future": [
+          "Jeg",
+          "skal",
+          "skrive",
+          "et",
+          "brev",
+          "fordi",
+          "jeg",
+          "savner",
+          "deg"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "spiser",
+          "ris",
+          "og",
+          "lager",
+          "mat",
+          "hver",
+          "dag"
+        ],
+        "past": [
+          "Hun",
+          "spiste",
+          "ris",
+          "og",
+          "lagde",
+          "mat",
+          "hver",
+          "dag"
+        ],
+        "future": [
+          "Hun",
+          "vil",
+          "spise",
+          "ris",
+          "og",
+          "lage",
+          "mat",
+          "hver",
+          "dag"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "ser",
+          "en",
+          "film",
+          "men",
+          "sover",
+          "sent"
+        ],
+        "past": [
+          "Vi",
+          "så",
+          "en",
+          "film",
+          "men",
+          "sov",
+          "sent"
+        ],
+        "future": [
+          "Vi",
+          "skal",
+          "se",
+          "en",
+          "film",
+          "men",
+          "sove",
+          "sent"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "åpner",
+          "døren",
+          "og",
+          "hilser",
+          "på",
+          "folk"
+        ],
+        "past": [
+          "Han",
+          "åpnet",
+          "døren",
+          "og",
+          "hilste",
+          "på",
+          "folk"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "åpne",
+          "døren",
+          "og",
+          "hilse",
+          "på",
+          "folk"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "kjøper",
+          "mat",
+          "fordi",
+          "de",
+          "er",
+          "sultne"
+        ],
+        "past": [
+          "De",
+          "kjøpte",
+          "mat",
+          "fordi",
+          "de",
+          "var",
+          "sultne"
+        ],
+        "future": [
+          "De",
+          "vil",
+          "kjøpe",
+          "mat",
+          "fordi",
+          "de",
+          "er",
+          "sultne"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "spiser",
+          "frokost",
+          "om",
+          "morgenen"
+        ],
+        "past": [
+          "Jeg",
+          "spiste",
+          "frokost",
+          "om",
+          "morgenen"
+        ],
+        "future": [
+          "Jeg",
+          "skal",
+          "spise",
+          "frokost",
+          "om",
+          "morgenen"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "studerer",
+          "hjemme",
+          "hver",
+          "dag"
+        ],
+        "past": [
+          "Hun",
+          "studerte",
+          "hjemme",
+          "hver",
+          "dag"
+        ],
+        "future": [
+          "Hun",
+          "skal",
+          "studere",
+          "hjemme",
+          "hver",
+          "dag"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "går",
+          "tur",
+          "i",
+          "parken",
+          "om",
+          "kvelden"
+        ],
+        "past": [
+          "Vi",
+          "gikk",
+          "i",
+          "parken",
+          "om",
+          "kvelden"
+        ],
+        "future": [
+          "Vi",
+          "skal",
+          "gå",
+          "i",
+          "parken",
+          "om",
+          "kvelden"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "jobber",
+          "på",
+          "et",
+          "kontor",
+          "i",
+          "byen"
+        ],
+        "past": [
+          "Han",
+          "jobbet",
+          "på",
+          "et",
+          "kontor",
+          "i",
+          "byen"
+        ],
+        "future": [
+          "Han",
+          "skal",
+          "jobbe",
+          "på",
+          "et",
+          "kontor",
+          "i",
+          "byen"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "reiser",
+          "til",
+          "et",
+          "annet",
+          "land",
+          "hvert",
+          "år"
+        ],
+        "past": [
+          "De",
+          "reiste",
+          "til",
+          "et",
+          "annet",
+          "land",
+          "hvert",
+          "år"
+        ],
+        "future": [
+          "De",
+          "vil",
+          "reise",
+          "til",
+          "et",
+          "annet",
+          "land",
+          "hvert",
+          "år"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "leste",
+          "en",
+          "bok",
+          "om",
+          "kvelden",
+          "før",
+          "jeg",
+          "sovnet"
+        ],
+        "past": [
+          "Jeg",
+          "leste",
+          "en",
+          "bok",
+          "om",
+          "kvelden",
+          "før",
+          "jeg",
+          "sovnet"
+        ],
+        "future": [
+          "Jeg",
+          "skal",
+          "lese",
+          "en",
+          "bok",
+          "om",
+          "kvelden",
+          "før",
+          "jeg",
+          "legger",
+          "meg"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "drikker",
+          "kaffe",
+          "om",
+          "morgenen",
+          "hjemme"
+        ],
+        "past": [
+          "Hun",
+          "drakk",
+          "kaffe",
+          "om",
+          "morgenen",
+          "hjemme"
+        ],
+        "future": [
+          "Hun",
+          "skal",
+          "drikke",
+          "kaffe",
+          "om",
+          "morgenen",
+          "hjemme"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "møter",
+          "venner",
+          "på",
+          "restauranten",
+          "i",
+          "kveld"
+        ],
+        "past": [
+          "Vi",
+          "møtte",
+          "venner",
+          "på",
+          "restauranten",
+          "i",
+          "kveld"
+        ],
+        "future": [
+          "Vi",
+          "skal",
+          "møte",
+          "venner",
+          "på",
+          "restauranten",
+          "i",
+          "kveld"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "studerer",
+          "spansk",
+          "på",
+          "skolen",
+          "hver",
+          "dag"
+        ],
+        "past": [
+          "Han",
+          "studerte",
+          "spansk",
+          "på",
+          "skolen",
+          "hver",
+          "dag"
+        ],
+        "future": [
+          "Han",
+          "skal",
+          "studere",
+          "spansk",
+          "på",
+          "skolen",
+          "hver",
+          "dag"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "ser",
+          "på",
+          "TV",
+          "om",
+          "kvelden",
+          "hjemme"
+        ],
+        "past": [
+          "De",
+          "så",
+          "på",
+          "TV",
+          "om",
+          "kvelden",
+          "hjemme"
+        ],
+        "future": [
+          "De",
+          "skal",
+          "se",
+          "på",
+          "TV",
+          "om",
+          "kvelden",
+          "hjemme"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "liker",
+          "denne",
+          "musikken"
+        ],
+        "past": [
+          "Jeg",
+          "likte",
+          "denne",
+          "musikken"
+        ],
+        "future": [
+          "Jeg",
+          "vil",
+          "like",
+          "denne",
+          "musikken"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "føler",
+          "seg",
+          "glad",
+          "i",
+          "dag"
+        ],
+        "past": [
+          "Hun",
+          "følte",
+          "seg",
+          "glad",
+          "i",
+          "dag"
+        ],
+        "future": [
+          "Hun",
+          "vil",
+          "føle",
+          "seg",
+          "glad",
+          "i",
+          "dag"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "synes",
+          "denne",
+          "ideen",
+          "er",
+          "god"
+        ],
+        "past": [
+          "Vi",
+          "syntes",
+          "denne",
+          "ideen",
+          "var",
+          "god"
+        ],
+        "future": [
+          "Vi",
+          "vil",
+          "synes",
+          "denne",
+          "ideen",
+          "er",
+          "god"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "vil",
+          "lære",
+          "spansk"
+        ],
+        "past": [
+          "Han",
+          "ønsket",
+          "å",
+          "lære",
+          "spansk"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "lære",
+          "spansk"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "elsker",
+          "familien",
+          "sin",
+          "veldig",
+          "høyt"
+        ],
+        "past": [
+          "De",
+          "elsket",
+          "familien",
+          "sin",
+          "veldig",
+          "høyt"
+        ],
+        "future": [
+          "De",
+          "vil",
+          "elske",
+          "familien",
+          "sin",
+          "veldig",
+          "mye"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "føler",
+          "meg",
+          "sliten",
+          "etter",
+          "jobb"
+        ],
+        "past": [
+          "Jeg",
+          "følte",
+          "meg",
+          "sliten",
+          "etter",
+          "jobb"
+        ],
+        "future": [
+          "Jeg",
+          "vil",
+          "føle",
+          "meg",
+          "sliten",
+          "etter",
+          "jobb"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "tror",
+          "på",
+          "seg",
+          "selv"
+        ],
+        "past": [
+          "Hun",
+          "trodde",
+          "på",
+          "seg",
+          "selv"
+        ],
+        "future": [
+          "Hun",
+          "vil",
+          "tro",
+          "på",
+          "seg",
+          "selv"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "liker",
+          "å",
+          "reise",
+          "sammen"
+        ],
+        "past": [
+          "Vi",
+          "likte",
+          "å",
+          "reise",
+          "sammen"
+        ],
+        "future": [
+          "Vi",
+          "vil",
+          "gjerne",
+          "reise",
+          "sammen"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "tenker",
+          "på",
+          "fremtiden",
+          "sin"
+        ],
+        "past": [
+          "Han",
+          "tenkte",
+          "på",
+          "fremtiden",
+          "sin"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "tenke",
+          "på",
+          "fremtiden",
+          "sin"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "er",
+          "spente",
+          "på",
+          "turen"
+        ],
+        "past": [
+          "De",
+          "var",
+          "spente",
+          "på",
+          "turen"
+        ],
+        "future": [
+          "De",
+          "vil",
+          "føle",
+          "seg",
+          "begeistret",
+          "for",
+          "turen"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "prøver",
+          "å",
+          "forbedre",
+          "meg",
+          "hver",
+          "dag"
+        ],
+        "past": [
+          "Jeg",
+          "prøvde",
+          "å",
+          "forbedre",
+          "meg",
+          "hver",
+          "dag"
+        ],
+        "future": [
+          "Jeg",
+          "vil",
+          "prøve",
+          "å",
+          "forbedre",
+          "meg",
+          "hver",
+          "dag"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "ønsker",
+          "å",
+          "nå",
+          "sine",
+          "mål"
+        ],
+        "past": [
+          "Hun",
+          "ønsket",
+          "å",
+          "nå",
+          "sine",
+          "mål"
+        ],
+        "future": [
+          "Hun",
+          "vil",
+          "ønske",
+          "å",
+          "nå",
+          "sine",
+          "mål"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "lærer",
+          "av",
+          "våre",
+          "feil"
+        ],
+        "past": [
+          "Vi",
+          "lærte",
+          "av",
+          "våre",
+          "feil"
+        ],
+        "future": [
+          "Vi",
+          "vil",
+          "lære",
+          "av",
+          "våre",
+          "feil"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "jobber",
+          "hardt",
+          "for",
+          "å",
+          "bygge",
+          "fremtiden",
+          "sin"
+        ],
+        "past": [
+          "Han",
+          "jobbet",
+          "hardt",
+          "for",
+          "å",
+          "bygge",
+          "fremtiden",
+          "sin"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "jobbe",
+          "hardt",
+          "for",
+          "å",
+          "bygge",
+          "fremtiden",
+          "sin"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "tror",
+          "at",
+          "alt",
+          "er",
+          "mulig"
+        ],
+        "past": [
+          "De",
+          "trodde",
+          "at",
+          "alt",
+          "var",
+          "mulig"
+        ],
+        "future": [
+          "De",
+          "vil",
+          "tro",
+          "at",
+          "alt",
+          "er",
+          "mulig"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "norwegian": {
+        "present": [
+          "Jeg",
+          "tenker",
+          "på",
+          "fremtiden",
+          "min",
+          "hver",
+          "kveld"
+        ],
+        "past": [
+          "Jeg",
+          "tenkte",
+          "på",
+          "fremtiden",
+          "min",
+          "hver",
+          "kveld"
+        ],
+        "future": [
+          "Jeg",
+          "vil",
+          "tenke",
+          "på",
+          "fremtiden",
+          "min",
+          "hver",
+          "kveld"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "norwegian": {
+        "present": [
+          "Hun",
+          "prøver",
+          "å",
+          "være",
+          "positiv",
+          "i",
+          "vanskelige",
+          "tider"
+        ],
+        "past": [
+          "Hun",
+          "prøvde",
+          "å",
+          "være",
+          "positiv",
+          "i",
+          "vanskelige",
+          "tider"
+        ],
+        "future": [
+          "Hun",
+          "vil",
+          "prøve",
+          "å",
+          "være",
+          "positiv",
+          "i",
+          "vanskelige",
+          "tider"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "norwegian": {
+        "present": [
+          "Vi",
+          "ønsker",
+          "å",
+          "leve",
+          "et",
+          "meningsfylt",
+          "liv"
+        ],
+        "past": [
+          "Vi",
+          "ønsket",
+          "å",
+          "leve",
+          "et",
+          "meningsfylt",
+          "liv"
+        ],
+        "future": [
+          "Vi",
+          "vil",
+          "ønske",
+          "å",
+          "leve",
+          "et",
+          "meningsfylt",
+          "liv"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "norwegian": {
+        "present": [
+          "Han",
+          "forstår",
+          "at",
+          "endring",
+          "tar",
+          "tid"
+        ],
+        "past": [
+          "Han",
+          "forsto",
+          "at",
+          "endring",
+          "tok",
+          "tid"
+        ],
+        "future": [
+          "Han",
+          "vil",
+          "forstå",
+          "at",
+          "endring",
+          "tar",
+          "tid"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "norwegian": {
+        "present": [
+          "De",
+          "bestemmer",
+          "seg",
+          "for",
+          "å",
+          "følge",
+          "drømmene",
+          "sine"
+        ],
+        "past": [
+          "De",
+          "bestemte",
+          "seg",
+          "for",
+          "å",
+          "følge",
+          "drømmene",
+          "sine"
+        ],
+        "future": [
+          "De",
+          "vil",
+          "bestemme",
+          "seg",
+          "for",
+          "å",
+          "følge",
+          "drømmene",
+          "sine"
+        ]
+      }
+    }
+  ]
+}

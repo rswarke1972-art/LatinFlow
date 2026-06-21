@@ -1,0 +1,7801 @@
+{
+  "language": "Uzbek",
+  "stories": {
+    "story1": {
+      "title": "kafeda",
+      "content": [
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "kuni",
+          "meaning": "day",
+          "sound": "ku-ni"
+        },
+        {
+          "word": "ertalab",
+          "meaning": "in the morning",
+          "sound": "er-ta-lab"
+        },
+        {
+          "word": "kichik",
+          "meaning": "small",
+          "sound": "kic-hik"
+        },
+        {
+          "word": "kafega",
+          "meaning": "to the cafe",
+          "sound": "ka-fe-ga"
+        },
+        {
+          "word": "boraman",
+          "meaning": "i will go",
+          "sound": "bo-ra-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kafe",
+          "meaning": "cafe",
+          "sound": "ka-fe"
+        },
+        {
+          "word": "mening",
+          "meaning": "my",
+          "sound": "me-ning"
+        },
+        {
+          "word": "uyimga",
+          "meaning": "to my house",
+          "sound": "u-y-im-ga"
+        },
+        {
+          "word": "yaqin",
+          "meaning": "near",
+          "sound": "y-a-qin"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "jim",
+          "meaning": "quiet",
+          "sound": "jim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "doim",
+          "meaning": "always",
+          "sound": "do-im"
+        },
+        {
+          "word": "deraza",
+          "meaning": "the window",
+          "sound": "de-ra-za"
+        },
+        {
+          "word": "yonida",
+          "meaning": "next to",
+          "sound": "y-o-ni-da"
+        },
+        {
+          "word": "o'tirib",
+          "meaning": "sitting down",
+          "sound": "o-ti-rib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "chashka",
+          "meaning": "a cup",
+          "sound": "chas-hka"
+        },
+        {
+          "word": "issiq",
+          "meaning": "hot",
+          "sound": "is-siq"
+        },
+        {
+          "word": "qahva",
+          "meaning": "coffee",
+          "sound": "qah-va"
+        },
+        {
+          "word": "buyurtma",
+          "meaning": "order",
+          "sound": "bu-y-ur-tma"
+        },
+        {
+          "word": "qilaman",
+          "meaning": "i do",
+          "sound": "qi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ofitsiant",
+          "meaning": "waitress",
+          "sound": "o-fit-si-ant"
+        },
+        {
+          "word": "do'stona",
+          "meaning": "friendly",
+          "sound": "dos-to-na"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "doim",
+          "meaning": "always",
+          "sound": "do-im"
+        },
+        {
+          "word": "meni",
+          "meaning": "me",
+          "sound": "me-ni"
+        },
+        {
+          "word": "tabassum",
+          "meaning": "smile",
+          "sound": "ta-bas-sum"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "kutib",
+          "meaning": "waiting",
+          "sound": "ku-tib"
+        },
+        {
+          "word": "oladi",
+          "meaning": "takes",
+          "sound": "o-la-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ba'zida",
+          "meaning": "sometimes",
+          "sound": "ba-zi-da"
+        },
+        {
+          "word": "qiziqarli",
+          "meaning": "interesting",
+          "sound": "qi-zi-qar-li"
+        },
+        {
+          "word": "kitob",
+          "meaning": "book",
+          "sound": "ki-tob"
+        },
+        {
+          "word": "o'qiyman",
+          "meaning": "i read",
+          "sound": "o-qi-y-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ba'zida",
+          "meaning": "sometimes",
+          "sound": "ba-zi-da"
+        },
+        {
+          "word": "esa",
+          "meaning": "while",
+          "sound": "e-sa"
+        },
+        {
+          "word": "daftarga",
+          "meaning": "to the notebook",
+          "sound": "daf-tar-ga"
+        },
+        {
+          "word": "yozaman",
+          "meaning": "i write",
+          "sound": "y-o-za-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "yangi",
+          "meaning": "new",
+          "sound": "y-an-gi"
+        },
+        {
+          "word": "odamni",
+          "meaning": "a person",
+          "sound": "o-dam-ni"
+        },
+        {
+          "word": "ko'rmoqdaman",
+          "meaning": "i see",
+          "sound": "kor-moq-da-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "roman",
+          "meaning": "novel",
+          "sound": "ro-man"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "qiydi",
+          "meaning": "looked",
+          "sound": "qi-y-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "choy",
+          "meaning": "tea",
+          "sound": "cho-y"
+        },
+        {
+          "word": "ichadi",
+          "meaning": "drinks",
+          "sound": "ic-ha-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "qiziqaman",
+          "meaning": "i'm interested",
+          "sound": "qi-zi-qa-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "biroz",
+          "meaning": "a little",
+          "sound": "bi-roz"
+        },
+        {
+          "word": "uyatchanman",
+          "meaning": "i'm shy",
+          "sound": "u-y-at-chan-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "necha",
+          "meaning": "how many",
+          "sound": "nec-ha"
+        },
+        {
+          "word": "daqiqadan",
+          "meaning": "per minute",
+          "sound": "da-qi-qa-dan"
+        },
+        {
+          "word": "so'ng",
+          "meaning": "after",
+          "sound": "so'ng"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "salom",
+          "meaning": "hello",
+          "sound": "sa-lom"
+        },
+        {
+          "word": "aytaman",
+          "meaning": "i say",
+          "sound": "a-y-ta-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "tabassum",
+          "meaning": "smile",
+          "sound": "ta-bas-sum"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "javob",
+          "meaning": "answer",
+          "sound": "ja-vob"
+        },
+        {
+          "word": "beradi",
+          "meaning": "gives",
+          "sound": "be-ra-di"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "gaplasha",
+          "meaning": "talk",
+          "sound": "ga-plas-ha"
+        },
+        {
+          "word": "boshlaymiz",
+          "meaning": "let's start",
+          "sound": "bos-hla-y-miz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "o'zimni",
+          "meaning": "myself",
+          "sound": "o-zim-ni"
+        },
+        {
+          "word": "baxtli",
+          "meaning": "happy",
+          "sound": "bax-tli"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "xotirjam",
+          "meaning": "calm down",
+          "sound": "xo-tir-jam"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qilaman",
+          "meaning": "i do",
+          "sound": "qi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "parkda",
+      "content": [
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "do'stim",
+          "meaning": "my friend",
+          "sound": "dos-tim"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "bog'ga",
+          "meaning": "to the garden",
+          "sound": "bog-ga"
+        },
+        {
+          "word": "boramiz",
+          "meaning": "let's go",
+          "sound": "bo-ra-miz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ob",
+          "meaning": "ob",
+          "sound": "ob"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "havo",
+          "meaning": "the air",
+          "sound": "ha-vo"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "yoqimli",
+          "meaning": "nice",
+          "sound": "y-o-qim-li"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "quyosh",
+          "meaning": "the sun",
+          "sound": "qu-y-osh"
+        },
+        {
+          "word": "porlayapti",
+          "meaning": "shining",
+          "sound": "por-la-y-ap-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ko",
+          "meaning": "co",
+          "sound": "ko"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "p",
+          "meaning": "p",
+          "sound": "p"
+        },
+        {
+          "word": "odamlar",
+          "meaning": "people",
+          "sound": "o-dam-lar"
+        },
+        {
+          "word": "yurib",
+          "meaning": "walking",
+          "sound": "y-u-rib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kulayotganini",
+          "meaning": "laughing",
+          "sound": "ku-la-y-ot-ga-ni-ni"
+        },
+        {
+          "word": "ko",
+          "meaning": "co",
+          "sound": "ko"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "raman",
+          "meaning": "raman",
+          "sound": "ra-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ba'zi",
+          "meaning": "some",
+          "sound": "ba-zi"
+        },
+        {
+          "word": "bolalar",
+          "meaning": "children",
+          "sound": "bo-la-lar"
+        },
+        {
+          "word": "to'p",
+          "meaning": "the ball",
+          "sound": "to'p"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "o'ynashadi",
+          "meaning": "they play",
+          "sound": "o-y-nas-ha-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "boshqalari",
+          "meaning": "others",
+          "sound": "bos-hqa-la-ri"
+        },
+        {
+          "word": "esa",
+          "meaning": "while",
+          "sound": "e-sa"
+        },
+        {
+          "word": "tez",
+          "meaning": "fast",
+          "sound": "tez"
+        },
+        {
+          "word": "yugurishadi",
+          "meaning": "they run",
+          "sound": "y-u-gu-ris-ha-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Do",
+          "meaning": "do",
+          "sound": "do"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "stim",
+          "meaning": "stim",
+          "sound": "stim"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "skameykaga",
+          "meaning": "to the bench",
+          "sound": "ska-me-y-ka-ga"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tirdik",
+          "meaning": "we got up",
+          "sound": "tir-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "hayotimiz",
+          "meaning": "our life",
+          "sound": "ha-y-o-ti-miz"
+        },
+        {
+          "word": "haqida",
+          "meaning": "about",
+          "sound": "ha-qi-da"
+        },
+        {
+          "word": "gapirib",
+          "meaning": "speaking",
+          "sound": "ga-pi-rib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ko'p",
+          "meaning": "a lot",
+          "sound": "ko'p"
+        },
+        {
+          "word": "kuldik",
+          "meaning": "we laughed",
+          "sound": "kul-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Keyin",
+          "meaning": "then",
+          "sound": "ke-y-in"
+        },
+        {
+          "word": "muzqaymoq",
+          "meaning": "ice cream",
+          "sound": "muz-qa-y-moq"
+        },
+        {
+          "word": "sotib",
+          "meaning": "buy",
+          "sound": "so-tib"
+        },
+        {
+          "word": "oldik",
+          "meaning": "we got",
+          "sound": "ol-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kun",
+          "meaning": "day",
+          "sound": "kun"
+        },
+        {
+          "word": "oddiy",
+          "meaning": "simple",
+          "sound": "od-di-y"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "chiroyli",
+          "meaning": "beautiful",
+          "sound": "chi-ro-y-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "kutubxonada",
+      "content": [
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "kutubxonaga",
+          "meaning": "to the library",
+          "sound": "ku-tub-xo-na-ga"
+        },
+        {
+          "word": "boraman",
+          "meaning": "i will go",
+          "sound": "bo-ra-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "kitoblar",
+          "meaning": "books",
+          "sound": "ki-to-blar"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "to'la",
+          "meaning": "full",
+          "sound": "to-la"
+        },
+        {
+          "word": "sokin",
+          "meaning": "quiet",
+          "sound": "so-kin"
+        },
+        {
+          "word": "joy",
+          "meaning": "place",
+          "sound": "jo-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "o'qishni",
+          "meaning": "study",
+          "sound": "o-qis-hni"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "yangi",
+          "meaning": "new",
+          "sound": "y-an-gi"
+        },
+        {
+          "word": "narsalarni",
+          "meaning": "things",
+          "sound": "nar-sa-lar-ni"
+        },
+        {
+          "word": "o'rganishni",
+          "meaning": "to learn",
+          "sound": "or-ga-nis-hni"
+        },
+        {
+          "word": "yaxshi",
+          "meaning": "good",
+          "sound": "y-ax-shi"
+        },
+        {
+          "word": "ko'raman",
+          "meaning": "i see",
+          "sound": "ko-ra-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "tarixga",
+          "meaning": "to history",
+          "sound": "ta-rix-ga"
+        },
+        {
+          "word": "oid",
+          "meaning": "about",
+          "sound": "o-id"
+        },
+        {
+          "word": "qiziqarli",
+          "meaning": "interesting",
+          "sound": "qi-zi-qar-li"
+        },
+        {
+          "word": "kitob",
+          "meaning": "book",
+          "sound": "ki-tob"
+        },
+        {
+          "word": "izlayapman",
+          "meaning": "looking for",
+          "sound": "iz-la-y-ap-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Keyin",
+          "meaning": "then",
+          "sound": "ke-y-in"
+        },
+        {
+          "word": "stolga",
+          "meaning": "to the table",
+          "sound": "stol-ga"
+        },
+        {
+          "word": "o'tirib",
+          "meaning": "sitting down",
+          "sound": "o-ti-rib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o'qishni",
+          "meaning": "study",
+          "sound": "o-qis-hni"
+        },
+        {
+          "word": "boshlayman",
+          "meaning": "i will start",
+          "sound": "bos-hla-y-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Boshqa",
+          "meaning": "other",
+          "sound": "bos-hqa"
+        },
+        {
+          "word": "odamlar",
+          "meaning": "people",
+          "sound": "o-dam-lar"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": "o'qib",
+          "meaning": "by reading",
+          "sound": "o-qib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "yozadilar",
+          "meaning": "they write",
+          "sound": "y-o-za-di-lar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Atmosfera",
+          "meaning": "atmosphere",
+          "sound": "at-mos-fe-ra"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "tinch",
+          "meaning": "calm",
+          "sound": "tinch"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biroz",
+          "meaning": "a little",
+          "sound": "bi-roz"
+        },
+        {
+          "word": "vaqt",
+          "meaning": "time",
+          "sound": "vaqt"
+        },
+        {
+          "word": "o'tgach",
+          "meaning": "after",
+          "sound": "ot-gach"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "kitobni",
+          "meaning": "the book",
+          "sound": "ki-tob-ni"
+        },
+        {
+          "word": "yopaman",
+          "meaning": "i close",
+          "sound": "y-o-pa-man"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "o'zimni",
+          "meaning": "myself",
+          "sound": "o-zim-ni"
+        },
+        {
+          "word": "mamnun",
+          "meaning": "satisfied",
+          "sound": "mam-nun"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qilaman",
+          "meaning": "i do",
+          "sound": "qi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "do'konda",
+      "content": [
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "oziq",
+          "meaning": "food",
+          "sound": "o-ziq"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ovqat",
+          "meaning": "food",
+          "sound": "ov-qat"
+        },
+        {
+          "word": "sotib",
+          "meaning": "buy",
+          "sound": "so-tib"
+        },
+        {
+          "word": "olish",
+          "meaning": "get",
+          "sound": "o-lish"
+        },
+        {
+          "word": "uchun",
+          "meaning": "for",
+          "sound": "uc-hun"
+        },
+        {
+          "word": "katta",
+          "meaning": "big",
+          "sound": "kat-ta"
+        },
+        {
+          "word": "do'konga",
+          "meaning": "to the store",
+          "sound": "do-kon-ga"
+        },
+        {
+          "word": "boraman",
+          "meaning": "i will go",
+          "sound": "bo-ra-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "non",
+          "meaning": "bread",
+          "sound": "non"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sut",
+          "meaning": "milk",
+          "sound": "sut"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "meva",
+          "meaning": "fruit",
+          "sound": "me-va"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "sabzavotlar",
+          "meaning": "vegetables",
+          "sound": "sab-za-vo-tlar"
+        },
+        {
+          "word": "kerak",
+          "meaning": "need",
+          "sound": "ke-rak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Do",
+          "meaning": "do",
+          "sound": "do"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kon",
+          "meaning": "mine",
+          "sound": "kon"
+        },
+        {
+          "word": "odamlar",
+          "meaning": "people",
+          "sound": "o-dam-lar"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "gavjum",
+          "meaning": "crowded",
+          "sound": "gav-jum"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "shovqin",
+          "meaning": "noise",
+          "sound": "shov-qin"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "suron",
+          "meaning": "suran",
+          "sound": "su-ron"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "javonlardagi",
+          "meaning": "on the shelves",
+          "sound": "ja-von-lar-da-gi"
+        },
+        {
+          "word": "mahsulotlarni",
+          "meaning": "products",
+          "sound": "mah-su-lo-tlar-ni"
+        },
+        {
+          "word": "qidiraman",
+          "meaning": "i'm looking for",
+          "sound": "qi-di-ra-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "ayol",
+          "meaning": "a woman",
+          "sound": "a-y-ol"
+        },
+        {
+          "word": "mendan",
+          "meaning": "from me",
+          "sound": "men-dan"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sut",
+          "meaning": "milk",
+          "sound": "sut"
+        },
+        {
+          "word": "qayerda",
+          "meaning": "where",
+          "sound": "qa-y-er-da"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "unga",
+          "meaning": "to him",
+          "sound": "un-ga"
+        },
+        {
+          "word": "aytaman",
+          "meaning": "i say",
+          "sound": "a-y-ta-man"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "u",
+          "meaning": "he",
+          "sound": "u"
+        },
+        {
+          "word": "erda",
+          "meaning": "on the ground",
+          "sound": "er-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nonning",
+          "meaning": "of bread",
+          "sound": "non-ning"
+        },
+        {
+          "word": "yonida",
+          "meaning": "next to",
+          "sound": "y-o-ni-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "tabassum",
+          "meaning": "smile",
+          "sound": "ta-bas-sum"
+        },
+        {
+          "word": "qiladi",
+          "meaning": "does",
+          "sound": "qi-la-di"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "rahmat",
+          "meaning": "thank you",
+          "sound": "rah-mat"
+        },
+        {
+          "word": "aytadi",
+          "meaning": "says",
+          "sound": "a-y-ta-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Keyin",
+          "meaning": "then",
+          "sound": "ke-y-in"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "kassirga",
+          "meaning": "to the cashier",
+          "sound": "kas-sir-ga"
+        },
+        {
+          "word": "borib",
+          "meaning": "go",
+          "sound": "bo-rib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "to'layman",
+          "meaning": "i will pay",
+          "sound": "to-la-y-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "do'kondan",
+          "meaning": "from the store",
+          "sound": "do-kon-dan"
+        },
+        {
+          "word": "to'liq",
+          "meaning": "complete",
+          "sound": "to-liq"
+        },
+        {
+          "word": "sumka",
+          "meaning": "bag",
+          "sound": "sum-ka"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "chiqaman",
+          "meaning": "i go out",
+          "sound": "chi-qa-man"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "o'zimni",
+          "meaning": "myself",
+          "sound": "o-zim-ni"
+        },
+        {
+          "word": "baxtli",
+          "meaning": "happy",
+          "sound": "bax-tli"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qilaman",
+          "meaning": "i do",
+          "sound": "qi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "avtobusda",
+      "content": [
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "ishga",
+          "meaning": "to work",
+          "sound": "is-hga"
+        },
+        {
+          "word": "borish",
+          "meaning": "to go",
+          "sound": "bo-rish"
+        },
+        {
+          "word": "uchun",
+          "meaning": "for",
+          "sound": "uc-hun"
+        },
+        {
+          "word": "avtobusga",
+          "meaning": "to the bus",
+          "sound": "av-to-bus-ga"
+        },
+        {
+          "word": "chiqaman",
+          "meaning": "i go out",
+          "sound": "chi-qa-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avtobus",
+          "meaning": "bus",
+          "sound": "av-to-bus"
+        },
+        {
+          "word": "to'la",
+          "meaning": "full",
+          "sound": "to-la"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ko'p",
+          "meaning": "a lot",
+          "sound": "ko'p"
+        },
+        {
+          "word": "joy",
+          "meaning": "place",
+          "sound": "jo-y"
+        },
+        {
+          "word": "yo'q",
+          "meaning": "no",
+          "sound": "y-oq"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "biroz",
+          "meaning": "a little",
+          "sound": "bi-roz"
+        },
+        {
+          "word": "charchadim",
+          "meaning": "i'm tired",
+          "sound": "char-cha-dim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "keksa",
+          "meaning": "old",
+          "sound": "kek-sa"
+        },
+        {
+          "word": "odamni",
+          "meaning": "a person",
+          "sound": "o-dam-ni"
+        },
+        {
+          "word": "ko'raman",
+          "meaning": "i see",
+          "sound": "ko-ra-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "sizga",
+          "meaning": "to you",
+          "sound": "siz-ga"
+        },
+        {
+          "word": "o'z",
+          "meaning": "own",
+          "sound": "o'z"
+        },
+        {
+          "word": "o'rnimni",
+          "meaning": "my place",
+          "sound": "or-nim-ni"
+        },
+        {
+          "word": "taklif",
+          "meaning": "offer",
+          "sound": "tak-lif"
+        },
+        {
+          "word": "qilaman",
+          "meaning": "i do",
+          "sound": "qi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ishonchingiz",
+          "meaning": "your trust",
+          "sound": "is-hon-chin-giz"
+        },
+        {
+          "word": "komilmi",
+          "meaning": "perfect",
+          "sound": "ko-mil-mi"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "javob",
+          "meaning": "answer",
+          "sound": "ja-vob"
+        },
+        {
+          "word": "beraman",
+          "meaning": "i will give",
+          "sound": "be-ra-man"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ha",
+          "meaning": "yes",
+          "sound": "ha"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "muammo",
+          "meaning": "problem",
+          "sound": "mu-am-mo"
+        },
+        {
+          "word": "yo'q",
+          "meaning": "no",
+          "sound": "y-oq"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "tabassum",
+          "meaning": "smile",
+          "sound": "ta-bas-sum"
+        },
+        {
+          "word": "qiladi",
+          "meaning": "does",
+          "sound": "qi-la-di"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "rahmat",
+          "meaning": "thank you",
+          "sound": "rah-mat"
+        },
+        {
+          "word": "aytadi",
+          "meaning": "says",
+          "sound": "a-y-ta-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sayohat",
+          "meaning": "travel",
+          "sound": "sa-y-o-hat"
+        },
+        {
+          "word": "davomida",
+          "meaning": "during",
+          "sound": "da-vo-mi-da"
+        },
+        {
+          "word": "derazadan",
+          "meaning": "from the window",
+          "sound": "de-ra-za-dan"
+        },
+        {
+          "word": "tashqariga",
+          "meaning": "out",
+          "sound": "tas-hqa-ri-ga"
+        },
+        {
+          "word": "qarab",
+          "meaning": "looking",
+          "sound": "qa-rab"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kunim",
+          "meaning": "my day",
+          "sound": "ku-nim"
+        },
+        {
+          "word": "haqida",
+          "meaning": "about",
+          "sound": "ha-qi-da"
+        },
+        {
+          "word": "o'ylayman",
+          "meaning": "i think",
+          "sound": "o-y-la-y-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Garchi",
+          "meaning": "although",
+          "sound": "gar-chi"
+        },
+        {
+          "word": "charchagan",
+          "meaning": "tired",
+          "sound": "char-cha-gan"
+        },
+        {
+          "word": "bo'lsam",
+          "meaning": "if i am",
+          "sound": "bol-sam"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "yordam",
+          "meaning": "help",
+          "sound": "y-or-dam"
+        },
+        {
+          "word": "berish",
+          "meaning": "to give",
+          "sound": "be-rish"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "yoqimli",
+          "meaning": "nice",
+          "sound": "y-o-qim-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Kecha sohilda",
+      "content": [
+        {
+          "word": "Kecha",
+          "meaning": "yesterday",
+          "sound": "kec-ha"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "do'stlarim",
+          "meaning": "my friends",
+          "sound": "dos-tla-rim"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "dengizga",
+          "meaning": "to the sea",
+          "sound": "den-giz-ga"
+        },
+        {
+          "word": "bordim",
+          "meaning": "i went",
+          "sound": "bor-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ob",
+          "meaning": "ob",
+          "sound": "ob"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "havo",
+          "meaning": "the air",
+          "sound": "ha-vo"
+        },
+        {
+          "word": "ajoyib",
+          "meaning": "great",
+          "sound": "a-jo-y-ib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dengiz",
+          "meaning": "the sea",
+          "sound": "den-giz"
+        },
+        {
+          "word": "tinch",
+          "meaning": "calm",
+          "sound": "tinch"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "qum",
+          "meaning": "sand",
+          "sound": "qum"
+        },
+        {
+          "word": "ustida",
+          "meaning": "on",
+          "sound": "us-ti-da"
+        },
+        {
+          "word": "yurdik",
+          "meaning": "we walked",
+          "sound": "y-ur-dik"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "ko'p",
+          "meaning": "a lot",
+          "sound": "ko'p"
+        },
+        {
+          "word": "narsalarni",
+          "meaning": "things",
+          "sound": "nar-sa-lar-ni"
+        },
+        {
+          "word": "gaplashdik",
+          "meaning": "we talked",
+          "sound": "ga-plas-hdik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Keyin",
+          "meaning": "then",
+          "sound": "ke-y-in"
+        },
+        {
+          "word": "sovuq",
+          "meaning": "cold",
+          "sound": "so-vuq"
+        },
+        {
+          "word": "suvda",
+          "meaning": "in the water",
+          "sound": "suv-da"
+        },
+        {
+          "word": "suzdik",
+          "meaning": "we swam",
+          "sound": "suz-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avvaliga",
+          "meaning": "at first",
+          "sound": "av-va-li-ga"
+        },
+        {
+          "word": "biroz",
+          "meaning": "a little",
+          "sound": "bi-roz"
+        },
+        {
+          "word": "qo'rqib",
+          "meaning": "scared",
+          "sound": "qor-qib"
+        },
+        {
+          "word": "ketdim",
+          "meaning": "i left",
+          "sound": "ket-dim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "keyin",
+          "meaning": "after",
+          "sound": "ke-y-in"
+        },
+        {
+          "word": "o'zimni",
+          "meaning": "myself",
+          "sound": "o-zim-ni"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "yaxshi",
+          "meaning": "good",
+          "sound": "y-ax-shi"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": "to",
+          "meaning": "until",
+          "sound": "to"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "p",
+          "meaning": "p",
+          "sound": "p"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ynab",
+          "meaning": "etc",
+          "sound": "y-nab"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ko",
+          "meaning": "co",
+          "sound": "ko"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "p",
+          "meaning": "p",
+          "sound": "p"
+        },
+        {
+          "word": "kuldik",
+          "meaning": "we laughed",
+          "sound": "kul-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Peshindan",
+          "meaning": "from noon",
+          "sound": "pes-hin-dan"
+        },
+        {
+          "word": "keyin",
+          "meaning": "after",
+          "sound": "ke-y-in"
+        },
+        {
+          "word": "birga",
+          "meaning": "together",
+          "sound": "bir-ga"
+        },
+        {
+          "word": "ovqatlanib",
+          "meaning": "eating",
+          "sound": "ov-qa-tla-nib"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "quyosh",
+          "meaning": "the sun",
+          "sound": "qu-y-osh"
+        },
+        {
+          "word": "botishini",
+          "meaning": "sunset",
+          "sound": "bo-tis-hi-ni"
+        },
+        {
+          "word": "tomosha",
+          "meaning": "watch",
+          "sound": "to-mos-ha"
+        },
+        {
+          "word": "qildik",
+          "meaning": "we did",
+          "sound": "qil-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "alohida",
+          "meaning": "separately",
+          "sound": "a-lo-hi-da"
+        },
+        {
+          "word": "kun",
+          "meaning": "day",
+          "sound": "kun"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "buni",
+          "meaning": "this",
+          "sound": "bu-ni"
+        },
+        {
+          "word": "hech",
+          "meaning": "never",
+          "sound": "hech"
+        },
+        {
+          "word": "qachon",
+          "meaning": "when",
+          "sound": "qac-hon"
+        },
+        {
+          "word": "unutmayman",
+          "meaning": "i won't forget",
+          "sound": "u-nut-ma-y-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Muhim suhbat",
+      "content": [
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "eski",
+          "meaning": "old",
+          "sound": "es-ki"
+        },
+        {
+          "word": "do'stim",
+          "meaning": "my friend",
+          "sound": "dos-tim"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "kafeda",
+          "meaning": "in the cafe",
+          "sound": "ka-fe-da"
+        },
+        {
+          "word": "uchrashdim",
+          "meaning": "i met",
+          "sound": "uc-hras-hdim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "uni",
+          "meaning": "him",
+          "sound": "u-ni"
+        },
+        {
+          "word": "anchadan",
+          "meaning": "quite a bit",
+          "sound": "an-cha-dan"
+        },
+        {
+          "word": "beri",
+          "meaning": "since",
+          "sound": "be-ri"
+        },
+        {
+          "word": "ko'rmagan",
+          "meaning": "did not see",
+          "sound": "kor-ma-gan"
+        },
+        {
+          "word": "edim",
+          "meaning": "i was",
+          "sound": "e-dim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "shuning",
+          "meaning": "therefore",
+          "sound": "shu-ning"
+        },
+        {
+          "word": "uchun",
+          "meaning": "for",
+          "sound": "uc-hun"
+        },
+        {
+          "word": "uni",
+          "meaning": "him",
+          "sound": "u-ni"
+        },
+        {
+          "word": "ko'rganimdan",
+          "meaning": "from what i see",
+          "sound": "kor-ga-nim-dan"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "xursand",
+          "meaning": "happy",
+          "sound": "xur-sand"
+        },
+        {
+          "word": "bo'ldim",
+          "meaning": "i was",
+          "sound": "bol-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "o'tirdik",
+          "meaning": "we sat down",
+          "sound": "o-tir-dik"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "gaplasha",
+          "meaning": "talk",
+          "sound": "ga-plas-ha"
+        },
+        {
+          "word": "boshladik",
+          "meaning": "we started",
+          "sound": "bos-hla-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "hozir",
+          "meaning": "now",
+          "sound": "ho-zir"
+        },
+        {
+          "word": "boshqa",
+          "meaning": "another",
+          "sound": "bos-hqa"
+        },
+        {
+          "word": "shaharda",
+          "meaning": "in the city",
+          "sound": "sha-har-da"
+        },
+        {
+          "word": "yashashini",
+          "meaning": "to live",
+          "sound": "y-as-has-hi-ni"
+        },
+        {
+          "word": "aytdi",
+          "meaning": "said",
+          "sound": "a-yt-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": "yirik",
+          "meaning": "big",
+          "sound": "y-i-rik"
+        },
+        {
+          "word": "kompaniyada",
+          "meaning": "in the company",
+          "sound": "kom-pa-ni-y-a-da"
+        },
+        {
+          "word": "ishlaydi",
+          "meaning": "works",
+          "sound": "is-hla-y-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "unga",
+          "meaning": "to him",
+          "sound": "un-ga"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "qishim",
+          "meaning": "winter",
+          "sound": "qis-him"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "rejalarim",
+          "meaning": "my plans",
+          "sound": "re-ja-la-rim"
+        },
+        {
+          "word": "haqida",
+          "meaning": "about",
+          "sound": "ha-qi-da"
+        },
+        {
+          "word": "gapirib",
+          "meaning": "speaking",
+          "sound": "ga-pi-rib"
+        },
+        {
+          "word": "berdim",
+          "meaning": "i gave",
+          "sound": "ber-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "soatlab",
+          "meaning": "for hours",
+          "sound": "so-a-tlab"
+        },
+        {
+          "word": "suhbatlashdik",
+          "meaning": "we talked",
+          "sound": "suh-ba-tlas-hdik"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "ko'p",
+          "meaning": "a lot",
+          "sound": "ko'p"
+        },
+        {
+          "word": "daqiqalarni",
+          "meaning": "minutes",
+          "sound": "da-qi-qa-lar-ni"
+        },
+        {
+          "word": "esladik",
+          "meaning": "we remembered",
+          "sound": "es-la-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ketishimizdan",
+          "meaning": "from our departure",
+          "sound": "ke-tis-hi-miz-dan"
+        },
+        {
+          "word": "oldin",
+          "meaning": "before",
+          "sound": "ol-din"
+        },
+        {
+          "word": "u",
+          "meaning": "he",
+          "sound": "u"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "tez",
+          "meaning": "fast",
+          "sound": "tez"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tez",
+          "meaning": "fast",
+          "sound": "tez"
+        },
+        {
+          "word": "uchrashishimiz",
+          "meaning": "our meeting",
+          "sound": "uc-hras-his-hi-miz"
+        },
+        {
+          "word": "kerak",
+          "meaning": "need",
+          "sound": "ke-rak"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dedi",
+          "meaning": "said",
+          "sound": "de-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "tabassum",
+          "meaning": "smile",
+          "sound": "ta-bas-sum"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "javob",
+          "meaning": "answer",
+          "sound": "ja-vob"
+        },
+        {
+          "word": "berdim",
+          "meaning": "i gave",
+          "sound": "ber-dim"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Albatta",
+          "meaning": "of course",
+          "sound": "al-bat-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "kun",
+          "meaning": "day",
+          "sound": "kun"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "yoqdi",
+          "meaning": "liked it",
+          "sound": "y-oq-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Qiyin qaror",
+      "content": [
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "necha",
+          "meaning": "how many",
+          "sound": "nec-ha"
+        },
+        {
+          "word": "kun",
+          "meaning": "day",
+          "sound": "kun"
+        },
+        {
+          "word": "oldin",
+          "meaning": "before",
+          "sound": "ol-din"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "ish",
+          "meaning": "work",
+          "sound": "ish"
+        },
+        {
+          "word": "taklifi",
+          "meaning": "proposal",
+          "sound": "tak-li-fi"
+        },
+        {
+          "word": "keldi",
+          "meaning": "came",
+          "sound": "kel-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "boshqa",
+          "meaning": "another",
+          "sound": "bos-hqa"
+        },
+        {
+          "word": "shaharda",
+          "meaning": "in the city",
+          "sound": "sha-har-da"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "qiziq",
+          "meaning": "interesting",
+          "sound": "qi-ziq"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avvaliga",
+          "meaning": "at first",
+          "sound": "av-va-li-ga"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "‘",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "zimni",
+          "meaning": "mine",
+          "sound": "zim-ni"
+        },
+        {
+          "word": "hayajonli",
+          "meaning": "exciting",
+          "sound": "ha-y-a-jon-li"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "ayni",
+          "meaning": "the same",
+          "sound": "a-y-ni"
+        },
+        {
+          "word": "paytda",
+          "meaning": "at the time",
+          "sound": "pa-yt-da"
+        },
+        {
+          "word": "asabiylashdim",
+          "meaning": "i got nervous",
+          "sound": "a-sa-bi-y-las-hdim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "oilam",
+          "meaning": "my family",
+          "sound": "o-i-lam"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "do'stlarim",
+          "meaning": "my friends",
+          "sound": "dos-tla-rim"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "gaplashdim",
+          "meaning": "i talked",
+          "sound": "ga-plas-hdim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ular",
+          "meaning": "they are",
+          "sound": "u-lar"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "juda",
+          "meaning": "very",
+          "sound": "ju-da"
+        },
+        {
+          "word": "ko'p",
+          "meaning": "a lot",
+          "sound": "ko'p"
+        },
+        {
+          "word": "maslahat",
+          "meaning": "advice",
+          "sound": "mas-la-hat"
+        },
+        {
+          "word": "berishdi",
+          "meaning": "they gave",
+          "sound": "be-ris-hdi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Onam",
+          "meaning": "mom",
+          "sound": "o-nam"
+        },
+        {
+          "word": "aytdi",
+          "meaning": "said",
+          "sound": "a-yt-di"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "“",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Orzularingga",
+          "meaning": "to your dreams",
+          "sound": "or-zu-la-rin-gga"
+        },
+        {
+          "word": "ergashishing",
+          "meaning": "follow",
+          "sound": "er-gas-his-hing"
+        },
+        {
+          "word": "kerak",
+          "meaning": "need",
+          "sound": "ke-rak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "do'stim",
+          "meaning": "my friend",
+          "sound": "dos-tim"
+        },
+        {
+          "word": "mendan",
+          "meaning": "from me",
+          "sound": "men-dan"
+        },
+        {
+          "word": "so'radi",
+          "meaning": "he asked",
+          "sound": "so-ra-di"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ishonchim",
+          "meaning": "i'm sure",
+          "sound": "is-hon-chim"
+        },
+        {
+          "word": "komilmi",
+          "meaning": "perfect",
+          "sound": "ko-mil-mi"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "necha",
+          "meaning": "how many",
+          "sound": "nec-ha"
+        },
+        {
+          "word": "kun",
+          "meaning": "day",
+          "sound": "kun"
+        },
+        {
+          "word": "o'ylab",
+          "meaning": "thinking",
+          "sound": "o-y-lab"
+        },
+        {
+          "word": "o'tirdim",
+          "meaning": "i sat down",
+          "sound": "o-tir-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nihoyat",
+          "meaning": "finally",
+          "sound": "ni-ho-y-at"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "ishni",
+          "meaning": "work",
+          "sound": "is-hni"
+        },
+        {
+          "word": "qabul",
+          "meaning": "acceptance",
+          "sound": "qa-bul"
+        },
+        {
+          "word": "qilishga",
+          "meaning": "to do",
+          "sound": "qi-lis-hga"
+        },
+        {
+          "word": "qaror",
+          "meaning": "decision",
+          "sound": "qa-ror"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "oson",
+          "meaning": "easy",
+          "sound": "o-son"
+        },
+        {
+          "word": "bo'lmasligini",
+          "meaning": "that it won't be",
+          "sound": "bol-mas-li-gi-ni"
+        },
+        {
+          "word": "bilaman",
+          "meaning": "i know",
+          "sound": "bi-la-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "sinab",
+          "meaning": "try",
+          "sound": "si-nab"
+        },
+        {
+          "word": "ko'rmoqchiman",
+          "meaning": "i want to see",
+          "sound": "kor-moq-chi-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Do'st bilan janjal",
+      "content": [
+        {
+          "word": "Kecha",
+          "meaning": "yesterday",
+          "sound": "kec-ha"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "eng",
+          "meaning": "the most",
+          "sound": "eng"
+        },
+        {
+          "word": "yaqin",
+          "meaning": "near",
+          "sound": "y-a-qin"
+        },
+        {
+          "word": "do'stim",
+          "meaning": "my friend",
+          "sound": "dos-tim"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "janjallashib",
+          "meaning": "arguing",
+          "sound": "jan-jal-las-hib"
+        },
+        {
+          "word": "qoldim",
+          "meaning": "i stayed",
+          "sound": "qol-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hammasi",
+          "meaning": "everything",
+          "sound": "ham-ma-si"
+        },
+        {
+          "word": "rejalarimiz",
+          "meaning": "our plans",
+          "sound": "re-ja-la-ri-miz"
+        },
+        {
+          "word": "haqida",
+          "meaning": "about",
+          "sound": "ha-qi-da"
+        },
+        {
+          "word": "gapirganimizda",
+          "meaning": "when we speak",
+          "sound": "ga-pir-ga-ni-miz-da"
+        },
+        {
+          "word": "boshlandi",
+          "meaning": "started",
+          "sound": "bos-hlan-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "sayohat",
+          "meaning": "travel",
+          "sound": "sa-y-o-hat"
+        },
+        {
+          "word": "qilishni",
+          "meaning": "to do",
+          "sound": "qi-lis-hni"
+        },
+        {
+          "word": "xohlardim",
+          "meaning": "i wanted",
+          "sound": "xo-hlar-dim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "u",
+          "meaning": "he",
+          "sound": "u"
+        },
+        {
+          "word": "qolishni",
+          "meaning": "to stay",
+          "sound": "qo-lis-hni"
+        },
+        {
+          "word": "afzal",
+          "meaning": "preferred",
+          "sound": "af-zal"
+        },
+        {
+          "word": "ko'rdi",
+          "meaning": "saw",
+          "sound": "kor-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "“",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bizda",
+          "meaning": "we have",
+          "sound": "biz-da"
+        },
+        {
+          "word": "pul",
+          "meaning": "money",
+          "sound": "pul"
+        },
+        {
+          "word": "yetarli",
+          "meaning": "enough",
+          "sound": "y-e-tar-li"
+        },
+        {
+          "word": "emas",
+          "meaning": "not",
+          "sound": "e-mas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "javob",
+          "meaning": "answer",
+          "sound": "ja-vob"
+        },
+        {
+          "word": "berdim",
+          "meaning": "i gave",
+          "sound": "ber-dim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "qutqara",
+          "meaning": "save",
+          "sound": "qut-qa-ra"
+        },
+        {
+          "word": "olamiz",
+          "meaning": "we can",
+          "sound": "o-la-miz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "u",
+          "meaning": "he",
+          "sound": "u"
+        },
+        {
+          "word": "rozi",
+          "meaning": "agree",
+          "sound": "ro-zi"
+        },
+        {
+          "word": "bo'lmadi",
+          "meaning": "it didn't happen",
+          "sound": "bol-ma-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Suhbat",
+          "meaning": "conversation",
+          "sound": "suh-bat"
+        },
+        {
+          "word": "keskinlashib",
+          "meaning": "intensifying",
+          "sound": "kes-kin-las-hib"
+        },
+        {
+          "word": "ketdi",
+          "meaning": "went",
+          "sound": "ket-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oxir",
+          "meaning": "the end",
+          "sound": "o-xir"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "oqibat",
+          "meaning": "consequence",
+          "sound": "o-qi-bat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ikkalamiz",
+          "meaning": "both of us",
+          "sound": "ik-ka-la-miz"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": "xafa",
+          "meaning": "sad",
+          "sound": "xa-fa"
+        },
+        {
+          "word": "bo'ldik",
+          "meaning": "we were",
+          "sound": "bol-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "u",
+          "meaning": "he",
+          "sound": "u"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "yana",
+          "meaning": "again",
+          "sound": "y-a-na"
+        },
+        {
+          "word": "gaplashishim",
+          "meaning": "to talk",
+          "sound": "ga-plas-his-him"
+        },
+        {
+          "word": "kerak",
+          "meaning": "need",
+          "sound": "ke-rak"
+        },
+        {
+          "word": "deb",
+          "meaning": "that",
+          "sound": "deb"
+        },
+        {
+          "word": "o'ylayman",
+          "meaning": "i think",
+          "sound": "o-y-la-y-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bizning",
+          "meaning": "ours",
+          "sound": "biz-ning"
+        },
+        {
+          "word": "do'stligimiz",
+          "meaning": "our friendship",
+          "sound": "dos-tli-gi-miz"
+        },
+        {
+          "word": "muhimroq",
+          "meaning": "more important",
+          "sound": "mu-him-roq"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Muhim o'zgarish",
+      "content": [
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "yil",
+          "meaning": "year",
+          "sound": "y-il"
+        },
+        {
+          "word": "oldin",
+          "meaning": "before",
+          "sound": "ol-din"
+        },
+        {
+          "word": "mening",
+          "meaning": "my",
+          "sound": "me-ning"
+        },
+        {
+          "word": "hayotim",
+          "meaning": "my life",
+          "sound": "ha-y-o-tim"
+        },
+        {
+          "word": "butunlay",
+          "meaning": "completely",
+          "sound": "bu-tun-la-y"
+        },
+        {
+          "word": "boshqacha",
+          "meaning": "different",
+          "sound": "bos-hqac-ha"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "o'zimga",
+          "meaning": "to myself",
+          "sound": "o-zim-ga"
+        },
+        {
+          "word": "yoqmagan",
+          "meaning": "did not like",
+          "sound": "y-oq-ma-gan"
+        },
+        {
+          "word": "joyda",
+          "meaning": "in the place",
+          "sound": "jo-y-da"
+        },
+        {
+          "word": "ishladim",
+          "meaning": "i worked",
+          "sound": "is-hla-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Har",
+          "meaning": "har",
+          "sound": "har"
+        },
+        {
+          "word": "kuni",
+          "meaning": "day",
+          "sound": "ku-ni"
+        },
+        {
+          "word": "o'zimni",
+          "meaning": "myself",
+          "sound": "o-zim-ni"
+        },
+        {
+          "word": "charchagan",
+          "meaning": "tired",
+          "sound": "char-cha-gan"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "ishtiyoqsiz",
+          "meaning": "unenthusiastic",
+          "sound": "is-hti-y-oq-siz"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qilardim",
+          "meaning": "i would",
+          "sound": "qi-lar-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kuni",
+          "meaning": "day",
+          "sound": "ku-ni"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "hamma",
+          "meaning": "everyone",
+          "sound": "ham-ma"
+        },
+        {
+          "word": "narsani",
+          "meaning": "thing",
+          "sound": "nar-sa-ni"
+        },
+        {
+          "word": "o'zgartirishga",
+          "meaning": "to change",
+          "sound": "oz-gar-ti-ris-hga"
+        },
+        {
+          "word": "qaror",
+          "meaning": "decision",
+          "sound": "qa-ror"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "oson",
+          "meaning": "easy",
+          "sound": "o-son"
+        },
+        {
+          "word": "emas",
+          "meaning": "not",
+          "sound": "e-mas"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "chunki",
+          "meaning": "because",
+          "sound": "chun-ki"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "muvaffaqiyatsizlikdan",
+          "meaning": "from failure",
+          "sound": "mu-vaf-fa-qi-y-at-siz-lik-dan"
+        },
+        {
+          "word": "qo'rqdim",
+          "meaning": "i was afraid",
+          "sound": "qor-qdim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "bunday",
+          "meaning": "such",
+          "sound": "bun-da-y"
+        },
+        {
+          "word": "davom",
+          "meaning": "continue",
+          "sound": "da-vom"
+        },
+        {
+          "word": "eta",
+          "meaning": "eat",
+          "sound": "e-ta"
+        },
+        {
+          "word": "olmasligimni",
+          "meaning": "that i can't",
+          "sound": "ol-mas-li-gim-ni"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": "bilardim",
+          "meaning": "i knew",
+          "sound": "bi-lar-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "yangi",
+          "meaning": "new",
+          "sound": "y-an-gi"
+        },
+        {
+          "word": "narsalarni",
+          "meaning": "things",
+          "sound": "nar-sa-lar-ni"
+        },
+        {
+          "word": "o'rgana",
+          "meaning": "learn",
+          "sound": "or-ga-na"
+        },
+        {
+          "word": "boshladim",
+          "meaning": "i started",
+          "sound": "bos-hla-dim"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "maqsadlarim",
+          "meaning": "my goals",
+          "sound": "maq-sa-dla-rim"
+        },
+        {
+          "word": "ustida",
+          "meaning": "on",
+          "sound": "us-ti-da"
+        },
+        {
+          "word": "ishlay",
+          "meaning": "work",
+          "sound": "is-hla-y"
+        },
+        {
+          "word": "boshladim",
+          "meaning": "i started",
+          "sound": "bos-hla-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Asta",
+          "meaning": "come on",
+          "sound": "as-ta"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sekin",
+          "meaning": "slowly",
+          "sound": "se-kin"
+        },
+        {
+          "word": "hayotim",
+          "meaning": "my life",
+          "sound": "ha-y-o-tim"
+        },
+        {
+          "word": "o'zgardi",
+          "meaning": "has changed",
+          "sound": "oz-gar-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "o'zimni",
+          "meaning": "myself",
+          "sound": "o-zim-ni"
+        },
+        {
+          "word": "yanada",
+          "meaning": "more",
+          "sound": "y-a-na-da"
+        },
+        {
+          "word": "ishonchli",
+          "meaning": "reliable",
+          "sound": "is-hon-chli"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "baxtli",
+          "meaning": "happy",
+          "sound": "bax-tli"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qilyapman",
+          "meaning": "i am doing",
+          "sound": "qi-ly-ap-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "O'zgarishlar",
+          "meaning": "changes",
+          "sound": "oz-ga-ris-hlar"
+        },
+        {
+          "word": "qiyin",
+          "meaning": "difficult",
+          "sound": "qi-y-in"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ammo",
+          "meaning": "however",
+          "sound": "am-mo"
+        },
+        {
+          "word": "zarur",
+          "meaning": "necessary",
+          "sound": "za-rur"
+        },
+        {
+          "word": "ekanligini",
+          "meaning": "that",
+          "sound": "e-kan-li-gi-ni"
+        },
+        {
+          "word": "bilib",
+          "meaning": "knowing",
+          "sound": "bi-lib"
+        },
+        {
+          "word": "oldim",
+          "meaning": "i got",
+          "sound": "ol-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Yo'lning ma'nosi",
+      "content": [
+        {
+          "word": "Uzoq",
+          "meaning": "long",
+          "sound": "u-zoq"
+        },
+        {
+          "word": "vaqt",
+          "meaning": "time",
+          "sound": "vaqt"
+        },
+        {
+          "word": "davomida",
+          "meaning": "during",
+          "sound": "da-vo-mi-da"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "muvaffaqiyat",
+          "meaning": "success",
+          "sound": "mu-vaf-fa-qi-y-at"
+        },
+        {
+          "word": "eng",
+          "meaning": "the most",
+          "sound": "eng"
+        },
+        {
+          "word": "muhim",
+          "meaning": "important",
+          "sound": "mu-him"
+        },
+        {
+          "word": "narsa",
+          "meaning": "thing",
+          "sound": "nar-sa"
+        },
+        {
+          "word": "deb",
+          "meaning": "that",
+          "sound": "deb"
+        },
+        {
+          "word": "o'ylardim",
+          "meaning": "i was thinking",
+          "sound": "o-y-lar-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "pul",
+          "meaning": "money",
+          "sound": "pul"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "e'tirofga",
+          "meaning": "to recognition",
+          "sound": "e-ti-rof-ga"
+        },
+        {
+          "word": "ega",
+          "meaning": "have",
+          "sound": "e-ga"
+        },
+        {
+          "word": "bo'lish",
+          "meaning": "to be",
+          "sound": "bo-lish"
+        },
+        {
+          "word": "meni",
+          "meaning": "me",
+          "sound": "me-ni"
+        },
+        {
+          "word": "baxtli",
+          "meaning": "happy",
+          "sound": "bax-tli"
+        },
+        {
+          "word": "qilishiga",
+          "meaning": "to do",
+          "sound": "qi-lis-hi-ga"
+        },
+        {
+          "word": "ishonardim",
+          "meaning": "i believed",
+          "sound": "is-ho-nar-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biroq",
+          "meaning": "however",
+          "sound": "bi-roq"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaqt",
+          "meaning": "time",
+          "sound": "vaqt"
+        },
+        {
+          "word": "o'tishi",
+          "meaning": "pass",
+          "sound": "o-tis-hi"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "noto'g",
+          "meaning": "wrong",
+          "sound": "no-tog"
+        },
+        {
+          "word": "'",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ri",
+          "meaning": "ri",
+          "sound": "ri"
+        },
+        {
+          "word": "ekanligimni",
+          "meaning": "that i am",
+          "sound": "e-kan-li-gim-ni"
+        },
+        {
+          "word": "angladim",
+          "meaning": "i understood",
+          "sound": "an-gla-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eng",
+          "meaning": "most",
+          "sound": "eng"
+        },
+        {
+          "word": "muhimi",
+          "meaning": "important",
+          "sound": "mu-hi-mi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "yo'l",
+          "meaning": "road",
+          "sound": "y-ol"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tajribalar",
+          "meaning": "experiments",
+          "sound": "taj-ri-ba-lar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "xatolar",
+          "meaning": "errors",
+          "sound": "xa-to-lar"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "o'rganishlar",
+          "meaning": "studies",
+          "sound": "or-ga-nis-hlar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kuni",
+          "meaning": "day",
+          "sound": "ku-ni"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "murabbiy",
+          "meaning": "coach",
+          "sound": "mu-rab-bi-y"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "gaplashdim",
+          "meaning": "i talked",
+          "sound": "ga-plas-hdim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "erga",
+          "meaning": "to the ground",
+          "sound": "er-ga"
+        },
+        {
+          "word": "borish",
+          "meaning": "to go",
+          "sound": "bo-rish"
+        },
+        {
+          "word": "uchun",
+          "meaning": "for",
+          "sound": "uc-hun"
+        },
+        {
+          "word": "shoshilmang",
+          "meaning": "don't rush",
+          "sound": "shos-hil-mang"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jarayondan",
+          "meaning": "from the process",
+          "sound": "ja-ra-y-on-dan"
+        },
+        {
+          "word": "zavq",
+          "meaning": "pleasure",
+          "sound": "zavq"
+        },
+        {
+          "word": "olishni",
+          "meaning": "to receive",
+          "sound": "o-lis-hni"
+        },
+        {
+          "word": "o'rganing",
+          "meaning": "learn",
+          "sound": "or-ga-ning"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dedi",
+          "meaning": "said",
+          "sound": "de-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Shu",
+          "meaning": "that's it",
+          "sound": "shu"
+        },
+        {
+          "word": "paytdan",
+          "meaning": "from the time",
+          "sound": "pa-yt-dan"
+        },
+        {
+          "word": "boshlab",
+          "meaning": "starting from",
+          "sound": "bos-hlab"
+        },
+        {
+          "word": "mening",
+          "meaning": "my",
+          "sound": "me-ning"
+        },
+        {
+          "word": "fikrlash",
+          "meaning": "thinking",
+          "sound": "fik-rlash"
+        },
+        {
+          "word": "tarzim",
+          "meaning": "my style",
+          "sound": "tar-zim"
+        },
+        {
+          "word": "o'zgardi",
+          "meaning": "has changed",
+          "sound": "oz-gar-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Endi",
+          "meaning": "now",
+          "sound": "en-di"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "qadamimni",
+          "meaning": "my step",
+          "sound": "qa-da-mim-ni"
+        },
+        {
+          "word": "qadrlayman",
+          "meaning": "i appreciate",
+          "sound": "qad-rla-y-man"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "xatodan",
+          "meaning": "from error",
+          "sound": "xa-to-dan"
+        },
+        {
+          "word": "saboq",
+          "meaning": "a lesson",
+          "sound": "sa-boq"
+        },
+        {
+          "word": "olaman",
+          "meaning": "i can",
+          "sound": "o-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "men aslida kimman",
+      "content": [
+        {
+          "word": "Ko'p",
+          "meaning": "a lot",
+          "sound": "ko'p"
+        },
+        {
+          "word": "yillar",
+          "meaning": "years",
+          "sound": "y-il-lar"
+        },
+        {
+          "word": "davomida",
+          "meaning": "during",
+          "sound": "da-vo-mi-da"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "kim",
+          "meaning": "who",
+          "sound": "kim"
+        },
+        {
+          "word": "ekanligimni",
+          "meaning": "that i am",
+          "sound": "e-kan-li-gim-ni"
+        },
+        {
+          "word": "so'radim",
+          "meaning": "i asked",
+          "sound": "so-ra-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Avvaliga",
+          "meaning": "at first",
+          "sound": "av-va-li-ga"
+        },
+        {
+          "word": "mening",
+          "meaning": "my",
+          "sound": "me-ning"
+        },
+        {
+          "word": "shaxsiyatim",
+          "meaning": "my personality",
+          "sound": "shax-si-y-a-tim"
+        },
+        {
+          "word": "boshqalarning",
+          "meaning": "of others",
+          "sound": "bos-hqa-lar-ning"
+        },
+        {
+          "word": "fikriga",
+          "meaning": "to his opinion",
+          "sound": "fik-ri-ga"
+        },
+        {
+          "word": "bog'liq",
+          "meaning": "depends",
+          "sound": "bo-gliq"
+        },
+        {
+          "word": "deb",
+          "meaning": "that",
+          "sound": "deb"
+        },
+        {
+          "word": "o'yladim",
+          "meaning": "i thought",
+          "sound": "o-y-la-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "rozilikni",
+          "meaning": "consent",
+          "sound": "ro-zi-lik-ni"
+        },
+        {
+          "word": "qidirdim",
+          "meaning": "i searched",
+          "sound": "qi-dir-dim"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "xato",
+          "meaning": "error",
+          "sound": "xa-to"
+        },
+        {
+          "word": "qilishdan",
+          "meaning": "from doing",
+          "sound": "qi-lis-hdan"
+        },
+        {
+          "word": "qo'rqdim",
+          "meaning": "i was afraid",
+          "sound": "qor-qdim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biroq",
+          "meaning": "however",
+          "sound": "bi-roq"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vaqt",
+          "meaning": "time",
+          "sound": "vaqt"
+        },
+        {
+          "word": "o'tishi",
+          "meaning": "pass",
+          "sound": "o-tis-hi"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "mening",
+          "meaning": "my",
+          "sound": "me-ning"
+        },
+        {
+          "word": "qadrim",
+          "meaning": "dear",
+          "sound": "qa-drim"
+        },
+        {
+          "word": "boshqalarga",
+          "meaning": "to others",
+          "sound": "bos-hqa-lar-ga"
+        },
+        {
+          "word": "bog'liq",
+          "meaning": "depends",
+          "sound": "bo-gliq"
+        },
+        {
+          "word": "emasligini",
+          "meaning": "that it is not",
+          "sound": "e-mas-li-gi-ni"
+        },
+        {
+          "word": "tushundim",
+          "meaning": "i understood",
+          "sound": "tus-hun-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kuni",
+          "meaning": "day",
+          "sound": "ku-ni"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "o'z",
+          "meaning": "own",
+          "sound": "o'z"
+        },
+        {
+          "word": "ovozimni",
+          "meaning": "my voice",
+          "sound": "o-vo-zim-ni"
+        },
+        {
+          "word": "tinglashga",
+          "meaning": "to listen",
+          "sound": "tin-glas-hga"
+        },
+        {
+          "word": "qaror",
+          "meaning": "decision",
+          "sound": "qa-ror"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "o'zim",
+          "meaning": "myself",
+          "sound": "o-zim"
+        },
+        {
+          "word": "uchun",
+          "meaning": "for",
+          "sound": "uc-hun"
+        },
+        {
+          "word": "qaror",
+          "meaning": "decision",
+          "sound": "qa-ror"
+        },
+        {
+          "word": "qabul",
+          "meaning": "acceptance",
+          "sound": "qa-bul"
+        },
+        {
+          "word": "qila",
+          "meaning": "do it",
+          "sound": "qi-la"
+        },
+        {
+          "word": "boshladim",
+          "meaning": "i started",
+          "sound": "bos-hla-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "doim",
+          "meaning": "always",
+          "sound": "do-im"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": "oson",
+          "meaning": "easy",
+          "sound": "o-son"
+        },
+        {
+          "word": "emas",
+          "meaning": "not",
+          "sound": "e-mas"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "xatodan",
+          "meaning": "from error",
+          "sound": "xa-to-dan"
+        },
+        {
+          "word": "saboq",
+          "meaning": "a lesson",
+          "sound": "sa-boq"
+        },
+        {
+          "word": "oldim",
+          "meaning": "i got",
+          "sound": "ol-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "o'zing",
+          "meaning": "yourself",
+          "sound": "o-zing"
+        },
+        {
+          "word": "bo'lish",
+          "meaning": "to be",
+          "sound": "bo-lish"
+        },
+        {
+          "word": "eng",
+          "meaning": "the most",
+          "sound": "eng"
+        },
+        {
+          "word": "katta",
+          "meaning": "big",
+          "sound": "kat-ta"
+        },
+        {
+          "word": "yutuq",
+          "meaning": "achievement",
+          "sound": "y-u-tuq"
+        },
+        {
+          "word": "ekanligini",
+          "meaning": "that",
+          "sound": "e-kan-li-gi-ni"
+        },
+        {
+          "word": "bilaman",
+          "meaning": "i know",
+          "sound": "bi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Vaqtning qiymati",
+      "content": [
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "necha",
+          "meaning": "how many",
+          "sound": "nec-ha"
+        },
+        {
+          "word": "yil",
+          "meaning": "year",
+          "sound": "y-il"
+        },
+        {
+          "word": "oldin",
+          "meaning": "before",
+          "sound": "ol-din"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "vaqtga",
+          "meaning": "to time",
+          "sound": "vaq-tga"
+        },
+        {
+          "word": "unchalik",
+          "meaning": "not so much",
+          "sound": "un-cha-lik"
+        },
+        {
+          "word": "ahamiyat",
+          "meaning": "importance",
+          "sound": "a-ha-mi-y-at"
+        },
+        {
+          "word": "bermasdim",
+          "meaning": "i wouldn't give",
+          "sound": "ber-mas-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "doim",
+          "meaning": "always",
+          "sound": "do-im"
+        },
+        {
+          "word": "ko'proq",
+          "meaning": "more",
+          "sound": "ko-proq"
+        },
+        {
+          "word": "imkoniyatlar",
+          "meaning": "opportunities",
+          "sound": "im-ko-ni-y-a-tlar"
+        },
+        {
+          "word": "bo'ladi",
+          "meaning": "will be",
+          "sound": "bo-la-di"
+        },
+        {
+          "word": "deb",
+          "meaning": "that",
+          "sound": "deb"
+        },
+        {
+          "word": "o'yladim",
+          "meaning": "i thought",
+          "sound": "o-y-la-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "ko'p",
+          "meaning": "a lot",
+          "sound": "ko'p"
+        },
+        {
+          "word": "narsalarni",
+          "meaning": "things",
+          "sound": "nar-sa-lar-ni"
+        },
+        {
+          "word": "keyinroq",
+          "meaning": "later",
+          "sound": "ke-y-in-roq"
+        },
+        {
+          "word": "qoldirdi",
+          "meaning": "left",
+          "sound": "qol-dir-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kuni",
+          "meaning": "day",
+          "sound": "ku-ni"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "do'stim",
+          "meaning": "my friend",
+          "sound": "dos-tim"
+        },
+        {
+          "word": "aytdi",
+          "meaning": "said",
+          "sound": "a-yt-di"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vaqt",
+          "meaning": "time",
+          "sound": "vaqt"
+        },
+        {
+          "word": "hech",
+          "meaning": "never",
+          "sound": "hech"
+        },
+        {
+          "word": "kimni",
+          "meaning": "who",
+          "sound": "kim-ni"
+        },
+        {
+          "word": "kutmaydi",
+          "meaning": "does not wait",
+          "sound": "kut-ma-y-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Shu",
+          "meaning": "that's it",
+          "sound": "shu"
+        },
+        {
+          "word": "ibora",
+          "meaning": "phrase",
+          "sound": "i-bo-ra"
+        },
+        {
+          "word": "xayolimda",
+          "meaning": "in my mind",
+          "sound": "xa-y-o-lim-da"
+        },
+        {
+          "word": "qoldi",
+          "meaning": "left",
+          "sound": "qol-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "O'shandan",
+          "meaning": "since then",
+          "sound": "os-han-dan"
+        },
+        {
+          "word": "beri",
+          "meaning": "since",
+          "sound": "be-ri"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "daqiqani",
+          "meaning": "minute",
+          "sound": "da-qi-qa-ni"
+        },
+        {
+          "word": "qadrlay",
+          "meaning": "appreciate",
+          "sound": "qad-rla-y"
+        },
+        {
+          "word": "boshladim",
+          "meaning": "i started",
+          "sound": "bos-hla-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "kunimni",
+          "meaning": "my day",
+          "sound": "ku-nim-ni"
+        },
+        {
+          "word": "tartibga",
+          "meaning": "in order",
+          "sound": "tar-tib-ga"
+        },
+        {
+          "word": "solishni",
+          "meaning": "to put",
+          "sound": "so-lis-hni"
+        },
+        {
+          "word": "va",
+          "meaning": "and",
+          "sound": "va"
+        },
+        {
+          "word": "nima",
+          "meaning": "what",
+          "sound": "ni-ma"
+        },
+        {
+          "word": "muhimligini",
+          "meaning": "importance",
+          "sound": "mu-him-li-gi-ni"
+        },
+        {
+          "word": "birinchi",
+          "meaning": "the first",
+          "sound": "bi-rin-chi"
+        },
+        {
+          "word": "o'ringa",
+          "meaning": "to the seat",
+          "sound": "o-rin-ga"
+        },
+        {
+          "word": "qo'yishni",
+          "meaning": "to put",
+          "sound": "qo-y-is-hni"
+        },
+        {
+          "word": "o'rgandim",
+          "meaning": "i learned",
+          "sound": "or-gan-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hamma",
+          "meaning": "everyone",
+          "sound": "ham-ma"
+        },
+        {
+          "word": "narsa",
+          "meaning": "thing",
+          "sound": "nar-sa"
+        },
+        {
+          "word": "mukammal",
+          "meaning": "perfect",
+          "sound": "mu-kam-mal"
+        },
+        {
+          "word": "bo'lishi",
+          "meaning": "to be",
+          "sound": "bo-lis-hi"
+        },
+        {
+          "word": "shart",
+          "meaning": "a must",
+          "sound": "shart"
+        },
+        {
+          "word": "emasligini",
+          "meaning": "that it is not",
+          "sound": "e-mas-li-gi-ni"
+        },
+        {
+          "word": "ham",
+          "meaning": "too",
+          "sound": "ham"
+        },
+        {
+          "word": "tushundim",
+          "meaning": "i understood",
+          "sound": "tus-hun-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "ko'proq",
+          "meaning": "more",
+          "sound": "ko-proq"
+        },
+        {
+          "word": "ogohlik",
+          "meaning": "awareness",
+          "sound": "o-go-hlik"
+        },
+        {
+          "word": "bilan",
+          "meaning": "with",
+          "sound": "bi-lan"
+        },
+        {
+          "word": "yashashga",
+          "meaning": "to live",
+          "sound": "y-as-has-hga"
+        },
+        {
+          "word": "harakat",
+          "meaning": "movement",
+          "sound": "ha-ra-kat"
+        },
+        {
+          "word": "qilaman",
+          "meaning": "i do",
+          "sound": "qi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Chunki",
+          "meaning": "because",
+          "sound": "chun-ki"
+        },
+        {
+          "word": "vaqt",
+          "meaning": "time",
+          "sound": "vaqt"
+        },
+        {
+          "word": "bizdagi",
+          "meaning": "in us",
+          "sound": "biz-da-gi"
+        },
+        {
+          "word": "eng",
+          "meaning": "the most",
+          "sound": "eng"
+        },
+        {
+          "word": "qimmatli",
+          "meaning": "valuable",
+          "sound": "qim-ma-tli"
+        },
+        {
+          "word": "narsadir",
+          "meaning": "is a thing",
+          "sound": "nar-sa-dir"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Hayotni o'zgartiradigan qarorlar",
+      "content": [
+        {
+          "word": "Ba'zida",
+          "meaning": "sometimes",
+          "sound": "ba-zi-da"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "o'tmishda",
+          "meaning": "in the past",
+          "sound": "ot-mis-hda"
+        },
+        {
+          "word": "qilgan",
+          "meaning": "did",
+          "sound": "qil-gan"
+        },
+        {
+          "word": "qarorlarim",
+          "meaning": "my decisions",
+          "sound": "qa-ror-la-rim"
+        },
+        {
+          "word": "haqida",
+          "meaning": "about",
+          "sound": "ha-qi-da"
+        },
+        {
+          "word": "o'ylayman",
+          "meaning": "i think",
+          "sound": "o-y-la-y-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ba'zilar",
+          "meaning": "some",
+          "sound": "ba-zi-lar"
+        },
+        {
+          "word": "to'g",
+          "meaning": "right",
+          "sound": "to'g"
+        },
+        {
+          "word": "'",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ri",
+          "meaning": "ri",
+          "sound": "ri"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "boshqalari",
+          "meaning": "others",
+          "sound": "bos-hqa-la-ri"
+        },
+        {
+          "word": "esa",
+          "meaning": "while",
+          "sound": "e-sa"
+        },
+        {
+          "word": "to'g",
+          "meaning": "right",
+          "sound": "to'g"
+        },
+        {
+          "word": "'",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ri",
+          "meaning": "ri",
+          "sound": "ri"
+        },
+        {
+          "word": "emas",
+          "meaning": "not",
+          "sound": "e-mas"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ba'zida",
+          "meaning": "sometimes",
+          "sound": "ba-zi-da"
+        },
+        {
+          "word": "boshqa",
+          "meaning": "another",
+          "sound": "bos-hqa"
+        },
+        {
+          "word": "yo'lni",
+          "meaning": "the way",
+          "sound": "y-ol-ni"
+        },
+        {
+          "word": "tanlaganimda",
+          "meaning": "when i choose",
+          "sound": "tan-la-ga-nim-da"
+        },
+        {
+          "word": "nima",
+          "meaning": "what",
+          "sound": "ni-ma"
+        },
+        {
+          "word": "bo'lar",
+          "meaning": "will be",
+          "sound": "bo-lar"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "deb",
+          "meaning": "that",
+          "sound": "deb"
+        },
+        {
+          "word": "o'ylayman",
+          "meaning": "i think",
+          "sound": "o-y-la-y-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Balki",
+          "meaning": "maybe",
+          "sound": "bal-ki"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "muvaffaqiyatga",
+          "meaning": "to success",
+          "sound": "mu-vaf-fa-qi-y-at-ga"
+        },
+        {
+          "word": "erishgan",
+          "meaning": "achieved",
+          "sound": "e-ris-hgan"
+        },
+        {
+          "word": "bo'lardim",
+          "meaning": "would be",
+          "sound": "bo-lar-dim"
+        },
+        {
+          "word": "yoki",
+          "meaning": "or",
+          "sound": "y-o-ki"
+        },
+        {
+          "word": "kamroq",
+          "meaning": "less",
+          "sound": "kam-roq"
+        },
+        {
+          "word": "o'rgangan",
+          "meaning": "learned",
+          "sound": "or-gan-gan"
+        },
+        {
+          "word": "bo'lardim",
+          "meaning": "would be",
+          "sound": "bo-lar-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biroq",
+          "meaning": "however",
+          "sound": "bi-roq"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o'tmishda",
+          "meaning": "in the past",
+          "sound": "ot-mis-hda"
+        },
+        {
+          "word": "yashashdan",
+          "meaning": "from living",
+          "sound": "y-as-has-hdan"
+        },
+        {
+          "word": "foyda",
+          "meaning": "benefit",
+          "sound": "fo-y-da"
+        },
+        {
+          "word": "yo'qligini",
+          "meaning": "that there is no",
+          "sound": "y-oq-li-gi-ni"
+        },
+        {
+          "word": "tushundim",
+          "meaning": "i understood",
+          "sound": "tus-hun-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Har",
+          "meaning": "har",
+          "sound": "har"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "qaror",
+          "meaning": "decision",
+          "sound": "qa-ror"
+        },
+        {
+          "word": "menga",
+          "meaning": "to me",
+          "sound": "men-ga"
+        },
+        {
+          "word": "nimanidir",
+          "meaning": "something",
+          "sound": "ni-ma-ni-dir"
+        },
+        {
+          "word": "o'rgatdi",
+          "meaning": "taught",
+          "sound": "or-gat-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hatto",
+          "meaning": "even",
+          "sound": "hat-to"
+        },
+        {
+          "word": "xatolar",
+          "meaning": "errors",
+          "sound": "xa-to-lar"
+        },
+        {
+          "word": "muhim",
+          "meaning": "important",
+          "sound": "mu-him"
+        },
+        {
+          "word": "saboq",
+          "meaning": "a lesson",
+          "sound": "sa-boq"
+        },
+        {
+          "word": "bo'ldi",
+          "meaning": "it happened",
+          "sound": "bol-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugun",
+          "meaning": "today",
+          "sound": "bu-gun"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "ko'proq",
+          "meaning": "more",
+          "sound": "ko-proq"
+        },
+        {
+          "word": "ongli",
+          "meaning": "conscious",
+          "sound": "on-gli"
+        },
+        {
+          "word": "qaror",
+          "meaning": "decision",
+          "sound": "qa-ror"
+        },
+        {
+          "word": "qabul",
+          "meaning": "acceptance",
+          "sound": "qa-bul"
+        },
+        {
+          "word": "qilishga",
+          "meaning": "to do",
+          "sound": "qi-lis-hga"
+        },
+        {
+          "word": "harakat",
+          "meaning": "movement",
+          "sound": "ha-ra-kat"
+        },
+        {
+          "word": "qilaman",
+          "meaning": "i do",
+          "sound": "qi-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "sodir",
+          "meaning": "happened",
+          "sound": "so-dir"
+        },
+        {
+          "word": "bo'lgan",
+          "meaning": "has been",
+          "sound": "bol-gan"
+        },
+        {
+          "word": "narsalarni",
+          "meaning": "things",
+          "sound": "nar-sa-lar-ni"
+        },
+        {
+          "word": "o'zgartira",
+          "meaning": "change it",
+          "sound": "oz-gar-ti-ra"
+        },
+        {
+          "word": "olmayman",
+          "meaning": "i can't",
+          "sound": "ol-ma-y-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "kelajagimni",
+          "meaning": "my future",
+          "sound": "ke-la-ja-gim-ni"
+        },
+        {
+          "word": "hal",
+          "meaning": "solution",
+          "sound": "hal"
+        },
+        {
+          "word": "qila",
+          "meaning": "do it",
+          "sound": "qi-la"
+        },
+        {
+          "word": "olaman",
+          "meaning": "i can",
+          "sound": "o-la-man"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Ichki ovoz",
+      "content": [
+        {
+          "word": "Uzoq",
+          "meaning": "long",
+          "sound": "u-zoq"
+        },
+        {
+          "word": "vaqt",
+          "meaning": "time",
+          "sound": "vaqt"
+        },
+        {
+          "word": "davomida",
+          "meaning": "during",
+          "sound": "da-vo-mi-da"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "boshqalarning",
+          "meaning": "of others",
+          "sound": "bos-hqa-lar-ning"
+        },
+        {
+          "word": "umidiga",
+          "meaning": "hope",
+          "sound": "u-mi-di-ga"
+        },
+        {
+          "word": "ko'ra",
+          "meaning": "according to",
+          "sound": "ko-ra"
+        },
+        {
+          "word": "yashadim",
+          "meaning": "i lived",
+          "sound": "y-as-ha-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "to'g",
+          "meaning": "right",
+          "sound": "to'g"
+        },
+        {
+          "word": "'",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ri",
+          "meaning": "ri",
+          "sound": "ri"
+        },
+        {
+          "word": "yo'l",
+          "meaning": "road",
+          "sound": "y-ol"
+        },
+        {
+          "word": "ekanligiga",
+          "meaning": "that",
+          "sound": "e-kan-li-gi-ga"
+        },
+        {
+          "word": "ishonardim",
+          "meaning": "i believed",
+          "sound": "is-ho-nar-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biroq",
+          "meaning": "however",
+          "sound": "bi-roq"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ich",
+          "meaning": "drink",
+          "sound": "ich"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ichimdan",
+          "meaning": "from inside",
+          "sound": "ic-him-dan"
+        },
+        {
+          "word": "har",
+          "meaning": "each",
+          "sound": "har"
+        },
+        {
+          "word": "doim",
+          "meaning": "always",
+          "sound": "do-im"
+        },
+        {
+          "word": "biror",
+          "meaning": "someone",
+          "sound": "bi-ror"
+        },
+        {
+          "word": "narsa",
+          "meaning": "thing",
+          "sound": "nar-sa"
+        },
+        {
+          "word": "noto'g",
+          "meaning": "wrong",
+          "sound": "no-tog"
+        },
+        {
+          "word": "'",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ri",
+          "meaning": "ri",
+          "sound": "ri"
+        },
+        {
+          "word": "ekanligini",
+          "meaning": "that",
+          "sound": "e-kan-li-gi-ni"
+        },
+        {
+          "word": "aytadigan",
+          "meaning": "to say",
+          "sound": "a-y-ta-di-gan"
+        },
+        {
+          "word": "ovoz",
+          "meaning": "sound",
+          "sound": "o-voz"
+        },
+        {
+          "word": "bor",
+          "meaning": "there is",
+          "sound": "bor"
+        },
+        {
+          "word": "edi",
+          "meaning": "was",
+          "sound": "e-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Men",
+          "meaning": "me",
+          "sound": "men"
+        },
+        {
+          "word": "bunga",
+          "meaning": "to this",
+          "sound": "bun-ga"
+        },
+        {
+          "word": "e'tibor",
+          "meaning": "attention",
+          "sound": "e-ti-bor"
+        },
+        {
+          "word": "bermaslikka",
+          "meaning": "not to give",
+          "sound": "ber-mas-lik-ka"
+        },
+        {
+          "word": "harakat",
+          "meaning": "movement",
+          "sound": "ha-ra-kat"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "u",
+          "meaning": "he",
+          "sound": "u"
+        },
+        {
+          "word": "tobora",
+          "meaning": "more and more",
+          "sound": "to-bo-ra"
+        },
+        {
+          "word": "kuchayib",
+          "meaning": "getting stronger",
+          "sound": "kuc-ha-y-ib"
+        },
+        {
+          "word": "borardi",
+          "meaning": "was going",
+          "sound": "bo-rar-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kuni",
+          "meaning": "day",
+          "sound": "ku-ni"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "to'xtab",
+          "meaning": "stop",
+          "sound": "tox-tab"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o'zimdan",
+          "meaning": "from myself",
+          "sound": "o-zim-dan"
+        },
+        {
+          "word": "nimani",
+          "meaning": "what",
+          "sound": "ni-ma-ni"
+        },
+        {
+          "word": "xohlayotganimni",
+          "meaning": "that i want",
+          "sound": "xo-hla-y-ot-ga-nim-ni"
+        },
+        {
+          "word": "so'radim",
+          "meaning": "i asked",
+          "sound": "so-ra-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Javob",
+          "meaning": "answer",
+          "sound": "ja-vob"
+        },
+        {
+          "word": "darhol",
+          "meaning": "immediately",
+          "sound": "dar-hol"
+        },
+        {
+          "word": "bo'lmadi",
+          "meaning": "it didn't happen",
+          "sound": "bol-ma-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lekin",
+          "meaning": "but",
+          "sound": "le-kin"
+        },
+        {
+          "word": "birinchi",
+          "meaning": "the first",
+          "sound": "bi-rin-chi"
+        },
+        {
+          "word": "marta",
+          "meaning": "times",
+          "sound": "mar-ta"
+        },
+        {
+          "word": "u",
+          "meaning": "he",
+          "sound": "u"
+        },
+        {
+          "word": "meni",
+          "meaning": "me",
+          "sound": "me-ni"
+        },
+        {
+          "word": "tinglayotganini",
+          "meaning": "listening to",
+          "sound": "tin-gla-y-ot-ga-ni-ni"
+        },
+        {
+          "word": "his",
+          "meaning": "feeling",
+          "sound": "his"
+        },
+        {
+          "word": "qildim",
+          "meaning": "i did",
+          "sound": "qil-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "O'shandan",
+          "meaning": "since then",
+          "sound": "os-han-dan"
+        },
+        {
+          "word": "beri",
+          "meaning": "since",
+          "sound": "be-ri"
+        },
+        {
+          "word": "men",
+          "meaning": "i",
+          "sound": "men"
+        },
+        {
+          "word": "ichki",
+          "meaning": "internal",
+          "sound": "ic-hki"
+        },
+        {
+          "word": "ovoz",
+          "meaning": "sound",
+          "sound": "o-voz"
+        },
+        {
+          "word": "to'siq",
+          "meaning": "obstacle",
+          "sound": "to-siq"
+        },
+        {
+          "word": "emas",
+          "meaning": "not",
+          "sound": "e-mas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "balki",
+          "meaning": "perhaps",
+          "sound": "bal-ki"
+        },
+        {
+          "word": "yo'l",
+          "meaning": "road",
+          "sound": "y-ol"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "yo'riq",
+          "meaning": "guide",
+          "sound": "y-o-riq"
+        },
+        {
+          "word": "ekanligini",
+          "meaning": "that",
+          "sound": "e-kan-li-gi-ni"
+        },
+        {
+          "word": "bilib",
+          "meaning": "knowing",
+          "sound": "bi-lib"
+        },
+        {
+          "word": "oldim",
+          "meaning": "i got",
+          "sound": "ol-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "uzbek": {
+        "present": [
+          "Men",
+          "olma",
+          "yeyman"
+        ],
+        "past": [
+          "Men",
+          "olma",
+          "yedim"
+        ],
+        "future": [
+          "Men",
+          "olma",
+          "yeyman"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "kitob",
+          "o‘qiydi"
+        ],
+        "past": [
+          "U",
+          "kitob",
+          "o‘qidi"
+        ],
+        "future": [
+          "U",
+          "kitob",
+          "o'qiydi"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "uzbek": {
+        "present": [
+          "Biz",
+          "maktabga",
+          "boramiz"
+        ],
+        "past": [
+          "Biz",
+          "maktabga",
+          "bordik"
+        ],
+        "future": [
+          "Biz",
+          "maktabga",
+          "boramiz"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "suv",
+          "ichadi"
+        ],
+        "past": [
+          "U",
+          "suv",
+          "ichdi"
+        ],
+        "future": [
+          "U",
+          "suv",
+          "ichadi"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "futbol",
+          "o'ynashadi"
+        ],
+        "past": [
+          "Ular",
+          "futbol",
+          "o'ynashdi"
+        ],
+        "future": [
+          "Ular",
+          "futbol",
+          "o'ynashadi"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "uzbek": {
+        "present": [
+          "Men",
+          "xat",
+          "yozaman"
+        ],
+        "past": [
+          "Men",
+          "xat",
+          "yozdim"
+        ],
+        "future": [
+          "Men",
+          "xat",
+          "yozaman"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "guruch",
+          "yeydi"
+        ],
+        "past": [
+          "U",
+          "guruch",
+          "yedi"
+        ],
+        "future": [
+          "U",
+          "guruch",
+          "yeydi"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "uzbek": {
+        "present": [
+          "Biz",
+          "kino",
+          "tomosha",
+          "qilamiz"
+        ],
+        "past": [
+          "Biz",
+          "film",
+          "tomosha",
+          "qildik"
+        ],
+        "future": [
+          "Biz",
+          "kino",
+          "tomosha",
+          "qilamiz"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "eshikni",
+          "ochadi"
+        ],
+        "past": [
+          "U",
+          "eshikni",
+          "ochdi"
+        ],
+        "future": [
+          "U",
+          "eshikni",
+          "ochadi"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "oziq-ovqat",
+          "sotib",
+          "olishadi"
+        ],
+        "past": [
+          "Ular",
+          "oziq-ovqat",
+          "sotib",
+          "oldilar"
+        ],
+        "future": [
+          "Ular",
+          "oziq-ovqat",
+          "sotib",
+          "olishadi"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "uzbek": {
+        "present": [
+          "Men",
+          "olma",
+          "yeyman",
+          "va",
+          "suv",
+          "ichaman"
+        ],
+        "past": [
+          "Men",
+          "olma",
+          "yedim",
+          "suv",
+          "ichdim"
+        ],
+        "future": [
+          "Men",
+          "olma",
+          "yeyman",
+          "va",
+          "suv",
+          "ichaman"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "kitob",
+          "o'qiydi",
+          "chunki",
+          "u",
+          "hikoyalarni",
+          "yaxshi",
+          "ko'radi"
+        ],
+        "past": [
+          "U",
+          "kitob",
+          "o'qidi",
+          "chunki",
+          "u",
+          "hikoyalarni",
+          "yaxshi",
+          "ko'rardi"
+        ],
+        "future": [
+          "U",
+          "kitob",
+          "o'qiydi",
+          "chunki",
+          "u",
+          "hikoyalarni",
+          "yaxshi",
+          "ko'radi"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "uzbek": {
+        "present": [
+          "Biz",
+          "maktabga",
+          "boramiz",
+          "va",
+          "birga",
+          "o'qiymiz"
+        ],
+        "past": [
+          "Biz",
+          "maktabga",
+          "bordik",
+          "va",
+          "birga",
+          "o'qidik"
+        ],
+        "future": [
+          "Biz",
+          "maktabga",
+          "boramiz",
+          "birga",
+          "o'qiymiz"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "suv",
+          "ichadi",
+          "lekin",
+          "tez",
+          "ovqat",
+          "iste'mol",
+          "qiladi"
+        ],
+        "past": [
+          "U",
+          "suv",
+          "ichdi",
+          "lekin",
+          "tez",
+          "ovqat",
+          "iste'mol",
+          "qildi"
+        ],
+        "future": [
+          "U",
+          "suv",
+          "ichadi",
+          "lekin",
+          "tez",
+          "ovqat",
+          "iste'mol",
+          "qiladi"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "parkda",
+          "futbol",
+          "o'ynashadi",
+          "va",
+          "yugurishadi"
+        ],
+        "past": [
+          "Ular",
+          "futbol",
+          "o'ynashdi",
+          "va",
+          "parkda",
+          "yugurishdi"
+        ],
+        "future": [
+          "Ular",
+          "futbol",
+          "o'ynashadi",
+          "va",
+          "parkda",
+          "yugurishadi"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "uzbek": {
+        "present": [
+          "Sizni",
+          "sog'inganim",
+          "uchun",
+          "xat",
+          "yozaman"
+        ],
+        "past": [
+          "Sizni",
+          "sog'inganim",
+          "uchun",
+          "xat",
+          "yozdim"
+        ],
+        "future": [
+          "Xat",
+          "yozaman",
+          "chunki",
+          "seni",
+          "sog'indim"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "har",
+          "kuni",
+          "guruch",
+          "yeydi",
+          "ovqat",
+          "pishiradi"
+        ],
+        "past": [
+          "U",
+          "har",
+          "kuni",
+          "guruch",
+          "yeydi",
+          "va",
+          "ovqat",
+          "pishirdi"
+        ],
+        "future": [
+          "U",
+          "har",
+          "kuni",
+          "guruch",
+          "yeyadi",
+          "va",
+          "ovqat",
+          "pishiradi"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "uzbek": {
+        "present": [
+          "Biz",
+          "kino",
+          "tomosha",
+          "qilamiz",
+          "lekin",
+          "kech",
+          "uxlaymiz"
+        ],
+        "past": [
+          "Biz",
+          "kino",
+          "tomosha",
+          "qildik",
+          "lekin",
+          "kech",
+          "uxladik"
+        ],
+        "future": [
+          "Biz",
+          "kino",
+          "ko'ramiz",
+          "lekin",
+          "kech",
+          "uxlaymiz"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "eshikni",
+          "ochadi",
+          "va",
+          "odamlarga",
+          "salom",
+          "beradi"
+        ],
+        "past": [
+          "U",
+          "eshikni",
+          "ochib",
+          "odamlarga",
+          "salom",
+          "berdi"
+        ],
+        "future": [
+          "U",
+          "eshikni",
+          "ochadi",
+          "va",
+          "odamlarga",
+          "salom",
+          "beradi"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "och",
+          "qolganlari",
+          "uchun",
+          "ovqat",
+          "sotib",
+          "olishadi"
+        ],
+        "past": [
+          "Ular",
+          "och",
+          "qolganlari",
+          "uchun",
+          "ovqat",
+          "sotib",
+          "olishdi"
+        ],
+        "future": [
+          "Ular",
+          "och",
+          "qolganlari",
+          "uchun",
+          "ovqat",
+          "sotib",
+          "olishadi"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "uzbek": {
+        "present": [
+          "Men",
+          "ertalab",
+          "nonushta",
+          "qilaman"
+        ],
+        "past": [
+          "Ertalab",
+          "nonushta",
+          "qildim"
+        ],
+        "future": [
+          "Ertalab",
+          "nonushta",
+          "qilaman"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "har",
+          "kuni",
+          "uyda",
+          "o'qiydi"
+        ],
+        "past": [
+          "U",
+          "har",
+          "kuni",
+          "uyda",
+          "o'qidi"
+        ],
+        "future": [
+          "U",
+          "har",
+          "kuni",
+          "uyda",
+          "o'qiydi"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "uzbek": {
+        "present": [
+          "Kechqurun",
+          "parkda",
+          "sayr",
+          "qilamiz"
+        ],
+        "past": [
+          "Kechqurun",
+          "parkda",
+          "sayr",
+          "qildik"
+        ],
+        "future": [
+          "Kechqurun",
+          "parkda",
+          "sayr",
+          "qilamiz"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "shahardagi",
+          "ofisda",
+          "ishlaydi"
+        ],
+        "past": [
+          "U",
+          "shahardagi",
+          "idorada",
+          "ishlagan"
+        ],
+        "future": [
+          "U",
+          "shahardagi",
+          "ofisda",
+          "ishlaydi"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "har",
+          "yili",
+          "boshqa",
+          "davlatga",
+          "sayohat",
+          "qilishadi"
+        ],
+        "past": [
+          "Ular",
+          "har",
+          "yili",
+          "boshqa",
+          "davlatga",
+          "sayohat",
+          "qilishdi"
+        ],
+        "future": [
+          "Ular",
+          "har",
+          "yili",
+          "boshqa",
+          "davlatga",
+          "sayohat",
+          "qilishadi"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "uzbek": {
+        "present": [
+          "Kechasi",
+          "yotishdan",
+          "oldin",
+          "kitob",
+          "o'qiyman"
+        ],
+        "past": [
+          "Kechasi",
+          "yotishdan",
+          "oldin",
+          "kitob",
+          "o'qiyman"
+        ],
+        "future": [
+          "Kechasi",
+          "yotishdan",
+          "oldin",
+          "kitob",
+          "o'qiyman"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "ertalab",
+          "uyda",
+          "qahva",
+          "ichadi"
+        ],
+        "past": [
+          "U",
+          "ertalab",
+          "uyda",
+          "qahva",
+          "ichdi"
+        ],
+        "future": [
+          "U",
+          "ertalab",
+          "uyda",
+          "qahva",
+          "ichadi"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "uzbek": {
+        "present": [
+          "Bugun",
+          "kechqurun",
+          "do'stlar",
+          "bilan",
+          "restoranda",
+          "uchrashamiz"
+        ],
+        "past": [
+          "Bugun",
+          "kechqurun",
+          "restoranda",
+          "do'stlar",
+          "bilan",
+          "uchrashdik"
+        ],
+        "future": [
+          "Bugun",
+          "kechqurun",
+          "do'stlar",
+          "bilan",
+          "restoranda",
+          "uchrashamiz"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "har",
+          "kuni",
+          "maktabda",
+          "ispan",
+          "tilini",
+          "o'rganadi"
+        ],
+        "past": [
+          "U",
+          "har",
+          "kuni",
+          "maktabda",
+          "ispan",
+          "tilini",
+          "o'rganardi"
+        ],
+        "future": [
+          "U",
+          "har",
+          "kuni",
+          "maktabda",
+          "ispan",
+          "tilini",
+          "o'rganadi"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "uzbek": {
+        "present": [
+          "Kechqurun",
+          "uyda",
+          "televizor",
+          "tomosha",
+          "qilishadi"
+        ],
+        "past": [
+          "Kechqurun",
+          "ular",
+          "uyda",
+          "televizor",
+          "tomosha",
+          "qilishdi"
+        ],
+        "future": [
+          "Kechqurun",
+          "uyda",
+          "televizor",
+          "tomosha",
+          "qilishadi"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "uzbek": {
+        "present": [
+          "Menga",
+          "bu",
+          "musiqa",
+          "yoqadi"
+        ],
+        "past": [
+          "Menga",
+          "bu",
+          "musiqa",
+          "yoqdi"
+        ],
+        "future": [
+          "Menga",
+          "bu",
+          "musiqa",
+          "yoqadi"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "uzbek": {
+        "present": [
+          "Bugun",
+          "u",
+          "o'zini",
+          "baxtli",
+          "his",
+          "qilmoqda"
+        ],
+        "past": [
+          "Bugun",
+          "u",
+          "o'zini",
+          "baxtli",
+          "his",
+          "qildi"
+        ],
+        "future": [
+          "Bugun",
+          "u",
+          "o'zini",
+          "baxtli",
+          "his",
+          "qiladi"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "uzbek": {
+        "present": [
+          "Bizning",
+          "fikrimizcha",
+          "bu",
+          "fikr",
+          "yaxshi"
+        ],
+        "past": [
+          "Biz",
+          "bu",
+          "fikrni",
+          "yaxshi",
+          "deb",
+          "o'yladik"
+        ],
+        "future": [
+          "Biz",
+          "bu",
+          "fikrni",
+          "yaxshi",
+          "deb",
+          "o'ylaymiz"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "ispan",
+          "tilini",
+          "o'rganmoqchi"
+        ],
+        "past": [
+          "U",
+          "ispan",
+          "tilini",
+          "o'rganmoqchi",
+          "edi"
+        ],
+        "future": [
+          "U",
+          "ispan",
+          "tilini",
+          "o'rganishni",
+          "xohlaydi"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "o'z",
+          "oilalarini",
+          "juda",
+          "yaxshi",
+          "ko'radilar"
+        ],
+        "past": [
+          "Ular",
+          "o'z",
+          "oilalarini",
+          "juda",
+          "yaxshi",
+          "ko'rishardi"
+        ],
+        "future": [
+          "Ular",
+          "o'z",
+          "oilalarini",
+          "juda",
+          "yaxshi",
+          "ko'rishadi"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "uzbek": {
+        "present": [
+          "Ishdan",
+          "keyin",
+          "o'zimni",
+          "charchagan",
+          "his",
+          "qilyapman"
+        ],
+        "past": [
+          "Ishdan",
+          "keyin",
+          "charchaganimni",
+          "his",
+          "qildim"
+        ],
+        "future": [
+          "Ishdan",
+          "keyin",
+          "o'zimni",
+          "charchagan",
+          "his",
+          "qilaman"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "o'ziga",
+          "ishonadi"
+        ],
+        "past": [
+          "U",
+          "o'ziga",
+          "ishondi"
+        ],
+        "future": [
+          "U",
+          "o'ziga",
+          "ishonadi"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "uzbek": {
+        "present": [
+          "Biz",
+          "birga",
+          "sayohat",
+          "qilishni",
+          "yaxshi",
+          "ko'ramiz"
+        ],
+        "past": [
+          "Biz",
+          "birga",
+          "sayohat",
+          "qilishni",
+          "yaxshi",
+          "ko'rardik"
+        ],
+        "future": [
+          "Biz",
+          "birga",
+          "sayohat",
+          "qilishni",
+          "yaxshi",
+          "ko'ramiz"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "kelajagi",
+          "haqida",
+          "o'ylaydi"
+        ],
+        "past": [
+          "U",
+          "kelajagi",
+          "haqida",
+          "o'ylardi"
+        ],
+        "future": [
+          "U",
+          "kelajagi",
+          "haqida",
+          "o'ylaydi"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "sayohatdan",
+          "hayajonlanishadi"
+        ],
+        "past": [
+          "Ular",
+          "sayohatdan",
+          "hayajonlanishdi"
+        ],
+        "future": [
+          "Ular",
+          "sayohatdan",
+          "hayajonlanishadi"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "uzbek": {
+        "present": [
+          "Men",
+          "har",
+          "kuni",
+          "yaxshilashga",
+          "harakat",
+          "qilaman"
+        ],
+        "past": [
+          "Men",
+          "har",
+          "kuni",
+          "yaxshilashga",
+          "harakat",
+          "qildim"
+        ],
+        "future": [
+          "Har",
+          "kuni",
+          "yaxshilashga",
+          "harakat",
+          "qilaman"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "o'z",
+          "maqsadlariga",
+          "erishmoqchi"
+        ],
+        "past": [
+          "U",
+          "o'z",
+          "maqsadlariga",
+          "erishmoqchi",
+          "edi"
+        ],
+        "future": [
+          "U",
+          "o'z",
+          "maqsadlariga",
+          "erishishni",
+          "xohlaydi"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "uzbek": {
+        "present": [
+          "Biz",
+          "xatolarimizdan",
+          "o'rganamiz"
+        ],
+        "past": [
+          "Biz",
+          "xatolarimizdan",
+          "saboq",
+          "oldik"
+        ],
+        "future": [
+          "Biz",
+          "xatolarimizdan",
+          "saboq",
+          "olamiz"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "kelajagini",
+          "qurish",
+          "uchun",
+          "ko'p",
+          "mehnat",
+          "qiladi"
+        ],
+        "past": [
+          "U",
+          "kelajagini",
+          "qurish",
+          "uchun",
+          "ko'p",
+          "mehnat",
+          "qildi"
+        ],
+        "future": [
+          "U",
+          "o'z",
+          "kelajagini",
+          "qurish",
+          "uchun",
+          "ko'p",
+          "mehnat",
+          "qiladi"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "hamma",
+          "narsa",
+          "mumkinligiga",
+          "ishonishadi"
+        ],
+        "past": [
+          "Ular",
+          "hamma",
+          "narsa",
+          "mumkinligiga",
+          "ishonishdi"
+        ],
+        "future": [
+          "Ular",
+          "hamma",
+          "narsa",
+          "mumkinligiga",
+          "ishonishadi"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "uzbek": {
+        "present": [
+          "Men",
+          "har",
+          "kecha",
+          "kelajagim",
+          "haqida",
+          "o'ylayman"
+        ],
+        "past": [
+          "Men",
+          "har",
+          "kecha",
+          "kelajagim",
+          "haqida",
+          "o'ylardim"
+        ],
+        "future": [
+          "Men",
+          "har",
+          "kecha",
+          "kelajagim",
+          "haqida",
+          "o'ylayman"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "qiyin",
+          "paytlarda",
+          "ijobiy",
+          "bo'lishga",
+          "harakat",
+          "qiladi"
+        ],
+        "past": [
+          "U",
+          "qiyin",
+          "paytlarda",
+          "ijobiy",
+          "bo'lishga",
+          "harakat",
+          "qildi"
+        ],
+        "future": [
+          "U",
+          "qiyin",
+          "paytlarda",
+          "ijobiy",
+          "bo'lishga",
+          "harakat",
+          "qiladi"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "uzbek": {
+        "present": [
+          "Biz",
+          "mazmunli",
+          "hayot",
+          "kechirishni",
+          "xohlaymiz"
+        ],
+        "past": [
+          "Biz",
+          "mazmunli",
+          "hayot",
+          "kechirmoqchi",
+          "edik"
+        ],
+        "future": [
+          "Biz",
+          "mazmunli",
+          "hayot",
+          "kechirishni",
+          "xohlaymiz"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "uzbek": {
+        "present": [
+          "U",
+          "o'zgarish",
+          "vaqt",
+          "talab",
+          "qilishini",
+          "tushunadi"
+        ],
+        "past": [
+          "U",
+          "o'zgarish",
+          "uchun",
+          "vaqt",
+          "kerakligini",
+          "tushundi"
+        ],
+        "future": [
+          "U",
+          "o'zgarish",
+          "vaqt",
+          "talab",
+          "qilishini",
+          "tushunadi"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "uzbek": {
+        "present": [
+          "Ular",
+          "o'z",
+          "orzulariga",
+          "ergashishga",
+          "qaror",
+          "qilishadi"
+        ],
+        "past": [
+          "Ular",
+          "o'z",
+          "orzularini",
+          "amalga",
+          "oshirishga",
+          "qaror",
+          "qilishdi"
+        ],
+        "future": [
+          "Ular",
+          "o'z",
+          "orzulariga",
+          "ergashishga",
+          "qaror",
+          "qilishadi"
+        ]
+      }
+    }
+  ]
+}

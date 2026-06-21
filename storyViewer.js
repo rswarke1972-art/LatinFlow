@@ -126,24 +126,7 @@ function updateProgress() {
 
 // ===== SOUND =====
 function playSound(word) {
-
   const utterance = new SpeechSynthesisUtterance(word);
-
-  if (currentLang === "spanish") {
-    utterance.lang = "es-ES";
-  } else if (currentLang === "french") {
-    utterance.lang = "fr-FR";
-  } else if (currentLang === "german") {
-    utterance.lang = "de-DE";
-  } else if (currentLang === "italian") {
-    utterance.lang = "it-IT";
-  } else if (currentLang === "indonesian") {
-    utterance.lang = "id-ID";
-    } else if (currentLang === "portuguese") {
-    utterance.lang = "pt-BR";
-  } else {
-    utterance.lang = "en-US";
-  }
-
+  utterance.lang = getTtsLocale(currentLang);
   speechSynthesis.speak(utterance);
 }

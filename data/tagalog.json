@@ -1,0 +1,9245 @@
+{
+  "language": "Tagalog",
+  "stories": {
+    "story1": {
+      "title": "sa cafe",
+      "content": [
+        {
+          "word": "Pumupunta",
+          "meaning": "going",
+          "sound": "pu-mu-pun-ta"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "maliit",
+          "meaning": "small",
+          "sound": "ma-li-it"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "cafe",
+          "meaning": "cafe",
+          "sound": "ca-fe"
+        },
+        {
+          "word": "tuwing",
+          "meaning": "whenever",
+          "sound": "tu-wing"
+        },
+        {
+          "word": "umaga",
+          "meaning": "morning",
+          "sound": "u-ma-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Malapit",
+          "meaning": "close",
+          "sound": "ma-la-pit"
+        },
+        {
+          "word": "lang",
+          "meaning": "just",
+          "sound": "lang"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "cafe",
+          "meaning": "cafe",
+          "sound": "ca-fe"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "bahay",
+          "meaning": "house",
+          "sound": "ba-ha-y"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "sobrang",
+          "meaning": "too much",
+          "sound": "so-brang"
+        },
+        {
+          "word": "tahimik",
+          "meaning": "quiet",
+          "sound": "ta-hi-mik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Palagi",
+          "meaning": "always",
+          "sound": "pa-la-gi"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "nakaupo",
+          "meaning": "sitting",
+          "sound": "na-ka-u-po"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "tabi",
+          "meaning": "aside",
+          "sound": "ta-bi"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "bintana",
+          "meaning": "window",
+          "sound": "bin-ta-na"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "umorder",
+          "meaning": "order",
+          "sound": "u-mor-der"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "mainit",
+          "meaning": "hot",
+          "sound": "ma-i-nit"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "tasa",
+          "meaning": "cup",
+          "sound": "ta-sa"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "kape",
+          "meaning": "coffee",
+          "sound": "ka-pe"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Friendly",
+          "meaning": "friendly",
+          "sound": "fri-en-dly"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "waiter",
+          "meaning": "waiter",
+          "sound": "wa-i-ter"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "lagi",
+          "meaning": "always",
+          "sound": "la-gi"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "binabati",
+          "meaning": "congratulations",
+          "sound": "bi-na-ba-ti"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "nakangiti",
+          "meaning": "smiling",
+          "sound": "na-kan-gi-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Minsan",
+          "meaning": "sometimes",
+          "sound": "min-san"
+        },
+        {
+          "word": "nagbabasa",
+          "meaning": "reading",
+          "sound": "nag-ba-ba-sa"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "kawili",
+          "meaning": "interesting",
+          "sound": "ka-wi-li"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "wiling",
+          "meaning": "wish",
+          "sound": "wi-ling"
+        },
+        {
+          "word": "libro",
+          "meaning": "book",
+          "sound": "li-bro"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "kung",
+          "meaning": "if",
+          "sound": "kung"
+        },
+        {
+          "word": "minsan",
+          "meaning": "sometimes",
+          "sound": "min-san"
+        },
+        {
+          "word": "naman",
+          "meaning": "again",
+          "sound": "na-man"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "nagsusulat",
+          "meaning": "writing",
+          "sound": "nag-su-su-lat"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "kuwaderno",
+          "meaning": "notebook",
+          "sound": "ku-wa-der-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "nakakita",
+          "meaning": "saw",
+          "sound": "na-ka-ki-ta"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "bagong",
+          "meaning": "new",
+          "sound": "ba-gong"
+        },
+        {
+          "word": "tao",
+          "meaning": "man",
+          "sound": "ta-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagbabasa",
+          "meaning": "reading",
+          "sound": "nag-ba-ba-sa"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "nobela",
+          "meaning": "novel",
+          "sound": "no-be-la"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "umiinom",
+          "meaning": "drinking",
+          "sound": "u-mi-i-nom"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "tsaa",
+          "meaning": "tea",
+          "sound": "tsa-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "curious",
+          "meaning": "curious",
+          "sound": "cu-ri-o-us"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "pero",
+          "meaning": "but",
+          "sound": "pe-ro"
+        },
+        {
+          "word": "medyo",
+          "meaning": "quite a bit",
+          "sound": "me-dy-o"
+        },
+        {
+          "word": "nahihiya",
+          "meaning": "shy",
+          "sound": "na-hi-hi-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Makalipas",
+          "meaning": "later",
+          "sound": "ma-ka-li-pas"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "ilang",
+          "meaning": "some",
+          "sound": "i-lang"
+        },
+        {
+          "word": "minuto",
+          "meaning": "minutes",
+          "sound": "mi-nu-to"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kumusta",
+          "meaning": "hello",
+          "sound": "ku-mus-ta"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nakangiting",
+          "meaning": "smiling",
+          "sound": "na-kan-gi-ting"
+        },
+        {
+          "word": "tugon",
+          "meaning": "response",
+          "sound": "tu-gon"
+        },
+        {
+          "word": "niya",
+          "meaning": "he",
+          "sound": "ni-y-a"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagsimula",
+          "meaning": "started",
+          "sound": "nag-si-mu-la"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "kaming",
+          "meaning": "we",
+          "sound": "ka-ming"
+        },
+        {
+          "word": "mag",
+          "meaning": "mag",
+          "sound": "mag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "usap",
+          "meaning": "conversation",
+          "sound": "u-sap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Masaya",
+          "meaning": "happy",
+          "sound": "ma-sa-y-a"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nakakarelax",
+          "meaning": "relaxing",
+          "sound": "na-ka-ka-re-lax"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pakiramdam",
+          "meaning": "feeling",
+          "sound": "pa-ki-ram-dam"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "sa parke",
+      "content": [
+        {
+          "word": "Pupunta",
+          "meaning": "will go",
+          "sound": "pu-pun-ta"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "park",
+          "meaning": "park",
+          "sound": "park"
+        },
+        {
+          "word": "kasama",
+          "meaning": "together",
+          "sound": "ka-sa-ma"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "kaibigan",
+          "meaning": "friend",
+          "sound": "ka-i-bi-gan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Napakaganda",
+          "meaning": "very beautiful",
+          "sound": "na-pa-ka-gan-da"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "panahon",
+          "meaning": "period",
+          "sound": "pa-na-hon"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "sumisikat",
+          "meaning": "shining",
+          "sound": "su-mi-si-kat"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Marami",
+          "meaning": "a lot",
+          "sound": "ma-ra-mi"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "nakikitang",
+          "meaning": "visible",
+          "sound": "na-ki-ki-tang"
+        },
+        {
+          "word": "naglalakad",
+          "meaning": "walking",
+          "sound": "na-gla-la-kad"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagtatawanan",
+          "meaning": "laughing",
+          "sound": "nag-ta-ta-wa-nan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "ilang",
+          "meaning": "some",
+          "sound": "i-lang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "bata",
+          "meaning": "child",
+          "sound": "ba-ta"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "naglalaro",
+          "meaning": "playing",
+          "sound": "na-gla-la-ro"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "bola",
+          "meaning": "ball",
+          "sound": "bo-la"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "iba",
+          "meaning": "others",
+          "sound": "i-ba"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "tumatakbo",
+          "meaning": "running",
+          "sound": "tu-ma-tak-bo"
+        },
+        {
+          "word": "nang",
+          "meaning": "when",
+          "sound": "nang"
+        },
+        {
+          "word": "mabilis",
+          "meaning": "fast",
+          "sound": "ma-bi-lis"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Umupo",
+          "meaning": "sit down",
+          "sound": "u-mu-po"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "kaibigan",
+          "meaning": "friend",
+          "sound": "ka-i-bi-gan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "bench",
+          "meaning": "bench",
+          "sound": "bench"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagkwentuhan",
+          "meaning": "talked",
+          "sound": "nag-kwen-tu-han"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "tungkol",
+          "meaning": "about",
+          "sound": "tun-gkol"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "buhay",
+          "meaning": "life",
+          "sound": "bu-ha-y"
+        },
+        {
+          "word": "namin",
+          "meaning": "we",
+          "sound": "na-min"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "tawanan",
+          "meaning": "laughter",
+          "sound": "ta-wa-nan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pagkatapos",
+          "meaning": "then",
+          "sound": "pag-ka-ta-pos"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bumili",
+          "meaning": "buy",
+          "sound": "bu-mi-li"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "ice",
+          "meaning": "ice",
+          "sound": "i-ce"
+        },
+        {
+          "word": "cream",
+          "meaning": "cream",
+          "sound": "cre-am"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "simple",
+          "meaning": "simple",
+          "sound": "sim-ple"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "napakaganda",
+          "meaning": "very beautiful",
+          "sound": "na-pa-ka-gan-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "sa library",
+      "content": [
+        {
+          "word": "Pupunta",
+          "meaning": "will go",
+          "sound": "pu-pun-ta"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "library",
+          "meaning": "library",
+          "sound": "li-bra-ry"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ito",
+          "meaning": "this",
+          "sound": "i-to"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "tahimik",
+          "meaning": "quiet",
+          "sound": "ta-hi-mik"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "lugar",
+          "meaning": "place",
+          "sound": "lu-gar"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "puno",
+          "meaning": "full",
+          "sound": "pu-no"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "libro",
+          "meaning": "book",
+          "sound": "li-bro"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gusto",
+          "meaning": "like",
+          "sound": "gus-to"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "magbasa",
+          "meaning": "read",
+          "sound": "mag-ba-sa"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "matuto",
+          "meaning": "learn",
+          "sound": "ma-tu-to"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "bagong",
+          "meaning": "new",
+          "sound": "ba-gong"
+        },
+        {
+          "word": "bagay",
+          "meaning": "thing",
+          "sound": "ba-ga-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naghahanap",
+          "meaning": "looking for",
+          "sound": "nag-ha-ha-nap"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "kawili",
+          "meaning": "interesting",
+          "sound": "ka-wi-li"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "wiling",
+          "meaning": "wish",
+          "sound": "wi-ling"
+        },
+        {
+          "word": "libro",
+          "meaning": "book",
+          "sound": "li-bro"
+        },
+        {
+          "word": "tungkol",
+          "meaning": "about",
+          "sound": "tun-gkol"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "kasaysayan",
+          "meaning": "history",
+          "sound": "ka-sa-y-sa-y-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pagkatapos",
+          "meaning": "then",
+          "sound": "pag-ka-ta-pos"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "umupo",
+          "meaning": "sit down",
+          "sound": "u-mu-po"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "table",
+          "meaning": "table",
+          "sound": "ta-ble"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagsimulang",
+          "meaning": "started",
+          "sound": "nag-si-mu-lang"
+        },
+        {
+          "word": "magbasa",
+          "meaning": "read",
+          "sound": "mag-ba-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "May",
+          "meaning": "may",
+          "sound": "ma-y"
+        },
+        {
+          "word": "iba",
+          "meaning": "others",
+          "sound": "i-ba"
+        },
+        {
+          "word": "pang",
+          "meaning": "yet",
+          "sound": "pang"
+        },
+        {
+          "word": "nag",
+          "meaning": "nag",
+          "sound": "nag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aaral",
+          "meaning": "student",
+          "sound": "a-a-ral"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagsusulat",
+          "meaning": "writing",
+          "sound": "nag-su-su-lat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Napakatahimik",
+          "meaning": "very quiet",
+          "sound": "na-pa-ka-ta-hi-mik"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "kapaligiran",
+          "meaning": "environment",
+          "sound": "ka-pa-li-gi-ran"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Maya",
+          "meaning": "maya",
+          "sound": "ma-y-a"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "maya",
+          "meaning": "sparrow",
+          "sound": "ma-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "isinara",
+          "meaning": "closed",
+          "sound": "i-si-na-ra"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "libro",
+          "meaning": "book",
+          "sound": "li-bro"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nakaramdam",
+          "meaning": "felt",
+          "sound": "na-ka-ram-dam"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "kasiyahan",
+          "meaning": "pleasure",
+          "sound": "ka-si-y-a-han"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "sa tindahan",
+      "content": [
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "pupunta",
+          "meaning": "will go",
+          "sound": "pu-pun-ta"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "malaking",
+          "meaning": "big",
+          "sound": "ma-la-king"
+        },
+        {
+          "word": "tindahan",
+          "meaning": "store",
+          "sound": "tin-da-han"
+        },
+        {
+          "word": "para",
+          "meaning": "for",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "bumili",
+          "meaning": "buy",
+          "sound": "bu-mi-li"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "pagkain",
+          "meaning": "food",
+          "sound": "pag-ka-in"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kailangan",
+          "meaning": "it is necessary",
+          "sound": "ka-i-lan-gan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "tinapay",
+          "meaning": "bread",
+          "sound": "ti-na-pa-y"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "gatas",
+          "meaning": "milk",
+          "sound": "ga-tas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "prutas",
+          "meaning": "fruit",
+          "sound": "pru-tas"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "gulay",
+          "meaning": "vegetable",
+          "sound": "gu-la-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Puno",
+          "meaning": "tree",
+          "sound": "pu-no"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "tao",
+          "meaning": "man",
+          "sound": "ta-o"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "tindahan",
+          "meaning": "store",
+          "sound": "tin-da-han"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "sobrang",
+          "meaning": "too much",
+          "sound": "so-brang"
+        },
+        {
+          "word": "ingay",
+          "meaning": "noise",
+          "sound": "in-ga-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hinahanap",
+          "meaning": "looking for",
+          "sound": "hi-na-ha-nap"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "produkto",
+          "meaning": "product",
+          "sound": "pro-duk-to"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "istante",
+          "meaning": "shelf",
+          "sound": "is-tan-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tinanong",
+          "meaning": "asked",
+          "sound": "ti-na-nong"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "babae",
+          "meaning": "woman",
+          "sound": "ba-ba-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nasaan",
+          "meaning": "where",
+          "sound": "na-sa-an"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "gatas",
+          "meaning": "milk",
+          "sound": "ga-tas"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sabi",
+          "meaning": "said",
+          "sound": "sa-bi"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "kanya",
+          "meaning": "him",
+          "sound": "ka-ny-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nandiyan",
+          "meaning": "there it is",
+          "sound": "nan-di-y-an"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "tabi",
+          "meaning": "aside",
+          "sound": "ta-bi"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "tinapay",
+          "meaning": "bread",
+          "sound": "ti-na-pa-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngumiti",
+          "meaning": "smile",
+          "sound": "ngu-mi-ti"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagpasalamat",
+          "meaning": "thanked",
+          "sound": "nag-pa-sa-la-mat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pagkatapos",
+          "meaning": "then",
+          "sound": "pag-ka-ta-pos"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "pumunta",
+          "meaning": "go",
+          "sound": "pu-mun-ta"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "cashier",
+          "meaning": "cashier",
+          "sound": "cas-hi-er"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagbayad",
+          "meaning": "paid",
+          "sound": "nag-ba-y-ad"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Umalis",
+          "meaning": "leave",
+          "sound": "u-ma-lis"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "tindahan",
+          "meaning": "store",
+          "sound": "tin-da-han"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "laman",
+          "meaning": "meat",
+          "sound": "la-man"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "bag",
+          "meaning": "bag",
+          "sound": "bag"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "masaya",
+          "meaning": "happy",
+          "sound": "ma-sa-y-a"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "sa bus",
+      "content": [
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "sumasakay",
+          "meaning": "riding",
+          "sound": "su-ma-sa-ka-y"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "bus",
+          "meaning": "bus",
+          "sound": "bus"
+        },
+        {
+          "word": "para",
+          "meaning": "for",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "pumunta",
+          "meaning": "go",
+          "sound": "pu-mun-ta"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "trabaho",
+          "meaning": "work",
+          "sound": "tra-ba-ho"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Puno",
+          "meaning": "tree",
+          "sound": "pu-no"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "bus",
+          "meaning": "bus",
+          "sound": "bus"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "walang",
+          "meaning": "nothing",
+          "sound": "wa-lang"
+        },
+        {
+          "word": "masyadong",
+          "meaning": "too",
+          "sound": "ma-sy-a-dong"
+        },
+        {
+          "word": "espasyo",
+          "meaning": "space",
+          "sound": "es-pa-sy-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Medyo",
+          "meaning": "quite a bit",
+          "sound": "me-dy-o"
+        },
+        {
+          "word": "napagod",
+          "meaning": "tired",
+          "sound": "na-pa-god"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pero",
+          "meaning": "but",
+          "sound": "pe-ro"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "nakikita",
+          "meaning": "seen",
+          "sound": "na-ki-ki-ta"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "matandang",
+          "meaning": "old man",
+          "sound": "ma-tan-dang"
+        },
+        {
+          "word": "tao",
+          "meaning": "man",
+          "sound": "ta-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Inaalok",
+          "meaning": "offered",
+          "sound": "i-na-a-lok"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "iyo",
+          "meaning": "you",
+          "sound": "i-y-o"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "upuan",
+          "meaning": "chair",
+          "sound": "u-pu-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sinasabi",
+          "meaning": "saying",
+          "sound": "si-na-sa-bi"
+        },
+        {
+          "word": "niya",
+          "meaning": "he",
+          "sound": "ni-y-a"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sigurado",
+          "meaning": "for sure",
+          "sound": "si-gu-ra-do"
+        },
+        {
+          "word": "ka",
+          "meaning": "you",
+          "sound": "ka"
+        },
+        {
+          "word": "ba",
+          "meaning": "what",
+          "sound": "ba"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sagot",
+          "meaning": "answer",
+          "sound": "sa-got"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oo",
+          "meaning": "yes",
+          "sound": "oo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "walang",
+          "meaning": "nothing",
+          "sound": "wa-lang"
+        },
+        {
+          "word": "problema",
+          "meaning": "problem",
+          "sound": "pro-ble-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngumiti",
+          "meaning": "smile",
+          "sound": "ngu-mi-ti"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagpasalamat",
+          "meaning": "thanked",
+          "sound": "nag-pa-sa-la-mat"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Habang",
+          "meaning": "while",
+          "sound": "ha-bang"
+        },
+        {
+          "word": "nasa",
+          "meaning": "in",
+          "sound": "na-sa"
+        },
+        {
+          "word": "biyahe",
+          "meaning": "trip",
+          "sound": "bi-y-a-he"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dumungaw",
+          "meaning": "look up",
+          "sound": "du-mun-gaw"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "bintana",
+          "meaning": "window",
+          "sound": "bin-ta-na"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "iniisip",
+          "meaning": "thinking",
+          "sound": "i-ni-i-sip"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kahit",
+          "meaning": "even",
+          "sound": "ka-hit"
+        },
+        {
+          "word": "pagod",
+          "meaning": "tired",
+          "sound": "pa-god"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "sarap",
+          "meaning": "delicious",
+          "sound": "sa-rap"
+        },
+        {
+          "word": "tumulong",
+          "meaning": "help",
+          "sound": "tu-mu-long"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Kahapon sa tabing dagat",
+      "content": [
+        {
+          "word": "Kahapon",
+          "meaning": "yesterday",
+          "sound": "ka-ha-pon"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "pumunta",
+          "meaning": "go",
+          "sound": "pu-mun-ta"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "dalampasigan",
+          "meaning": "beach",
+          "sound": "da-lam-pa-si-gan"
+        },
+        {
+          "word": "kasama",
+          "meaning": "together",
+          "sound": "ka-sa-ma"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "kaibigan",
+          "meaning": "friend",
+          "sound": "ka-i-bi-gan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "panahon",
+          "meaning": "period",
+          "sound": "pa-na-hon"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "perpekto",
+          "meaning": "perfect",
+          "sound": "per-pek-to"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "dagat",
+          "meaning": "sea",
+          "sound": "da-gat"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "kalmado",
+          "meaning": "calm down",
+          "sound": "kal-ma-do"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naglakad",
+          "meaning": "walked",
+          "sound": "na-gla-kad"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "buhangin",
+          "meaning": "sand",
+          "sound": "bu-han-gin"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nag",
+          "meaning": "nag",
+          "sound": "nag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "usap",
+          "meaning": "conversation",
+          "sound": "u-sap"
+        },
+        {
+          "word": "tungkol",
+          "meaning": "about",
+          "sound": "tun-gkol"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "maraming",
+          "meaning": "many",
+          "sound": "ma-ra-ming"
+        },
+        {
+          "word": "bagay",
+          "meaning": "thing",
+          "sound": "ba-ga-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pagkatapos",
+          "meaning": "then",
+          "sound": "pag-ka-ta-pos"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lumangoy",
+          "meaning": "swim",
+          "sound": "lu-man-go-y"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "malamig",
+          "meaning": "cold",
+          "sound": "ma-la-mig"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "tubig",
+          "meaning": "water",
+          "sound": "tu-big"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Noong",
+          "meaning": "when",
+          "sound": "no-ong"
+        },
+        {
+          "word": "una",
+          "meaning": "first",
+          "sound": "u-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "medyo",
+          "meaning": "quite a bit",
+          "sound": "me-dy-o"
+        },
+        {
+          "word": "natakot",
+          "meaning": "scared",
+          "sound": "na-ta-kot"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "pagkatapos",
+          "meaning": "after",
+          "sound": "pag-ka-ta-pos"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "gumaan",
+          "meaning": "lighten up",
+          "sound": "gu-ma-an"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pakiramdam",
+          "meaning": "feeling",
+          "sound": "pa-ki-ram-dam"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naglaro",
+          "meaning": "played",
+          "sound": "na-gla-ro"
+        },
+        {
+          "word": "din",
+          "meaning": "too",
+          "sound": "din"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "bola",
+          "meaning": "ball",
+          "sound": "bo-la"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "tawanan",
+          "meaning": "laughter",
+          "sound": "ta-wa-nan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "hapon",
+          "meaning": "afternoon",
+          "sound": "ha-pon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sabay",
+          "meaning": "together",
+          "sound": "sa-ba-y"
+        },
+        {
+          "word": "kaming",
+          "meaning": "we",
+          "sound": "ka-ming"
+        },
+        {
+          "word": "kumain",
+          "meaning": "eat",
+          "sound": "ku-ma-in"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "pinanood",
+          "meaning": "watched",
+          "sound": "pi-na-no-od"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "paglubog",
+          "meaning": "sinking",
+          "sound": "pa-glu-bog"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Napakaespesyal",
+          "meaning": "very special",
+          "sound": "na-pa-ka-es-pe-sy-al"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "iyon",
+          "meaning": "that",
+          "sound": "i-y-on"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "hinding",
+          "meaning": "never",
+          "sound": "hin-ding"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "makakalimutan",
+          "meaning": "can forget",
+          "sound": "ma-ka-ka-li-mu-tan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Isang mahalagang pag-uusap",
+      "content": [
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "nakilala",
+          "meaning": "met",
+          "sound": "na-ki-la-la"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "matandang",
+          "meaning": "old man",
+          "sound": "ma-tan-dang"
+        },
+        {
+          "word": "kaibigan",
+          "meaning": "friend",
+          "sound": "ka-i-bi-gan"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "cafe",
+          "meaning": "cafe",
+          "sound": "ca-fe"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Matagal",
+          "meaning": "long time",
+          "sound": "ma-ta-gal"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "siyang",
+          "meaning": "he",
+          "sound": "si-y-ang"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "nakikita",
+          "meaning": "seen",
+          "sound": "na-ki-ki-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kaya",
+          "meaning": "so",
+          "sound": "ka-y-a"
+        },
+        {
+          "word": "tuwang",
+          "meaning": "happy",
+          "sound": "tu-wang"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tuwa",
+          "meaning": "joy",
+          "sound": "tu-wa"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "makita",
+          "meaning": "see",
+          "sound": "ma-ki-ta"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Umupo",
+          "meaning": "sit down",
+          "sound": "u-mu-po"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "nagsimulang",
+          "meaning": "started",
+          "sound": "nag-si-mu-lang"
+        },
+        {
+          "word": "mag",
+          "meaning": "mag",
+          "sound": "mag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "usap",
+          "meaning": "conversation",
+          "sound": "u-sap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sinabi",
+          "meaning": "said",
+          "sound": "si-na-bi"
+        },
+        {
+          "word": "niya",
+          "meaning": "he",
+          "sound": "ni-y-a"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "nakatira",
+          "meaning": "living",
+          "sound": "na-ka-ti-ra"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": "ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "ibang",
+          "meaning": "other",
+          "sound": "i-bang"
+        },
+        {
+          "word": "lungsod",
+          "meaning": "city",
+          "sound": "lun-gsod"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagtatrabaho",
+          "meaning": "working",
+          "sound": "nag-ta-tra-ba-ho"
+        },
+        {
+          "word": "din",
+          "meaning": "too",
+          "sound": "din"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "malaking",
+          "meaning": "big",
+          "sound": "ma-la-king"
+        },
+        {
+          "word": "kumpanya",
+          "meaning": "company",
+          "sound": "kum-pa-ny-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sinabi",
+          "meaning": "said",
+          "sound": "si-na-bi"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "kanya",
+          "meaning": "him",
+          "sound": "ka-ny-a"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "tungkol",
+          "meaning": "about",
+          "sound": "tun-gkol"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "pag",
+          "meaning": "pag",
+          "sound": "pag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aaral",
+          "meaning": "student",
+          "sound": "a-a-ral"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "plano",
+          "meaning": "plan",
+          "sound": "pla-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nag",
+          "meaning": "nag",
+          "sound": "nag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "usap",
+          "meaning": "conversation",
+          "sound": "u-sap"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "nang",
+          "meaning": "when",
+          "sound": "nang"
+        },
+        {
+          "word": "ilang",
+          "meaning": "some",
+          "sound": "i-lang"
+        },
+        {
+          "word": "oras",
+          "meaning": "time",
+          "sound": "o-ras"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "naalala",
+          "meaning": "remembered",
+          "sound": "na-a-la-la"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "maraming",
+          "meaning": "many",
+          "sound": "ma-ra-ming"
+        },
+        {
+          "word": "sandali",
+          "meaning": "moment",
+          "sound": "san-da-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bago",
+          "meaning": "new",
+          "sound": "ba-go"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "umalis",
+          "meaning": "leave",
+          "sound": "u-ma-lis"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sinabi",
+          "meaning": "said",
+          "sound": "si-na-bi"
+        },
+        {
+          "word": "niya",
+          "meaning": "he",
+          "sound": "ni-y-a"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dapat",
+          "meaning": "should be",
+          "sound": "da-pat"
+        },
+        {
+          "word": "daw",
+          "meaning": "he said",
+          "sound": "daw"
+        },
+        {
+          "word": "mas",
+          "meaning": "more",
+          "sound": "mas"
+        },
+        {
+          "word": "madalas",
+          "meaning": "often",
+          "sound": "ma-da-las"
+        },
+        {
+          "word": "kaming",
+          "meaning": "we",
+          "sound": "ka-ming"
+        },
+        {
+          "word": "magkita",
+          "meaning": "meet",
+          "sound": "mag-ki-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngumiti",
+          "meaning": "smile",
+          "sound": "ngu-mi-ti"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "tumugon",
+          "meaning": "respond",
+          "sound": "tu-mu-gon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oo",
+          "meaning": "yes",
+          "sound": "oo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nagustuhan",
+          "meaning": "liked",
+          "sound": "na-gus-tu-han"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ito",
+          "meaning": "this",
+          "sound": "i-to"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Isang mahirap na desisyon",
+      "content": [
+        {
+          "word": "Ilang",
+          "meaning": "some",
+          "sound": "i-lang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "nakalipas",
+          "meaning": "past",
+          "sound": "na-ka-li-pas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nakatanggap",
+          "meaning": "received",
+          "sound": "na-ka-tan-ggap"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "alok",
+          "meaning": "offer",
+          "sound": "a-lok"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "trabaho",
+          "meaning": "work",
+          "sound": "tra-ba-ho"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ito",
+          "meaning": "this",
+          "sound": "i-to"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "nasa",
+          "meaning": "in",
+          "sound": "na-sa"
+        },
+        {
+          "word": "ibang",
+          "meaning": "other",
+          "sound": "i-bang"
+        },
+        {
+          "word": "lungsod",
+          "meaning": "city",
+          "sound": "lun-gsod"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "napaka",
+          "meaning": "very",
+          "sound": "na-pa-ka"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "interesante",
+          "meaning": "interesting",
+          "sound": "in-te-re-san-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nung",
+          "meaning": "when",
+          "sound": "nung"
+        },
+        {
+          "word": "una",
+          "meaning": "first",
+          "sound": "u-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "excited",
+          "meaning": "excited",
+          "sound": "ex-ci-ted"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pero",
+          "meaning": "but",
+          "sound": "pe-ro"
+        },
+        {
+          "word": "kinakabahan",
+          "meaning": "nervous",
+          "sound": "ki-na-ka-ba-han"
+        },
+        {
+          "word": "din",
+          "meaning": "too",
+          "sound": "din"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kinausap",
+          "meaning": "talked to",
+          "sound": "ki-na-u-sap"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pamilya",
+          "meaning": "family",
+          "sound": "pa-mi-ly-a"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "kaibigan",
+          "meaning": "friend",
+          "sound": "ka-i-bi-gan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Binigyan",
+          "meaning": "given",
+          "sound": "bi-ni-gy-an"
+        },
+        {
+          "word": "nila",
+          "meaning": "them",
+          "sound": "ni-la"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "maraming",
+          "meaning": "many",
+          "sound": "ma-ra-ming"
+        },
+        {
+          "word": "payo",
+          "meaning": "advice",
+          "sound": "pa-y-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sabi",
+          "meaning": "said",
+          "sound": "sa-bi"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "nanay",
+          "meaning": "mother",
+          "sound": "na-na-y"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dapat",
+          "meaning": "should be",
+          "sound": "da-pat"
+        },
+        {
+          "word": "mong",
+          "meaning": "mr",
+          "sound": "mong"
+        },
+        {
+          "word": "sundin",
+          "meaning": "follow",
+          "sound": "sun-din"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "iyong",
+          "meaning": "your",
+          "sound": "i-y-ong"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "pangarap",
+          "meaning": "dream",
+          "sound": "pan-ga-rap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pero",
+          "meaning": "but",
+          "sound": "pe-ro"
+        },
+        {
+          "word": "tinanong",
+          "meaning": "asked",
+          "sound": "ti-na-nong"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "kaibigan",
+          "meaning": "friend",
+          "sound": "ka-i-bi-gan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sigurado",
+          "meaning": "for sure",
+          "sound": "si-gu-ra-do"
+        },
+        {
+          "word": "ka",
+          "meaning": "you",
+          "sound": "ka"
+        },
+        {
+          "word": "ba",
+          "meaning": "what",
+          "sound": "ba"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ilang",
+          "meaning": "some",
+          "sound": "i-lang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "nag",
+          "meaning": "nag",
+          "sound": "nag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "iisip",
+          "meaning": "thought",
+          "sound": "i-i-sip"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "wakas",
+          "meaning": "finally",
+          "sound": "wa-kas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nagpasya",
+          "meaning": "decided",
+          "sound": "nag-pa-sy-a"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "tanggapin",
+          "meaning": "accept",
+          "sound": "tan-gga-pin"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "trabaho",
+          "meaning": "work",
+          "sound": "tra-ba-ho"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alam",
+          "meaning": "know",
+          "sound": "a-lam"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "ito",
+          "meaning": "this",
+          "sound": "i-to"
+        },
+        {
+          "word": "magiging",
+          "meaning": "will be",
+          "sound": "ma-gi-ging"
+        },
+        {
+          "word": "madali",
+          "meaning": "easy",
+          "sound": "ma-da-li"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "gusto",
+          "meaning": "like",
+          "sound": "gus-to"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "subukan",
+          "meaning": "try",
+          "sound": "su-bu-kan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Isang pagtatalo sa isang kaibigan",
+      "content": [
+        {
+          "word": "Kahapon",
+          "meaning": "yesterday",
+          "sound": "ka-ha-pon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nag",
+          "meaning": "nag",
+          "sound": "nag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "away",
+          "meaning": "fight",
+          "sound": "a-wa-y"
+        },
+        {
+          "word": "kami",
+          "meaning": "us",
+          "sound": "ka-mi"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "best",
+          "meaning": "best",
+          "sound": "best"
+        },
+        {
+          "word": "friend",
+          "meaning": "friend",
+          "sound": "fri-end"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagsimula",
+          "meaning": "started",
+          "sound": "nag-si-mu-la"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "lahat",
+          "meaning": "all",
+          "sound": "la-hat"
+        },
+        {
+          "word": "noong",
+          "meaning": "when",
+          "sound": "no-ong"
+        },
+        {
+          "word": "pinag",
+          "meaning": "combined",
+          "sound": "pi-nag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "uusapan",
+          "meaning": "talk about",
+          "sound": "u-u-sa-pan"
+        },
+        {
+          "word": "namin",
+          "meaning": "we",
+          "sound": "na-min"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "aming",
+          "meaning": "our",
+          "sound": "a-ming"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "plano",
+          "meaning": "plan",
+          "sound": "pla-no"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gusto",
+          "meaning": "like",
+          "sound": "gus-to"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "maglakbay",
+          "meaning": "travel",
+          "sound": "ma-glak-ba-y"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "mas",
+          "meaning": "more",
+          "sound": "mas"
+        },
+        {
+          "word": "pinili",
+          "meaning": "chosen",
+          "sound": "pi-ni-li"
+        },
+        {
+          "word": "niyang",
+          "meaning": "he",
+          "sound": "ni-y-ang"
+        },
+        {
+          "word": "manatili",
+          "meaning": "stay",
+          "sound": "ma-na-ti-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sabi",
+          "meaning": "said",
+          "sound": "sa-bi"
+        },
+        {
+          "word": "niya",
+          "meaning": "he",
+          "sound": "ni-y-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "wala",
+          "meaning": "nothing",
+          "sound": "wa-la"
+        },
+        {
+          "word": "kaming",
+          "meaning": "we",
+          "sound": "ka-ming"
+        },
+        {
+          "word": "sapat",
+          "meaning": "enough",
+          "sound": "sa-pat"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "pera",
+          "meaning": "money",
+          "sound": "pe-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sumagot",
+          "meaning": "answer",
+          "sound": "su-ma-got"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Makakatipid",
+          "meaning": "can save money",
+          "sound": "ma-ka-ka-ti-pid"
+        },
+        {
+          "word": "tayo",
+          "meaning": "we",
+          "sound": "ta-y-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pero",
+          "meaning": "but",
+          "sound": "pe-ro"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": "pumayag",
+          "meaning": "agreed",
+          "sound": "pu-ma-y-ag"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naging",
+          "meaning": "it was",
+          "sound": "na-ging"
+        },
+        {
+          "word": "tense",
+          "meaning": "tense",
+          "sound": "ten-se"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "usapan",
+          "meaning": "talk",
+          "sound": "u-sa-pan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "huli",
+          "meaning": "late",
+          "sound": "hu-li"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pareho",
+          "meaning": "both",
+          "sound": "pa-re-ho"
+        },
+        {
+          "word": "kaming",
+          "meaning": "we",
+          "sound": "ka-ming"
+        },
+        {
+          "word": "nagalit",
+          "meaning": "angry",
+          "sound": "na-ga-lit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "naiisip",
+          "meaning": "thinkable",
+          "sound": "na-i-i-sip"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "siguro",
+          "meaning": "maybe",
+          "sound": "si-gu-ro"
+        },
+        {
+          "word": "dapat",
+          "meaning": "must",
+          "sound": "da-pat"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "siyang",
+          "meaning": "he",
+          "sound": "si-y-ang"
+        },
+        {
+          "word": "kausapin",
+          "meaning": "talk to",
+          "sound": "ka-u-sa-pin"
+        },
+        {
+          "word": "ulit",
+          "meaning": "again",
+          "sound": "u-lit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mas",
+          "meaning": "more",
+          "sound": "mas"
+        },
+        {
+          "word": "mahalaga",
+          "meaning": "important",
+          "sound": "ma-ha-la-ga"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pagkakaibigan",
+          "meaning": "friendship",
+          "sound": "pag-ka-ka-i-bi-gan"
+        },
+        {
+          "word": "natin",
+          "meaning": "let's",
+          "sound": "na-tin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Isang mahalagang pagbabago",
+      "content": [
+        {
+          "word": "Isang",
+          "meaning": "one",
+          "sound": "i-sang"
+        },
+        {
+          "word": "taon",
+          "meaning": "year",
+          "sound": "ta-on"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "nakalipas",
+          "meaning": "past",
+          "sound": "na-ka-li-pas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ibang",
+          "meaning": "other",
+          "sound": "i-bang"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "iba",
+          "meaning": "others",
+          "sound": "i-ba"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "buhay",
+          "meaning": "life",
+          "sound": "bu-ha-y"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagtrabaho",
+          "meaning": "worked",
+          "sound": "nag-tra-ba-ho"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "lugar",
+          "meaning": "place",
+          "sound": "lu-gar"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "gusto",
+          "meaning": "like",
+          "sound": "gus-to"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Araw",
+          "meaning": "sun",
+          "sound": "a-raw"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "nakaramdam",
+          "meaning": "felt",
+          "sound": "na-ka-ram-dam"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "pagod",
+          "meaning": "tired",
+          "sound": "pa-god"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "kawalan",
+          "meaning": "loss",
+          "sound": "ka-wa-lan"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "lakas",
+          "meaning": "strength",
+          "sound": "la-kas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Isang",
+          "meaning": "one",
+          "sound": "i-sang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nagpasya",
+          "meaning": "decided",
+          "sound": "nag-pa-sy-a"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "baguhin",
+          "meaning": "change",
+          "sound": "ba-gu-hin"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "lahat",
+          "meaning": "all",
+          "sound": "la-hat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hindi",
+          "meaning": "nope",
+          "sound": "hin-di"
+        },
+        {
+          "word": "naging",
+          "meaning": "became",
+          "sound": "na-ging"
+        },
+        {
+          "word": "madali",
+          "meaning": "easy",
+          "sound": "ma-da-li"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dahil",
+          "meaning": "because",
+          "sound": "da-hil"
+        },
+        {
+          "word": "natatakot",
+          "meaning": "scared",
+          "sound": "na-ta-ta-kot"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "mabigo",
+          "meaning": "fail",
+          "sound": "ma-bi-go"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pero",
+          "meaning": "but",
+          "sound": "pe-ro"
+        },
+        {
+          "word": "alam",
+          "meaning": "know",
+          "sound": "a-lam"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "rin",
+          "meaning": "also",
+          "sound": "rin"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "kayang",
+          "meaning": "able",
+          "sound": "ka-y-ang"
+        },
+        {
+          "word": "ipagpatuloy",
+          "meaning": "continue",
+          "sound": "i-pag-pa-tu-lo-y"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "ganito",
+          "meaning": "like this",
+          "sound": "ga-ni-to"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagsimula",
+          "meaning": "started",
+          "sound": "nag-si-mu-la"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "matuto",
+          "meaning": "learn",
+          "sound": "ma-tu-to"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "bagong",
+          "meaning": "new",
+          "sound": "ba-gong"
+        },
+        {
+          "word": "bagay",
+          "meaning": "thing",
+          "sound": "ba-ga-y"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "magtrabaho",
+          "meaning": "to work",
+          "sound": "mag-tra-ba-ho"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "layunin",
+          "meaning": "purpose",
+          "sound": "la-y-u-nin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unti",
+          "meaning": "little by little",
+          "sound": "un-ti"
+        },
+        {
+          "word": "unting",
+          "meaning": "gradually",
+          "sound": "un-ting"
+        },
+        {
+          "word": "nagbago",
+          "meaning": "changed",
+          "sound": "nag-ba-go"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "buhay",
+          "meaning": "life",
+          "sound": "bu-ha-y"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mas",
+          "meaning": "more",
+          "sound": "mas"
+        },
+        {
+          "word": "tiwala",
+          "meaning": "trust",
+          "sound": "ti-wa-la"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "masaya",
+          "meaning": "happy",
+          "sound": "ma-sa-y-a"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Natutunan",
+          "meaning": "learned",
+          "sound": "na-tu-tu-nan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "pagbabago",
+          "meaning": "change",
+          "sound": "pag-ba-ba-go"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "mahirap",
+          "meaning": "difficult",
+          "sound": "ma-hi-rap"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "kailangan",
+          "meaning": "needed",
+          "sound": "ka-i-lan-gan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Ang kahulugan ng landas",
+      "content": [
+        {
+          "word": "Sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "mahabang",
+          "meaning": "long",
+          "sound": "ma-ha-bang"
+        },
+        {
+          "word": "panahon",
+          "meaning": "period",
+          "sound": "pa-na-hon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "naisip",
+          "meaning": "thought",
+          "sound": "na-i-sip"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "tagumpay",
+          "meaning": "success",
+          "sound": "ta-gum-pa-y"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pinakamahalagang",
+          "meaning": "most important",
+          "sound": "pi-na-ka-ma-ha-la-gang"
+        },
+        {
+          "word": "bagay",
+          "meaning": "thing",
+          "sound": "ba-ga-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naniniwala",
+          "meaning": "believe",
+          "sound": "na-ni-ni-wa-la"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pagkakaroon",
+          "meaning": "existence",
+          "sound": "pag-ka-ka-ro-on"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "pera",
+          "meaning": "money",
+          "sound": "pe-ra"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "pagkilala",
+          "meaning": "recognition",
+          "sound": "pag-ki-la-la"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "magpapasaya",
+          "meaning": "will make you happy",
+          "sound": "mag-pa-pa-sa-y-a"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gayunpaman",
+          "meaning": "however",
+          "sound": "ga-y-un-pa-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "paglipas",
+          "meaning": "over",
+          "sound": "pa-gli-pas"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "panahon",
+          "meaning": "period",
+          "sound": "pa-na-hon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "napagtanto",
+          "meaning": "realized",
+          "sound": "na-pag-tan-to"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "mali",
+          "meaning": "wrong",
+          "sound": "ma-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "talagang",
+          "meaning": "really",
+          "sound": "ta-la-gang"
+        },
+        {
+          "word": "mahalaga",
+          "meaning": "important",
+          "sound": "ma-ha-la-ga"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "landas",
+          "meaning": "path",
+          "sound": "lan-das"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "karanasan",
+          "meaning": "experience",
+          "sound": "ka-ra-na-san"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "pagkakamali",
+          "meaning": "mistake",
+          "sound": "pag-ka-ka-ma-li"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "natutunan",
+          "meaning": "learned",
+          "sound": "na-tu-tu-nan"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Isang",
+          "meaning": "one",
+          "sound": "i-sang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nakausap",
+          "meaning": "talked to",
+          "sound": "na-ka-u-sap"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "mentor",
+          "meaning": "mentor",
+          "sound": "men-tor"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sabi",
+          "meaning": "said",
+          "sound": "sa-bi"
+        },
+        {
+          "word": "niya",
+          "meaning": "he",
+          "sound": "ni-y-a"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Huwag",
+          "meaning": "don't",
+          "sound": "hu-wag"
+        },
+        {
+          "word": "magmadali",
+          "meaning": "hurry up",
+          "sound": "mag-ma-da-li"
+        },
+        {
+          "word": "para",
+          "meaning": "for",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "lang",
+          "meaning": "just",
+          "sound": "lang"
+        },
+        {
+          "word": "makarating",
+          "meaning": "arrive",
+          "sound": "ma-ka-ra-ting"
+        },
+        {
+          "word": "doon",
+          "meaning": "there",
+          "sound": "do-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "learn",
+          "meaning": "learn",
+          "sound": "le-arn"
+        },
+        {
+          "word": "to",
+          "meaning": "to",
+          "sound": "to"
+        },
+        {
+          "word": "enjoy",
+          "meaning": "enjoy",
+          "sound": "en-jo-y"
+        },
+        {
+          "word": "the",
+          "meaning": "the",
+          "sound": "the"
+        },
+        {
+          "word": "process",
+          "meaning": "process",
+          "sound": "pro-cess"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Simula",
+          "meaning": "beginning",
+          "sound": "si-mu-la"
+        },
+        {
+          "word": "noon",
+          "meaning": "then",
+          "sound": "no-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nagbago",
+          "meaning": "changed",
+          "sound": "nag-ba-go"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "paraan",
+          "meaning": "way",
+          "sound": "pa-ra-an"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "pag",
+          "meaning": "pag",
+          "sound": "pag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "iisip",
+          "meaning": "thought",
+          "sound": "i-i-sip"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pinahahalagahan",
+          "meaning": "appreciated",
+          "sound": "pi-na-ha-ha-la-ga-han"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "bawat",
+          "meaning": "each",
+          "sound": "ba-wat"
+        },
+        {
+          "word": "hakbang",
+          "meaning": "step",
+          "sound": "hak-bang"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "natututo",
+          "meaning": "learning",
+          "sound": "na-tu-tu-to"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "bawat",
+          "meaning": "each",
+          "sound": "ba-wat"
+        },
+        {
+          "word": "pagkakamali",
+          "meaning": "mistake",
+          "sound": "pag-ka-ka-ma-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "kung sino talaga ako",
+      "content": [
+        {
+          "word": "Sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "loob",
+          "meaning": "inside",
+          "sound": "lo-ob"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "maraming",
+          "meaning": "many",
+          "sound": "ma-ra-ming"
+        },
+        {
+          "word": "taon",
+          "meaning": "year",
+          "sound": "ta-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tinanong",
+          "meaning": "asked",
+          "sound": "ti-na-nong"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "kung",
+          "meaning": "if",
+          "sound": "kung"
+        },
+        {
+          "word": "sino",
+          "meaning": "who",
+          "sound": "si-no"
+        },
+        {
+          "word": "talaga",
+          "meaning": "indeed",
+          "sound": "ta-la-ga"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Noong",
+          "meaning": "when",
+          "sound": "no-ong"
+        },
+        {
+          "word": "una",
+          "meaning": "first",
+          "sound": "u-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "akala",
+          "meaning": "thought",
+          "sound": "a-ka-la"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "nakadepende",
+          "meaning": "depends",
+          "sound": "na-ka-de-pen-de"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "identity",
+          "meaning": "identity",
+          "sound": "i-den-ti-ty"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "iniisip",
+          "meaning": "thinking",
+          "sound": "i-ni-i-sip"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "iba",
+          "meaning": "others",
+          "sound": "i-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naghahanap",
+          "meaning": "looking for",
+          "sound": "nag-ha-ha-nap"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "pag",
+          "meaning": "pag",
+          "sound": "pag"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "apruba",
+          "meaning": "approval",
+          "sound": "a-pru-ba"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "natatakot",
+          "meaning": "scared",
+          "sound": "na-ta-ta-kot"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "magkamali",
+          "meaning": "make a mistake",
+          "sound": "mag-ka-ma-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gayunpaman",
+          "meaning": "however",
+          "sound": "ga-y-un-pa-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "paglipas",
+          "meaning": "over",
+          "sound": "pa-gli-pas"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "panahon",
+          "meaning": "period",
+          "sound": "pa-na-hon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "naunawaan",
+          "meaning": "understood",
+          "sound": "na-u-na-wa-an"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "halaga",
+          "meaning": "value",
+          "sound": "ha-la-ga"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "nakasalalay",
+          "meaning": "dependent",
+          "sound": "na-ka-sa-la-la-y"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "iba",
+          "meaning": "others",
+          "sound": "i-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Isang",
+          "meaning": "one",
+          "sound": "i-sang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nagpasya",
+          "meaning": "decided",
+          "sound": "nag-pa-sy-a"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "makinig",
+          "meaning": "listen",
+          "sound": "ma-ki-nig"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "sarili",
+          "meaning": "self",
+          "sound": "sa-ri-li"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "boses",
+          "meaning": "voice",
+          "sound": "bo-ses"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagsimula",
+          "meaning": "started",
+          "sound": "nag-si-mu-la"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "gumawa",
+          "meaning": "make",
+          "sound": "gu-ma-wa"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "desisyon",
+          "meaning": "decision",
+          "sound": "de-si-sy-on"
+        },
+        {
+          "word": "para",
+          "meaning": "for",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "sarili",
+          "meaning": "self",
+          "sound": "sa-ri-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hindi",
+          "meaning": "nope",
+          "sound": "hin-di"
+        },
+        {
+          "word": "ito",
+          "meaning": "this",
+          "sound": "i-to"
+        },
+        {
+          "word": "laging",
+          "meaning": "always",
+          "sound": "la-ging"
+        },
+        {
+          "word": "madali",
+          "meaning": "easy",
+          "sound": "ma-da-li"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "natuto",
+          "meaning": "learned",
+          "sound": "na-tu-to"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "bawat",
+          "meaning": "each",
+          "sound": "ba-wat"
+        },
+        {
+          "word": "pagkakamali",
+          "meaning": "mistake",
+          "sound": "pag-ka-ka-ma-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "alam",
+          "meaning": "know",
+          "sound": "a-lam"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pagiging",
+          "meaning": "being",
+          "sound": "pa-gi-ging"
+        },
+        {
+          "word": "iyong",
+          "meaning": "your",
+          "sound": "i-y-ong"
+        },
+        {
+          "word": "sarili",
+          "meaning": "self",
+          "sound": "sa-ri-li"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pinakamalaking",
+          "meaning": "largest",
+          "sound": "pi-na-ka-ma-la-king"
+        },
+        {
+          "word": "tagumpay",
+          "meaning": "success",
+          "sound": "ta-gum-pa-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Ang halaga ng oras",
+      "content": [
+        {
+          "word": "Ilang",
+          "meaning": "some",
+          "sound": "i-lang"
+        },
+        {
+          "word": "taon",
+          "meaning": "year",
+          "sound": "ta-on"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "nakalilipas",
+          "meaning": "ago",
+          "sound": "na-ka-li-li-pas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "masyadong",
+          "meaning": "too",
+          "sound": "ma-sy-a-dong"
+        },
+        {
+          "word": "binibigyang",
+          "meaning": "given",
+          "sound": "bi-ni-bi-gy-ang"
+        },
+        {
+          "word": "pansin",
+          "meaning": "attention",
+          "sound": "pan-sin"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "oras",
+          "meaning": "time",
+          "sound": "o-ras"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Akala",
+          "meaning": "thought",
+          "sound": "a-ka-la"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "laging",
+          "meaning": "always",
+          "sound": "la-ging"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "mas",
+          "meaning": "more",
+          "sound": "mas"
+        },
+        {
+          "word": "maraming",
+          "meaning": "many",
+          "sound": "ma-ra-ming"
+        },
+        {
+          "word": "pagkakataon",
+          "meaning": "opportunity",
+          "sound": "pag-ka-ka-ta-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Marami",
+          "meaning": "a lot",
+          "sound": "ma-ra-mi"
+        },
+        {
+          "word": "siyang",
+          "meaning": "he",
+          "sound": "si-y-ang"
+        },
+        {
+          "word": "iniwan",
+          "meaning": "left",
+          "sound": "i-ni-wan"
+        },
+        {
+          "word": "para",
+          "meaning": "for",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "mamaya",
+          "meaning": "later",
+          "sound": "ma-ma-y-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Isang",
+          "meaning": "one",
+          "sound": "i-sang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sinabi",
+          "meaning": "said",
+          "sound": "si-na-bi"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "kaibigan",
+          "meaning": "friend",
+          "sound": "ka-i-bi-gan"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "oras",
+          "meaning": "time",
+          "sound": "o-ras"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "walang",
+          "meaning": "nothing",
+          "sound": "wa-lang"
+        },
+        {
+          "word": "hinihintay",
+          "meaning": "waiting",
+          "sound": "hi-ni-hin-ta-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nanatili",
+          "meaning": "stayed",
+          "sound": "na-na-ti-li"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "isip",
+          "meaning": "mind",
+          "sound": "i-sip"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "katagang",
+          "meaning": "term",
+          "sound": "ka-ta-gang"
+        },
+        {
+          "word": "iyon",
+          "meaning": "that",
+          "sound": "i-y-on"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Simula",
+          "meaning": "beginning",
+          "sound": "si-mu-la"
+        },
+        {
+          "word": "noon",
+          "meaning": "then",
+          "sound": "no-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sinimulan",
+          "meaning": "started",
+          "sound": "si-ni-mu-lan"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "pahalagahan",
+          "meaning": "appreciate",
+          "sound": "pa-ha-la-ga-han"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "bawat",
+          "meaning": "each",
+          "sound": "ba-wat"
+        },
+        {
+          "word": "sandali",
+          "meaning": "moment",
+          "sound": "san-da-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Natuto",
+          "meaning": "learned",
+          "sound": "na-tu-to"
+        },
+        {
+          "word": "akong",
+          "meaning": "me",
+          "sound": "a-kong"
+        },
+        {
+          "word": "ayusin",
+          "meaning": "arrange",
+          "sound": "a-y-u-sin"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "unahin",
+          "meaning": "prioritize",
+          "sound": "u-na-hin"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mahalaga",
+          "meaning": "important",
+          "sound": "ma-ha-la-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naintindihan",
+          "meaning": "understood",
+          "sound": "na-in-tin-di-han"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "rin",
+          "meaning": "also",
+          "sound": "rin"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "lahat",
+          "meaning": "all",
+          "sound": "la-hat"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "bagay",
+          "meaning": "thing",
+          "sound": "ba-ga-y"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "kailangang",
+          "meaning": "must",
+          "sound": "ka-i-lan-gang"
+        },
+        {
+          "word": "maging",
+          "meaning": "be",
+          "sound": "ma-ging"
+        },
+        {
+          "word": "perpekto",
+          "meaning": "perfect",
+          "sound": "per-pek-to"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sinusubukan",
+          "meaning": "trying",
+          "sound": "si-nu-su-bu-kan"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "mamuhay",
+          "meaning": "to live",
+          "sound": "ma-mu-ha-y"
+        },
+        {
+          "word": "nang",
+          "meaning": "when",
+          "sound": "nang"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "higit",
+          "meaning": "more",
+          "sound": "hi-git"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "kamalayan",
+          "meaning": "consciousness",
+          "sound": "ka-ma-la-y-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dahil",
+          "meaning": "because",
+          "sound": "da-hil"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "oras",
+          "meaning": "time",
+          "sound": "o-ras"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "pinakamahalagang",
+          "meaning": "most important",
+          "sound": "pi-na-ka-ma-ha-la-gang"
+        },
+        {
+          "word": "bagay",
+          "meaning": "thing",
+          "sound": "ba-ga-y"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "mayroon",
+          "meaning": "have",
+          "sound": "ma-y-ro-on"
+        },
+        {
+          "word": "tayo",
+          "meaning": "we",
+          "sound": "ta-y-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Mga desisyon na nagbabago sa buhay",
+      "content": [
+        {
+          "word": "Minsan",
+          "meaning": "sometimes",
+          "sound": "min-san"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "iniisip",
+          "meaning": "thinking",
+          "sound": "i-ni-i-sip"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "desisyon",
+          "meaning": "decision",
+          "sound": "de-si-sy-on"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ginawa",
+          "meaning": "made",
+          "sound": "gi-na-wa"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "nakaraan",
+          "meaning": "past",
+          "sound": "na-ka-ra-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "ilan",
+          "meaning": "some",
+          "sound": "i-lan"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "tama",
+          "meaning": "right",
+          "sound": "ta-ma"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "iba",
+          "meaning": "others",
+          "sound": "i-ba"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Minsan",
+          "meaning": "sometimes",
+          "sound": "min-san"
+        },
+        {
+          "word": "iniisip",
+          "meaning": "thinking",
+          "sound": "i-ni-i-sip"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "kung",
+          "meaning": "if",
+          "sound": "kung"
+        },
+        {
+          "word": "ano",
+          "meaning": "what",
+          "sound": "a-no"
+        },
+        {
+          "word": "kaya",
+          "meaning": "so",
+          "sound": "ka-y-a"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "nangyari",
+          "meaning": "happened",
+          "sound": "nan-gy-a-ri"
+        },
+        {
+          "word": "kung",
+          "meaning": "if",
+          "sound": "kung"
+        },
+        {
+          "word": "pumili",
+          "meaning": "choose",
+          "sound": "pu-mi-li"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "ibang",
+          "meaning": "other",
+          "sound": "i-bang"
+        },
+        {
+          "word": "landas",
+          "meaning": "path",
+          "sound": "lan-das"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siguro",
+          "meaning": "maybe",
+          "sound": "si-gu-ro"
+        },
+        {
+          "word": "mas",
+          "meaning": "more",
+          "sound": "mas"
+        },
+        {
+          "word": "naging",
+          "meaning": "became",
+          "sound": "na-ging"
+        },
+        {
+          "word": "matagumpay",
+          "meaning": "successful",
+          "sound": "ma-ta-gum-pa-y"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "baka",
+          "meaning": "maybe",
+          "sound": "ba-ka"
+        },
+        {
+          "word": "mas",
+          "meaning": "more",
+          "sound": "mas"
+        },
+        {
+          "word": "kaunti",
+          "meaning": "little",
+          "sound": "ka-un-ti"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "natutunan",
+          "meaning": "learned",
+          "sound": "na-tu-tu-nan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gayunpaman",
+          "meaning": "however",
+          "sound": "ga-y-un-pa-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "naunawaan",
+          "meaning": "understood",
+          "sound": "na-u-na-wa-an"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "walang",
+          "meaning": "nothing",
+          "sound": "wa-lang"
+        },
+        {
+          "word": "saysay",
+          "meaning": "it makes sense",
+          "sound": "sa-y-sa-y"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mabuhay",
+          "meaning": "live",
+          "sound": "ma-bu-ha-y"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "nakaraan",
+          "meaning": "past",
+          "sound": "na-ka-ra-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bawat",
+          "meaning": "each",
+          "sound": "ba-wat"
+        },
+        {
+          "word": "desisyon",
+          "meaning": "decision",
+          "sound": "de-si-sy-on"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "itinuro",
+          "meaning": "taught",
+          "sound": "i-ti-nu-ro"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Maging",
+          "meaning": "be",
+          "sound": "ma-ging"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "pagkakamali",
+          "meaning": "mistake",
+          "sound": "pag-ka-ka-ma-li"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "naging",
+          "meaning": "became",
+          "sound": "na-ging"
+        },
+        {
+          "word": "mahalagang",
+          "meaning": "important",
+          "sound": "ma-ha-la-gang"
+        },
+        {
+          "word": "aral",
+          "meaning": "lesson",
+          "sound": "a-ral"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ngayon",
+          "meaning": "now",
+          "sound": "nga-y-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sinusubukan",
+          "meaning": "trying",
+          "sound": "si-nu-su-bu-kan"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "gumawa",
+          "meaning": "make",
+          "sound": "gu-ma-wa"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "mga",
+          "meaning": "those",
+          "sound": "mga"
+        },
+        {
+          "word": "desisyon",
+          "meaning": "decision",
+          "sound": "de-si-sy-on"
+        },
+        {
+          "word": "nang",
+          "meaning": "when",
+          "sound": "nang"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "higit",
+          "meaning": "more",
+          "sound": "hi-git"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "kamalayan",
+          "meaning": "consciousness",
+          "sound": "ka-ma-la-y-an"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hindi",
+          "meaning": "nope",
+          "sound": "hin-di"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "mababago",
+          "meaning": "can be changed",
+          "sound": "ma-ba-ba-go"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "nangyari",
+          "meaning": "happened",
+          "sound": "nan-gy-a-ri"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pero",
+          "meaning": "but",
+          "sound": "pe-ro"
+        },
+        {
+          "word": "kaya",
+          "meaning": "so",
+          "sound": "ka-y-a"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "magdesisyon",
+          "meaning": "decide",
+          "sound": "mag-de-si-sy-on"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "aking",
+          "meaning": "my",
+          "sound": "a-king"
+        },
+        {
+          "word": "kinabukasan",
+          "meaning": "tomorrow",
+          "sound": "ki-na-bu-ka-san"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Ang panloob na boses",
+      "content": [
+        {
+          "word": "Sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "mahabang",
+          "meaning": "long",
+          "sound": "ma-ha-bang"
+        },
+        {
+          "word": "panahon",
+          "meaning": "period",
+          "sound": "pa-na-hon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nabuhay",
+          "meaning": "lived",
+          "sound": "na-bu-ha-y"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "ayon",
+          "meaning": "according",
+          "sound": "a-y-on"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "inaasahan",
+          "meaning": "expected",
+          "sound": "i-na-a-sa-han"
+        },
+        {
+          "word": "ng",
+          "meaning": "of",
+          "sound": "ng"
+        },
+        {
+          "word": "iba",
+          "meaning": "others",
+          "sound": "i-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Naniniwala",
+          "meaning": "believe",
+          "sound": "na-ni-ni-wa-la"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "iyon",
+          "meaning": "that",
+          "sound": "i-y-on"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "tamang",
+          "meaning": "correct",
+          "sound": "ta-mang"
+        },
+        {
+          "word": "landas",
+          "meaning": "path",
+          "sound": "lan-das"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gayunpaman",
+          "meaning": "however",
+          "sound": "ga-y-un-pa-man"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "kaibuturan",
+          "meaning": "core",
+          "sound": "ka-i-bu-tu-ran"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "palaging",
+          "meaning": "always",
+          "sound": "pa-la-ging"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "boses",
+          "meaning": "voice",
+          "sound": "bo-ses"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "nagsasabi",
+          "meaning": "saying",
+          "sound": "nag-sa-sa-bi"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "may",
+          "meaning": "have",
+          "sound": "ma-y"
+        },
+        {
+          "word": "mali",
+          "meaning": "wrong",
+          "sound": "ma-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pinilit",
+          "meaning": "forced",
+          "sound": "pi-ni-lit"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "pansinin",
+          "meaning": "notice",
+          "sound": "pan-si-nin"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "lalo",
+          "meaning": "especially",
+          "sound": "la-lo"
+        },
+        {
+          "word": "itong",
+          "meaning": "this",
+          "sound": "i-tong"
+        },
+        {
+          "word": "lumakas",
+          "meaning": "get stronger",
+          "sound": "lu-ma-kas"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Isang",
+          "meaning": "one",
+          "sound": "i-sang"
+        },
+        {
+          "word": "araw",
+          "meaning": "day",
+          "sound": "a-raw"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tumigil",
+          "meaning": "stop",
+          "sound": "tu-mi-gil"
+        },
+        {
+          "word": "ako",
+          "meaning": "me",
+          "sound": "a-ko"
+        },
+        {
+          "word": "at",
+          "meaning": "and",
+          "sound": "at"
+        },
+        {
+          "word": "tinanong",
+          "meaning": "asked",
+          "sound": "ti-na-nong"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "sarili",
+          "meaning": "self",
+          "sound": "sa-ri-li"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "kung",
+          "meaning": "if",
+          "sound": "kung"
+        },
+        {
+          "word": "ano",
+          "meaning": "what",
+          "sound": "a-no"
+        },
+        {
+          "word": "ba",
+          "meaning": "what",
+          "sound": "ba"
+        },
+        {
+          "word": "talaga",
+          "meaning": "indeed",
+          "sound": "ta-la-ga"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "gusto",
+          "meaning": "like",
+          "sound": "gus-to"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hindi",
+          "meaning": "nope",
+          "sound": "hin-di"
+        },
+        {
+          "word": "agad",
+          "meaning": "immediately",
+          "sound": "a-gad"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "agad",
+          "meaning": "immediately",
+          "sound": "a-gad"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "tugon",
+          "meaning": "response",
+          "sound": "tu-gon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "unang",
+          "meaning": "first",
+          "sound": "u-nang"
+        },
+        {
+          "word": "pagkakataon",
+          "meaning": "opportunity",
+          "sound": "pag-ka-ka-ta-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "naramdaman",
+          "meaning": "felt",
+          "sound": "na-ram-da-man"
+        },
+        {
+          "word": "kong",
+          "meaning": "kong",
+          "sound": "kong"
+        },
+        {
+          "word": "nakikinig",
+          "meaning": "listening",
+          "sound": "na-ki-ki-nig"
+        },
+        {
+          "word": "siya",
+          "meaning": "he",
+          "sound": "si-y-a"
+        },
+        {
+          "word": "sa",
+          "meaning": "in",
+          "sound": "sa"
+        },
+        {
+          "word": "akin",
+          "meaning": "mine",
+          "sound": "a-kin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mula",
+          "meaning": "from",
+          "sound": "mu-la"
+        },
+        {
+          "word": "noon",
+          "meaning": "then",
+          "sound": "no-on"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "natutunan",
+          "meaning": "learned",
+          "sound": "na-tu-tu-nan"
+        },
+        {
+          "word": "ko",
+          "meaning": "i",
+          "sound": "ko"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "ang",
+          "meaning": "the",
+          "sound": "ang"
+        },
+        {
+          "word": "panloob",
+          "meaning": "internal",
+          "sound": "pan-lo-ob"
+        },
+        {
+          "word": "na",
+          "meaning": "already",
+          "sound": "na"
+        },
+        {
+          "word": "boses",
+          "meaning": "voice",
+          "sound": "bo-ses"
+        },
+        {
+          "word": "ay",
+          "meaning": "is",
+          "sound": "ay"
+        },
+        {
+          "word": "hindi",
+          "meaning": "no",
+          "sound": "hin-di"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "balakid",
+          "meaning": "obstacle",
+          "sound": "ba-la-kid"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ngunit",
+          "meaning": "but",
+          "sound": "ngu-nit"
+        },
+        {
+          "word": "isang",
+          "meaning": "a",
+          "sound": "i-sang"
+        },
+        {
+          "word": "gabay",
+          "meaning": "guide",
+          "sound": "ga-ba-y"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "tagalog": {
+        "present": [
+          "Kumakain",
+          "ako",
+          "ng",
+          "mansanas"
+        ],
+        "past": [
+          "Kumain",
+          "ako",
+          "ng",
+          "mansanas"
+        ],
+        "future": [
+          "Kakain",
+          "ako",
+          "ng",
+          "mansanas"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "tagalog": {
+        "present": [
+          "Nagbabasa",
+          "siya",
+          "ng",
+          "libro"
+        ],
+        "past": [
+          "Nagbasa",
+          "siya",
+          "ng",
+          "libro"
+        ],
+        "future": [
+          "Magbabasa",
+          "siya",
+          "ng",
+          "libro"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "tagalog": {
+        "present": [
+          "Pumunta",
+          "kami",
+          "sa",
+          "school"
+        ],
+        "past": [
+          "Pumunta",
+          "kami",
+          "sa",
+          "school"
+        ],
+        "future": [
+          "Papasok",
+          "na",
+          "kami",
+          "sa",
+          "school"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "tagalog": {
+        "present": [
+          "Umiinom",
+          "siya",
+          "ng",
+          "tubig"
+        ],
+        "past": [
+          "Uminom",
+          "siya",
+          "ng",
+          "tubig"
+        ],
+        "future": [
+          "Iinom",
+          "siya",
+          "ng",
+          "tubig"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "tagalog": {
+        "present": [
+          "Naglalaro",
+          "sila",
+          "ng",
+          "football"
+        ],
+        "past": [
+          "Naglaro",
+          "sila",
+          "ng",
+          "football"
+        ],
+        "future": [
+          "Maglalaro",
+          "sila",
+          "ng",
+          "football"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "tagalog": {
+        "present": [
+          "Sumulat",
+          "ako",
+          "ng",
+          "liham"
+        ],
+        "past": [
+          "Sumulat",
+          "ako",
+          "ng",
+          "liham"
+        ],
+        "future": [
+          "Magsusulat",
+          "ako",
+          "ng",
+          "liham"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "tagalog": {
+        "present": [
+          "Kumakain",
+          "siya",
+          "ng",
+          "kanin"
+        ],
+        "past": [
+          "Kumain",
+          "siya",
+          "ng",
+          "kanin"
+        ],
+        "future": [
+          "Kakain",
+          "siya",
+          "ng",
+          "kanin"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "tagalog": {
+        "present": [
+          "Nanonood",
+          "kami",
+          "ng",
+          "sine"
+        ],
+        "past": [
+          "Nanood",
+          "kami",
+          "ng",
+          "sine"
+        ],
+        "future": [
+          "Manonood",
+          "kami",
+          "ng",
+          "sine"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "tagalog": {
+        "present": [
+          "Binuksan",
+          "niya",
+          "ang",
+          "pinto"
+        ],
+        "past": [
+          "Binuksan",
+          "niya",
+          "ang",
+          "pinto"
+        ],
+        "future": [
+          "Bubuksan",
+          "niya",
+          "ang",
+          "pinto"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "tagalog": {
+        "present": [
+          "Bumili",
+          "sila",
+          "ng",
+          "pagkain"
+        ],
+        "past": [
+          "Bumili",
+          "sila",
+          "ng",
+          "pagkain"
+        ],
+        "future": [
+          "Bibili",
+          "sila",
+          "ng",
+          "pagkain"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "tagalog": {
+        "present": [
+          "Kumain",
+          "ako",
+          "ng",
+          "mansanas",
+          "at",
+          "uminom",
+          "ng",
+          "tubig"
+        ],
+        "past": [
+          "Kumain",
+          "ako",
+          "ng",
+          "mansanas",
+          "at",
+          "uminom",
+          "ng",
+          "tubig"
+        ],
+        "future": [
+          "Kakain",
+          "ako",
+          "ng",
+          "mansanas",
+          "at",
+          "iinom",
+          "ng",
+          "tubig"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "tagalog": {
+        "present": [
+          "Nagbabasa",
+          "siya",
+          "ng",
+          "libro",
+          "dahil",
+          "mahilig",
+          "siya",
+          "sa",
+          "mga",
+          "kwento"
+        ],
+        "past": [
+          "Nagbasa",
+          "siya",
+          "ng",
+          "libro",
+          "dahil",
+          "mahilig",
+          "siya",
+          "sa",
+          "mga",
+          "kwento"
+        ],
+        "future": [
+          "Magbabasa",
+          "siya",
+          "ng",
+          "libro",
+          "dahil",
+          "mahilig",
+          "siya",
+          "sa",
+          "mga",
+          "kwento"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "tagalog": {
+        "present": [
+          "Pumapasok",
+          "kami",
+          "sa",
+          "paaralan",
+          "at",
+          "sabay",
+          "kaming",
+          "nag-aaral"
+        ],
+        "past": [
+          "Pumasok",
+          "kami",
+          "sa",
+          "paaralan",
+          "at",
+          "nag-aral",
+          "nang",
+          "magkasama"
+        ],
+        "future": [
+          "Magkasama",
+          "tayong",
+          "papasok",
+          "sa",
+          "paaralan",
+          "at",
+          "mag-aaral"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "tagalog": {
+        "present": [
+          "Umiinom",
+          "siya",
+          "ng",
+          "tubig",
+          "ngunit",
+          "kumakain",
+          "ng",
+          "fast",
+          "food"
+        ],
+        "past": [
+          "Uminom",
+          "siya",
+          "ng",
+          "tubig",
+          "pero",
+          "kumain",
+          "ng",
+          "fast",
+          "food"
+        ],
+        "future": [
+          "Iinom",
+          "siya",
+          "ng",
+          "tubig",
+          "pero",
+          "kakain",
+          "ng",
+          "fast",
+          "food"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "tagalog": {
+        "present": [
+          "Naglalaro",
+          "sila",
+          "ng",
+          "football",
+          "at",
+          "tumatakbo",
+          "sa",
+          "parke"
+        ],
+        "past": [
+          "Naglaro",
+          "sila",
+          "ng",
+          "football",
+          "at",
+          "tumakbo",
+          "sa",
+          "parke"
+        ],
+        "future": [
+          "Maglalaro",
+          "sila",
+          "ng",
+          "football",
+          "at",
+          "tatakbo",
+          "sa",
+          "parke"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "tagalog": {
+        "present": [
+          "Sumulat",
+          "ako",
+          "ng",
+          "liham",
+          "dahil",
+          "namimiss",
+          "kita"
+        ],
+        "past": [
+          "Sumulat",
+          "ako",
+          "ng",
+          "liham",
+          "dahil",
+          "na-miss",
+          "kita"
+        ],
+        "future": [
+          "Magsusulat",
+          "ako",
+          "ng",
+          "liham",
+          "dahil",
+          "miss",
+          "na",
+          "kita"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "tagalog": {
+        "present": [
+          "Kumakain",
+          "siya",
+          "ng",
+          "kanin",
+          "at",
+          "nagluluto",
+          "araw-araw"
+        ],
+        "past": [
+          "Kumain",
+          "siya",
+          "ng",
+          "kanin",
+          "at",
+          "nagluluto",
+          "araw-araw"
+        ],
+        "future": [
+          "Kakain",
+          "siya",
+          "ng",
+          "kanin",
+          "at",
+          "magluluto",
+          "araw-araw"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "tagalog": {
+        "present": [
+          "Nanonood",
+          "kami",
+          "ng",
+          "sine",
+          "pero",
+          "late",
+          "natulog"
+        ],
+        "past": [
+          "Nanood",
+          "kami",
+          "ng",
+          "sine",
+          "pero",
+          "late",
+          "na",
+          "natulog"
+        ],
+        "future": [
+          "Manonood",
+          "kami",
+          "ng",
+          "sine",
+          "pero",
+          "late",
+          "matulog"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "tagalog": {
+        "present": [
+          "Binuksan",
+          "niya",
+          "ang",
+          "pinto",
+          "at",
+          "binati",
+          "ang",
+          "mga",
+          "tao"
+        ],
+        "past": [
+          "Binuksan",
+          "niya",
+          "ang",
+          "pinto",
+          "at",
+          "binati",
+          "ang",
+          "mga",
+          "tao"
+        ],
+        "future": [
+          "Bubuksan",
+          "niya",
+          "ang",
+          "pinto",
+          "at",
+          "babatiin",
+          "ang",
+          "mga",
+          "tao"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "tagalog": {
+        "present": [
+          "Bumili",
+          "sila",
+          "ng",
+          "pagkain",
+          "dahil",
+          "gutom",
+          "na",
+          "sila"
+        ],
+        "past": [
+          "Bumili",
+          "sila",
+          "ng",
+          "pagkain",
+          "dahil",
+          "gutom",
+          "na",
+          "sila"
+        ],
+        "future": [
+          "Bibili",
+          "sila",
+          "ng",
+          "pagkain",
+          "dahil",
+          "gutom",
+          "na",
+          "sila"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "tagalog": {
+        "present": [
+          "Kumakain",
+          "ako",
+          "ng",
+          "almusal",
+          "sa",
+          "umaga"
+        ],
+        "past": [
+          "Kumain",
+          "ako",
+          "ng",
+          "almusal",
+          "sa",
+          "umaga"
+        ],
+        "future": [
+          "Kakain",
+          "ako",
+          "ng",
+          "almusal",
+          "sa",
+          "umaga"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "tagalog": {
+        "present": [
+          "Nag-aaral",
+          "siya",
+          "sa",
+          "bahay",
+          "araw-araw"
+        ],
+        "past": [
+          "Nag-aaral",
+          "siya",
+          "sa",
+          "bahay",
+          "araw-araw"
+        ],
+        "future": [
+          "Mag-aaral",
+          "siya",
+          "sa",
+          "bahay",
+          "araw-araw"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "tagalog": {
+        "present": [
+          "Naglalakad",
+          "kami",
+          "sa",
+          "park",
+          "sa",
+          "gabi"
+        ],
+        "past": [
+          "Naglalakad",
+          "kami",
+          "sa",
+          "park",
+          "sa",
+          "gabi"
+        ],
+        "future": [
+          "Maglalakad",
+          "kami",
+          "sa",
+          "park",
+          "sa",
+          "gabi"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "tagalog": {
+        "present": [
+          "Nagtatrabaho",
+          "siya",
+          "sa",
+          "isang",
+          "opisina",
+          "sa",
+          "lungsod"
+        ],
+        "past": [
+          "Nagtatrabaho",
+          "siya",
+          "sa",
+          "isang",
+          "opisina",
+          "sa",
+          "lungsod"
+        ],
+        "future": [
+          "Magtatrabaho",
+          "siya",
+          "sa",
+          "isang",
+          "opisina",
+          "sa",
+          "lungsod"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "tagalog": {
+        "present": [
+          "Naglalakbay",
+          "sila",
+          "sa",
+          "ibang",
+          "bansa",
+          "taun-taon"
+        ],
+        "past": [
+          "Taun-taon",
+          "sila",
+          "ay",
+          "naglalakbay",
+          "sa",
+          "ibang",
+          "bansa"
+        ],
+        "future": [
+          "Maglalakbay",
+          "sila",
+          "sa",
+          "ibang",
+          "bansa",
+          "taun-taon"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "tagalog": {
+        "present": [
+          "Nagbabasa",
+          "ako",
+          "ng",
+          "libro",
+          "sa",
+          "gabi",
+          "bago",
+          "matulog"
+        ],
+        "past": [
+          "Nagbabasa",
+          "ako",
+          "ng",
+          "libro",
+          "sa",
+          "gabi",
+          "bago",
+          "matulog"
+        ],
+        "future": [
+          "Magbabasa",
+          "ako",
+          "ng",
+          "libro",
+          "sa",
+          "gabi",
+          "bago",
+          "matulog"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "tagalog": {
+        "present": [
+          "Umiinom",
+          "siya",
+          "ng",
+          "kape",
+          "sa",
+          "umaga",
+          "sa",
+          "bahay"
+        ],
+        "past": [
+          "Uminom",
+          "siya",
+          "ng",
+          "kape",
+          "sa",
+          "umaga",
+          "sa",
+          "bahay"
+        ],
+        "future": [
+          "Iinom",
+          "siya",
+          "ng",
+          "kape",
+          "sa",
+          "umaga",
+          "sa",
+          "bahay"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "tagalog": {
+        "present": [
+          "Nagkikita",
+          "kami",
+          "ng",
+          "mga",
+          "kaibigan",
+          "sa",
+          "restaurant",
+          "ngayong",
+          "gabi"
+        ],
+        "past": [
+          "Nagkita",
+          "kami",
+          "ng",
+          "mga",
+          "kaibigan",
+          "sa",
+          "restaurant",
+          "ngayong",
+          "gabi"
+        ],
+        "future": [
+          "Magkikita",
+          "kami",
+          "ng",
+          "mga",
+          "kaibigan",
+          "sa",
+          "restaurant",
+          "mamayang",
+          "gabi"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "tagalog": {
+        "present": [
+          "Nag-aaral",
+          "siya",
+          "ng",
+          "Espanyol",
+          "sa",
+          "paaralan",
+          "araw-araw"
+        ],
+        "past": [
+          "Nag-aral",
+          "siya",
+          "ng",
+          "Espanyol",
+          "sa",
+          "paaralan",
+          "araw-araw"
+        ],
+        "future": [
+          "Mag-aaral",
+          "siya",
+          "ng",
+          "Spanish",
+          "sa",
+          "paaralan",
+          "araw-araw"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "tagalog": {
+        "present": [
+          "Nanonood",
+          "sila",
+          "ng",
+          "telebisyon",
+          "sa",
+          "gabi",
+          "sa",
+          "bahay"
+        ],
+        "past": [
+          "Nanood",
+          "sila",
+          "ng",
+          "telebisyon",
+          "sa",
+          "gabi",
+          "sa",
+          "bahay"
+        ],
+        "future": [
+          "Manonood",
+          "sila",
+          "ng",
+          "telebisyon",
+          "sa",
+          "gabi",
+          "sa",
+          "bahay"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "tagalog": {
+        "present": [
+          "Gusto",
+          "ko",
+          "ang",
+          "musikang",
+          "ito"
+        ],
+        "past": [
+          "Nagustuhan",
+          "ko",
+          "ang",
+          "musikang",
+          "ito"
+        ],
+        "future": [
+          "Gusto",
+          "ko",
+          "ang",
+          "musikang",
+          "ito"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "tagalog": {
+        "present": [
+          "Masaya",
+          "ang",
+          "pakiramdam",
+          "niya",
+          "ngayong",
+          "araw"
+        ],
+        "past": [
+          "Nakaramdam",
+          "siya",
+          "ng",
+          "saya",
+          "ngayong",
+          "araw"
+        ],
+        "future": [
+          "Magiging",
+          "masaya",
+          "siya",
+          "ngayong",
+          "araw"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "tagalog": {
+        "present": [
+          "Sa",
+          "tingin",
+          "namin",
+          "ay",
+          "maganda",
+          "ang",
+          "ideyang",
+          "ito"
+        ],
+        "past": [
+          "Akala",
+          "namin",
+          "ay",
+          "maganda",
+          "ang",
+          "ideyang",
+          "ito"
+        ],
+        "future": [
+          "Iisipin",
+          "nating",
+          "mabuti",
+          "ang",
+          "ideyang",
+          "ito"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "tagalog": {
+        "present": [
+          "Gusto",
+          "niyang",
+          "matuto",
+          "ng",
+          "Spanish"
+        ],
+        "past": [
+          "Gusto",
+          "niyang",
+          "matuto",
+          "ng",
+          "Spanish"
+        ],
+        "future": [
+          "Gusto",
+          "niyang",
+          "matuto",
+          "ng",
+          "Spanish"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "tagalog": {
+        "present": [
+          "Mahal",
+          "na",
+          "mahal",
+          "nila",
+          "ang",
+          "kanilang",
+          "pamilya"
+        ],
+        "past": [
+          "Mahal",
+          "na",
+          "mahal",
+          "nila",
+          "ang",
+          "kanilang",
+          "pamilya"
+        ],
+        "future": [
+          "Mamahalin",
+          "nila",
+          "ng",
+          "husto",
+          "ang",
+          "kanilang",
+          "pamilya"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "tagalog": {
+        "present": [
+          "Nakakaramdam",
+          "ako",
+          "ng",
+          "pagod",
+          "pagkatapos",
+          "ng",
+          "trabaho"
+        ],
+        "past": [
+          "Nakaramdam",
+          "ako",
+          "ng",
+          "pagod",
+          "pagkatapos",
+          "ng",
+          "trabaho"
+        ],
+        "future": [
+          "Makakaramdam",
+          "ako",
+          "ng",
+          "pagod",
+          "pagkatapos",
+          "ng",
+          "trabaho"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "tagalog": {
+        "present": [
+          "Naniniwala",
+          "siya",
+          "sa",
+          "sarili",
+          "niya"
+        ],
+        "past": [
+          "Naniwala",
+          "siya",
+          "sa",
+          "sarili",
+          "niya"
+        ],
+        "future": [
+          "Maniniwala",
+          "siya",
+          "sa",
+          "sarili",
+          "niya"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "tagalog": {
+        "present": [
+          "Gusto",
+          "naming",
+          "maglakbay",
+          "nang",
+          "magkasama"
+        ],
+        "past": [
+          "Nagustuhan",
+          "naming",
+          "maglakbay",
+          "nang",
+          "magkasama"
+        ],
+        "future": [
+          "Gusto",
+          "naming",
+          "maglakbay",
+          "nang",
+          "magkasama"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "tagalog": {
+        "present": [
+          "Iniisip",
+          "niya",
+          "ang",
+          "kanyang",
+          "kinabukasan"
+        ],
+        "past": [
+          "Iniisip",
+          "niya",
+          "ang",
+          "kanyang",
+          "kinabukasan"
+        ],
+        "future": [
+          "Pag-iisipan",
+          "niya",
+          "ang",
+          "kanyang",
+          "kinabukasan"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "tagalog": {
+        "present": [
+          "Excited",
+          "na",
+          "sila",
+          "sa",
+          "biyahe"
+        ],
+        "past": [
+          "Nakaramdam",
+          "sila",
+          "ng",
+          "excitement",
+          "sa",
+          "biyahe"
+        ],
+        "future": [
+          "Masasabik",
+          "sila",
+          "sa",
+          "paglalakbay"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "tagalog": {
+        "present": [
+          "Sinusubukan",
+          "kong",
+          "mag-improve",
+          "araw-araw"
+        ],
+        "past": [
+          "Sinubukan",
+          "kong",
+          "mag-improve",
+          "araw-araw"
+        ],
+        "future": [
+          "Susubukan",
+          "kong",
+          "pagbutihin",
+          "araw-araw"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "tagalog": {
+        "present": [
+          "Gusto",
+          "niyang",
+          "makamit",
+          "ang",
+          "kanyang",
+          "mga",
+          "layunin"
+        ],
+        "past": [
+          "Nais",
+          "niyang",
+          "makamit",
+          "ang",
+          "kanyang",
+          "mga",
+          "layunin"
+        ],
+        "future": [
+          "Gusto",
+          "niyang",
+          "makamit",
+          "ang",
+          "kanyang",
+          "mga",
+          "layunin"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "tagalog": {
+        "present": [
+          "Natututo",
+          "tayo",
+          "sa",
+          "ating",
+          "mga",
+          "pagkakamali"
+        ],
+        "past": [
+          "Natuto",
+          "tayo",
+          "sa",
+          "ating",
+          "mga",
+          "pagkakamali"
+        ],
+        "future": [
+          "Matututo",
+          "tayo",
+          "sa",
+          "ating",
+          "mga",
+          "pagkakamali"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "tagalog": {
+        "present": [
+          "Nagsusumikap",
+          "siya",
+          "para",
+          "mabuo",
+          "ang",
+          "kanyang",
+          "kinabukasan"
+        ],
+        "past": [
+          "Nagsumikap",
+          "siya",
+          "para",
+          "mabuo",
+          "ang",
+          "kanyang",
+          "kinabukasan"
+        ],
+        "future": [
+          "Siya",
+          "ay",
+          "magsisikap",
+          "para",
+          "mabuo",
+          "ang",
+          "kanyang",
+          "kinabukasan"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "tagalog": {
+        "present": [
+          "Naniniwala",
+          "sila",
+          "na",
+          "posible",
+          "ang",
+          "lahat"
+        ],
+        "past": [
+          "Naniniwala",
+          "sila",
+          "na",
+          "posible",
+          "ang",
+          "lahat"
+        ],
+        "future": [
+          "Maniniwala",
+          "sila",
+          "na",
+          "posible",
+          "ang",
+          "lahat"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "tagalog": {
+        "present": [
+          "Iniisip",
+          "ko",
+          "ang",
+          "aking",
+          "kinabukasan",
+          "tuwing",
+          "gabi"
+        ],
+        "past": [
+          "Iniisip",
+          "ko",
+          "ang",
+          "aking",
+          "kinabukasan",
+          "tuwing",
+          "gabi"
+        ],
+        "future": [
+          "Iisipin",
+          "ko",
+          "ang",
+          "aking",
+          "kinabukasan",
+          "tuwing",
+          "gabi"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "tagalog": {
+        "present": [
+          "Sinusubukan",
+          "niyang",
+          "manatiling",
+          "positibo",
+          "sa",
+          "mahihirap",
+          "na",
+          "oras"
+        ],
+        "past": [
+          "Sinubukan",
+          "niyang",
+          "manatiling",
+          "positibo",
+          "sa",
+          "mahihirap",
+          "na",
+          "oras"
+        ],
+        "future": [
+          "Susubukan",
+          "niyang",
+          "manatiling",
+          "positibo",
+          "sa",
+          "mahihirap",
+          "na",
+          "oras"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "tagalog": {
+        "present": [
+          "Nais",
+          "naming",
+          "mamuhay",
+          "ng",
+          "isang",
+          "makabuluhang",
+          "buhay"
+        ],
+        "past": [
+          "Nais",
+          "naming",
+          "mamuhay",
+          "ng",
+          "isang",
+          "makabuluhang",
+          "buhay"
+        ],
+        "future": [
+          "Gusto",
+          "nating",
+          "mamuhay",
+          "ng",
+          "makabuluhang",
+          "buhay"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "tagalog": {
+        "present": [
+          "Naiintindihan",
+          "niya",
+          "na",
+          "ang",
+          "pagbabago",
+          "ay",
+          "nangangailangan",
+          "ng",
+          "oras"
+        ],
+        "past": [
+          "Naunawaan",
+          "niya",
+          "na",
+          "ang",
+          "pagbabago",
+          "ay",
+          "tumagal"
+        ],
+        "future": [
+          "Mauunawaan",
+          "niya",
+          "na",
+          "ang",
+          "pagbabago",
+          "ay",
+          "nangangailangan",
+          "ng",
+          "oras"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "tagalog": {
+        "present": [
+          "Nagpasya",
+          "silang",
+          "sundin",
+          "ang",
+          "kanilang",
+          "mga",
+          "pangarap"
+        ],
+        "past": [
+          "Nagpasya",
+          "silang",
+          "sundin",
+          "ang",
+          "kanilang",
+          "mga",
+          "pangarap"
+        ],
+        "future": [
+          "Magpapasya",
+          "silang",
+          "sundin",
+          "ang",
+          "kanilang",
+          "mga",
+          "pangarap"
+        ]
+      }
+    }
+  ]
+}

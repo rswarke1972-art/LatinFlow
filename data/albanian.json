@@ -1,0 +1,8879 @@
+{
+  "language": "Albanian",
+  "stories": {
+    "story1": {
+      "title": "në kafene",
+      "content": [
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "shkoj",
+          "meaning": "i go",
+          "sound": "shkoj"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "kafene",
+          "meaning": "cafe",
+          "sound": "ka-fe-ne"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "vogël",
+          "meaning": "small",
+          "sound": "vo-gël"
+        },
+        {
+          "word": "çdo",
+          "meaning": "every",
+          "sound": "çdo"
+        },
+        {
+          "word": "mëngjes",
+          "meaning": "morning",
+          "sound": "mën-gjes"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kafeneja",
+          "meaning": "the cafe",
+          "sound": "ka-fe-ne-ja"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "afër",
+          "meaning": "near",
+          "sound": "a-fër"
+        },
+        {
+          "word": "shtëpisë",
+          "meaning": "home",
+          "sound": "shtë-pi-së"
+        },
+        {
+          "word": "sime",
+          "meaning": "mine",
+          "sound": "si-me"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "qetë",
+          "meaning": "quiet",
+          "sound": "qe-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "ulem",
+          "meaning": "i sit down",
+          "sound": "u-lem"
+        },
+        {
+          "word": "gjithmonë",
+          "meaning": "always",
+          "sound": "gjit-hmo-në"
+        },
+        {
+          "word": "pranë",
+          "meaning": "near",
+          "sound": "pra-në"
+        },
+        {
+          "word": "dritares",
+          "meaning": "the window",
+          "sound": "dri-ta-res"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "porosis",
+          "meaning": "i order",
+          "sound": "po-ro-sis"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "filxhan",
+          "meaning": "cup",
+          "sound": "fil-xhan"
+        },
+        {
+          "word": "kafe",
+          "meaning": "coffee",
+          "sound": "ka-fe"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "nxehtë",
+          "meaning": "hot",
+          "sound": "nxeh-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kamerieri",
+          "meaning": "the waiter",
+          "sound": "ka-me-ri-e-ri"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "miqësor",
+          "meaning": "friendly",
+          "sound": "mi-që-sor"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "përshëndet",
+          "meaning": "hello",
+          "sound": "për-shën-det"
+        },
+        {
+          "word": "gjithmonë",
+          "meaning": "always",
+          "sound": "gjit-hmo-në"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "buzëqeshje",
+          "meaning": "smile",
+          "sound": "bu-zë-qes-hje"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ndonjëherë",
+          "meaning": "sometimes",
+          "sound": "ndon-jë-he-rë"
+        },
+        {
+          "word": "lexoj",
+          "meaning": "i read",
+          "sound": "le-xoj"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "libër",
+          "meaning": "book",
+          "sound": "li-bër"
+        },
+        {
+          "word": "interesant",
+          "meaning": "interesting",
+          "sound": "in-te-re-sant"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "herë",
+          "meaning": "times",
+          "sound": "he-rë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tjera",
+          "meaning": "others",
+          "sound": "tje-ra"
+        },
+        {
+          "word": "shkruaj",
+          "meaning": "write",
+          "sound": "shkru-aj"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "fletoren",
+          "meaning": "the notebook",
+          "sound": "fle-to-ren"
+        },
+        {
+          "word": "time",
+          "meaning": "mine",
+          "sound": "ti-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "shoh",
+          "meaning": "i see",
+          "sound": "shoh"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "person",
+          "meaning": "person",
+          "sound": "per-son"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "ri",
+          "meaning": "young",
+          "sound": "ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ajo",
+          "meaning": "she",
+          "sound": "a-jo"
+        },
+        {
+          "word": "po",
+          "meaning": "yes",
+          "sound": "po"
+        },
+        {
+          "word": "lexon",
+          "meaning": "reads",
+          "sound": "le-xon"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "roman",
+          "meaning": "novel",
+          "sound": "ro-man"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "po",
+          "meaning": "yes",
+          "sound": "po"
+        },
+        {
+          "word": "pi",
+          "meaning": "drink",
+          "sound": "pi"
+        },
+        {
+          "word": "çaj",
+          "meaning": "tea",
+          "sound": "çaj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ndihem",
+          "meaning": "i feel",
+          "sound": "ndi-hem"
+        },
+        {
+          "word": "kurioz",
+          "meaning": "curious",
+          "sound": "ku-ri-oz"
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "trembur",
+          "meaning": "scared",
+          "sound": "trem-bur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pas",
+          "meaning": "after",
+          "sound": "pas"
+        },
+        {
+          "word": "disa",
+          "meaning": "some",
+          "sound": "di-sa"
+        },
+        {
+          "word": "minutash",
+          "meaning": "minutes",
+          "sound": "mi-nu-tash"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "përshëndes",
+          "meaning": "hello",
+          "sound": "për-shën-des"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ajo",
+          "meaning": "she",
+          "sound": "a-jo"
+        },
+        {
+          "word": "përgjigjet",
+          "meaning": "answers",
+          "sound": "për-gjig-jet"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "buzëqeshje",
+          "meaning": "smile",
+          "sound": "bu-zë-qes-hje"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "fillojmë",
+          "meaning": "let's start",
+          "sound": "fil-loj-më"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "flasim",
+          "meaning": "we talk",
+          "sound": "fla-sim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ndihem",
+          "meaning": "i feel",
+          "sound": "ndi-hem"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "lumtur",
+          "meaning": "happy",
+          "sound": "lum-tur"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "relaksuar",
+          "meaning": "relaxed",
+          "sound": "re-lak-su-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "në park",
+      "content": [
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "shkoj",
+          "meaning": "i go",
+          "sound": "shkoj"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "park",
+          "meaning": "park",
+          "sound": "park"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "shokun",
+          "meaning": "friend",
+          "sound": "sho-kun"
+        },
+        {
+          "word": "tim",
+          "meaning": "mine",
+          "sound": "tim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Moti",
+          "meaning": "the weather",
+          "sound": "mo-ti"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "këndshëm",
+          "meaning": "nice",
+          "sound": "kën-dshëm"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "dielli",
+          "meaning": "the sun",
+          "sound": "di-el-li"
+        },
+        {
+          "word": "po",
+          "meaning": "yes",
+          "sound": "po"
+        },
+        {
+          "word": "shkëlqen",
+          "meaning": "it shines",
+          "sound": "shkël-qen"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "shoh",
+          "meaning": "i see",
+          "sound": "shoh"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "njerëz",
+          "meaning": "people",
+          "sound": "nje-rëz"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "ecin",
+          "meaning": "walk",
+          "sound": "e-cin"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "qeshin",
+          "meaning": "they laugh",
+          "sound": "qes-hin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Disa",
+          "meaning": "some",
+          "sound": "di-sa"
+        },
+        {
+          "word": "fëmijë",
+          "meaning": "child",
+          "sound": "fë-mi-jë"
+        },
+        {
+          "word": "luajnë",
+          "meaning": "play",
+          "sound": "lu-aj-në"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "top",
+          "meaning": "ball",
+          "sound": "top"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tjerë",
+          "meaning": "others",
+          "sound": "tje-rë"
+        },
+        {
+          "word": "vrapojnë",
+          "meaning": "they run",
+          "sound": "vra-poj-në"
+        },
+        {
+          "word": "shpejt",
+          "meaning": "quickly",
+          "sound": "shpejt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "shoku",
+          "meaning": "friend",
+          "sound": "sho-ku"
+        },
+        {
+          "word": "im",
+          "meaning": "my",
+          "sound": "im"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "ulëm",
+          "meaning": "we sat down",
+          "sound": "u-lëm"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "stol",
+          "meaning": "bench",
+          "sound": "stol"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kemi",
+          "meaning": "we have",
+          "sound": "ke-mi"
+        },
+        {
+          "word": "folur",
+          "meaning": "spoken",
+          "sound": "fo-lur"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "jetën",
+          "meaning": "life",
+          "sound": "je-tën"
+        },
+        {
+          "word": "tonë",
+          "meaning": "ours",
+          "sound": "to-në"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "kemi",
+          "meaning": "we have",
+          "sound": "ke-mi"
+        },
+        {
+          "word": "qeshur",
+          "meaning": "laughing",
+          "sound": "qes-hur"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pas",
+          "meaning": "after",
+          "sound": "pas"
+        },
+        {
+          "word": "blemë",
+          "meaning": "we bought",
+          "sound": "ble-më"
+        },
+        {
+          "word": "akullore",
+          "meaning": "ice cream",
+          "sound": "a-kul-lo-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dita",
+          "meaning": "the day",
+          "sound": "di-ta"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "thjeshtë",
+          "meaning": "simple",
+          "sound": "thjes-htë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "bukur",
+          "meaning": "nice",
+          "sound": "bu-kur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "në bibliotekë",
+      "content": [
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "po",
+          "meaning": "yes",
+          "sound": "po"
+        },
+        {
+          "word": "shkoj",
+          "meaning": "i go",
+          "sound": "shkoj"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "bibliotekë",
+          "meaning": "library",
+          "sound": "bi-bli-o-te-kë"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "vend",
+          "meaning": "place",
+          "sound": "vend"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "qetë",
+          "meaning": "quiet",
+          "sound": "qe-të"
+        },
+        {
+          "word": "plot",
+          "meaning": "full",
+          "sound": "plot"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "libra",
+          "meaning": "books",
+          "sound": "li-bra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pëlqen",
+          "meaning": "like",
+          "sound": "pël-qen"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "lexoj",
+          "meaning": "i read",
+          "sound": "le-xoj"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "mësoj",
+          "meaning": "i learn",
+          "sound": "më-soj"
+        },
+        {
+          "word": "gjëra",
+          "meaning": "things",
+          "sound": "gjë-ra"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "reja",
+          "meaning": "cloud",
+          "sound": "re-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "jam",
+          "meaning": "i am",
+          "sound": "jam"
+        },
+        {
+          "word": "duke",
+          "meaning": "doing",
+          "sound": "du-ke"
+        },
+        {
+          "word": "kërkuar",
+          "meaning": "requested",
+          "sound": "kër-ku-ar"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "libër",
+          "meaning": "book",
+          "sound": "li-bër"
+        },
+        {
+          "word": "interesant",
+          "meaning": "interesting",
+          "sound": "in-te-re-sant"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "historinë",
+          "meaning": "the history",
+          "sound": "his-to-ri-në"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pas",
+          "meaning": "after",
+          "sound": "pas"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ulem",
+          "meaning": "i sit down",
+          "sound": "u-lem"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "tryezë",
+          "meaning": "table",
+          "sound": "try-e-zë"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "filloj",
+          "meaning": "i start",
+          "sound": "fil-loj"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "lexoj",
+          "meaning": "i read",
+          "sound": "le-xoj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "njerëz",
+          "meaning": "people",
+          "sound": "nje-rëz"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tjerë",
+          "meaning": "others",
+          "sound": "tje-rë"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "studiojnë",
+          "meaning": "they study",
+          "sound": "stu-di-oj-në"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "shkruajnë",
+          "meaning": "they write",
+          "sound": "shkru-aj-në"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Atmosfera",
+          "meaning": "the atmosphere",
+          "sound": "at-mos-fe-ra"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "qetë",
+          "meaning": "quiet",
+          "sound": "qe-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pas",
+          "meaning": "after",
+          "sound": "pas"
+        },
+        {
+          "word": "pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "mbyll",
+          "meaning": "close",
+          "sound": "mbyll"
+        },
+        {
+          "word": "librin",
+          "meaning": "the book",
+          "sound": "li-brin"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "ndihem",
+          "meaning": "i feel",
+          "sound": "ndi-hem"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "kënaqur",
+          "meaning": "pleased",
+          "sound": "kë-na-qur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "në dyqan",
+      "content": [
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "shkoj",
+          "meaning": "i go",
+          "sound": "shkoj"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "dyqan",
+          "meaning": "shop",
+          "sound": "dy-qan"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "madh",
+          "meaning": "big",
+          "sound": "madh"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "blerë",
+          "meaning": "bought",
+          "sound": "ble-rë"
+        },
+        {
+          "word": "ushqime",
+          "meaning": "foods",
+          "sound": "us-hqi-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "nevojë",
+          "meaning": "need",
+          "sound": "ne-vo-jë"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "bukë",
+          "meaning": "bread",
+          "sound": "bu-kë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "qumësht",
+          "meaning": "milk",
+          "sound": "qu-mësht"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "fruta",
+          "meaning": "fruit",
+          "sound": "fru-ta"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "perime",
+          "meaning": "vegetables",
+          "sound": "pe-ri-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dyqani",
+          "meaning": "the shop",
+          "sound": "dy-qa-ni"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "plot",
+          "meaning": "full",
+          "sound": "plot"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "njerëz",
+          "meaning": "people",
+          "sound": "nje-rëz"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "zhurmë",
+          "meaning": "noise",
+          "sound": "zhur-më"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kërkoj",
+          "meaning": "i ask",
+          "sound": "kër-koj"
+        },
+        {
+          "word": "produktet",
+          "meaning": "the products",
+          "sound": "pro-duk-tet"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "rafte",
+          "meaning": "shelves",
+          "sound": "raf-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "grua",
+          "meaning": "woman",
+          "sound": "gru-a"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pyet",
+          "meaning": "ask",
+          "sound": "py-et"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ku",
+          "meaning": "where",
+          "sound": "ku"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "qumështi",
+          "meaning": "the milk",
+          "sound": "qu-mës-hti"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "them",
+          "meaning": "i say",
+          "sound": "them"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "aty",
+          "meaning": "there",
+          "sound": "a-ty"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pranë",
+          "meaning": "near",
+          "sound": "pra-në"
+        },
+        {
+          "word": "bukës",
+          "meaning": "bread",
+          "sound": "bu-kës"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ajo",
+          "meaning": "she",
+          "sound": "a-jo"
+        },
+        {
+          "word": "buzëqesh",
+          "meaning": "smile",
+          "sound": "bu-zë-qesh"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "thotë",
+          "meaning": "says",
+          "sound": "tho-të"
+        },
+        {
+          "word": "faleminderit",
+          "meaning": "thank you",
+          "sound": "fa-le-min-de-rit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pastaj",
+          "meaning": "then",
+          "sound": "pas-taj"
+        },
+        {
+          "word": "shkoj",
+          "meaning": "i go",
+          "sound": "shkoj"
+        },
+        {
+          "word": "te",
+          "meaning": "to",
+          "sound": "te"
+        },
+        {
+          "word": "arkëtari",
+          "meaning": "the cashier",
+          "sound": "ar-kë-ta-ri"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "paguaj",
+          "meaning": "i pay",
+          "sound": "pa-gu-aj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Largohem",
+          "meaning": "i leave",
+          "sound": "lar-go-hem"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "dyqani",
+          "meaning": "the shop",
+          "sound": "dy-qa-ni"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "çantë",
+          "meaning": "bag",
+          "sound": "çan-të"
+        },
+        {
+          "word": "plot",
+          "meaning": "full",
+          "sound": "plot"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "ndihem",
+          "meaning": "i feel",
+          "sound": "ndi-hem"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "lumtur",
+          "meaning": "happy",
+          "sound": "lum-tur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "në autobus",
+      "content": [
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "marr",
+          "meaning": "i take",
+          "sound": "marr"
+        },
+        {
+          "word": "autobusin",
+          "meaning": "the bus",
+          "sound": "a-u-to-bu-sin"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "shkuar",
+          "meaning": "gone",
+          "sound": "shku-ar"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "punë",
+          "meaning": "work",
+          "sound": "pu-në"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Autobusi",
+          "meaning": "the bus",
+          "sound": "a-u-to-bu-si"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "plot",
+          "meaning": "full",
+          "sound": "plot"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "hapësirë",
+          "meaning": "space",
+          "sound": "ha-pë-si-rë"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ndihem",
+          "meaning": "i feel",
+          "sound": "ndi-hem"
+        },
+        {
+          "word": "pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "lodhur",
+          "meaning": "tired",
+          "sound": "lod-hur"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "shoh",
+          "meaning": "i see",
+          "sound": "shoh"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "moshuar",
+          "meaning": "elderly",
+          "sound": "mos-hu-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "ju",
+          "meaning": "you",
+          "sound": "ju"
+        },
+        {
+          "word": "ofroj",
+          "meaning": "i offer",
+          "sound": "o-froj"
+        },
+        {
+          "word": "vendin",
+          "meaning": "the country",
+          "sound": "ven-din"
+        },
+        {
+          "word": "tim",
+          "meaning": "mine",
+          "sound": "tim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "thotë",
+          "meaning": "says",
+          "sound": "tho-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "je",
+          "meaning": "you are",
+          "sound": "je"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "sigurt",
+          "meaning": "safe",
+          "sound": "si-gurt"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "përgjigjem",
+          "meaning": "i answer",
+          "sound": "për-gjig-jem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Po",
+          "meaning": "yes",
+          "sound": "po"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "problem",
+          "meaning": "problem",
+          "sound": "pro-blem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "buzëqesh",
+          "meaning": "smile",
+          "sound": "bu-zë-qesh"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "falenderon",
+          "meaning": "thank you",
+          "sound": "fa-len-de-ron"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gjatë",
+          "meaning": "long",
+          "sound": "gja-të"
+        },
+        {
+          "word": "udhëtimit",
+          "meaning": "travel",
+          "sound": "ud-hë-ti-mit"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "shikoj",
+          "meaning": "i look",
+          "sound": "shi-koj"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "dritarja",
+          "meaning": "the window",
+          "sound": "dri-tar-ja"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "mendoj",
+          "meaning": "i think",
+          "sound": "men-doj"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "ditën",
+          "meaning": "the day",
+          "sound": "di-tën"
+        },
+        {
+          "word": "time",
+          "meaning": "mine",
+          "sound": "ti-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Edhe",
+          "meaning": "even",
+          "sound": "ed-he"
+        },
+        {
+          "word": "pse",
+          "meaning": "why",
+          "sound": "pse"
+        },
+        {
+          "word": "jam",
+          "meaning": "i am",
+          "sound": "jam"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "lodhur",
+          "meaning": "tired",
+          "sound": "lod-hur"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ndihem",
+          "meaning": "i feel",
+          "sound": "ndi-hem"
+        },
+        {
+          "word": "mirë",
+          "meaning": "good",
+          "sound": "mi-rë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "ndihmoj",
+          "meaning": "i help",
+          "sound": "ndih-moj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Dje në plazh",
+      "content": [
+        {
+          "word": "Dje",
+          "meaning": "yesterday",
+          "sound": "dje"
+        },
+        {
+          "word": "shkova",
+          "meaning": "i went",
+          "sound": "shko-va"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "plazh",
+          "meaning": "beach",
+          "sound": "plazh"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "miqtë",
+          "meaning": "friends",
+          "sound": "miq-të"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "mi",
+          "meaning": "mi",
+          "sound": "mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Moti",
+          "meaning": "the weather",
+          "sound": "mo-ti"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "perfekt",
+          "meaning": "perfect",
+          "sound": "per-fekt"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "deti",
+          "meaning": "the sea",
+          "sound": "de-ti"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "qetë",
+          "meaning": "quiet",
+          "sound": "qe-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ecnim",
+          "meaning": "walking",
+          "sound": "ec-nim"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "rërë",
+          "meaning": "sand",
+          "sound": "rë-rë"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "folëm",
+          "meaning": "we talked",
+          "sound": "fo-lëm"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "gjëra",
+          "meaning": "things",
+          "sound": "gjë-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pas",
+          "meaning": "after",
+          "sound": "pas"
+        },
+        {
+          "word": "notuam",
+          "meaning": "we swam",
+          "sound": "no-tu-am"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "ujë",
+          "meaning": "water",
+          "sound": "u-jë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "ftohtë",
+          "meaning": "cold",
+          "sound": "ftoh-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "fillim",
+          "meaning": "beginning",
+          "sound": "fil-lim"
+        },
+        {
+          "word": "isha",
+          "meaning": "i was",
+          "sound": "is-ha"
+        },
+        {
+          "word": "pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "frikësuar",
+          "meaning": "scared",
+          "sound": "fri-kë-su-ar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pas",
+          "meaning": "after",
+          "sound": "pas"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "ndjeva",
+          "meaning": "i felt",
+          "sound": "ndje-va"
+        },
+        {
+          "word": "mirë",
+          "meaning": "good",
+          "sound": "mi-rë"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kemi",
+          "meaning": "we have",
+          "sound": "ke-mi"
+        },
+        {
+          "word": "luajtur",
+          "meaning": "played",
+          "sound": "lu-aj-tur"
+        },
+        {
+          "word": "edhe",
+          "meaning": "also",
+          "sound": "ed-he"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "top",
+          "meaning": "ball",
+          "sound": "top"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "kemi",
+          "meaning": "we have",
+          "sound": "ke-mi"
+        },
+        {
+          "word": "qeshur",
+          "meaning": "laughing",
+          "sound": "qes-hur"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pasdite",
+          "meaning": "afternoon",
+          "sound": "pas-di-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hëngrëm",
+          "meaning": "we ate",
+          "sound": "hën-grëm"
+        },
+        {
+          "word": "së",
+          "meaning": "of",
+          "sound": "së"
+        },
+        {
+          "word": "bashku",
+          "meaning": "together",
+          "sound": "bas-hku"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "pamë",
+          "meaning": "we saw",
+          "sound": "pa-më"
+        },
+        {
+          "word": "perëndimin",
+          "meaning": "the west",
+          "sound": "pe-rën-di-min"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "diellit",
+          "meaning": "the sun",
+          "sound": "di-el-lit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "veçantë",
+          "meaning": "special",
+          "sound": "ve-çan-të"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "ta",
+          "meaning": "them",
+          "sound": "ta"
+        },
+        {
+          "word": "harroj",
+          "meaning": "i forget",
+          "sound": "har-roj"
+        },
+        {
+          "word": "kurrë",
+          "meaning": "never",
+          "sound": "kur-rë"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Një bisedë e rëndësishme",
+      "content": [
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "takova",
+          "meaning": "i met",
+          "sound": "ta-ko-va"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "mik",
+          "meaning": "friend",
+          "sound": "mik"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "vjetër",
+          "meaning": "old",
+          "sound": "vje-tër"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "kafene",
+          "meaning": "cafe",
+          "sound": "ka-fe-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "kohë",
+          "meaning": "time",
+          "sound": "ko-hë"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "parë",
+          "meaning": "seen",
+          "sound": "pa-rë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ndaj",
+          "meaning": "so",
+          "sound": "ndaj"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "gëzova",
+          "meaning": "i was happy",
+          "sound": "gë-zo-va"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "pashë",
+          "meaning": "i saw",
+          "sound": "pas-hë"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "U",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "ulëm",
+          "meaning": "we sat down",
+          "sound": "u-lëm"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "filluam",
+          "meaning": "we started",
+          "sound": "fil-lu-am"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "flisnim",
+          "meaning": "we talked",
+          "sound": "flis-nim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "tha",
+          "meaning": "said",
+          "sound": "tha"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "tani",
+          "meaning": "now",
+          "sound": "ta-ni"
+        },
+        {
+          "word": "jeton",
+          "meaning": "lives",
+          "sound": "je-ton"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "qytet",
+          "meaning": "city",
+          "sound": "qy-tet"
+        },
+        {
+          "word": "tjetër",
+          "meaning": "other",
+          "sound": "tje-tër"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "gjithashtu",
+          "meaning": "also",
+          "sound": "gjit-has-htu"
+        },
+        {
+          "word": "punon",
+          "meaning": "works",
+          "sound": "pu-non"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "kompani",
+          "meaning": "company",
+          "sound": "kom-pa-ni"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "madhe",
+          "meaning": "great",
+          "sound": "mad-he"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "tregova",
+          "meaning": "i told",
+          "sound": "tre-go-va"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "studimet",
+          "meaning": "the studies",
+          "sound": "stu-di-met"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "planet",
+          "meaning": "plans",
+          "sound": "pla-net"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "mia",
+          "meaning": "my",
+          "sound": "mi-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biseduam",
+          "meaning": "we talked",
+          "sound": "bi-se-du-am"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "orë",
+          "meaning": "hour",
+          "sound": "o-rë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tëra",
+          "meaning": "the whole",
+          "sound": "të-ra"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "kujtuam",
+          "meaning": "we remembered",
+          "sound": "kuj-tu-am"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "momente",
+          "meaning": "moments",
+          "sound": "mo-men-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Para",
+          "meaning": "money",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "largoheshim",
+          "meaning": "we left",
+          "sound": "lar-go-hes-him"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "tha",
+          "meaning": "said",
+          "sound": "tha"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "duhet",
+          "meaning": "should",
+          "sound": "du-het"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "shihemi",
+          "meaning": "see you",
+          "sound": "shi-he-mi"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "shpesh",
+          "meaning": "often",
+          "sound": "shpesh"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "buzëqesha",
+          "meaning": "i smiled",
+          "sound": "bu-zë-qes-ha"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "përgjigja",
+          "meaning": "the answer",
+          "sound": "për-gjig-ja"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sigurisht",
+          "meaning": "of course",
+          "sound": "si-gu-risht"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pëlqeu",
+          "meaning": "liked it",
+          "sound": "pël-qe-u"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "kjo",
+          "meaning": "this",
+          "sound": "kjo"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Një vendim i vështirë",
+      "content": [
+        {
+          "word": "Pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "parë",
+          "meaning": "seen",
+          "sound": "pa-rë"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "erdhi",
+          "meaning": "came",
+          "sound": "er-dhi"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "ofertë",
+          "meaning": "offer",
+          "sound": "o-fer-të"
+        },
+        {
+          "word": "pune",
+          "meaning": "work",
+          "sound": "pu-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "qytet",
+          "meaning": "city",
+          "sound": "qy-tet"
+        },
+        {
+          "word": "tjetër",
+          "meaning": "other",
+          "sound": "tje-tër"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "interesant",
+          "meaning": "interesting",
+          "sound": "in-te-re-sant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "fillim",
+          "meaning": "beginning",
+          "sound": "fil-lim"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "ndjeva",
+          "meaning": "i felt",
+          "sound": "ndje-va"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "emocionuar",
+          "meaning": "excited",
+          "sound": "e-mo-ci-o-nu-ar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "edhe",
+          "meaning": "also",
+          "sound": "ed-he"
+        },
+        {
+          "word": "nervoz",
+          "meaning": "nervous",
+          "sound": "ner-voz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "biseduar",
+          "meaning": "talked",
+          "sound": "bi-se-du-ar"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "familjen",
+          "meaning": "the family",
+          "sound": "fa-mil-jen"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "miqtë",
+          "meaning": "friends",
+          "sound": "miq-të"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "mi",
+          "meaning": "mi",
+          "sound": "mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "dhanë",
+          "meaning": "they gave",
+          "sound": "dha-në"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "këshilla",
+          "meaning": "advice",
+          "sound": "kës-hil-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nëna",
+          "meaning": "mother",
+          "sound": "në-na"
+        },
+        {
+          "word": "ime",
+          "meaning": "mine",
+          "sound": "i-me"
+        },
+        {
+          "word": "tha",
+          "meaning": "said",
+          "sound": "tha"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Duhet",
+          "meaning": "it should",
+          "sound": "du-het"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "ndiqni",
+          "meaning": "follow",
+          "sound": "ndiq-ni"
+        },
+        {
+          "word": "ëndrrat",
+          "meaning": "dreams",
+          "sound": "ën-drrat"
+        },
+        {
+          "word": "tuaja",
+          "meaning": "yours",
+          "sound": "tu-a-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "shoku",
+          "meaning": "friend",
+          "sound": "sho-ku"
+        },
+        {
+          "word": "im",
+          "meaning": "my",
+          "sound": "im"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pyeti",
+          "meaning": "he asked",
+          "sound": "py-e-ti"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "je",
+          "meaning": "you are",
+          "sound": "je"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "sigurt",
+          "meaning": "safe",
+          "sound": "si-gurt"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kalova",
+          "meaning": "i passed",
+          "sound": "ka-lo-va"
+        },
+        {
+          "word": "disa",
+          "meaning": "some",
+          "sound": "di-sa"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": "duke",
+          "meaning": "doing",
+          "sound": "du-ke"
+        },
+        {
+          "word": "menduar",
+          "meaning": "thought",
+          "sound": "men-du-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "fund",
+          "meaning": "bottom",
+          "sound": "fund"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vendosa",
+          "meaning": "i decided",
+          "sound": "ven-do-sa"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "pranoja",
+          "meaning": "i accepted",
+          "sound": "pra-no-ja"
+        },
+        {
+          "word": "punën",
+          "meaning": "the work",
+          "sound": "pu-nën"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "E",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "di",
+          "meaning": "i know",
+          "sound": "di"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "jetë",
+          "meaning": "life",
+          "sound": "je-të"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "lehtë",
+          "meaning": "easy",
+          "sound": "leh-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "dua",
+          "meaning": "i love",
+          "sound": "du-a"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "provoj",
+          "meaning": "i try",
+          "sound": "pro-voj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Një debat me një mik",
+      "content": [
+        {
+          "word": "Dje",
+          "meaning": "yesterday",
+          "sound": "dje"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "grinda",
+          "meaning": "quarrel",
+          "sound": "grin-da"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "shokun",
+          "meaning": "friend",
+          "sound": "sho-kun"
+        },
+        {
+          "word": "tim",
+          "meaning": "mine",
+          "sound": "tim"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "mirë",
+          "meaning": "good",
+          "sound": "mi-rë"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gjithçka",
+          "meaning": "everything",
+          "sound": "gjit-hçka"
+        },
+        {
+          "word": "filloi",
+          "meaning": "it started",
+          "sound": "fil-lo-i"
+        },
+        {
+          "word": "kur",
+          "meaning": "when",
+          "sound": "kur"
+        },
+        {
+          "word": "ne",
+          "meaning": "we",
+          "sound": "ne"
+        },
+        {
+          "word": "po",
+          "meaning": "yes",
+          "sound": "po"
+        },
+        {
+          "word": "flisnim",
+          "meaning": "we talked",
+          "sound": "flis-nim"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "planet",
+          "meaning": "plans",
+          "sound": "pla-net"
+        },
+        {
+          "word": "tona",
+          "meaning": "ours",
+          "sound": "to-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Doja",
+          "meaning": "i wanted to",
+          "sound": "do-ja"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "udhëtoja",
+          "meaning": "i traveled",
+          "sound": "ud-hë-to-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "preferoi",
+          "meaning": "preferred",
+          "sound": "pre-fe-ro-i"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "qëndronte",
+          "meaning": "stood",
+          "sound": "qën-dron-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "tha",
+          "meaning": "said",
+          "sound": "tha"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "kemi",
+          "meaning": "we have",
+          "sound": "ke-mi"
+        },
+        {
+          "word": "para",
+          "meaning": "money",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "mjaftueshme",
+          "meaning": "enough",
+          "sound": "mjaf-tu-es-hme"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "përgjigja",
+          "meaning": "the answer",
+          "sound": "për-gjig-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "we",
+          "sound": "ne"
+        },
+        {
+          "word": "mund",
+          "meaning": "can",
+          "sound": "mund"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "shpëtojmë",
+          "meaning": "we save",
+          "sound": "shpë-toj-më"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "dakord",
+          "meaning": "agree",
+          "sound": "da-kord"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biseda",
+          "meaning": "conversation",
+          "sound": "bi-se-da"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "tensionua",
+          "meaning": "tensed",
+          "sound": "ten-si-o-nu-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "fund",
+          "meaning": "bottom",
+          "sound": "fund"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "mërzitëm",
+          "meaning": "we got bored",
+          "sound": "mër-zi-tëm"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "dy",
+          "meaning": "two",
+          "sound": "dy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mendoj",
+          "meaning": "i think",
+          "sound": "men-doj"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "ndoshta",
+          "meaning": "maybe",
+          "sound": "ndos-hta"
+        },
+        {
+          "word": "duhet",
+          "meaning": "should",
+          "sound": "du-het"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "flas",
+          "meaning": "i speak",
+          "sound": "flas"
+        },
+        {
+          "word": "përsëri",
+          "meaning": "again",
+          "sound": "për-së-ri"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Miqësia",
+          "meaning": "friendship",
+          "sound": "mi-që-si-a"
+        },
+        {
+          "word": "jonë",
+          "meaning": "ours",
+          "sound": "jo-në"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "rëndësishme",
+          "meaning": "important",
+          "sound": "rën-dë-sis-hme"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Një ndryshim i rëndësishëm",
+      "content": [
+        {
+          "word": "Një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "vit",
+          "meaning": "year",
+          "sound": "vit"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "parë",
+          "meaning": "seen",
+          "sound": "pa-rë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jeta",
+          "meaning": "life",
+          "sound": "je-ta"
+        },
+        {
+          "word": "ime",
+          "meaning": "mine",
+          "sound": "i-me"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "ndryshe",
+          "meaning": "differently",
+          "sound": "ndrys-he"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "punuar",
+          "meaning": "worked",
+          "sound": "pu-nu-ar"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "vend",
+          "meaning": "place",
+          "sound": "vend"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pëlqente",
+          "meaning": "liked it",
+          "sound": "pël-qen-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Çdo",
+          "meaning": "any",
+          "sound": "çdo"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": "ndihesha",
+          "meaning": "i felt",
+          "sound": "ndi-hes-ha"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "lodhur",
+          "meaning": "tired",
+          "sound": "lod-hur"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "pamotivuar",
+          "meaning": "unmotivated",
+          "sound": "pa-mo-ti-vu-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": "vendosa",
+          "meaning": "i decided",
+          "sound": "ven-do-sa"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "ndryshoj",
+          "meaning": "i change",
+          "sound": "ndrys-hoj"
+        },
+        {
+          "word": "gjithçka",
+          "meaning": "everything",
+          "sound": "gjit-hçka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "lehtë",
+          "meaning": "easy",
+          "sound": "leh-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sepse",
+          "meaning": "because",
+          "sound": "sep-se"
+        },
+        {
+          "word": "kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "frikë",
+          "meaning": "fear",
+          "sound": "fri-kë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "dështoja",
+          "meaning": "i failed",
+          "sound": "dës-hto-ja"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "dija",
+          "meaning": "i knew",
+          "sound": "di-ja"
+        },
+        {
+          "word": "gjithashtu",
+          "meaning": "also",
+          "sound": "gjit-has-htu"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "mund",
+          "meaning": "can",
+          "sound": "mund"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "vazhdoja",
+          "meaning": "i continued",
+          "sound": "vaz-hdo-ja"
+        },
+        {
+          "word": "kështu",
+          "meaning": "so",
+          "sound": "kës-htu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Fillova",
+          "meaning": "i started",
+          "sound": "fil-lo-va"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "mësoj",
+          "meaning": "i learn",
+          "sound": "më-soj"
+        },
+        {
+          "word": "gjëra",
+          "meaning": "things",
+          "sound": "gjë-ra"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "reja",
+          "meaning": "cloud",
+          "sound": "re-ja"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "punoj",
+          "meaning": "i work",
+          "sound": "pu-noj"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "qëllimet",
+          "meaning": "the goals",
+          "sound": "qël-li-met"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "mia",
+          "meaning": "my",
+          "sound": "mi-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": "jeta",
+          "meaning": "life",
+          "sound": "je-ta"
+        },
+        {
+          "word": "ime",
+          "meaning": "mine",
+          "sound": "i-me"
+        },
+        {
+          "word": "ndryshoi",
+          "meaning": "changed",
+          "sound": "ndrys-ho-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "ndihem",
+          "meaning": "i feel",
+          "sound": "ndi-hem"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "sigurt",
+          "meaning": "safe",
+          "sound": "si-gurt"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "lumtur",
+          "meaning": "happy",
+          "sound": "lum-tur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mësova",
+          "meaning": "i learned",
+          "sound": "më-so-va"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "ndryshimet",
+          "meaning": "the changes",
+          "sound": "ndrys-hi-met"
+        },
+        {
+          "word": "janë",
+          "meaning": "are",
+          "sound": "ja-në"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "vështira",
+          "meaning": "difficult",
+          "sound": "vës-hti-ra"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "nevojshme",
+          "meaning": "necessary",
+          "sound": "ne-voj-shme"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Kuptimi i rrugës",
+      "content": [
+        {
+          "word": "Për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "kohë",
+          "meaning": "time",
+          "sound": "ko-hë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "gjatë",
+          "meaning": "long",
+          "sound": "gja-të"
+        },
+        {
+          "word": "mendoja",
+          "meaning": "i thought",
+          "sound": "men-do-ja"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "suksesi",
+          "meaning": "success",
+          "sound": "suk-se-si"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "gjëja",
+          "meaning": "the thing",
+          "sound": "gjë-ja"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "rëndësishme",
+          "meaning": "important",
+          "sound": "rën-dë-sis-hme"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Besoja",
+          "meaning": "i believed",
+          "sound": "be-so-ja"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kem",
+          "meaning": "i have",
+          "sound": "kem"
+        },
+        {
+          "word": "para",
+          "meaning": "money",
+          "sound": "pa-ra"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "njohje",
+          "meaning": "recognition",
+          "sound": "njoh-je"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "bënte",
+          "meaning": "did",
+          "sound": "bën-te"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "lumtur",
+          "meaning": "happy",
+          "sound": "lum-tur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Megjithatë",
+          "meaning": "however",
+          "sound": "meg-jit-ha-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "kalimin",
+          "meaning": "the passage",
+          "sound": "ka-li-min"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "kohës",
+          "meaning": "time",
+          "sound": "ko-hës"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kuptova",
+          "meaning": "i understood",
+          "sound": "kup-to-va"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "gabuar",
+          "meaning": "wrong",
+          "sound": "ga-bu-ar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ajo",
+          "meaning": "she",
+          "sound": "a-jo"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "vërtet",
+          "meaning": "really",
+          "sound": "vër-tet"
+        },
+        {
+          "word": "rëndësi",
+          "meaning": "importance",
+          "sound": "rën-dë-si"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "rruga",
+          "meaning": "the road",
+          "sound": "rru-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Përvojat",
+          "meaning": "experiences",
+          "sound": "për-vo-jat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "gabimet",
+          "meaning": "the mistakes",
+          "sound": "ga-bi-met"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "mësimet",
+          "meaning": "the lessons",
+          "sound": "më-si-met"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "fola",
+          "meaning": "i spoke",
+          "sound": "fo-la"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "mentor",
+          "meaning": "mentor",
+          "sound": "men-tor"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "tha",
+          "meaning": "said",
+          "sound": "tha"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mos",
+          "meaning": "don't",
+          "sound": "mos"
+        },
+        {
+          "word": "nxito",
+          "meaning": "hurry up",
+          "sound": "nxi-to"
+        },
+        {
+          "word": "vetëm",
+          "meaning": "alone",
+          "sound": "ve-tëm"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "arritur",
+          "meaning": "achieved",
+          "sound": "ar-ri-tur"
+        },
+        {
+          "word": "atje",
+          "meaning": "there",
+          "sound": "at-je"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mëso",
+          "meaning": "learn",
+          "sound": "më-so"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "shijosh",
+          "meaning": "enjoy",
+          "sound": "shi-josh"
+        },
+        {
+          "word": "procesin",
+          "meaning": "the process",
+          "sound": "pro-ce-sin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Që",
+          "meaning": "since",
+          "sound": "që"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "moment",
+          "meaning": "moment",
+          "sound": "mo-ment"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mënyra",
+          "meaning": "way",
+          "sound": "më-ny-ra"
+        },
+        {
+          "word": "ime",
+          "meaning": "mine",
+          "sound": "i-me"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "menduarit",
+          "meaning": "thinking",
+          "sound": "men-du-a-rit"
+        },
+        {
+          "word": "ndryshoi",
+          "meaning": "changed",
+          "sound": "ndrys-ho-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tani",
+          "meaning": "now",
+          "sound": "ta-ni"
+        },
+        {
+          "word": "vlerësoj",
+          "meaning": "i appreciate",
+          "sound": "vle-rë-soj"
+        },
+        {
+          "word": "çdo",
+          "meaning": "every",
+          "sound": "çdo"
+        },
+        {
+          "word": "hap",
+          "meaning": "step",
+          "sound": "hap"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "mësoj",
+          "meaning": "i learn",
+          "sound": "më-soj"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "çdo",
+          "meaning": "every",
+          "sound": "çdo"
+        },
+        {
+          "word": "gabim",
+          "meaning": "mistake",
+          "sound": "ga-bim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "kush jam ne te vertete",
+      "content": [
+        {
+          "word": "Për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "vite",
+          "meaning": "years",
+          "sound": "vi-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "vënë",
+          "meaning": "put",
+          "sound": "vë-në"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "dyshim",
+          "meaning": "doubt",
+          "sound": "dys-him"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "kush",
+          "meaning": "who",
+          "sound": "kush"
+        },
+        {
+          "word": "jam",
+          "meaning": "i am",
+          "sound": "jam"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "vërtetë",
+          "meaning": "really",
+          "sound": "vër-te-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "fillim",
+          "meaning": "beginning",
+          "sound": "fil-lim"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mendova",
+          "meaning": "i thought",
+          "sound": "men-do-va"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "identiteti",
+          "meaning": "identity",
+          "sound": "i-den-ti-te-ti"
+        },
+        {
+          "word": "im",
+          "meaning": "my",
+          "sound": "im"
+        },
+        {
+          "word": "varej",
+          "meaning": "it depended",
+          "sound": "va-rej"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "ajo",
+          "meaning": "she",
+          "sound": "a-jo"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "mendonin",
+          "meaning": "they thought",
+          "sound": "men-do-nin"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tjerët",
+          "meaning": "others",
+          "sound": "tje-rët"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kërkoja",
+          "meaning": "i was looking",
+          "sound": "kër-ko-ja"
+        },
+        {
+          "word": "miratim",
+          "meaning": "approval",
+          "sound": "mi-ra-tim"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "frikë",
+          "meaning": "fear",
+          "sound": "fri-kë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "bëja",
+          "meaning": "i did",
+          "sound": "bë-ja"
+        },
+        {
+          "word": "gabime",
+          "meaning": "mistakes",
+          "sound": "ga-bi-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Megjithatë",
+          "meaning": "however",
+          "sound": "meg-jit-ha-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "kalimin",
+          "meaning": "the passage",
+          "sound": "ka-li-min"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "kohës",
+          "meaning": "time",
+          "sound": "ko-hës"
+        },
+        {
+          "word": "kuptova",
+          "meaning": "i understood",
+          "sound": "kup-to-va"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "vlera",
+          "meaning": "value",
+          "sound": "vle-ra"
+        },
+        {
+          "word": "ime",
+          "meaning": "mine",
+          "sound": "i-me"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "varet",
+          "meaning": "it depends",
+          "sound": "va-ret"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tjerët",
+          "meaning": "others",
+          "sound": "tje-rët"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vendosa",
+          "meaning": "i decided",
+          "sound": "ven-do-sa"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "dëgjoja",
+          "meaning": "i listened",
+          "sound": "dëg-jo-ja"
+        },
+        {
+          "word": "zërin",
+          "meaning": "the voice",
+          "sound": "zë-rin"
+        },
+        {
+          "word": "tim",
+          "meaning": "mine",
+          "sound": "tim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Fillova",
+          "meaning": "i started",
+          "sound": "fil-lo-va"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "merrja",
+          "meaning": "taking",
+          "sound": "mer-rja"
+        },
+        {
+          "word": "vendime",
+          "meaning": "decisions",
+          "sound": "ven-di-me"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "veten",
+          "meaning": "yourself",
+          "sound": "ve-ten"
+        },
+        {
+          "word": "time",
+          "meaning": "mine",
+          "sound": "ti-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "gjithmonë",
+          "meaning": "always",
+          "sound": "gjit-hmo-në"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "lehtë",
+          "meaning": "easy",
+          "sound": "leh-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "mësova",
+          "meaning": "i learned",
+          "sound": "më-so-va"
+        },
+        {
+          "word": "nga",
+          "meaning": "from",
+          "sound": "nga"
+        },
+        {
+          "word": "çdo",
+          "meaning": "every",
+          "sound": "çdo"
+        },
+        {
+          "word": "gabim",
+          "meaning": "mistake",
+          "sound": "ga-bim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "di",
+          "meaning": "i know",
+          "sound": "di"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "jesh",
+          "meaning": "you are",
+          "sound": "jesh"
+        },
+        {
+          "word": "vetvetja",
+          "meaning": "myself",
+          "sound": "vet-vet-ja"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "arritja",
+          "meaning": "achievement",
+          "sound": "ar-rit-ja"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "madhe",
+          "meaning": "great",
+          "sound": "mad-he"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Vlera e kohës",
+      "content": [
+        {
+          "word": "Disa",
+          "meaning": "some",
+          "sound": "di-sa"
+        },
+        {
+          "word": "vite",
+          "meaning": "years",
+          "sound": "vi-te"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "parë",
+          "meaning": "seen",
+          "sound": "pa-rë"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "kushtoja",
+          "meaning": "cost",
+          "sound": "kus-hto-ja"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "rëndësi",
+          "meaning": "importance",
+          "sound": "rën-dë-si"
+        },
+        {
+          "word": "kohës",
+          "meaning": "time",
+          "sound": "ko-hës"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mendova",
+          "meaning": "i thought",
+          "sound": "men-do-va"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "gjithmonë",
+          "meaning": "always",
+          "sound": "gjit-hmo-në"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kishte",
+          "meaning": "had",
+          "sound": "kis-hte"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "mundësi",
+          "meaning": "possibility",
+          "sound": "mun-dë-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ai",
+          "meaning": "he",
+          "sound": "ai"
+        },
+        {
+          "word": "la",
+          "meaning": "la",
+          "sound": "la"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "gjëra",
+          "meaning": "things",
+          "sound": "gjë-ra"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "vonë",
+          "meaning": "late",
+          "sound": "vo-në"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "mik",
+          "meaning": "friend",
+          "sound": "mik"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "tha",
+          "meaning": "said",
+          "sound": "tha"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "koha",
+          "meaning": "the time",
+          "sound": "ko-ha"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "pret",
+          "meaning": "waiting",
+          "sound": "pret"
+        },
+        {
+          "word": "askënd",
+          "meaning": "nobody",
+          "sound": "as-kënd"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kjo",
+          "meaning": "this",
+          "sound": "kjo"
+        },
+        {
+          "word": "frazë",
+          "meaning": "phrase",
+          "sound": "fra-zë"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "mbeti",
+          "meaning": "remained",
+          "sound": "mbe-ti"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "mendje",
+          "meaning": "mind",
+          "sound": "men-dje"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Që",
+          "meaning": "since",
+          "sound": "që"
+        },
+        {
+          "word": "atëherë",
+          "meaning": "then",
+          "sound": "a-të-he-rë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "fillova",
+          "meaning": "i started",
+          "sound": "fil-lo-va"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "vlerësoj",
+          "meaning": "i appreciate",
+          "sound": "vle-rë-soj"
+        },
+        {
+          "word": "çdo",
+          "meaning": "every",
+          "sound": "çdo"
+        },
+        {
+          "word": "moment",
+          "meaning": "moment",
+          "sound": "mo-ment"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mësova",
+          "meaning": "i learned",
+          "sound": "më-so-va"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "organizoj",
+          "meaning": "organize",
+          "sound": "or-ga-ni-zoj"
+        },
+        {
+          "word": "ditën",
+          "meaning": "the day",
+          "sound": "di-tën"
+        },
+        {
+          "word": "time",
+          "meaning": "mine",
+          "sound": "ti-me"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "t'i",
+          "meaning": "to them",
+          "sound": "t'i"
+        },
+        {
+          "word": "jap",
+          "meaning": "i give",
+          "sound": "jap"
+        },
+        {
+          "word": "përparësi",
+          "meaning": "priority",
+          "sound": "për-pa-rë-si"
+        },
+        {
+          "word": "asaj",
+          "meaning": "to her",
+          "sound": "a-saj"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "rëndësishme",
+          "meaning": "important",
+          "sound": "rën-dë-sis-hme"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kuptova",
+          "meaning": "i understood",
+          "sound": "kup-to-va"
+        },
+        {
+          "word": "gjithashtu",
+          "meaning": "also",
+          "sound": "gjit-has-htu"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "jo",
+          "meaning": "no",
+          "sound": "jo"
+        },
+        {
+          "word": "gjithçka",
+          "meaning": "everything",
+          "sound": "gjit-hçka"
+        },
+        {
+          "word": "duhet",
+          "meaning": "should",
+          "sound": "du-het"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "jetë",
+          "meaning": "life",
+          "sound": "je-të"
+        },
+        {
+          "word": "perfekte",
+          "meaning": "perfect",
+          "sound": "per-fek-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "përpiqem",
+          "meaning": "i try",
+          "sound": "për-pi-qem"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "jetoj",
+          "meaning": "i live",
+          "sound": "je-toj"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "vetëdije",
+          "meaning": "consciousness",
+          "sound": "ve-të-di-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sepse",
+          "meaning": "because",
+          "sound": "sep-se"
+        },
+        {
+          "word": "koha",
+          "meaning": "the time",
+          "sound": "ko-ha"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "gjëja",
+          "meaning": "the thing",
+          "sound": "gjë-ja"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "vlefshme",
+          "meaning": "valid",
+          "sound": "vlef-shme"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "kemi",
+          "meaning": "we have",
+          "sound": "ke-mi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Vendimet që ndryshojnë jetën",
+      "content": [
+        {
+          "word": "Ndonjëherë",
+          "meaning": "sometimes",
+          "sound": "ndon-jë-he-rë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mendoj",
+          "meaning": "i think",
+          "sound": "men-doj"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "vendimet",
+          "meaning": "decisions",
+          "sound": "ven-di-met"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "marrë",
+          "meaning": "taken",
+          "sound": "mar-rë"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kaluarën",
+          "meaning": "the past",
+          "sound": "ka-lu-a-rën"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Disa",
+          "meaning": "some",
+          "sound": "di-sa"
+        },
+        {
+          "word": "ishin",
+          "meaning": "were",
+          "sound": "is-hin"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "sakta",
+          "meaning": "correct",
+          "sound": "sak-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tjerët",
+          "meaning": "others",
+          "sound": "tje-rët"
+        },
+        {
+          "word": "jo",
+          "meaning": "no",
+          "sound": "jo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ndonjëherë",
+          "meaning": "sometimes",
+          "sound": "ndon-jë-he-rë"
+        },
+        {
+          "word": "pyes",
+          "meaning": "i ask",
+          "sound": "py-es"
+        },
+        {
+          "word": "veten",
+          "meaning": "yourself",
+          "sound": "ve-ten"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "çfarë",
+          "meaning": "what",
+          "sound": "çfa-rë"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kishte",
+          "meaning": "had",
+          "sound": "kis-hte"
+        },
+        {
+          "word": "ndodhur",
+          "meaning": "happened",
+          "sound": "ndod-hur"
+        },
+        {
+          "word": "nëse",
+          "meaning": "if",
+          "sound": "në-se"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "zgjedhur",
+          "meaning": "selected",
+          "sound": "zgjed-hur"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "rrugë",
+          "meaning": "road",
+          "sound": "rru-gë"
+        },
+        {
+          "word": "tjetër",
+          "meaning": "other",
+          "sound": "tje-tër"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ndoshta",
+          "meaning": "maybe",
+          "sound": "ndos-hta"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "qenë",
+          "meaning": "been",
+          "sound": "qe-në"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "suksesshëm",
+          "meaning": "successful",
+          "sound": "suk-ses-shëm"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ose",
+          "meaning": "or",
+          "sound": "o-se"
+        },
+        {
+          "word": "ndoshta",
+          "meaning": "maybe",
+          "sound": "ndos-hta"
+        },
+        {
+          "word": "do",
+          "meaning": "will",
+          "sound": "do"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kisha",
+          "meaning": "the church",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "mësuar",
+          "meaning": "learned",
+          "sound": "më-su-ar"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "pak",
+          "meaning": "a little",
+          "sound": "pak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Megjithatë",
+          "meaning": "however",
+          "sound": "meg-jit-ha-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "kuptuar",
+          "meaning": "understood",
+          "sound": "kup-tu-ar"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "kuptim",
+          "meaning": "meaning",
+          "sound": "kup-tim"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "jetosh",
+          "meaning": "you live",
+          "sound": "je-tosh"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "kaluarën",
+          "meaning": "the past",
+          "sound": "ka-lu-a-rën"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Çdo",
+          "meaning": "any",
+          "sound": "çdo"
+        },
+        {
+          "word": "vendim",
+          "meaning": "decision",
+          "sound": "ven-dim"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "mësuar",
+          "meaning": "learned",
+          "sound": "më-su-ar"
+        },
+        {
+          "word": "diçka",
+          "meaning": "something",
+          "sound": "diç-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Edhe",
+          "meaning": "even",
+          "sound": "ed-he"
+        },
+        {
+          "word": "gabimet",
+          "meaning": "the mistakes",
+          "sound": "ga-bi-met"
+        },
+        {
+          "word": "kanë",
+          "meaning": "have",
+          "sound": "ka-në"
+        },
+        {
+          "word": "qenë",
+          "meaning": "been",
+          "sound": "qe-në"
+        },
+        {
+          "word": "mësime",
+          "meaning": "lessons",
+          "sound": "më-si-me"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "rëndësishme",
+          "meaning": "important",
+          "sound": "rën-dë-sis-hme"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sot",
+          "meaning": "today",
+          "sound": "sot"
+        },
+        {
+          "word": "përpiqem",
+          "meaning": "i try",
+          "sound": "për-pi-qem"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "marr",
+          "meaning": "i take",
+          "sound": "marr"
+        },
+        {
+          "word": "vendime",
+          "meaning": "decisions",
+          "sound": "ven-di-me"
+        },
+        {
+          "word": "me",
+          "meaning": "with",
+          "sound": "me"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "shumë",
+          "meaning": "a lot",
+          "sound": "shu-më"
+        },
+        {
+          "word": "vetëdije",
+          "meaning": "consciousness",
+          "sound": "ve-të-di-je"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "mund",
+          "meaning": "can",
+          "sound": "mund"
+        },
+        {
+          "word": "ta",
+          "meaning": "them",
+          "sound": "ta"
+        },
+        {
+          "word": "ndryshoj",
+          "meaning": "i change",
+          "sound": "ndrys-hoj"
+        },
+        {
+          "word": "atë",
+          "meaning": "that",
+          "sound": "a-të"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "ka",
+          "meaning": "there is",
+          "sound": "ka"
+        },
+        {
+          "word": "ndodhur",
+          "meaning": "happened",
+          "sound": "ndod-hur"
+        },
+        {
+          "word": "tashmë",
+          "meaning": "already",
+          "sound": "tas-hmë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "mund",
+          "meaning": "can",
+          "sound": "mund"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "vendos",
+          "meaning": "decide",
+          "sound": "ven-dos"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "ardhmen",
+          "meaning": "the future",
+          "sound": "ar-dhmen"
+        },
+        {
+          "word": "time",
+          "meaning": "mine",
+          "sound": "ti-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Zëri i brendshëm",
+      "content": [
+        {
+          "word": "Për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "kohë",
+          "meaning": "time",
+          "sound": "ko-hë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "gjatë",
+          "meaning": "long",
+          "sound": "gja-të"
+        },
+        {
+          "word": "kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "jetuar",
+          "meaning": "lived",
+          "sound": "je-tu-ar"
+        },
+        {
+          "word": "sipas",
+          "meaning": "according to",
+          "sound": "si-pas"
+        },
+        {
+          "word": "pritshmërive",
+          "meaning": "expectations",
+          "sound": "prit-shmë-ri-ve"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "tjerëve",
+          "meaning": "others",
+          "sound": "tje-rë-ve"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Besova",
+          "meaning": "i believed",
+          "sound": "be-so-va"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "kjo",
+          "meaning": "this",
+          "sound": "kjo"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "rruga",
+          "meaning": "the road",
+          "sound": "rru-ga"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "duhur",
+          "meaning": "properly",
+          "sound": "du-hur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Megjithatë",
+          "meaning": "however",
+          "sound": "meg-jit-ha-të"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "thellë",
+          "meaning": "deep",
+          "sound": "thel-lë"
+        },
+        {
+          "word": "brenda",
+          "meaning": "inside",
+          "sound": "bren-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kishte",
+          "meaning": "had",
+          "sound": "kis-hte"
+        },
+        {
+          "word": "gjithmonë",
+          "meaning": "always",
+          "sound": "gjit-hmo-në"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "zë",
+          "meaning": "sound",
+          "sound": "zë"
+        },
+        {
+          "word": "që",
+          "meaning": "that",
+          "sound": "që"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "thoshte",
+          "meaning": "he said",
+          "sound": "thos-hte"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "diçka",
+          "meaning": "something",
+          "sound": "diç-ka"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "në",
+          "meaning": "in",
+          "sound": "në"
+        },
+        {
+          "word": "rregull",
+          "meaning": "ok",
+          "sound": "rre-gull"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unë",
+          "meaning": "me",
+          "sound": "u-në"
+        },
+        {
+          "word": "u",
+          "meaning": "u",
+          "sound": "u"
+        },
+        {
+          "word": "përpoqa",
+          "meaning": "i tried",
+          "sound": "për-po-qa"
+        },
+        {
+          "word": "ta",
+          "meaning": "them",
+          "sound": "ta"
+        },
+        {
+          "word": "injoroja",
+          "meaning": "i ignored",
+          "sound": "in-jo-ro-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "bëhej",
+          "meaning": "was done",
+          "sound": "bë-hej"
+        },
+        {
+          "word": "gjithnjë",
+          "meaning": "always",
+          "sound": "gjit-hnjë"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "fortë",
+          "meaning": "strong",
+          "sound": "for-të"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "ditë",
+          "meaning": "day",
+          "sound": "di-të"
+        },
+        {
+          "word": "ndalova",
+          "meaning": "i stopped",
+          "sound": "nda-lo-va"
+        },
+        {
+          "word": "dhe",
+          "meaning": "and",
+          "sound": "dhe"
+        },
+        {
+          "word": "pyeta",
+          "meaning": "i asked",
+          "sound": "py-e-ta"
+        },
+        {
+          "word": "veten",
+          "meaning": "yourself",
+          "sound": "ve-ten"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "çfarë",
+          "meaning": "what",
+          "sound": "çfa-rë"
+        },
+        {
+          "word": "doja",
+          "meaning": "i wanted",
+          "sound": "do-ja"
+        },
+        {
+          "word": "vërtet",
+          "meaning": "really",
+          "sound": "vër-tet"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Përgjigja",
+          "meaning": "the answer",
+          "sound": "për-gjig-ja"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "ishte",
+          "meaning": "it was",
+          "sound": "is-hte"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "menjëhershme",
+          "meaning": "immediate",
+          "sound": "men-jë-her-shme"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "për",
+          "meaning": "for",
+          "sound": "për"
+        },
+        {
+          "word": "herë",
+          "meaning": "times",
+          "sound": "he-rë"
+        },
+        {
+          "word": "të",
+          "meaning": "to",
+          "sound": "të"
+        },
+        {
+          "word": "parë",
+          "meaning": "seen",
+          "sound": "pa-rë"
+        },
+        {
+          "word": "ndjeva",
+          "meaning": "i felt",
+          "sound": "ndje-va"
+        },
+        {
+          "word": "sikur",
+          "meaning": "like",
+          "sound": "si-kur"
+        },
+        {
+          "word": "po",
+          "meaning": "yes",
+          "sound": "po"
+        },
+        {
+          "word": "më",
+          "meaning": "more",
+          "sound": "më"
+        },
+        {
+          "word": "dëgjonte",
+          "meaning": "listened",
+          "sound": "dëg-jon-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Që",
+          "meaning": "since",
+          "sound": "që"
+        },
+        {
+          "word": "atëherë",
+          "meaning": "then",
+          "sound": "a-të-he-rë"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kam",
+          "meaning": "i have",
+          "sound": "kam"
+        },
+        {
+          "word": "mësuar",
+          "meaning": "learned",
+          "sound": "më-su-ar"
+        },
+        {
+          "word": "se",
+          "meaning": "that",
+          "sound": "se"
+        },
+        {
+          "word": "zëri",
+          "meaning": "the voice",
+          "sound": "zë-ri"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "brendshëm",
+          "meaning": "internal",
+          "sound": "bren-dshëm"
+        },
+        {
+          "word": "nuk",
+          "meaning": "no",
+          "sound": "nuk"
+        },
+        {
+          "word": "është",
+          "meaning": "it is",
+          "sound": "ës-htë"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "pengesë",
+          "meaning": "obstacle",
+          "sound": "pen-ge-së"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "por",
+          "meaning": "but",
+          "sound": "por"
+        },
+        {
+          "word": "një",
+          "meaning": "one",
+          "sound": "një"
+        },
+        {
+          "word": "udhërrëfyes",
+          "meaning": "guide",
+          "sound": "ud-hër-rë-fy-es"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "albanian": {
+        "present": [
+          "Unë",
+          "ha",
+          "një",
+          "mollë"
+        ],
+        "past": [
+          "Unë",
+          "hëngra",
+          "një",
+          "mollë"
+        ],
+        "future": [
+          "Unë",
+          "do",
+          "të",
+          "ha",
+          "një",
+          "mollë"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "lexon",
+          "një",
+          "libër"
+        ],
+        "past": [
+          "Ajo",
+          "lexoi",
+          "një",
+          "libër"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "lexojë",
+          "një",
+          "libër"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "albanian": {
+        "present": [
+          "Shkojmë",
+          "në",
+          "shkollë"
+        ],
+        "past": [
+          "Ne",
+          "shkuam",
+          "në",
+          "shkollë"
+        ],
+        "future": [
+          "Ne",
+          "do",
+          "të",
+          "shkojmë",
+          "në",
+          "shkollë"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "pi",
+          "ujë"
+        ],
+        "past": [
+          "Ai",
+          "piu",
+          "ujë"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "pijë",
+          "ujë"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "luajnë",
+          "futboll"
+        ],
+        "past": [
+          "Ata",
+          "luanin",
+          "futboll"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "luajnë",
+          "futboll"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "albanian": {
+        "present": [
+          "Unë",
+          "shkruaj",
+          "një",
+          "letër"
+        ],
+        "past": [
+          "Unë",
+          "shkrova",
+          "një",
+          "letër"
+        ],
+        "future": [
+          "Unë",
+          "do",
+          "të",
+          "shkruaj",
+          "një",
+          "letër"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "ha",
+          "oriz"
+        ],
+        "past": [
+          "Ajo",
+          "hëngri",
+          "oriz"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "hajë",
+          "oriz"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "albanian": {
+        "present": [
+          "Ne",
+          "shikojmë",
+          "një",
+          "film"
+        ],
+        "past": [
+          "Ne",
+          "pamë",
+          "një",
+          "film"
+        ],
+        "future": [
+          "Ne",
+          "do",
+          "të",
+          "shohim",
+          "një",
+          "film"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "hap",
+          "derën"
+        ],
+        "past": [
+          "Ai",
+          "hapi",
+          "derën"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "hapë",
+          "derën"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "blejnë",
+          "ushqim"
+        ],
+        "past": [
+          "Ata",
+          "blenë",
+          "ushqim"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "blejnë",
+          "ushqim"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "albanian": {
+        "present": [
+          "Unë",
+          "ha",
+          "një",
+          "mollë",
+          "dhe",
+          "pi",
+          "ujë"
+        ],
+        "past": [
+          "Unë",
+          "hëngra",
+          "një",
+          "mollë",
+          "dhe",
+          "piva",
+          "ujë"
+        ],
+        "future": [
+          "Unë",
+          "do",
+          "të",
+          "ha",
+          "një",
+          "mollë",
+          "dhe",
+          "do",
+          "të",
+          "pi",
+          "ujë"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "lexon",
+          "një",
+          "libër",
+          "sepse",
+          "i",
+          "pëlqejnë",
+          "historitë"
+        ],
+        "past": [
+          "Ajo",
+          "lexoi",
+          "një",
+          "libër",
+          "sepse",
+          "i",
+          "pëlqenin",
+          "tregimet"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "lexojë",
+          "një",
+          "libër",
+          "sepse",
+          "i",
+          "pëlqejnë",
+          "historitë"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "albanian": {
+        "present": [
+          "Shkojmë",
+          "në",
+          "shkollë",
+          "dhe",
+          "studiojmë",
+          "së",
+          "bashku"
+        ],
+        "past": [
+          "Shkonim",
+          "në",
+          "shkollë",
+          "dhe",
+          "studionim",
+          "së",
+          "bashku"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "shkojmë",
+          "në",
+          "shkollë",
+          "dhe",
+          "do",
+          "të",
+          "studiojmë",
+          "së",
+          "bashku"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "pi",
+          "ujë",
+          "por",
+          "ha",
+          "ushqim",
+          "të",
+          "shpejtë"
+        ],
+        "past": [
+          "Ai",
+          "pinte",
+          "ujë",
+          "por",
+          "hante",
+          "ushqim",
+          "të",
+          "shpejtë"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "pijë",
+          "ujë",
+          "por",
+          "do",
+          "të",
+          "hajë",
+          "ushqim",
+          "të",
+          "shpejtë"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "luajnë",
+          "futboll",
+          "dhe",
+          "vrapojnë",
+          "në",
+          "park"
+        ],
+        "past": [
+          "Ata",
+          "luanin",
+          "futboll",
+          "dhe",
+          "vrapuan",
+          "në",
+          "park"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "luajnë",
+          "futboll",
+          "dhe",
+          "do",
+          "të",
+          "vrapojnë",
+          "në",
+          "park"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "albanian": {
+        "present": [
+          "Unë",
+          "shkruaj",
+          "një",
+          "letër",
+          "sepse",
+          "më",
+          "mungon"
+        ],
+        "past": [
+          "Unë",
+          "shkrova",
+          "një",
+          "letër",
+          "sepse",
+          "më",
+          "mungonte"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "shkruaj",
+          "një",
+          "letër",
+          "sepse",
+          "më",
+          "mungon"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "ha",
+          "oriz",
+          "dhe",
+          "gatuan",
+          "çdo",
+          "ditë"
+        ],
+        "past": [
+          "Ajo",
+          "hante",
+          "oriz",
+          "dhe",
+          "gatuante",
+          "çdo",
+          "ditë"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "hajë",
+          "oriz",
+          "dhe",
+          "do",
+          "të",
+          "gatuajë",
+          "çdo",
+          "ditë"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "albanian": {
+        "present": [
+          "Ne",
+          "shikojmë",
+          "një",
+          "film",
+          "por",
+          "flemë",
+          "vonë"
+        ],
+        "past": [
+          "Kemi",
+          "parë",
+          "një",
+          "film",
+          "por",
+          "kemi",
+          "fjetur",
+          "vonë"
+        ],
+        "future": [
+          "Ne",
+          "do",
+          "të",
+          "shohim",
+          "një",
+          "film",
+          "por",
+          "do",
+          "të",
+          "flemë",
+          "vonë"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "hap",
+          "derën",
+          "dhe",
+          "përshëndet",
+          "njerëzit"
+        ],
+        "past": [
+          "Ai",
+          "hapi",
+          "derën",
+          "dhe",
+          "përshëndeti",
+          "njerëzit"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "hapë",
+          "derën",
+          "dhe",
+          "do",
+          "të",
+          "përshëndesë",
+          "njerëzit"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "blejnë",
+          "ushqim",
+          "sepse",
+          "janë",
+          "të",
+          "uritur"
+        ],
+        "past": [
+          "Ata",
+          "blenë",
+          "ushqim",
+          "sepse",
+          "ishin",
+          "të",
+          "uritur"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "blejnë",
+          "ushqim",
+          "sepse",
+          "janë",
+          "të",
+          "uritur"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "albanian": {
+        "present": [
+          "Unë",
+          "ha",
+          "mëngjes",
+          "në",
+          "mëngjes"
+        ],
+        "past": [
+          "Kam",
+          "ngrënë",
+          "mëngjes",
+          "në",
+          "mëngjes"
+        ],
+        "future": [
+          "Unë",
+          "do",
+          "të",
+          "ha",
+          "mëngjes",
+          "në",
+          "mëngjes"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "studion",
+          "në",
+          "shtëpi",
+          "çdo",
+          "ditë"
+        ],
+        "past": [
+          "Ajo",
+          "studionte",
+          "çdo",
+          "ditë",
+          "në",
+          "shtëpi"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "studiojë",
+          "në",
+          "shtëpi",
+          "çdo",
+          "ditë"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "albanian": {
+        "present": [
+          "Ne",
+          "ecim",
+          "në",
+          "park",
+          "në",
+          "mbrëmje"
+        ],
+        "past": [
+          "Ne",
+          "shëtitëm",
+          "në",
+          "park",
+          "në",
+          "mbrëmje"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "ecim",
+          "në",
+          "park",
+          "në",
+          "mbrëmje"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "punon",
+          "në",
+          "një",
+          "zyrë",
+          "në",
+          "qytet"
+        ],
+        "past": [
+          "Ai",
+          "punonte",
+          "në",
+          "një",
+          "zyrë",
+          "në",
+          "qytet"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "punojë",
+          "në",
+          "një",
+          "zyrë",
+          "në",
+          "qytet"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "udhëtojnë",
+          "në",
+          "një",
+          "vend",
+          "tjetër",
+          "çdo",
+          "vit"
+        ],
+        "past": [
+          "Ata",
+          "udhëtonin",
+          "në",
+          "një",
+          "vend",
+          "tjetër",
+          "çdo",
+          "vit"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "udhëtojnë",
+          "në",
+          "një",
+          "vend",
+          "tjetër",
+          "çdo",
+          "vit"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "albanian": {
+        "present": [
+          "Kam",
+          "lexuar",
+          "një",
+          "libër",
+          "natën",
+          "para",
+          "gjumit"
+        ],
+        "past": [
+          "Kam",
+          "lexuar",
+          "një",
+          "libër",
+          "natën",
+          "para",
+          "gjumit"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "lexoj",
+          "një",
+          "libër",
+          "natën",
+          "para",
+          "se",
+          "të",
+          "fle"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "pi",
+          "kafe",
+          "në",
+          "mëngjes",
+          "në",
+          "shtëpi"
+        ],
+        "past": [
+          "Ajo",
+          "pinte",
+          "kafe",
+          "në",
+          "mëngjes",
+          "në",
+          "shtëpi"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "pijë",
+          "kafe",
+          "në",
+          "mëngjes",
+          "në",
+          "shtëpi"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "albanian": {
+        "present": [
+          "Ne",
+          "takojmë",
+          "miqtë",
+          "në",
+          "restorant",
+          "sonte"
+        ],
+        "past": [
+          "Ne",
+          "takuam",
+          "miqtë",
+          "në",
+          "restorant",
+          "sonte"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "takojmë",
+          "miqtë",
+          "në",
+          "restorant",
+          "sonte"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "studion",
+          "spanjisht",
+          "në",
+          "shkollë",
+          "çdo",
+          "ditë"
+        ],
+        "past": [
+          "Ai",
+          "studionte",
+          "spanjisht",
+          "në",
+          "shkollë",
+          "çdo",
+          "ditë"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "mësojë",
+          "spanjisht",
+          "në",
+          "shkollë",
+          "çdo",
+          "ditë"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "shikojnë",
+          "televizor",
+          "në",
+          "mbrëmje",
+          "në",
+          "shtëpi"
+        ],
+        "past": [
+          "Ata",
+          "shikonin",
+          "televizor",
+          "në",
+          "mbrëmje",
+          "në",
+          "shtëpi"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "shikojnë",
+          "televizor",
+          "në",
+          "mbrëmje",
+          "në",
+          "shtëpi"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "albanian": {
+        "present": [
+          "Më",
+          "pëlqen",
+          "kjo",
+          "muzikë"
+        ],
+        "past": [
+          "Më",
+          "pëlqeu",
+          "kjo",
+          "muzikë"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "më",
+          "pëlqejë",
+          "kjo",
+          "muzikë"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "ndihet",
+          "e",
+          "lumtur",
+          "sot"
+        ],
+        "past": [
+          "Ajo",
+          "u",
+          "ndje",
+          "e",
+          "lumtur",
+          "sot"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "ndihet",
+          "e",
+          "lumtur",
+          "sot"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "albanian": {
+        "present": [
+          "Mendojmë",
+          "se",
+          "kjo",
+          "ide",
+          "është",
+          "e",
+          "mirë"
+        ],
+        "past": [
+          "Ne",
+          "menduam",
+          "se",
+          "kjo",
+          "ide",
+          "ishte",
+          "e",
+          "mirë"
+        ],
+        "future": [
+          "Ne",
+          "do",
+          "të",
+          "mendojmë",
+          "se",
+          "kjo",
+          "ide",
+          "është",
+          "e",
+          "mirë"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "dëshiron",
+          "të",
+          "mësojë",
+          "spanjisht"
+        ],
+        "past": [
+          "Ai",
+          "donte",
+          "të",
+          "mësonte",
+          "spanjisht"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "dëshirojë",
+          "të",
+          "mësojë",
+          "spanjisht"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "e",
+          "duan",
+          "shumë",
+          "familjen",
+          "e",
+          "tyre"
+        ],
+        "past": [
+          "Ata",
+          "e",
+          "donin",
+          "shumë",
+          "familjen",
+          "e",
+          "tyre"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "ta",
+          "duan",
+          "shumë",
+          "familjen",
+          "e",
+          "tyre"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "albanian": {
+        "present": [
+          "Ndihem",
+          "i",
+          "lodhur",
+          "pas",
+          "punës"
+        ],
+        "past": [
+          "Ndihesha",
+          "i",
+          "lodhur",
+          "pas",
+          "punës"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "ndihem",
+          "i",
+          "lodhur",
+          "pas",
+          "punës"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "beson",
+          "në",
+          "vetvete"
+        ],
+        "past": [
+          "Ajo",
+          "besonte",
+          "në",
+          "vetvete"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "besojë",
+          "në",
+          "vetvete"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "albanian": {
+        "present": [
+          "Na",
+          "pëlqen",
+          "të",
+          "udhëtojmë",
+          "së",
+          "bashku"
+        ],
+        "past": [
+          "Na",
+          "pëlqente",
+          "të",
+          "udhëtonim",
+          "së",
+          "bashku"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "na",
+          "pëlqente",
+          "të",
+          "udhëtojmë",
+          "së",
+          "bashku"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "mendon",
+          "për",
+          "të",
+          "ardhmen",
+          "e",
+          "tij"
+        ],
+        "past": [
+          "Ai",
+          "mendoi",
+          "për",
+          "të",
+          "ardhmen",
+          "e",
+          "tij"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "mendojë",
+          "për",
+          "të",
+          "ardhmen",
+          "e",
+          "tij"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "ndihen",
+          "të",
+          "emocionuar",
+          "për",
+          "udhëtimin"
+        ],
+        "past": [
+          "Ata",
+          "u",
+          "ndjenë",
+          "të",
+          "emocionuar",
+          "për",
+          "udhëtimin"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "ndihen",
+          "të",
+          "emocionuar",
+          "për",
+          "udhëtimin"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "albanian": {
+        "present": [
+          "Mundohem",
+          "të",
+          "përmirësohem",
+          "çdo",
+          "ditë"
+        ],
+        "past": [
+          "Jam",
+          "përpjekur",
+          "të",
+          "përmirësohem",
+          "çdo",
+          "ditë"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "përpiqem",
+          "të",
+          "përmirësohem",
+          "çdo",
+          "ditë"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "dëshiron",
+          "të",
+          "arrijë",
+          "qëllimet",
+          "e",
+          "saj"
+        ],
+        "past": [
+          "Ajo",
+          "donte",
+          "të",
+          "arrinte",
+          "qëllimet",
+          "e",
+          "saj"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "dëshirojë",
+          "të",
+          "arrijë",
+          "qëllimet",
+          "e",
+          "saj"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "albanian": {
+        "present": [
+          "Ne",
+          "mësojmë",
+          "nga",
+          "gabimet",
+          "tona"
+        ],
+        "past": [
+          "Mësuam",
+          "nga",
+          "gabimet",
+          "tona"
+        ],
+        "future": [
+          "Ne",
+          "do",
+          "të",
+          "mësojmë",
+          "nga",
+          "gabimet",
+          "tona"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "punon",
+          "shumë",
+          "për",
+          "të",
+          "ndërtuar",
+          "të",
+          "ardhmen",
+          "e",
+          "tij"
+        ],
+        "past": [
+          "Ai",
+          "punoi",
+          "shumë",
+          "për",
+          "të",
+          "ndërtuar",
+          "të",
+          "ardhmen",
+          "e",
+          "tij"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "punojë",
+          "shumë",
+          "për",
+          "të",
+          "ndërtuar",
+          "të",
+          "ardhmen",
+          "e",
+          "tij"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "besojnë",
+          "se",
+          "gjithçka",
+          "është",
+          "e",
+          "mundur"
+        ],
+        "past": [
+          "Ata",
+          "besonin",
+          "se",
+          "gjithçka",
+          "ishte",
+          "e",
+          "mundur"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "besojnë",
+          "se",
+          "gjithçka",
+          "është",
+          "e",
+          "mundur"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "albanian": {
+        "present": [
+          "Çdo",
+          "natë",
+          "mendoj",
+          "për",
+          "të",
+          "ardhmen",
+          "time"
+        ],
+        "past": [
+          "Çdo",
+          "natë",
+          "mendoja",
+          "për",
+          "të",
+          "ardhmen",
+          "time"
+        ],
+        "future": [
+          "Do",
+          "të",
+          "mendoj",
+          "për",
+          "të",
+          "ardhmen",
+          "time",
+          "çdo",
+          "natë"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "albanian": {
+        "present": [
+          "Ajo",
+          "përpiqet",
+          "të",
+          "qëndrojë",
+          "pozitive",
+          "në",
+          "kohë",
+          "të",
+          "vështira"
+        ],
+        "past": [
+          "Ajo",
+          "u",
+          "përpoq",
+          "të",
+          "qëndronte",
+          "pozitive",
+          "në",
+          "kohë",
+          "të",
+          "vështira"
+        ],
+        "future": [
+          "Ajo",
+          "do",
+          "të",
+          "përpiqet",
+          "të",
+          "qëndrojë",
+          "pozitive",
+          "në",
+          "momente",
+          "të",
+          "vështira"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "albanian": {
+        "present": [
+          "Ne",
+          "duam",
+          "të",
+          "jetojmë",
+          "një",
+          "jetë",
+          "kuptimplote"
+        ],
+        "past": [
+          "Ne",
+          "donim",
+          "të",
+          "jetonim",
+          "një",
+          "jetë",
+          "kuptimplote"
+        ],
+        "future": [
+          "Ne",
+          "do",
+          "të",
+          "dëshirojmë",
+          "të",
+          "jetojmë",
+          "një",
+          "jetë",
+          "kuptimplote"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "albanian": {
+        "present": [
+          "Ai",
+          "e",
+          "kupton",
+          "se",
+          "ndryshimi",
+          "kërkon",
+          "kohë"
+        ],
+        "past": [
+          "Ai",
+          "e",
+          "kuptoi",
+          "se",
+          "ndryshimi",
+          "kërkonte",
+          "kohë"
+        ],
+        "future": [
+          "Ai",
+          "do",
+          "të",
+          "kuptojë",
+          "se",
+          "ndryshimi",
+          "kërkon",
+          "kohë"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "albanian": {
+        "present": [
+          "Ata",
+          "vendosin",
+          "të",
+          "ndjekin",
+          "ëndrrat",
+          "e",
+          "tyre"
+        ],
+        "past": [
+          "Ata",
+          "vendosën",
+          "të",
+          "ndiqnin",
+          "ëndrrat",
+          "e",
+          "tyre"
+        ],
+        "future": [
+          "Ata",
+          "do",
+          "të",
+          "vendosin",
+          "të",
+          "ndjekin",
+          "ëndrrat",
+          "e",
+          "tyre"
+        ]
+      }
+    }
+  ]
+}

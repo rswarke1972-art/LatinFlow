@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#0f172a">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz | IndieFlow</title>
+  <title>Quiz | LatinFlow</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,8 +23,8 @@
 
   <!-- QUIZ TYPES -->
   <div class="quiz-types">
-    <button onclick="setQuizType('wordToMeaning')">Word → Meaning</button>
-    <button onclick="setQuizType('meaningToWord')">Meaning → Word</button>
+    <button id="quiztype-wordToMeaning" onclick="changeQuizType('wordToMeaning')">Word → Meaning</button>
+    <button id="quiztype-meaningToWord" onclick="changeQuizType('meaningToWord')">Meaning → Word</button>
   </div>
 
   <h2 id="score">Score: 0</h2>
@@ -41,11 +46,6 @@
 <script>
 function goBack() {
   window.history.back();
-}
-
-function setQuizType(type) {
-  localStorage.setItem("quizType", type);
-  location.reload();
 }
 </script>
 

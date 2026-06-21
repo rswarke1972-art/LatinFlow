@@ -1,0 +1,7218 @@
+{
+  "language": "Hungarian",
+  "stories": {
+    "story1": {
+      "title": "a kávézóban",
+      "content": [
+        {
+          "word": "Minden",
+          "meaning": "everything",
+          "sound": "min-den"
+        },
+        {
+          "word": "reggel",
+          "meaning": "in the morning",
+          "sound": "reg-gel"
+        },
+        {
+          "word": "elmegyek",
+          "meaning": "i'm leaving",
+          "sound": "el-me-gy-ek"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "kis",
+          "meaning": "small",
+          "sound": "kis"
+        },
+        {
+          "word": "kávézóba",
+          "meaning": "to a cafe",
+          "sound": "ká-vé-zó-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "kávézó",
+          "meaning": "cafe",
+          "sound": "ká-vé-zó"
+        },
+        {
+          "word": "közel",
+          "meaning": "near",
+          "sound": "kö-zel"
+        },
+        {
+          "word": "van",
+          "meaning": "there is",
+          "sound": "van"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "házamhoz",
+          "meaning": "to my house",
+          "sound": "há-zam-hoz"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "csendes",
+          "meaning": "quiet",
+          "sound": "csen-des"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mindig",
+          "meaning": "always",
+          "sound": "min-dig"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "ablak",
+          "meaning": "window",
+          "sound": "a-blak"
+        },
+        {
+          "word": "mellett",
+          "meaning": "beside",
+          "sound": "mel-lett"
+        },
+        {
+          "word": "ülök",
+          "meaning": "i'm sitting",
+          "sound": "ü-lök"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "rendelek",
+          "meaning": "i order",
+          "sound": "ren-de-lek"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "csésze",
+          "meaning": "cup",
+          "sound": "csés-ze"
+        },
+        {
+          "word": "forró",
+          "meaning": "it's hot",
+          "sound": "for-ró"
+        },
+        {
+          "word": "kávét",
+          "meaning": "coffee",
+          "sound": "ká-vét"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "pincér",
+          "meaning": "waiter",
+          "sound": "pin-cér"
+        },
+        {
+          "word": "barátságos",
+          "meaning": "friendly",
+          "sound": "ba-rát-sá-gos"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "mindig",
+          "meaning": "always",
+          "sound": "min-dig"
+        },
+        {
+          "word": "mosolyogva",
+          "meaning": "smiling",
+          "sound": "mo-so-ly-og-va"
+        },
+        {
+          "word": "üdvözöl",
+          "meaning": "welcome",
+          "sound": "üd-vö-zöl"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Néha",
+          "meaning": "sometimes",
+          "sound": "né-ha"
+        },
+        {
+          "word": "olvasok",
+          "meaning": "i am reading",
+          "sound": "ol-va-sok"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "érdekes",
+          "meaning": "interesting",
+          "sound": "ér-de-kes"
+        },
+        {
+          "word": "könyvet",
+          "meaning": "book",
+          "sound": "kö-ny-vet"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "máskor",
+          "meaning": "another time",
+          "sound": "más-kor"
+        },
+        {
+          "word": "pedig",
+          "meaning": "while",
+          "sound": "pe-dig"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "füzetembe",
+          "meaning": "in my notebook",
+          "sound": "fü-ze-tem-be"
+        },
+        {
+          "word": "írok",
+          "meaning": "i write",
+          "sound": "í-rok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "új",
+          "meaning": "new",
+          "sound": "új"
+        },
+        {
+          "word": "embert",
+          "meaning": "man",
+          "sound": "em-bert"
+        },
+        {
+          "word": "látok",
+          "meaning": "i see",
+          "sound": "lá-tok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Regényt",
+          "meaning": "a novel",
+          "sound": "re-gé-nyt"
+        },
+        {
+          "word": "olvas",
+          "meaning": "is reading",
+          "sound": "ol-vas"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "teát",
+          "meaning": "tea",
+          "sound": "te-át"
+        },
+        {
+          "word": "iszik",
+          "meaning": "drinks",
+          "sound": "is-zik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kíváncsi",
+          "meaning": "curious",
+          "sound": "kí-ván-csi"
+        },
+        {
+          "word": "vagyok",
+          "meaning": "i am",
+          "sound": "va-gy-ok"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "kicsit",
+          "meaning": "a little",
+          "sound": "kic-sit"
+        },
+        {
+          "word": "félénk",
+          "meaning": "shy",
+          "sound": "fé-lénk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pár",
+          "meaning": "couple",
+          "sound": "pár"
+        },
+        {
+          "word": "perc",
+          "meaning": "min",
+          "sound": "perc"
+        },
+        {
+          "word": "múlva",
+          "meaning": "after",
+          "sound": "múl-va"
+        },
+        {
+          "word": "köszönök",
+          "meaning": "thank you",
+          "sound": "kös-zö-nök"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mosolyogva",
+          "meaning": "smiling",
+          "sound": "mo-so-ly-og-va"
+        },
+        {
+          "word": "válaszol",
+          "meaning": "he answers",
+          "sound": "vá-las-zol"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "elkezdünk",
+          "meaning": "let's start",
+          "sound": "el-kez-dünk"
+        },
+        {
+          "word": "beszélgetni",
+          "meaning": "to talk",
+          "sound": "bes-zél-get-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Boldognak",
+          "meaning": "for happy",
+          "sound": "bol-dog-nak"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "kipihentnek",
+          "meaning": "they rest",
+          "sound": "ki-pi-hen-tnek"
+        },
+        {
+          "word": "érzem",
+          "meaning": "i feel",
+          "sound": "ér-zem"
+        },
+        {
+          "word": "magam",
+          "meaning": "myself",
+          "sound": "ma-gam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "a parkban",
+      "content": [
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "parkba",
+          "meaning": "to the park",
+          "sound": "par-kba"
+        },
+        {
+          "word": "megyek",
+          "meaning": "i'm going",
+          "sound": "me-gy-ek"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "barátommal",
+          "meaning": "with my friend",
+          "sound": "ba-rá-tom-mal"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "idő",
+          "meaning": "time",
+          "sound": "i-dő"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "kellemes",
+          "meaning": "pleasant",
+          "sound": "kel-le-mes"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "süt",
+          "meaning": "bakes",
+          "sound": "süt"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sok",
+          "meaning": "a lot",
+          "sound": "sok"
+        },
+        {
+          "word": "embert",
+          "meaning": "man",
+          "sound": "em-bert"
+        },
+        {
+          "word": "látok",
+          "meaning": "i see",
+          "sound": "lá-tok"
+        },
+        {
+          "word": "sétálni",
+          "meaning": "to walk",
+          "sound": "sé-tál-ni"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "nevetni",
+          "meaning": "to laugh",
+          "sound": "ne-vet-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egyes",
+          "meaning": "some",
+          "sound": "e-gy-es"
+        },
+        {
+          "word": "gyerekek",
+          "meaning": "children",
+          "sound": "gy-e-re-kek"
+        },
+        {
+          "word": "labdával",
+          "meaning": "with a ball",
+          "sound": "lab-dá-val"
+        },
+        {
+          "word": "játszanak",
+          "meaning": "they are playing",
+          "sound": "ját-sza-nak"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mások",
+          "meaning": "others",
+          "sound": "má-sok"
+        },
+        {
+          "word": "gyorsan",
+          "meaning": "quickly",
+          "sound": "gy-or-san"
+        },
+        {
+          "word": "futnak",
+          "meaning": "they run",
+          "sound": "fut-nak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "barátommal",
+          "meaning": "with my friend",
+          "sound": "ba-rá-tom-mal"
+        },
+        {
+          "word": "leültünk",
+          "meaning": "we sat down",
+          "sound": "le-ül-tünk"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "padra",
+          "meaning": "bench",
+          "sound": "pa-dra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "életünkről",
+          "meaning": "about our lives",
+          "sound": "é-le-tün-kről"
+        },
+        {
+          "word": "beszélgettünk",
+          "meaning": "we talked",
+          "sound": "bes-zél-get-tünk"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "sokat",
+          "meaning": "a lot",
+          "sound": "so-kat"
+        },
+        {
+          "word": "nevettünk",
+          "meaning": "we laughed",
+          "sound": "ne-vet-tünk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Utána",
+          "meaning": "afterwards",
+          "sound": "u-tá-na"
+        },
+        {
+          "word": "vettünk",
+          "meaning": "we bought",
+          "sound": "vet-tünk"
+        },
+        {
+          "word": "fagyit",
+          "meaning": "ice cream",
+          "sound": "fa-gy-it"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": "egyszerű",
+          "meaning": "simple",
+          "sound": "e-gys-ze-rű"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "szép",
+          "meaning": "nice",
+          "sound": "szép"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "a könyvtárban",
+      "content": [
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "könyvtárba",
+          "meaning": "to the library",
+          "sound": "kö-nyv-tár-ba"
+        },
+        {
+          "word": "megyek",
+          "meaning": "i'm going",
+          "sound": "me-gy-ek"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ez",
+          "meaning": "this is it",
+          "sound": "ez"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "csendes",
+          "meaning": "quiet",
+          "sound": "csen-des"
+        },
+        {
+          "word": "hely",
+          "meaning": "place",
+          "sound": "he-ly"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tele",
+          "meaning": "full",
+          "sound": "te-le"
+        },
+        {
+          "word": "könyvekkel",
+          "meaning": "with books",
+          "sound": "kö-ny-vek-kel"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Szeretek",
+          "meaning": "i love you",
+          "sound": "sze-re-tek"
+        },
+        {
+          "word": "olvasni",
+          "meaning": "to read",
+          "sound": "ol-vas-ni"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "új",
+          "meaning": "new",
+          "sound": "új"
+        },
+        {
+          "word": "dolgokat",
+          "meaning": "things",
+          "sound": "dol-go-kat"
+        },
+        {
+          "word": "tanulni",
+          "meaning": "to learn",
+          "sound": "ta-nul-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "érdekes",
+          "meaning": "interesting",
+          "sound": "ér-de-kes"
+        },
+        {
+          "word": "könyvet",
+          "meaning": "book",
+          "sound": "kö-ny-vet"
+        },
+        {
+          "word": "keresek",
+          "meaning": "i'm looking for",
+          "sound": "ke-re-sek"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "történelemről",
+          "meaning": "about history",
+          "sound": "tör-té-ne-lem-ről"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Utána",
+          "meaning": "afterwards",
+          "sound": "u-tá-na"
+        },
+        {
+          "word": "leülök",
+          "meaning": "i sit down",
+          "sound": "le-ü-lök"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "asztalhoz",
+          "meaning": "to the table",
+          "sound": "as-ztal-hoz"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "olvasni",
+          "meaning": "to read",
+          "sound": "ol-vas-ni"
+        },
+        {
+          "word": "kezdek",
+          "meaning": "i'm starting",
+          "sound": "kez-dek"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mások",
+          "meaning": "others",
+          "sound": "má-sok"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "tanulnak",
+          "meaning": "they are learning",
+          "sound": "ta-nul-nak"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "írnak",
+          "meaning": "they write",
+          "sound": "ír-nak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "légkör",
+          "meaning": "atmosphere",
+          "sound": "lég-kör"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "csendes",
+          "meaning": "quiet",
+          "sound": "csen-des"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "idő",
+          "meaning": "time",
+          "sound": "i-dő"
+        },
+        {
+          "word": "után",
+          "meaning": "after",
+          "sound": "u-tán"
+        },
+        {
+          "word": "becsukom",
+          "meaning": "i close it",
+          "sound": "bec-su-kom"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "könyvet",
+          "meaning": "book",
+          "sound": "kö-ny-vet"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "elégedett",
+          "meaning": "satisfied",
+          "sound": "e-lé-ge-dett"
+        },
+        {
+          "word": "vagyok",
+          "meaning": "i am",
+          "sound": "va-gy-ok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "a boltban",
+      "content": [
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "nagy",
+          "meaning": "big",
+          "sound": "na-gy"
+        },
+        {
+          "word": "boltba",
+          "meaning": "to the store",
+          "sound": "bol-tba"
+        },
+        {
+          "word": "megyek",
+          "meaning": "i'm going",
+          "sound": "me-gy-ek"
+        },
+        {
+          "word": "élelmiszert",
+          "meaning": "food",
+          "sound": "é-lel-mis-zert"
+        },
+        {
+          "word": "venni",
+          "meaning": "to take",
+          "sound": "ven-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kell",
+          "meaning": "i have to",
+          "sound": "kell"
+        },
+        {
+          "word": "kenyér",
+          "meaning": "bread",
+          "sound": "ke-ny-ér"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tej",
+          "meaning": "milk",
+          "sound": "tej"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "gyümölcs",
+          "meaning": "fruit",
+          "sound": "gy-ü-mölcs"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "zöldség",
+          "meaning": "vegetable",
+          "sound": "zöl-dség"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "üzlet",
+          "meaning": "business",
+          "sound": "üz-let"
+        },
+        {
+          "word": "tele",
+          "meaning": "full",
+          "sound": "te-le"
+        },
+        {
+          "word": "van",
+          "meaning": "there is",
+          "sound": "van"
+        },
+        {
+          "word": "emberekkel",
+          "meaning": "with people",
+          "sound": "em-be-rek-kel"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "nagy",
+          "meaning": "big",
+          "sound": "na-gy"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "zaj",
+          "meaning": "noise",
+          "sound": "zaj"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Keresem",
+          "meaning": "i'm looking for it",
+          "sound": "ke-re-sem"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "termékeket",
+          "meaning": "products",
+          "sound": "ter-mé-ke-ket"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "polcokon",
+          "meaning": "on shelves",
+          "sound": "pol-co-kon"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "nő",
+          "meaning": "woman",
+          "sound": "nő"
+        },
+        {
+          "word": "megkérdezi",
+          "meaning": "he asks",
+          "sound": "meg-kér-de-zi"
+        },
+        {
+          "word": "tőlem",
+          "meaning": "from me",
+          "sound": "tő-lem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hol",
+          "meaning": "where",
+          "sound": "hol"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "tej",
+          "meaning": "milk",
+          "sound": "tej"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mondom",
+          "meaning": "i say",
+          "sound": "mon-dom"
+        },
+        {
+          "word": "neki",
+          "meaning": "to him",
+          "sound": "ne-ki"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ott",
+          "meaning": "there",
+          "sound": "ott"
+        },
+        {
+          "word": "van",
+          "meaning": "there is",
+          "sound": "van"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "kenyér",
+          "meaning": "bread",
+          "sound": "ke-ny-ér"
+        },
+        {
+          "word": "mellett",
+          "meaning": "beside",
+          "sound": "mel-lett"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mosolyog",
+          "meaning": "he smiles",
+          "sound": "mo-so-ly-og"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "köszönetet",
+          "meaning": "thank you",
+          "sound": "kös-zö-ne-tet"
+        },
+        {
+          "word": "mond",
+          "meaning": "says",
+          "sound": "mond"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aztán",
+          "meaning": "then",
+          "sound": "az-tán"
+        },
+        {
+          "word": "megyek",
+          "meaning": "i'm going",
+          "sound": "me-gy-ek"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "pénztárhoz",
+          "meaning": "to checkout",
+          "sound": "pén-ztár-hoz"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "fizetek",
+          "meaning": "i pay",
+          "sound": "fi-ze-tek"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tele",
+          "meaning": "it's full",
+          "sound": "te-le"
+        },
+        {
+          "word": "táskával",
+          "meaning": "with a bag",
+          "sound": "tás-ká-val"
+        },
+        {
+          "word": "hagyom",
+          "meaning": "i'll leave it",
+          "sound": "ha-gy-om"
+        },
+        {
+          "word": "el",
+          "meaning": "away",
+          "sound": "el"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "boltot",
+          "meaning": "shop",
+          "sound": "bol-tot"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "boldognak",
+          "meaning": "to be happy",
+          "sound": "bol-dog-nak"
+        },
+        {
+          "word": "érzem",
+          "meaning": "i feel",
+          "sound": "ér-zem"
+        },
+        {
+          "word": "magam",
+          "meaning": "myself",
+          "sound": "ma-gam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "a buszon",
+      "content": [
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "busszal",
+          "meaning": "by bus",
+          "sound": "bus-szal"
+        },
+        {
+          "word": "megyek",
+          "meaning": "i'm going",
+          "sound": "me-gy-ek"
+        },
+        {
+          "word": "dolgozni",
+          "meaning": "to work",
+          "sound": "dol-goz-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "busz",
+          "meaning": "bus",
+          "sound": "busz"
+        },
+        {
+          "word": "tele",
+          "meaning": "full",
+          "sound": "te-le"
+        },
+        {
+          "word": "van",
+          "meaning": "there is",
+          "sound": "van"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "nincs",
+          "meaning": "there is none",
+          "sound": "nincs"
+        },
+        {
+          "word": "sok",
+          "meaning": "a lot",
+          "sound": "sok"
+        },
+        {
+          "word": "hely",
+          "meaning": "place",
+          "sound": "he-ly"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kicsit",
+          "meaning": "a little bit",
+          "sound": "kic-sit"
+        },
+        {
+          "word": "fáradtnak",
+          "meaning": "tired",
+          "sound": "fá-rad-tnak"
+        },
+        {
+          "word": "érzem",
+          "meaning": "i feel",
+          "sound": "ér-zem"
+        },
+        {
+          "word": "magam",
+          "meaning": "myself",
+          "sound": "ma-gam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "látok",
+          "meaning": "i see",
+          "sound": "lá-tok"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "idős",
+          "meaning": "old",
+          "sound": "i-dős"
+        },
+        {
+          "word": "embert",
+          "meaning": "man",
+          "sound": "em-bert"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Felajánlom",
+          "meaning": "i offer it",
+          "sound": "fe-la-ján-lom"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "helyem",
+          "meaning": "my place",
+          "sound": "he-ly-em"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "mondja",
+          "meaning": "he says",
+          "sound": "mon-dja"
+        },
+        {
+          "word": "nekem",
+          "meaning": "to me",
+          "sound": "ne-kem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biztos",
+          "meaning": "for sure",
+          "sound": "biz-tos"
+        },
+        {
+          "word": "vagy",
+          "meaning": "you are",
+          "sound": "va-gy"
+        },
+        {
+          "word": "benne",
+          "meaning": "in it",
+          "sound": "ben-ne"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "válaszolom",
+          "meaning": "i answer",
+          "sound": "vá-las-zo-lom"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Igen",
+          "meaning": "yes",
+          "sound": "i-gen"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "semmi",
+          "meaning": "nothing",
+          "sound": "sem-mi"
+        },
+        {
+          "word": "gond",
+          "meaning": "problem",
+          "sound": "gond"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mosolyog",
+          "meaning": "he smiles",
+          "sound": "mo-so-ly-og"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "megköszöni",
+          "meaning": "thanks you",
+          "sound": "meg-kös-zö-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Utazás",
+          "meaning": "travel",
+          "sound": "u-ta-zás"
+        },
+        {
+          "word": "közben",
+          "meaning": "during",
+          "sound": "köz-ben"
+        },
+        {
+          "word": "kinézek",
+          "meaning": "i look",
+          "sound": "ki-né-zek"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "ablakon",
+          "meaning": "window",
+          "sound": "a-bla-kon"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "napomra",
+          "meaning": "for my day",
+          "sound": "na-pom-ra"
+        },
+        {
+          "word": "gondolok",
+          "meaning": "i think",
+          "sound": "gon-do-lok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bár",
+          "meaning": "although",
+          "sound": "bár"
+        },
+        {
+          "word": "fáradt",
+          "meaning": "tired",
+          "sound": "fá-radt"
+        },
+        {
+          "word": "vagyok",
+          "meaning": "i am",
+          "sound": "va-gy-ok"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jó",
+          "meaning": "good",
+          "sound": "jó"
+        },
+        {
+          "word": "érzés",
+          "meaning": "feeling",
+          "sound": "ér-zés"
+        },
+        {
+          "word": "segíteni",
+          "meaning": "to help",
+          "sound": "se-gí-te-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Tegnap a strandon",
+      "content": [
+        {
+          "word": "Tegnap",
+          "meaning": "yesterday",
+          "sound": "teg-nap"
+        },
+        {
+          "word": "strandra",
+          "meaning": "to the beach",
+          "sound": "stran-dra"
+        },
+        {
+          "word": "mentem",
+          "meaning": "i went",
+          "sound": "men-tem"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "barátaimmal",
+          "meaning": "with my friends",
+          "sound": "ba-rá-ta-im-mal"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "idő",
+          "meaning": "time",
+          "sound": "i-dő"
+        },
+        {
+          "word": "tökéletes",
+          "meaning": "it's perfect",
+          "sound": "tö-ké-le-tes"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "tenger",
+          "meaning": "sea",
+          "sound": "ten-ger"
+        },
+        {
+          "word": "nyugodt",
+          "meaning": "calm",
+          "sound": "ny-u-godt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sétáltunk",
+          "meaning": "we walked",
+          "sound": "sé-tál-tunk"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "homokon",
+          "meaning": "on sand",
+          "sound": "ho-mo-kon"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "sok",
+          "meaning": "a lot",
+          "sound": "sok"
+        },
+        {
+          "word": "mindenről",
+          "meaning": "about everything",
+          "sound": "min-den-ről"
+        },
+        {
+          "word": "beszélgettünk",
+          "meaning": "we talked",
+          "sound": "bes-zél-get-tünk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Utána",
+          "meaning": "afterwards",
+          "sound": "u-tá-na"
+        },
+        {
+          "word": "fürödtünk",
+          "meaning": "we bathed",
+          "sound": "fü-röd-tünk"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "hideg",
+          "meaning": "cold",
+          "sound": "hi-deg"
+        },
+        {
+          "word": "vízben",
+          "meaning": "in water",
+          "sound": "víz-ben"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Először",
+          "meaning": "first",
+          "sound": "e-lős-zör"
+        },
+        {
+          "word": "kicsit",
+          "meaning": "a little",
+          "sound": "kic-sit"
+        },
+        {
+          "word": "féltem",
+          "meaning": "i was afraid",
+          "sound": "fél-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "aztán",
+          "meaning": "then",
+          "sound": "az-tán"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "jól",
+          "meaning": "well",
+          "sound": "jól"
+        },
+        {
+          "word": "éreztem",
+          "meaning": "i felt it",
+          "sound": "é-rez-tem"
+        },
+        {
+          "word": "magam",
+          "meaning": "myself",
+          "sound": "ma-gam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Labdával",
+          "meaning": "with a ball",
+          "sound": "lab-dá-val"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "játszottunk",
+          "meaning": "we played",
+          "sound": "ját-szot-tunk"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "sokat",
+          "meaning": "a lot",
+          "sound": "so-kat"
+        },
+        {
+          "word": "nevettünk",
+          "meaning": "we laughed",
+          "sound": "ne-vet-tünk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Délután",
+          "meaning": "afternoon",
+          "sound": "dé-lu-tán"
+        },
+        {
+          "word": "együtt",
+          "meaning": "together",
+          "sound": "e-gy-ütt"
+        },
+        {
+          "word": "ettünk",
+          "meaning": "we ate",
+          "sound": "et-tünk"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "néztük",
+          "meaning": "we watched",
+          "sound": "néz-tük"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "naplementét",
+          "meaning": "sunset",
+          "sound": "na-ple-men-tét"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ez",
+          "meaning": "this is it",
+          "sound": "ez"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "különleges",
+          "meaning": "special",
+          "sound": "kü-lön-le-ges"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "soha",
+          "meaning": "never",
+          "sound": "so-ha"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "fogom",
+          "meaning": "i will",
+          "sound": "fo-gom"
+        },
+        {
+          "word": "elfelejteni",
+          "meaning": "to forget",
+          "sound": "el-fe-lej-te-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Fontos beszélgetés",
+      "content": [
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "találkoztam",
+          "meaning": "i met",
+          "sound": "ta-lál-koz-tam"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "régi",
+          "meaning": "old",
+          "sound": "ré-gi"
+        },
+        {
+          "word": "barátommal",
+          "meaning": "with my friend",
+          "sound": "ba-rá-tom-mal"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "kávézóban",
+          "meaning": "in a cafe",
+          "sound": "ká-vé-zó-ban"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rég",
+          "meaning": "old",
+          "sound": "rég"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "láttam",
+          "meaning": "i saw",
+          "sound": "lát-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ezért",
+          "meaning": "therefore",
+          "sound": "e-zért"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "örültem",
+          "meaning": "i was glad",
+          "sound": "ö-rül-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "láthattam",
+          "meaning": "i could see",
+          "sound": "lát-hat-tam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Leültünk",
+          "meaning": "we sat down",
+          "sound": "le-ül-tünk"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "beszélgetni",
+          "meaning": "to talk",
+          "sound": "bes-zél-get-ni"
+        },
+        {
+          "word": "kezdtünk",
+          "meaning": "we started",
+          "sound": "kez-dtünk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Elmondta",
+          "meaning": "he told me",
+          "sound": "el-mon-dta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "most",
+          "meaning": "now",
+          "sound": "most"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "másik",
+          "meaning": "another",
+          "sound": "má-sik"
+        },
+        {
+          "word": "városban",
+          "meaning": "in town",
+          "sound": "vá-ros-ban"
+        },
+        {
+          "word": "él",
+          "meaning": "live",
+          "sound": "él"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ő",
+          "meaning": "he is",
+          "sound": "ő"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "nagy",
+          "meaning": "big",
+          "sound": "na-gy"
+        },
+        {
+          "word": "cégnél",
+          "meaning": "at company",
+          "sound": "cég-nél"
+        },
+        {
+          "word": "dolgozik",
+          "meaning": "is working",
+          "sound": "dol-go-zik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Meséltem",
+          "meaning": "i told you",
+          "sound": "me-sél-tem"
+        },
+        {
+          "word": "neki",
+          "meaning": "to him",
+          "sound": "ne-ki"
+        },
+        {
+          "word": "tanulmányaimról",
+          "meaning": "about my studies",
+          "sound": "ta-nul-má-ny-a-im-ról"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "terveimről",
+          "meaning": "about my plans",
+          "sound": "ter-ve-im-ről"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Órákig",
+          "meaning": "for hours",
+          "sound": "ó-rá-kig"
+        },
+        {
+          "word": "beszélgettünk",
+          "meaning": "we talked",
+          "sound": "bes-zél-get-tünk"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "sok",
+          "meaning": "a lot",
+          "sound": "sok"
+        },
+        {
+          "word": "pillanatra",
+          "meaning": "for a moment",
+          "sound": "pil-la-na-tra"
+        },
+        {
+          "word": "emlékeztünk",
+          "meaning": "we remembered",
+          "sound": "em-lé-kez-tünk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mielőtt",
+          "meaning": "before",
+          "sound": "mi-e-lőtt"
+        },
+        {
+          "word": "elmentünk",
+          "meaning": "we left",
+          "sound": "el-men-tünk"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "mondta",
+          "meaning": "he said",
+          "sound": "mon-dta"
+        },
+        {
+          "word": "nekem",
+          "meaning": "to me",
+          "sound": "ne-kem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Látnunk",
+          "meaning": "let's see",
+          "sound": "lát-nunk"
+        },
+        {
+          "word": "kellene",
+          "meaning": "should",
+          "sound": "kel-le-ne"
+        },
+        {
+          "word": "gyakrabban",
+          "meaning": "more often",
+          "sound": "gy-ak-rab-ban"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Elmosolyodtam",
+          "meaning": "i smiled",
+          "sound": "el-mo-so-ly-od-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "válaszoltam",
+          "meaning": "i answered",
+          "sound": "vá-las-zol-tam"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Persze",
+          "meaning": "of course",
+          "sound": "per-sze"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "tetszett",
+          "meaning": "i liked it",
+          "sound": "tet-szett"
+        },
+        {
+          "word": "ez",
+          "meaning": "this",
+          "sound": "ez"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Nehéz döntés",
+      "content": [
+        {
+          "word": "Néhány",
+          "meaning": "some",
+          "sound": "né-há-ny"
+        },
+        {
+          "word": "napja",
+          "meaning": "day of",
+          "sound": "nap-ja"
+        },
+        {
+          "word": "kaptam",
+          "meaning": "i got",
+          "sound": "kap-tam"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "állásajánlatot",
+          "meaning": "job offer",
+          "sound": "ál-lá-sa-ján-la-tot"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "másik",
+          "meaning": "another",
+          "sound": "má-sik"
+        },
+        {
+          "word": "városban",
+          "meaning": "in town",
+          "sound": "vá-ros-ban"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "érdekes",
+          "meaning": "interesting",
+          "sound": "ér-de-kes"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eleinte",
+          "meaning": "at first",
+          "sound": "e-le-in-te"
+        },
+        {
+          "word": "izgatott",
+          "meaning": "excited",
+          "sound": "iz-ga-tott"
+        },
+        {
+          "word": "voltam",
+          "meaning": "i was",
+          "sound": "vol-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "egyben",
+          "meaning": "together",
+          "sound": "e-gy-ben"
+        },
+        {
+          "word": "ideges",
+          "meaning": "nervous",
+          "sound": "i-de-ges"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Beszéltem",
+          "meaning": "i spoke",
+          "sound": "bes-zél-tem"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "családommal",
+          "meaning": "with my family",
+          "sound": "csa-lá-dom-mal"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "barátaimmal",
+          "meaning": "with my friends",
+          "sound": "ba-rá-ta-im-mal"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nagyon",
+          "meaning": "very much so",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "sok",
+          "meaning": "a lot",
+          "sound": "sok"
+        },
+        {
+          "word": "tanácsot",
+          "meaning": "advice",
+          "sound": "ta-nác-sot"
+        },
+        {
+          "word": "adtak",
+          "meaning": "they gave",
+          "sound": "ad-tak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Anyám",
+          "meaning": "my mother",
+          "sound": "a-ny-ám"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "mondta",
+          "meaning": "he said",
+          "sound": "mon-dta"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Követned",
+          "meaning": "follow you",
+          "sound": "kö-vet-ned"
+        },
+        {
+          "word": "kell",
+          "meaning": "must",
+          "sound": "kell"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "álmaidat",
+          "meaning": "your dreams",
+          "sound": "ál-ma-i-dat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "barátom",
+          "meaning": "my friend",
+          "sound": "ba-rá-tom"
+        },
+        {
+          "word": "megkérdezte",
+          "meaning": "he asked",
+          "sound": "meg-kér-dez-te"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biztos",
+          "meaning": "for sure",
+          "sound": "biz-tos"
+        },
+        {
+          "word": "vagy",
+          "meaning": "you are",
+          "sound": "va-gy"
+        },
+        {
+          "word": "benne",
+          "meaning": "in it",
+          "sound": "ben-ne"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Több",
+          "meaning": "more",
+          "sound": "több"
+        },
+        {
+          "word": "napig",
+          "meaning": "day",
+          "sound": "na-pig"
+        },
+        {
+          "word": "gondolkodtam",
+          "meaning": "i was thinking",
+          "sound": "gon-dol-kod-tam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Végül",
+          "meaning": "finally",
+          "sound": "vé-gül"
+        },
+        {
+          "word": "úgy",
+          "meaning": "so",
+          "sound": "ú-gy"
+        },
+        {
+          "word": "döntöttem",
+          "meaning": "i decided",
+          "sound": "dön-töt-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "elfogadom",
+          "meaning": "i accept",
+          "sound": "el-fo-ga-dom"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "állást",
+          "meaning": "position",
+          "sound": "ál-lást"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tudom",
+          "meaning": "i know",
+          "sound": "tu-dom"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "lesz",
+          "meaning": "will be",
+          "sound": "lesz"
+        },
+        {
+          "word": "könnyű",
+          "meaning": "it's easy",
+          "sound": "kön-ny-ű"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "ki",
+          "meaning": "out",
+          "sound": "ki"
+        },
+        {
+          "word": "akarom",
+          "meaning": "i want",
+          "sound": "a-ka-rom"
+        },
+        {
+          "word": "próbálni",
+          "meaning": "to try",
+          "sound": "pró-bál-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Vita egy baráttal",
+      "content": [
+        {
+          "word": "Tegnap",
+          "meaning": "yesterday",
+          "sound": "teg-nap"
+        },
+        {
+          "word": "összevesztem",
+          "meaning": "i messed up",
+          "sound": "ös-sze-ves-ztem"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "legjobb",
+          "meaning": "best",
+          "sound": "leg-jobb"
+        },
+        {
+          "word": "barátommal",
+          "meaning": "with my friend",
+          "sound": "ba-rá-tom-mal"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "egész",
+          "meaning": "whole",
+          "sound": "e-gész"
+        },
+        {
+          "word": "akkor",
+          "meaning": "then",
+          "sound": "ak-kor"
+        },
+        {
+          "word": "kezdődött",
+          "meaning": "it started",
+          "sound": "kez-dő-dött"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "amikor",
+          "meaning": "when",
+          "sound": "a-mi-kor"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "terveinkről",
+          "meaning": "about our plans",
+          "sound": "ter-ve-in-kről"
+        },
+        {
+          "word": "beszélgettünk",
+          "meaning": "we talked",
+          "sound": "bes-zél-get-tünk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Utazni",
+          "meaning": "to travel",
+          "sound": "u-taz-ni"
+        },
+        {
+          "word": "akartam",
+          "meaning": "i wanted",
+          "sound": "a-kar-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "ő",
+          "meaning": "he",
+          "sound": "ő"
+        },
+        {
+          "word": "inkább",
+          "meaning": "rather",
+          "sound": "in-kább"
+        },
+        {
+          "word": "maradt",
+          "meaning": "remained",
+          "sound": "ma-radt"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "mondta",
+          "meaning": "he said",
+          "sound": "mon-dta"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nincs",
+          "meaning": "there isn't",
+          "sound": "nincs"
+        },
+        {
+          "word": "elég",
+          "meaning": "enough",
+          "sound": "e-lég"
+        },
+        {
+          "word": "pénzünk",
+          "meaning": "our money",
+          "sound": "pén-zünk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "válaszoltam",
+          "meaning": "i answered",
+          "sound": "vá-las-zol-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "spórolhatunk",
+          "meaning": "we can save",
+          "sound": "spó-rol-ha-tunk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "értett",
+          "meaning": "understood",
+          "sound": "ér-tett"
+        },
+        {
+          "word": "egyet",
+          "meaning": "one",
+          "sound": "e-gy-et"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "beszélgetés",
+          "meaning": "conversation",
+          "sound": "bes-zél-ge-tés"
+        },
+        {
+          "word": "feszültté",
+          "meaning": "tense",
+          "sound": "fes-zül-tté"
+        },
+        {
+          "word": "vált",
+          "meaning": "changed",
+          "sound": "vált"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "végén",
+          "meaning": "at the end",
+          "sound": "vé-gén"
+        },
+        {
+          "word": "mindketten",
+          "meaning": "both of us",
+          "sound": "min-dket-ten"
+        },
+        {
+          "word": "idegesek",
+          "meaning": "they are nervous",
+          "sound": "i-de-ge-sek"
+        },
+        {
+          "word": "voltunk",
+          "meaning": "we were",
+          "sound": "vol-tunk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "hiszem",
+          "meaning": "i believe",
+          "sound": "his-zem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "beszélnem",
+          "meaning": "to speak",
+          "sound": "bes-zél-nem"
+        },
+        {
+          "word": "kellene",
+          "meaning": "should",
+          "sound": "kel-le-ne"
+        },
+        {
+          "word": "vele",
+          "meaning": "with him",
+          "sound": "ve-le"
+        },
+        {
+          "word": "újra",
+          "meaning": "again",
+          "sound": "új-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "barátságunk",
+          "meaning": "our friendship",
+          "sound": "ba-rát-sá-gunk"
+        },
+        {
+          "word": "sokkal",
+          "meaning": "a lot",
+          "sound": "sok-kal"
+        },
+        {
+          "word": "fontosabb",
+          "meaning": "more important",
+          "sound": "fon-to-sabb"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Fontos változás",
+      "content": [
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "évvel",
+          "meaning": "years",
+          "sound": "év-vel"
+        },
+        {
+          "word": "ezelőtt",
+          "meaning": "ago",
+          "sound": "e-ze-lőtt"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "más",
+          "meaning": "different",
+          "sound": "más"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "életem",
+          "meaning": "my life",
+          "sound": "é-le-tem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Olyan",
+          "meaning": "it is so",
+          "sound": "o-ly-an"
+        },
+        {
+          "word": "helyen",
+          "meaning": "place",
+          "sound": "he-ly-en"
+        },
+        {
+          "word": "dolgoztam",
+          "meaning": "i worked",
+          "sound": "dol-goz-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "amit",
+          "meaning": "what",
+          "sound": "a-mit"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "szerettem",
+          "meaning": "i loved it",
+          "sound": "sze-ret-tem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Minden",
+          "meaning": "everything",
+          "sound": "min-den"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": "fáradtnak",
+          "meaning": "tired",
+          "sound": "fá-rad-tnak"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "motiválatlannak",
+          "meaning": "unmotivated",
+          "sound": "mo-ti-vá-la-tlan-nak"
+        },
+        {
+          "word": "éreztem",
+          "meaning": "i felt it",
+          "sound": "é-rez-tem"
+        },
+        {
+          "word": "magam",
+          "meaning": "myself",
+          "sound": "ma-gam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "napon",
+          "meaning": "day",
+          "sound": "na-pon"
+        },
+        {
+          "word": "úgy",
+          "meaning": "so",
+          "sound": "ú-gy"
+        },
+        {
+          "word": "döntöttem",
+          "meaning": "i decided",
+          "sound": "dön-töt-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "mindent",
+          "meaning": "everything",
+          "sound": "min-dent"
+        },
+        {
+          "word": "megváltoztatok",
+          "meaning": "i will change it",
+          "sound": "meg-vál-toz-ta-tok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nem",
+          "meaning": "nope",
+          "sound": "nem"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": "könnyű",
+          "meaning": "it's easy",
+          "sound": "kön-ny-ű"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mert",
+          "meaning": "because",
+          "sound": "mert"
+        },
+        {
+          "word": "féltem",
+          "meaning": "i was afraid",
+          "sound": "fél-tem"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "kudarctól",
+          "meaning": "from failure",
+          "sound": "ku-dar-ctól"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "tudtam",
+          "meaning": "i knew",
+          "sound": "tud-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "folytathatom",
+          "meaning": "i can continue",
+          "sound": "fo-ly-tat-ha-tom"
+        },
+        {
+          "word": "így",
+          "meaning": "like this",
+          "sound": "í-gy"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Elkezdtem",
+          "meaning": "i started",
+          "sound": "el-kez-dtem"
+        },
+        {
+          "word": "új",
+          "meaning": "new",
+          "sound": "új"
+        },
+        {
+          "word": "dolgokat",
+          "meaning": "things",
+          "sound": "dol-go-kat"
+        },
+        {
+          "word": "tanulni",
+          "meaning": "to learn",
+          "sound": "ta-nul-ni"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "céljaim",
+          "meaning": "my goals",
+          "sound": "cél-ja-im"
+        },
+        {
+          "word": "megvalósításán",
+          "meaning": "implementation",
+          "sound": "meg-va-ló-sí-tá-sán"
+        },
+        {
+          "word": "dolgozni",
+          "meaning": "to work",
+          "sound": "dol-goz-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Apránként",
+          "meaning": "little by little",
+          "sound": "a-prán-ként"
+        },
+        {
+          "word": "megváltozott",
+          "meaning": "has changed",
+          "sound": "meg-vál-to-zott"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "életem",
+          "meaning": "my life",
+          "sound": "é-le-tem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "már",
+          "meaning": "already",
+          "sound": "már"
+        },
+        {
+          "word": "magabiztosabbnak",
+          "meaning": "more confident",
+          "sound": "ma-ga-biz-to-sab-bnak"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "boldogabbnak",
+          "meaning": "happier",
+          "sound": "bol-do-gab-bnak"
+        },
+        {
+          "word": "érzem",
+          "meaning": "i feel",
+          "sound": "ér-zem"
+        },
+        {
+          "word": "magam",
+          "meaning": "myself",
+          "sound": "ma-gam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Megtanultam",
+          "meaning": "i learned",
+          "sound": "meg-ta-nul-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "változtatás",
+          "meaning": "change",
+          "sound": "vál-toz-ta-tás"
+        },
+        {
+          "word": "nehéz",
+          "meaning": "it's hard",
+          "sound": "ne-héz"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "szükséges",
+          "meaning": "is necessary",
+          "sound": "szük-sé-ges"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Az út értelme",
+      "content": [
+        {
+          "word": "Sokáig",
+          "meaning": "for a long time",
+          "sound": "so-ká-ig"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "hittem",
+          "meaning": "i believed",
+          "sound": "hit-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "siker",
+          "meaning": "success",
+          "sound": "si-ker"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "legfontosabb",
+          "meaning": "most important",
+          "sound": "leg-fon-to-sabb"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hittem",
+          "meaning": "i believed",
+          "sound": "hit-tem"
+        },
+        {
+          "word": "abban",
+          "meaning": "in that",
+          "sound": "ab-ban"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "pénz",
+          "meaning": "money",
+          "sound": "pénz"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "elismerés",
+          "meaning": "recognition",
+          "sound": "e-lis-me-rés"
+        },
+        {
+          "word": "boldoggá",
+          "meaning": "happy",
+          "sound": "bol-dog-gá"
+        },
+        {
+          "word": "tesz",
+          "meaning": "does",
+          "sound": "tesz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Idővel",
+          "meaning": "over time",
+          "sound": "i-dő-vel"
+        },
+        {
+          "word": "azonban",
+          "meaning": "however",
+          "sound": "a-zon-ban"
+        },
+        {
+          "word": "rájöttem",
+          "meaning": "i figured it out",
+          "sound": "rá-jöt-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "tévedtem",
+          "meaning": "i was wrong",
+          "sound": "té-ved-tem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ami",
+          "meaning": "which",
+          "sound": "a-mi"
+        },
+        {
+          "word": "igazán",
+          "meaning": "really",
+          "sound": "i-ga-zán"
+        },
+        {
+          "word": "számít",
+          "meaning": "it matters",
+          "sound": "szá-mít"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "út",
+          "meaning": "way",
+          "sound": "út"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "tapasztalatok",
+          "meaning": "experiences",
+          "sound": "ta-pas-zta-la-tok"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "hibák",
+          "meaning": "errors",
+          "sound": "hi-bák"
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "tanulságok",
+          "meaning": "lessons learned",
+          "sound": "ta-nul-sá-gok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egyik",
+          "meaning": "one",
+          "sound": "e-gy-ik"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": "beszéltem",
+          "meaning": "i spoke",
+          "sound": "bes-zél-tem"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "mentorral",
+          "meaning": "with a mentor",
+          "sound": "men-tor-ral"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "mondta",
+          "meaning": "he said",
+          "sound": "mon-dta"
+        },
+        {
+          "word": "nekem",
+          "meaning": "to me",
+          "sound": "ne-kem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "don't",
+          "sound": "ne"
+        },
+        {
+          "word": "rohanj",
+          "meaning": "hurry up",
+          "sound": "ro-hanj"
+        },
+        {
+          "word": "csak",
+          "meaning": "just",
+          "sound": "csak"
+        },
+        {
+          "word": "azért",
+          "meaning": "for that",
+          "sound": "a-zért"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "odaérj",
+          "meaning": "get there",
+          "sound": "o-da-érj"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tanuld",
+          "meaning": "study",
+          "sound": "ta-nuld"
+        },
+        {
+          "word": "meg",
+          "meaning": "yes",
+          "sound": "meg"
+        },
+        {
+          "word": "élvezni",
+          "meaning": "to enjoy",
+          "sound": "él-vez-ni"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "folyamatot",
+          "meaning": "process",
+          "sound": "fo-ly-a-ma-tot"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ettől",
+          "meaning": "from this",
+          "sound": "et-től"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "pillanattól",
+          "meaning": "from moment on",
+          "sound": "pil-la-nat-tól"
+        },
+        {
+          "word": "kezdve",
+          "meaning": "starting from",
+          "sound": "kez-dve"
+        },
+        {
+          "word": "megváltozott",
+          "meaning": "has changed",
+          "sound": "meg-vál-to-zott"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "gondolkodásmódom",
+          "meaning": "my way of thinking",
+          "sound": "gon-dol-ko-dás-mó-dom"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Most",
+          "meaning": "now",
+          "sound": "most"
+        },
+        {
+          "word": "minden",
+          "meaning": "everything",
+          "sound": "min-den"
+        },
+        {
+          "word": "lépést",
+          "meaning": "step",
+          "sound": "lé-pést"
+        },
+        {
+          "word": "értékelek",
+          "meaning": "i appreciate",
+          "sound": "ér-té-ke-lek"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "minden",
+          "meaning": "everything",
+          "sound": "min-den"
+        },
+        {
+          "word": "hibából",
+          "meaning": "by mistake",
+          "sound": "hi-bá-ból"
+        },
+        {
+          "word": "tanulok",
+          "meaning": "i'm studying",
+          "sound": "ta-nu-lok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "ki is vagyok valójában",
+      "content": [
+        {
+          "word": "Sok",
+          "meaning": "a lot",
+          "sound": "sok"
+        },
+        {
+          "word": "éven",
+          "meaning": "year",
+          "sound": "é-ven"
+        },
+        {
+          "word": "át",
+          "meaning": "over",
+          "sound": "át"
+        },
+        {
+          "word": "megkérdőjeleztem",
+          "meaning": "i questioned it",
+          "sound": "meg-kér-dő-je-lez-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ki",
+          "meaning": "out",
+          "sound": "ki"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "vagyok",
+          "meaning": "i am",
+          "sound": "va-gy-ok"
+        },
+        {
+          "word": "valójában",
+          "meaning": "actually",
+          "sound": "va-ló-já-ban"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eleinte",
+          "meaning": "at first",
+          "sound": "e-le-in-te"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "hittem",
+          "meaning": "i believed",
+          "sound": "hit-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "személyazonosságom",
+          "meaning": "my identity",
+          "sound": "sze-mé-ly-a-zo-nos-sá-gom"
+        },
+        {
+          "word": "mások",
+          "meaning": "others",
+          "sound": "má-sok"
+        },
+        {
+          "word": "véleményétől",
+          "meaning": "from his opinion",
+          "sound": "vé-le-mé-ny-é-től"
+        },
+        {
+          "word": "függ",
+          "meaning": "it depends",
+          "sound": "függ"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jóváhagyást",
+          "meaning": "approval",
+          "sound": "jó-vá-ha-gy-ást"
+        },
+        {
+          "word": "kerestem",
+          "meaning": "i was looking for it",
+          "sound": "ke-res-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "féltem",
+          "meaning": "i was afraid",
+          "sound": "fél-tem"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "hibáktól",
+          "meaning": "from errors",
+          "sound": "hi-bák-tól"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Idővel",
+          "meaning": "over time",
+          "sound": "i-dő-vel"
+        },
+        {
+          "word": "azonban",
+          "meaning": "however",
+          "sound": "a-zon-ban"
+        },
+        {
+          "word": "megértettem",
+          "meaning": "i understood",
+          "sound": "me-gér-tet-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "értékem",
+          "meaning": "my value",
+          "sound": "ér-té-kem"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "másokon",
+          "meaning": "on others",
+          "sound": "má-so-kon"
+        },
+        {
+          "word": "múlik",
+          "meaning": "it depends",
+          "sound": "mú-lik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": "úgy",
+          "meaning": "so",
+          "sound": "ú-gy"
+        },
+        {
+          "word": "döntöttem",
+          "meaning": "i decided",
+          "sound": "dön-töt-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "hallgatok",
+          "meaning": "i'm listening",
+          "sound": "hal-lga-tok"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "saját",
+          "meaning": "own",
+          "sound": "sa-ját"
+        },
+        {
+          "word": "hangomra",
+          "meaning": "to my voice",
+          "sound": "han-gom-ra"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Elkezdtem",
+          "meaning": "i started",
+          "sound": "el-kez-dtem"
+        },
+        {
+          "word": "magam",
+          "meaning": "myself",
+          "sound": "ma-gam"
+        },
+        {
+          "word": "dönteni",
+          "meaning": "to decide",
+          "sound": "dön-te-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nem",
+          "meaning": "nope",
+          "sound": "nem"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": "mindig",
+          "meaning": "always",
+          "sound": "min-dig"
+        },
+        {
+          "word": "könnyű",
+          "meaning": "it's easy",
+          "sound": "kön-ny-ű"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "minden",
+          "meaning": "everything",
+          "sound": "min-den"
+        },
+        {
+          "word": "hibából",
+          "meaning": "by mistake",
+          "sound": "hi-bá-ból"
+        },
+        {
+          "word": "tanultam",
+          "meaning": "i learned",
+          "sound": "ta-nul-tam"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "már",
+          "meaning": "already",
+          "sound": "már"
+        },
+        {
+          "word": "tudom",
+          "meaning": "i know",
+          "sound": "tu-dom"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "önmagadnak",
+          "meaning": "to yourself",
+          "sound": "ön-ma-gad-nak"
+        },
+        {
+          "word": "lenni",
+          "meaning": "to be",
+          "sound": "len-ni"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "legnagyobb",
+          "meaning": "largest",
+          "sound": "leg-na-gy-obb"
+        },
+        {
+          "word": "eredmény",
+          "meaning": "result",
+          "sound": "e-red-mé-ny"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Az idő értéke",
+      "content": [
+        {
+          "word": "Néhány",
+          "meaning": "some",
+          "sound": "né-há-ny"
+        },
+        {
+          "word": "évvel",
+          "meaning": "years",
+          "sound": "év-vel"
+        },
+        {
+          "word": "ezelőtt",
+          "meaning": "ago",
+          "sound": "e-ze-lőtt"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "nagyon",
+          "meaning": "very much",
+          "sound": "na-gy-on"
+        },
+        {
+          "word": "figyeltem",
+          "meaning": "i watched",
+          "sound": "fi-gy-el-tem"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "időre",
+          "meaning": "for time",
+          "sound": "i-dő-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "hittem",
+          "meaning": "i believed",
+          "sound": "hit-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mindig",
+          "meaning": "always",
+          "sound": "min-dig"
+        },
+        {
+          "word": "több",
+          "meaning": "more",
+          "sound": "több"
+        },
+        {
+          "word": "lehetőség",
+          "meaning": "opportunity",
+          "sound": "le-he-tő-ség"
+        },
+        {
+          "word": "lesz",
+          "meaning": "will be",
+          "sound": "lesz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sok",
+          "meaning": "a lot",
+          "sound": "sok"
+        },
+        {
+          "word": "mindent",
+          "meaning": "everything",
+          "sound": "min-dent"
+        },
+        {
+          "word": "későbbre",
+          "meaning": "for later",
+          "sound": "ké-sőb-bre"
+        },
+        {
+          "word": "hagyott",
+          "meaning": "left",
+          "sound": "ha-gy-ott"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egyik",
+          "meaning": "one",
+          "sound": "e-gy-ik"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "barátom",
+          "meaning": "my friend",
+          "sound": "ba-rá-tom"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "mondta",
+          "meaning": "he said",
+          "sound": "mon-dta"
+        },
+        {
+          "word": "nekem",
+          "meaning": "to me",
+          "sound": "ne-kem"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "idő",
+          "meaning": "time",
+          "sound": "i-dő"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "vár",
+          "meaning": "is waiting",
+          "sound": "vár"
+        },
+        {
+          "word": "senkire",
+          "meaning": "to no one",
+          "sound": "sen-ki-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ez",
+          "meaning": "this is it",
+          "sound": "ez"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "mondat",
+          "meaning": "sentence",
+          "sound": "mon-dat"
+        },
+        {
+          "word": "megmaradt",
+          "meaning": "remained",
+          "sound": "meg-ma-radt"
+        },
+        {
+          "word": "bennem",
+          "meaning": "in me",
+          "sound": "ben-nem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azóta",
+          "meaning": "since then",
+          "sound": "a-zó-ta"
+        },
+        {
+          "word": "elkezdtem",
+          "meaning": "i started",
+          "sound": "el-kez-dtem"
+        },
+        {
+          "word": "értékelni",
+          "meaning": "to evaluate",
+          "sound": "ér-té-kel-ni"
+        },
+        {
+          "word": "minden",
+          "meaning": "everything",
+          "sound": "min-den"
+        },
+        {
+          "word": "pillanatot",
+          "meaning": "moment",
+          "sound": "pil-la-na-tot"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Megtanultam",
+          "meaning": "i learned",
+          "sound": "meg-ta-nul-tam"
+        },
+        {
+          "word": "megszervezni",
+          "meaning": "to organize",
+          "sound": "meg-szer-vez-ni"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "napomat",
+          "meaning": "my day",
+          "sound": "na-po-mat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "előtérbe",
+          "meaning": "to the fore",
+          "sound": "e-lő-tér-be"
+        },
+        {
+          "word": "helyezni",
+          "meaning": "to place",
+          "sound": "he-ly-ez-ni"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ami",
+          "meaning": "which",
+          "sound": "a-mi"
+        },
+        {
+          "word": "fontos",
+          "meaning": "it's important",
+          "sound": "fon-tos"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "megértettem",
+          "meaning": "i understood",
+          "sound": "me-gér-tet-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "kell",
+          "meaning": "must",
+          "sound": "kell"
+        },
+        {
+          "word": "mindennek",
+          "meaning": "for everything",
+          "sound": "min-den-nek"
+        },
+        {
+          "word": "tökéletesnek",
+          "meaning": "as perfect",
+          "sound": "tö-ké-le-tes-nek"
+        },
+        {
+          "word": "lennie",
+          "meaning": "to be",
+          "sound": "len-ni-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "megpróbálok",
+          "meaning": "i will try",
+          "sound": "meg-pró-bá-lok"
+        },
+        {
+          "word": "tudatosabban",
+          "meaning": "more consciously",
+          "sound": "tu-da-to-sab-ban"
+        },
+        {
+          "word": "élni",
+          "meaning": "to live",
+          "sound": "él-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mert",
+          "meaning": "because",
+          "sound": "mert"
+        },
+        {
+          "word": "az",
+          "meaning": "it is",
+          "sound": "az"
+        },
+        {
+          "word": "idő",
+          "meaning": "time",
+          "sound": "i-dő"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "legértékesebb",
+          "meaning": "most valuable",
+          "sound": "le-gér-té-ke-sebb"
+        },
+        {
+          "word": "dolgunk",
+          "meaning": "we are doing",
+          "sound": "dol-gunk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Az életet megváltoztató döntések",
+      "content": [
+        {
+          "word": "Néha",
+          "meaning": "sometimes",
+          "sound": "né-ha"
+        },
+        {
+          "word": "eszembe",
+          "meaning": "remind me",
+          "sound": "es-zem-be"
+        },
+        {
+          "word": "jut",
+          "meaning": "gets",
+          "sound": "jut"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "múltban",
+          "meaning": "in the past",
+          "sound": "múl-tban"
+        },
+        {
+          "word": "hozott",
+          "meaning": "brought",
+          "sound": "ho-zott"
+        },
+        {
+          "word": "döntéseim",
+          "meaning": "my decisions",
+          "sound": "dön-té-se-im"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Némelyiknek",
+          "meaning": "for some",
+          "sound": "né-me-ly-ik-nek"
+        },
+        {
+          "word": "igaza",
+          "meaning": "right",
+          "sound": "i-ga-za"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "másoknak",
+          "meaning": "to others",
+          "sound": "má-sok-nak"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Néha",
+          "meaning": "sometimes",
+          "sound": "né-ha"
+        },
+        {
+          "word": "elgondolkodom",
+          "meaning": "i think about it",
+          "sound": "el-gon-dol-ko-dom"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "we",
+          "sound": "mi"
+        },
+        {
+          "word": "lett",
+          "meaning": "became",
+          "sound": "lett"
+        },
+        {
+          "word": "volna",
+          "meaning": "would have",
+          "sound": "vol-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ha",
+          "meaning": "ha",
+          "sound": "ha"
+        },
+        {
+          "word": "más",
+          "meaning": "different",
+          "sound": "más"
+        },
+        {
+          "word": "utat",
+          "meaning": "way",
+          "sound": "u-tat"
+        },
+        {
+          "word": "választok",
+          "meaning": "i choose",
+          "sound": "vá-las-ztok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Talán",
+          "meaning": "maybe",
+          "sound": "ta-lán"
+        },
+        {
+          "word": "sikeresebb",
+          "meaning": "more successful",
+          "sound": "si-ke-re-sebb"
+        },
+        {
+          "word": "lettem",
+          "meaning": "i became",
+          "sound": "let-tem"
+        },
+        {
+          "word": "volna",
+          "meaning": "would have",
+          "sound": "vol-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vagy",
+          "meaning": "you are",
+          "sound": "va-gy"
+        },
+        {
+          "word": "talán",
+          "meaning": "maybe",
+          "sound": "ta-lán"
+        },
+        {
+          "word": "kevesebbet",
+          "meaning": "less",
+          "sound": "ke-ve-seb-bet"
+        },
+        {
+          "word": "tanultam",
+          "meaning": "i learned",
+          "sound": "ta-nul-tam"
+        },
+        {
+          "word": "volna",
+          "meaning": "would have",
+          "sound": "vol-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azonban",
+          "meaning": "however",
+          "sound": "a-zon-ban"
+        },
+        {
+          "word": "megértettem",
+          "meaning": "i understood",
+          "sound": "me-gér-tet-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "nincs",
+          "meaning": "there is none",
+          "sound": "nincs"
+        },
+        {
+          "word": "értelme",
+          "meaning": "meaning",
+          "sound": "ér-tel-me"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "múltban",
+          "meaning": "in the past",
+          "sound": "múl-tban"
+        },
+        {
+          "word": "élni",
+          "meaning": "to live",
+          "sound": "él-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Minden",
+          "meaning": "everything",
+          "sound": "min-den"
+        },
+        {
+          "word": "döntés",
+          "meaning": "decision",
+          "sound": "dön-tés"
+        },
+        {
+          "word": "megtanított",
+          "meaning": "taught me",
+          "sound": "meg-ta-ní-tott"
+        },
+        {
+          "word": "valamit",
+          "meaning": "something",
+          "sound": "va-la-mit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Még",
+          "meaning": "yet",
+          "sound": "még"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "hibák",
+          "meaning": "errors",
+          "sound": "hi-bák"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "fontos",
+          "meaning": "it's important",
+          "sound": "fon-tos"
+        },
+        {
+          "word": "leckék",
+          "meaning": "lessons",
+          "sound": "lec-kék"
+        },
+        {
+          "word": "voltak",
+          "meaning": "were",
+          "sound": "vol-tak"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ma",
+          "meaning": "today",
+          "sound": "ma"
+        },
+        {
+          "word": "megpróbálok",
+          "meaning": "i will try",
+          "sound": "meg-pró-bá-lok"
+        },
+        {
+          "word": "tudatosabban",
+          "meaning": "more consciously",
+          "sound": "tu-da-to-sab-ban"
+        },
+        {
+          "word": "dönteni",
+          "meaning": "to decide",
+          "sound": "dön-te-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nem",
+          "meaning": "nope",
+          "sound": "nem"
+        },
+        {
+          "word": "tudom",
+          "meaning": "i know",
+          "sound": "tu-dom"
+        },
+        {
+          "word": "megváltoztatni",
+          "meaning": "to change",
+          "sound": "meg-vál-toz-tat-ni"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ami",
+          "meaning": "which",
+          "sound": "a-mi"
+        },
+        {
+          "word": "már",
+          "meaning": "already",
+          "sound": "már"
+        },
+        {
+          "word": "megtörtént",
+          "meaning": "it happened",
+          "sound": "meg-tör-tént"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "dönthetek",
+          "meaning": "i can decide",
+          "sound": "dön-the-tek"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "jövőmről",
+          "meaning": "about my future",
+          "sound": "jö-vőm-ről"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "A belső hang",
+      "content": [
+        {
+          "word": "Sokáig",
+          "meaning": "for a long time",
+          "sound": "so-ká-ig"
+        },
+        {
+          "word": "mások",
+          "meaning": "others",
+          "sound": "má-sok"
+        },
+        {
+          "word": "elvárásai",
+          "meaning": "expectations",
+          "sound": "el-vá-rá-sa-i"
+        },
+        {
+          "word": "szerint",
+          "meaning": "according to",
+          "sound": "sze-rint"
+        },
+        {
+          "word": "éltem",
+          "meaning": "i lived",
+          "sound": "él-tem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hittem",
+          "meaning": "i believed",
+          "sound": "hit-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "ez",
+          "meaning": "this",
+          "sound": "ez"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "helyes",
+          "meaning": "it is correct",
+          "sound": "he-ly-es"
+        },
+        {
+          "word": "út",
+          "meaning": "way",
+          "sound": "út"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "mélyben",
+          "meaning": "deep down",
+          "sound": "mé-ly-ben"
+        },
+        {
+          "word": "azonban",
+          "meaning": "however",
+          "sound": "a-zon-ban"
+        },
+        {
+          "word": "mindig",
+          "meaning": "always",
+          "sound": "min-dig"
+        },
+        {
+          "word": "megszólalt",
+          "meaning": "spoke up",
+          "sound": "meg-szó-lalt"
+        },
+        {
+          "word": "egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "hang",
+          "meaning": "sound",
+          "sound": "hang"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ami",
+          "meaning": "which",
+          "sound": "a-mi"
+        },
+        {
+          "word": "azt",
+          "meaning": "that",
+          "sound": "azt"
+        },
+        {
+          "word": "mondta",
+          "meaning": "he said",
+          "sound": "mon-dta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "valami",
+          "meaning": "something",
+          "sound": "va-la-mi"
+        },
+        {
+          "word": "nincs",
+          "meaning": "there is none",
+          "sound": "nincs"
+        },
+        {
+          "word": "rendben",
+          "meaning": "ok",
+          "sound": "ren-dben"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Próbáltam",
+          "meaning": "i tried",
+          "sound": "pró-bál-tam"
+        },
+        {
+          "word": "figyelmen",
+          "meaning": "attention",
+          "sound": "fi-gy-el-men"
+        },
+        {
+          "word": "kívül",
+          "meaning": "outside",
+          "sound": "kí-vül"
+        },
+        {
+          "word": "hagyni",
+          "meaning": "to leave",
+          "sound": "ha-gy-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "egyre",
+          "meaning": "increasingly",
+          "sound": "e-gy-re"
+        },
+        {
+          "word": "hangosabb",
+          "meaning": "louder",
+          "sound": "han-go-sabb"
+        },
+        {
+          "word": "lett",
+          "meaning": "became",
+          "sound": "lett"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Egy",
+          "meaning": "one",
+          "sound": "e-gy"
+        },
+        {
+          "word": "nap",
+          "meaning": "sun",
+          "sound": "nap"
+        },
+        {
+          "word": "megálltam",
+          "meaning": "i stopped",
+          "sound": "me-gál-ltam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "és",
+          "meaning": "and",
+          "sound": "és"
+        },
+        {
+          "word": "megkérdeztem",
+          "meaning": "i asked",
+          "sound": "meg-kér-dez-tem"
+        },
+        {
+          "word": "magamtól",
+          "meaning": "from myself",
+          "sound": "ma-gam-tól"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mit",
+          "meaning": "what",
+          "sound": "mit"
+        },
+        {
+          "word": "is",
+          "meaning": "too",
+          "sound": "is"
+        },
+        {
+          "word": "akarok",
+          "meaning": "i want",
+          "sound": "a-ka-rok"
+        },
+        {
+          "word": "valójában",
+          "meaning": "actually",
+          "sound": "va-ló-já-ban"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "válasz",
+          "meaning": "answer",
+          "sound": "vá-lasz"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "volt",
+          "meaning": "was",
+          "sound": "volt"
+        },
+        {
+          "word": "azonnali",
+          "meaning": "immediate",
+          "sound": "a-zon-na-li"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "but",
+          "sound": "de"
+        },
+        {
+          "word": "most",
+          "meaning": "now",
+          "sound": "most"
+        },
+        {
+          "word": "először",
+          "meaning": "for the first time",
+          "sound": "e-lős-zör"
+        },
+        {
+          "word": "éreztem",
+          "meaning": "i felt it",
+          "sound": "é-rez-tem"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "hallgat",
+          "meaning": "listens",
+          "sound": "hal-lgat"
+        },
+        {
+          "word": "rám",
+          "meaning": "on me",
+          "sound": "rám"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Azóta",
+          "meaning": "since then",
+          "sound": "a-zó-ta"
+        },
+        {
+          "word": "megtanultam",
+          "meaning": "i learned it",
+          "sound": "meg-ta-nul-tam"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hogy",
+          "meaning": "that",
+          "sound": "ho-gy"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "belső",
+          "meaning": "internal",
+          "sound": "bel-ső"
+        },
+        {
+          "word": "hang",
+          "meaning": "sound",
+          "sound": "hang"
+        },
+        {
+          "word": "nem",
+          "meaning": "no",
+          "sound": "nem"
+        },
+        {
+          "word": "akadály",
+          "meaning": "obstacle",
+          "sound": "a-ka-dá-ly"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hanem",
+          "meaning": "rather",
+          "sound": "ha-nem"
+        },
+        {
+          "word": "útmutatás",
+          "meaning": "guidance",
+          "sound": "út-mu-ta-tás"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "hungarian": {
+        "present": [
+          "eszek",
+          "egy",
+          "almát"
+        ],
+        "past": [
+          "ettem",
+          "egy",
+          "almát"
+        ],
+        "future": [
+          "eszek",
+          "egy",
+          "almát"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "hungarian": {
+        "present": [
+          "Egy",
+          "könyvet",
+          "olvas"
+        ],
+        "past": [
+          "Olvasott",
+          "egy",
+          "könyvet"
+        ],
+        "future": [
+          "El",
+          "fog",
+          "olvasni",
+          "egy",
+          "könyvet"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "hungarian": {
+        "present": [
+          "Iskolába",
+          "megyünk"
+        ],
+        "past": [
+          "Iskolába",
+          "mentünk"
+        ],
+        "future": [
+          "Iskolába",
+          "fogunk",
+          "menni"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "hungarian": {
+        "present": [
+          "Vizet",
+          "iszik"
+        ],
+        "past": [
+          "Vizet",
+          "ivott"
+        ],
+        "future": [
+          "Vizet",
+          "fog",
+          "inni"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "hungarian": {
+        "present": [
+          "Fociznak"
+        ],
+        "past": [
+          "Fociztak"
+        ],
+        "future": [
+          "Focizni",
+          "fognak"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "hungarian": {
+        "present": [
+          "írok",
+          "egy",
+          "levelet"
+        ],
+        "past": [
+          "írtam",
+          "egy",
+          "levelet"
+        ],
+        "future": [
+          "írok",
+          "egy",
+          "levelet"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "hungarian": {
+        "present": [
+          "Rizst",
+          "eszik"
+        ],
+        "past": [
+          "Rizst",
+          "evett"
+        ],
+        "future": [
+          "Rizst",
+          "fog",
+          "enni"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "hungarian": {
+        "present": [
+          "filmet",
+          "nézünk"
+        ],
+        "past": [
+          "Megnéztünk",
+          "egy",
+          "filmet"
+        ],
+        "future": [
+          "filmet",
+          "fogunk",
+          "nézni"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "hungarian": {
+        "present": [
+          "Kinyitja",
+          "az",
+          "ajtót"
+        ],
+        "past": [
+          "Kinyitotta",
+          "az",
+          "ajtót"
+        ],
+        "future": [
+          "Ki",
+          "fogja",
+          "nyitni",
+          "az",
+          "ajtót"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "hungarian": {
+        "present": [
+          "Élelmiszert",
+          "vásárolnak"
+        ],
+        "past": [
+          "Élelmet",
+          "vásároltak"
+        ],
+        "future": [
+          "Élelmet",
+          "fognak",
+          "venni"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "hungarian": {
+        "present": [
+          "eszek",
+          "egy",
+          "almát",
+          "és",
+          "iszom",
+          "vizet"
+        ],
+        "past": [
+          "Megettem",
+          "egy",
+          "almát",
+          "és",
+          "ittam",
+          "vizet"
+        ],
+        "future": [
+          "Megeszek",
+          "egy",
+          "almát",
+          "és",
+          "iszom",
+          "vizet"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "hungarian": {
+        "present": [
+          "Könyvet",
+          "olvas",
+          "mert",
+          "szereti",
+          "a",
+          "meséket"
+        ],
+        "past": [
+          "Olvasott",
+          "egy",
+          "könyvet",
+          "mert",
+          "szerette",
+          "a",
+          "meséket"
+        ],
+        "future": [
+          "El",
+          "fog",
+          "olvasni",
+          "egy",
+          "könyvet",
+          "mert",
+          "szereti",
+          "a",
+          "történeteket"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "hungarian": {
+        "present": [
+          "Együtt",
+          "járunk",
+          "iskolába",
+          "és",
+          "tanulunk"
+        ],
+        "past": [
+          "Együtt",
+          "jártunk",
+          "iskolába",
+          "és",
+          "tanultunk"
+        ],
+        "future": [
+          "Együtt",
+          "megyünk",
+          "iskolába",
+          "és",
+          "tanulunk"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "hungarian": {
+        "present": [
+          "Vizet",
+          "iszik",
+          "de",
+          "gyorskaját",
+          "eszik"
+        ],
+        "past": [
+          "Vizet",
+          "ivott",
+          "de",
+          "gyorskaját",
+          "evett"
+        ],
+        "future": [
+          "Vizet",
+          "iszik",
+          "de",
+          "gyorskaját",
+          "eszik"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "hungarian": {
+        "present": [
+          "Fociznak",
+          "és",
+          "futnak",
+          "a",
+          "parkban"
+        ],
+        "past": [
+          "Fociztak",
+          "és",
+          "futottak",
+          "a",
+          "parkban"
+        ],
+        "future": [
+          "Focizni",
+          "fognak",
+          "és",
+          "futni",
+          "fognak",
+          "a",
+          "parkban"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "hungarian": {
+        "present": [
+          "Levelet",
+          "írok",
+          "mert",
+          "hiányzol"
+        ],
+        "past": [
+          "Írtam",
+          "egy",
+          "levelet",
+          "mert",
+          "hiányoztál"
+        ],
+        "future": [
+          "Írok",
+          "egy",
+          "levelet",
+          "mert",
+          "hiányzol"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "hungarian": {
+        "present": [
+          "Minden",
+          "nap",
+          "rizst",
+          "eszik",
+          "és",
+          "főz"
+        ],
+        "past": [
+          "Minden",
+          "nap",
+          "rizst",
+          "evett",
+          "és",
+          "főzött"
+        ],
+        "future": [
+          "Minden",
+          "nap",
+          "rizst",
+          "fog",
+          "enni",
+          "és",
+          "főzni"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "hungarian": {
+        "present": [
+          "Filmet",
+          "nézünk",
+          "de",
+          "későn",
+          "alszunk"
+        ],
+        "past": [
+          "Néztünk",
+          "egy",
+          "filmet",
+          "de",
+          "későn",
+          "aludtunk"
+        ],
+        "future": [
+          "Filmet",
+          "nézünk",
+          "de",
+          "későn",
+          "alszunk"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "hungarian": {
+        "present": [
+          "Kinyitja",
+          "az",
+          "ajtót",
+          "és",
+          "köszönti",
+          "az",
+          "embereket"
+        ],
+        "past": [
+          "Kinyitotta",
+          "az",
+          "ajtót",
+          "és",
+          "üdvözölte",
+          "az",
+          "embereket"
+        ],
+        "future": [
+          "Kinyitja",
+          "az",
+          "ajtót",
+          "és",
+          "üdvözli",
+          "az",
+          "embereket"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "hungarian": {
+        "present": [
+          "Élelmet",
+          "vesznek",
+          "mert",
+          "éhesek"
+        ],
+        "past": [
+          "Élelmet",
+          "vettek",
+          "mert",
+          "éhesek",
+          "voltak"
+        ],
+        "future": [
+          "Élelmet",
+          "fognak",
+          "venni",
+          "mert",
+          "éhesek"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "hungarian": {
+        "present": [
+          "Reggel",
+          "reggelizem"
+        ],
+        "past": [
+          "Reggel",
+          "reggeliztem"
+        ],
+        "future": [
+          "Reggel",
+          "fogok",
+          "reggelizni"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "hungarian": {
+        "present": [
+          "Minden",
+          "nap",
+          "otthon",
+          "tanul"
+        ],
+        "past": [
+          "Minden",
+          "nap",
+          "otthon",
+          "tanult"
+        ],
+        "future": [
+          "Minden",
+          "nap",
+          "otthon",
+          "fog",
+          "tanulni"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "hungarian": {
+        "present": [
+          "Este",
+          "sétálunk",
+          "a",
+          "parkban"
+        ],
+        "past": [
+          "Este",
+          "sétáltunk",
+          "a",
+          "parkban"
+        ],
+        "future": [
+          "Este",
+          "sétálunk",
+          "a",
+          "parkban"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "hungarian": {
+        "present": [
+          "A",
+          "város",
+          "egyik",
+          "irodájában",
+          "dolgozik"
+        ],
+        "past": [
+          "A",
+          "város",
+          "egyik",
+          "irodájában",
+          "dolgozott"
+        ],
+        "future": [
+          "A",
+          "város",
+          "egyik",
+          "irodájában",
+          "fog",
+          "dolgozni"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "hungarian": {
+        "present": [
+          "Minden",
+          "évben",
+          "más",
+          "országba",
+          "utaznak"
+        ],
+        "past": [
+          "Minden",
+          "évben",
+          "más",
+          "országba",
+          "utaztak"
+        ],
+        "future": [
+          "Minden",
+          "évben",
+          "más",
+          "országba",
+          "utaznak"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "hungarian": {
+        "present": [
+          "Este",
+          "lefekvés",
+          "előtt",
+          "olvastam",
+          "egy",
+          "könyvet"
+        ],
+        "past": [
+          "Este",
+          "lefekvés",
+          "előtt",
+          "olvastam",
+          "egy",
+          "könyvet"
+        ],
+        "future": [
+          "Este",
+          "lefekvés",
+          "előtt",
+          "olvasok",
+          "egy",
+          "könyvet"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "hungarian": {
+        "present": [
+          "Reggel",
+          "kávét",
+          "iszik",
+          "otthon"
+        ],
+        "past": [
+          "Reggel",
+          "kávét",
+          "ivott",
+          "otthon"
+        ],
+        "future": [
+          "Reggel",
+          "kávét",
+          "iszik",
+          "otthon"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "hungarian": {
+        "present": [
+          "Ma",
+          "este",
+          "barátokkal",
+          "találkozunk",
+          "az",
+          "étteremben"
+        ],
+        "past": [
+          "Ma",
+          "este",
+          "barátokkal",
+          "találkoztunk",
+          "az",
+          "étteremben"
+        ],
+        "future": [
+          "Ma",
+          "este",
+          "barátokkal",
+          "találkozunk",
+          "az",
+          "étteremben"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "hungarian": {
+        "present": [
+          "Minden",
+          "nap",
+          "spanyolul",
+          "tanul",
+          "az",
+          "iskolában"
+        ],
+        "past": [
+          "Minden",
+          "nap",
+          "spanyolul",
+          "tanult",
+          "az",
+          "iskolában"
+        ],
+        "future": [
+          "Minden",
+          "nap",
+          "spanyolul",
+          "fog",
+          "tanulni",
+          "az",
+          "iskolában"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "hungarian": {
+        "present": [
+          "Este",
+          "otthon",
+          "tévéznek"
+        ],
+        "past": [
+          "Este",
+          "otthon",
+          "tévéztek"
+        ],
+        "future": [
+          "Este",
+          "otthon",
+          "tévéznek"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "hungarian": {
+        "present": [
+          "Szeretem",
+          "ezt",
+          "a",
+          "zenét"
+        ],
+        "past": [
+          "Ez",
+          "a",
+          "zene",
+          "tetszett"
+        ],
+        "future": [
+          "Tetszeni",
+          "fog",
+          "ez",
+          "a",
+          "zene"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "hungarian": {
+        "present": [
+          "Ma",
+          "boldognak",
+          "érzi",
+          "magát"
+        ],
+        "past": [
+          "Ma",
+          "boldognak",
+          "érezte",
+          "magát"
+        ],
+        "future": [
+          "Ma",
+          "boldognak",
+          "fogja",
+          "érezni",
+          "magát"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "hungarian": {
+        "present": [
+          "Szerintünk",
+          "ez",
+          "az",
+          "ötlet",
+          "jó"
+        ],
+        "past": [
+          "Jónak",
+          "tartottuk",
+          "ezt",
+          "az",
+          "ötletet"
+        ],
+        "future": [
+          "Úgy",
+          "gondoljuk",
+          "hogy",
+          "ez",
+          "az",
+          "ötlet",
+          "jó"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "hungarian": {
+        "present": [
+          "Meg",
+          "akar",
+          "tanulni",
+          "spanyolul"
+        ],
+        "past": [
+          "Spanyolul",
+          "akart",
+          "tanulni"
+        ],
+        "future": [
+          "Meg",
+          "akar",
+          "majd",
+          "tanulni",
+          "spanyolul"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "hungarian": {
+        "present": [
+          "Nagyon",
+          "szeretik",
+          "a",
+          "családjukat"
+        ],
+        "past": [
+          "Nagyon",
+          "szerették",
+          "a",
+          "családjukat"
+        ],
+        "future": [
+          "Nagyon",
+          "szeretni",
+          "fogják",
+          "a",
+          "családjukat"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "hungarian": {
+        "present": [
+          "Munka",
+          "után",
+          "fáradtnak",
+          "érzem",
+          "magam"
+        ],
+        "past": [
+          "Munka",
+          "után",
+          "fáradtnak",
+          "éreztem",
+          "magam"
+        ],
+        "future": [
+          "Fáradtnak",
+          "érzem",
+          "magam",
+          "munka",
+          "után"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "hungarian": {
+        "present": [
+          "Bízik",
+          "magában"
+        ],
+        "past": [
+          "Bízott",
+          "magában"
+        ],
+        "future": [
+          "Hinni",
+          "fog",
+          "magában"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "hungarian": {
+        "present": [
+          "Szeretünk",
+          "együtt",
+          "utazni"
+        ],
+        "past": [
+          "Szerettünk",
+          "együtt",
+          "utazni"
+        ],
+        "future": [
+          "Szeretnénk",
+          "együtt",
+          "utazni"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "hungarian": {
+        "present": [
+          "A",
+          "jövőjére",
+          "gondol"
+        ],
+        "past": [
+          "A",
+          "jövőjére",
+          "gondolt"
+        ],
+        "future": [
+          "Gondolkozni",
+          "fog",
+          "a",
+          "jövőjén"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "hungarian": {
+        "present": [
+          "Izgatottak",
+          "az",
+          "utazás",
+          "miatt"
+        ],
+        "past": [
+          "Izgatottak",
+          "voltak",
+          "az",
+          "utazás",
+          "miatt"
+        ],
+        "future": [
+          "Izgatottak",
+          "lesznek",
+          "az",
+          "utazás",
+          "miatt"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "hungarian": {
+        "present": [
+          "Minden",
+          "nap",
+          "igyekszem",
+          "fejlődni"
+        ],
+        "past": [
+          "Minden",
+          "nap",
+          "igyekeztem",
+          "fejlődni"
+        ],
+        "future": [
+          "Minden",
+          "nap",
+          "megpróbálok",
+          "fejlődni"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "hungarian": {
+        "present": [
+          "El",
+          "akarja",
+          "érni",
+          "céljait"
+        ],
+        "past": [
+          "El",
+          "akarta",
+          "érni",
+          "a",
+          "céljait"
+        ],
+        "future": [
+          "El",
+          "akarja",
+          "érni",
+          "céljait"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "hungarian": {
+        "present": [
+          "Tanulunk",
+          "a",
+          "hibáinkból"
+        ],
+        "past": [
+          "Tanultunk",
+          "a",
+          "hibáinkból"
+        ],
+        "future": [
+          "Tanulunk",
+          "a",
+          "hibáinkból"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "hungarian": {
+        "present": [
+          "Keményen",
+          "dolgozik",
+          "hogy",
+          "építse",
+          "a",
+          "jövőjét"
+        ],
+        "past": [
+          "Keményen",
+          "dolgozott",
+          "hogy",
+          "felépítse",
+          "jövőjét"
+        ],
+        "future": [
+          "Keményen",
+          "fog",
+          "dolgozni",
+          "hogy",
+          "felépítse",
+          "jövőjét"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "hungarian": {
+        "present": [
+          "Azt",
+          "hiszik",
+          "hogy",
+          "minden",
+          "lehetséges"
+        ],
+        "past": [
+          "Azt",
+          "hitték",
+          "hogy",
+          "minden",
+          "lehetséges"
+        ],
+        "future": [
+          "Azt",
+          "fogják",
+          "hinni",
+          "hogy",
+          "minden",
+          "lehetséges"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "hungarian": {
+        "present": [
+          "Minden",
+          "este",
+          "a",
+          "jövőmre",
+          "gondolok"
+        ],
+        "past": [
+          "Minden",
+          "este",
+          "a",
+          "jövőmre",
+          "gondoltam"
+        ],
+        "future": [
+          "Minden",
+          "este",
+          "a",
+          "jövőmre",
+          "fogok",
+          "gondolni"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "hungarian": {
+        "present": [
+          "A",
+          "nehéz",
+          "időkben",
+          "igyekszik",
+          "pozitív",
+          "maradni"
+        ],
+        "past": [
+          "A",
+          "nehéz",
+          "időkben",
+          "igyekezett",
+          "pozitív",
+          "maradni"
+        ],
+        "future": [
+          "A",
+          "nehéz",
+          "időkben",
+          "megpróbál",
+          "pozitív",
+          "maradni"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "hungarian": {
+        "present": [
+          "Szeretnénk",
+          "értelmes",
+          "életet",
+          "élni"
+        ],
+        "past": [
+          "Szeretnénk",
+          "értelmes",
+          "életet",
+          "élni"
+        ],
+        "future": [
+          "Szeretnénk",
+          "értelmes",
+          "életet",
+          "élni"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "hungarian": {
+        "present": [
+          "Megérti",
+          "hogy",
+          "a",
+          "változáshoz",
+          "idő",
+          "kell"
+        ],
+        "past": [
+          "Megértette",
+          "hogy",
+          "a",
+          "változáshoz",
+          "idő",
+          "kell"
+        ],
+        "future": [
+          "Meg",
+          "fogja",
+          "érteni",
+          "hogy",
+          "a",
+          "változáshoz",
+          "idő",
+          "kell"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "hungarian": {
+        "present": [
+          "Úgy",
+          "döntenek",
+          "hogy",
+          "követik",
+          "álmaikat"
+        ],
+        "past": [
+          "Úgy",
+          "döntöttek",
+          "hogy",
+          "követik",
+          "álmaikat"
+        ],
+        "future": [
+          "Úgy",
+          "döntenek",
+          "hogy",
+          "követik",
+          "álmaikat"
+        ]
+      }
+    }
+  ]
+}

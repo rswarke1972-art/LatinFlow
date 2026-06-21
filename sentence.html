@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#0f172a">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sentence Builder | IndieFlow</title>
+  <title>Sentence Builder | LatinFlow</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,9 +23,9 @@
 
   <!-- TENSE SELECT -->
   <div class="tense-buttons">
-    <button onclick="setTense('present')">Present</button>
-    <button onclick="setTense('past')">Past</button>
-    <button onclick="setTense('future')">Future</button>
+    <button id="tense-present" onclick="changeTense('present')">Present</button>
+    <button id="tense-past" onclick="changeTense('past')">Past</button>
+    <button id="tense-future" onclick="changeTense('future')">Future</button>
   </div>
 
   <!-- ENGLISH SENTENCE -->
@@ -50,11 +55,6 @@
 <script>
 function goBack() {
   window.history.back();
-}
-
-function setTense(t) {
-  localStorage.setItem("tense", t);
-  location.reload();
 }
 </script>
 

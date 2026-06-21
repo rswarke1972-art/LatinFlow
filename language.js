@@ -2,51 +2,50 @@
 document.addEventListener("DOMContentLoaded", init);
 
 function init() {
-  highlightCurrentLanguage();
+  renderLanguageGrid();
 }
 
+// ===== RENDER GRID =====
+function renderLanguageGrid() {
+  const grid = document.getElementById("langGrid");
+  if (!grid) return;
+
+  grid.innerHTML = "";
+
+  // Sort languages alphabetically for better user experience
+  const sortedLangs = [...supportedLanguages].sort();
+
+  sortedLangs.forEach(lang => {
+    const btn = document.createElement("button");
+    
+    // Capitalize name
+    const displayName = lang.charAt(0).toUpperCase() + lang.slice(1);
+    
+    // Get emoji flag
+    const flag = emojiFlags[lang] || "🌐";
+    
+    btn.innerText = `${flag} ${displayName}`;
+    
+    // Highlight active
+    if (lang === currentLanguage) {
+      btn.classList.add("active-lang");
+      btn.innerText += " ✅";
+    }
+    
+    btn.onclick = () => selectLang(lang);
+    
+    grid.appendChild(btn);
+  });
+}
 
 // ===== SELECT LANGUAGE =====
 function selectLang(lang) {
-
-  // ✅ If already selected → no reload
+  // If already selected → no reload, just go back to home screen
   if (lang === currentLanguage) {
     window.location.href = "index.html";
     return;
   }
 
-  // ✅ Use config system (important)
+  // Use config system
   setLanguage(lang);
-}
-
-
-// ===== HIGHLIGHT CURRENT LANGUAGE =====
-function highlightCurrentLanguage() {
-
-  const buttons = document.querySelectorAll(".lang-grid button");
-
-  buttons.forEach(btn => {
-    const lang = getLangFromButton(btn);
-
-    if (lang === currentLanguage) {
-      btn.classList.add("active-lang");
-      btn.innerText += " ✅";
-    }
-  });
-}
-
-
-// ===== HELPER: Extract language =====
-function getLangFromButton(button) {
-
-  const text = button.innerText.toLowerCase();
-
-  if (text.includes("spanish")) return "spanish";
-  if (text.includes("french")) return "french";
-  if (text.includes("german")) return "german";
-  if (text.includes("italian")) return "italian";
-  if (text.includes("indonesian")) return "indonesian";
-  if (text.includes("portuguese")) return "portuguese";
-
-  return "";
 }

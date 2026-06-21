@@ -1,0 +1,9225 @@
+{
+  "language": "Romanian",
+  "stories": {
+    "story1": {
+      "title": "în cafenea",
+      "content": [
+        {
+          "word": "Merg",
+          "meaning": "i'm going",
+          "sound": "merg"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "cafenea",
+          "meaning": "the cafe",
+          "sound": "ca-fe-ne-a"
+        },
+        {
+          "word": "mică",
+          "meaning": "small",
+          "sound": "mi-că"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "fiecare",
+          "meaning": "each one",
+          "sound": "fi-e-ca-re"
+        },
+        {
+          "word": "dimineață",
+          "meaning": "morning",
+          "sound": "di-mi-ne-a-ță"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cafeneaua",
+          "meaning": "the cafe",
+          "sound": "ca-fe-ne-a-u-a"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "aproape",
+          "meaning": "almost",
+          "sound": "a-pro-a-pe"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "casa",
+          "meaning": "the house",
+          "sound": "ca-sa"
+        },
+        {
+          "word": "mea",
+          "meaning": "my",
+          "sound": "me-a"
+        },
+        {
+          "word": "si",
+          "meaning": "and",
+          "sound": "si"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "linistita",
+          "meaning": "quiet",
+          "sound": "li-nis-ti-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Stau",
+          "meaning": "i'm staying",
+          "sound": "sta-u"
+        },
+        {
+          "word": "mereu",
+          "meaning": "always",
+          "sound": "me-re-u"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "fereastră",
+          "meaning": "window",
+          "sound": "fe-re-as-tră"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "comand",
+          "meaning": "order",
+          "sound": "co-mand"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "ceașcă",
+          "meaning": "cup",
+          "sound": "ce-aș-că"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "cafea",
+          "meaning": "coffee",
+          "sound": "ca-fe-a"
+        },
+        {
+          "word": "fierbinte",
+          "meaning": "hot",
+          "sound": "fi-er-bin-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Chelnerul",
+          "meaning": "the waiter",
+          "sound": "chel-ne-rul"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "prietenos",
+          "meaning": "friendly",
+          "sound": "pri-e-te-nos"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "întâmpină",
+          "meaning": "welcome",
+          "sound": "în-tâm-pi-nă"
+        },
+        {
+          "word": "mereu",
+          "meaning": "always",
+          "sound": "me-re-u"
+        },
+        {
+          "word": "zâmbind",
+          "meaning": "smiling",
+          "sound": "zâm-bind"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uneori",
+          "meaning": "sometimes",
+          "sound": "u-ne-o-ri"
+        },
+        {
+          "word": "citesc",
+          "meaning": "i read",
+          "sound": "ci-tesc"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "carte",
+          "meaning": "book",
+          "sound": "car-te"
+        },
+        {
+          "word": "interesantă",
+          "meaning": "interesting",
+          "sound": "in-te-re-san-tă"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "iar",
+          "meaning": "again",
+          "sound": "i-ar"
+        },
+        {
+          "word": "alteori",
+          "meaning": "other times",
+          "sound": "al-te-o-ri"
+        },
+        {
+          "word": "scriu",
+          "meaning": "i write",
+          "sound": "scri-u"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "caiet",
+          "meaning": "notebook",
+          "sound": "ca-i-et"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": "văd",
+          "meaning": "i see",
+          "sound": "văd"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "persoană",
+          "meaning": "person",
+          "sound": "per-so-a-nă"
+        },
+        {
+          "word": "nouă",
+          "meaning": "nine",
+          "sound": "no-u-ă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ea",
+          "meaning": "she",
+          "sound": "ea"
+        },
+        {
+          "word": "citește",
+          "meaning": "read",
+          "sound": "ci-teș-te"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "roman",
+          "meaning": "roman",
+          "sound": "ro-man"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "bea",
+          "meaning": "drink",
+          "sound": "be-a"
+        },
+        {
+          "word": "ceai",
+          "meaning": "tea",
+          "sound": "ce-a-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simt",
+          "meaning": "i feel",
+          "sound": "simt"
+        },
+        {
+          "word": "curioasă",
+          "meaning": "curious",
+          "sound": "cu-ri-o-a-să"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "puțin",
+          "meaning": "a little",
+          "sound": "pu-țin"
+        },
+        {
+          "word": "timidă",
+          "meaning": "shy",
+          "sound": "ti-mi-dă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "După",
+          "meaning": "after",
+          "sound": "du-pă"
+        },
+        {
+          "word": "câteva",
+          "meaning": "a few",
+          "sound": "câ-te-va"
+        },
+        {
+          "word": "minute",
+          "meaning": "minutes",
+          "sound": "mi-nu-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "vă",
+          "meaning": "you",
+          "sound": "vă"
+        },
+        {
+          "word": "salut",
+          "meaning": "hello",
+          "sound": "sa-lut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ea",
+          "meaning": "she",
+          "sound": "ea"
+        },
+        {
+          "word": "răspunde",
+          "meaning": "answer",
+          "sound": "răs-pun-de"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "zâmbet",
+          "meaning": "smile",
+          "sound": "zâm-bet"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "începem",
+          "meaning": "let's start",
+          "sound": "în-ce-pem"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "vorbim",
+          "meaning": "we talk",
+          "sound": "vor-bim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simt",
+          "meaning": "i feel",
+          "sound": "simt"
+        },
+        {
+          "word": "fericit",
+          "meaning": "happy",
+          "sound": "fe-ri-cit"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "relaxat",
+          "meaning": "relaxed",
+          "sound": "re-la-xat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "în parc",
+      "content": [
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": "merg",
+          "meaning": "i'm going",
+          "sound": "merg"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "parc",
+          "meaning": "park",
+          "sound": "parc"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "prietenul",
+          "meaning": "the friend",
+          "sound": "pri-e-te-nul"
+        },
+        {
+          "word": "meu",
+          "meaning": "my",
+          "sound": "me-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vremea",
+          "meaning": "the weather",
+          "sound": "vre-me-a"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "plăcută",
+          "meaning": "pleasant",
+          "sound": "plă-cu-tă"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "soarele",
+          "meaning": "the sun",
+          "sound": "so-a-re-le"
+        },
+        {
+          "word": "strălucește",
+          "meaning": "it shines",
+          "sound": "stră-lu-ceș-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Văd",
+          "meaning": "i see",
+          "sound": "văd"
+        },
+        {
+          "word": "mulți",
+          "meaning": "many",
+          "sound": "mul-ți"
+        },
+        {
+          "word": "oameni",
+          "meaning": "people",
+          "sound": "o-a-me-ni"
+        },
+        {
+          "word": "mergând",
+          "meaning": "walking",
+          "sound": "mer-gând"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "râzând",
+          "meaning": "laughing",
+          "sound": "râ-zând"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unii",
+          "meaning": "some",
+          "sound": "u-ni-i"
+        },
+        {
+          "word": "copii",
+          "meaning": "children",
+          "sound": "co-pi-i"
+        },
+        {
+          "word": "se",
+          "meaning": "se",
+          "sound": "se"
+        },
+        {
+          "word": "joacă",
+          "meaning": "play",
+          "sound": "jo-a-că"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "mingea",
+          "meaning": "the ball",
+          "sound": "min-ge-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "iar",
+          "meaning": "again",
+          "sound": "i-ar"
+        },
+        {
+          "word": "alții",
+          "meaning": "others",
+          "sound": "al-ți-i"
+        },
+        {
+          "word": "aleargă",
+          "meaning": "run",
+          "sound": "a-le-ar-gă"
+        },
+        {
+          "word": "repede",
+          "meaning": "quickly",
+          "sound": "re-pe-de"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Eu",
+          "meaning": "me",
+          "sound": "eu"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "prietenul",
+          "meaning": "the friend",
+          "sound": "pri-e-te-nul"
+        },
+        {
+          "word": "meu",
+          "meaning": "my",
+          "sound": "me-u"
+        },
+        {
+          "word": "ne",
+          "meaning": "us",
+          "sound": "ne"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "așezat",
+          "meaning": "seated",
+          "sound": "a-șe-zat"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "bancă",
+          "meaning": "bank",
+          "sound": "ban-că"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "vorbit",
+          "meaning": "spoken",
+          "sound": "vor-bit"
+        },
+        {
+          "word": "despre",
+          "meaning": "about",
+          "sound": "des-pre"
+        },
+        {
+          "word": "viețile",
+          "meaning": "the lives",
+          "sound": "vi-e-ți-le"
+        },
+        {
+          "word": "noastre",
+          "meaning": "ours",
+          "sound": "no-as-tre"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "râs",
+          "meaning": "laugh",
+          "sound": "râs"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "După",
+          "meaning": "after",
+          "sound": "du-pă"
+        },
+        {
+          "word": "aceea",
+          "meaning": "that",
+          "sound": "a-ce-e-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "cumpărat",
+          "meaning": "bought",
+          "sound": "cum-pă-rat"
+        },
+        {
+          "word": "înghețată",
+          "meaning": "ice cream",
+          "sound": "în-ghe-ța-tă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ziua",
+          "meaning": "the day",
+          "sound": "zi-u-a"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "simplă",
+          "meaning": "simple",
+          "sound": "sim-plă"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "frumoasă",
+          "meaning": "beautiful",
+          "sound": "fru-mo-a-să"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "în bibliotecă",
+      "content": [
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "duc",
+          "meaning": "i'm going",
+          "sound": "duc"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "bibliotecă",
+          "meaning": "library",
+          "sound": "bi-bli-o-te-că"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "loc",
+          "meaning": "place",
+          "sound": "loc"
+        },
+        {
+          "word": "linistit",
+          "meaning": "quiet",
+          "sound": "li-nis-tit"
+        },
+        {
+          "word": "plin",
+          "meaning": "full",
+          "sound": "plin"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "carti",
+          "meaning": "books",
+          "sound": "car-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Îmi",
+          "meaning": "i",
+          "sound": "î-mi"
+        },
+        {
+          "word": "place",
+          "meaning": "like",
+          "sound": "pla-ce"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "citesc",
+          "meaning": "i read",
+          "sound": "ci-tesc"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "învăț",
+          "meaning": "i learn",
+          "sound": "în-văț"
+        },
+        {
+          "word": "lucruri",
+          "meaning": "things",
+          "sound": "lu-cru-ri"
+        },
+        {
+          "word": "noi",
+          "meaning": "us",
+          "sound": "no-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Caut",
+          "meaning": "i'm looking",
+          "sound": "ca-ut"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "carte",
+          "meaning": "book",
+          "sound": "car-te"
+        },
+        {
+          "word": "interesanta",
+          "meaning": "interesting",
+          "sound": "in-te-re-san-ta"
+        },
+        {
+          "word": "despre",
+          "meaning": "about",
+          "sound": "des-pre"
+        },
+        {
+          "word": "istorie",
+          "meaning": "history",
+          "sound": "is-to-ri-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "După",
+          "meaning": "after",
+          "sound": "du-pă"
+        },
+        {
+          "word": "aceea",
+          "meaning": "that",
+          "sound": "a-ce-e-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "așez",
+          "meaning": "sitting down",
+          "sound": "a-șez"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "masă",
+          "meaning": "table",
+          "sound": "ma-să"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "încep",
+          "meaning": "i start",
+          "sound": "în-cep"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "citesc",
+          "meaning": "i read",
+          "sound": "ci-tesc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sunt",
+          "meaning": "i am",
+          "sound": "sunt"
+        },
+        {
+          "word": "alți",
+          "meaning": "others",
+          "sound": "al-ți"
+        },
+        {
+          "word": "oameni",
+          "meaning": "people",
+          "sound": "o-a-me-ni"
+        },
+        {
+          "word": "care",
+          "meaning": "which",
+          "sound": "ca-re"
+        },
+        {
+          "word": "studiază",
+          "meaning": "study",
+          "sound": "stu-di-a-ză"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "scriu",
+          "meaning": "i write",
+          "sound": "scri-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Atmosfera",
+          "meaning": "the atmosphere",
+          "sound": "at-mos-fe-ra"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "linistita",
+          "meaning": "quiet",
+          "sound": "li-nis-ti-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "După",
+          "meaning": "after",
+          "sound": "du-pă"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "timp",
+          "meaning": "time",
+          "sound": "timp"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "închid",
+          "meaning": "close",
+          "sound": "în-chid"
+        },
+        {
+          "word": "cartea",
+          "meaning": "the book",
+          "sound": "car-te-a"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simt",
+          "meaning": "i feel",
+          "sound": "simt"
+        },
+        {
+          "word": "mulțumit",
+          "meaning": "satisfied",
+          "sound": "mul-țu-mit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "în magazin",
+      "content": [
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "duc",
+          "meaning": "i'm going",
+          "sound": "duc"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "mare",
+          "meaning": "big",
+          "sound": "ma-re"
+        },
+        {
+          "word": "magazin",
+          "meaning": "shop",
+          "sound": "ma-ga-zin"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "cumpăr",
+          "meaning": "i buy",
+          "sound": "cum-păr"
+        },
+        {
+          "word": "mâncare",
+          "meaning": "food",
+          "sound": "mân-ca-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "nevoie",
+          "meaning": "need",
+          "sound": "ne-vo-i-e"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "pâine",
+          "meaning": "bread",
+          "sound": "pâ-i-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lapte",
+          "meaning": "milk",
+          "sound": "lap-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "fructe",
+          "meaning": "fruits",
+          "sound": "fruc-te"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "legume",
+          "meaning": "vegetables",
+          "sound": "le-gu-me"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Magazinul",
+          "meaning": "the shop",
+          "sound": "ma-ga-zi-nul"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "plin",
+          "meaning": "full",
+          "sound": "plin"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "lume",
+          "meaning": "world",
+          "sound": "lu-me"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": "zgomot",
+          "meaning": "noise",
+          "sound": "zgo-mot"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Caut",
+          "meaning": "i'm looking",
+          "sound": "ca-ut"
+        },
+        {
+          "word": "produsele",
+          "meaning": "the products",
+          "sound": "pro-du-se-le"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "rafturi",
+          "meaning": "shelves",
+          "sound": "raf-tu-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "O",
+          "meaning": "oh",
+          "sound": "o"
+        },
+        {
+          "word": "femeie",
+          "meaning": "woman",
+          "sound": "fe-me-i-e"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "întreabă",
+          "meaning": "he asks",
+          "sound": "în-tre-a-bă"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unde",
+          "meaning": "where",
+          "sound": "un-de"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "laptele",
+          "meaning": "the milk",
+          "sound": "lap-te-le"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Îi",
+          "meaning": "it",
+          "sound": "îi"
+        },
+        {
+          "word": "spun",
+          "meaning": "i say",
+          "sound": "spun"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "E",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "acolo",
+          "meaning": "there",
+          "sound": "a-co-lo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lângă",
+          "meaning": "next to",
+          "sound": "lân-gă"
+        },
+        {
+          "word": "pâine",
+          "meaning": "bread",
+          "sound": "pâ-i-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ea",
+          "meaning": "she",
+          "sound": "ea"
+        },
+        {
+          "word": "zâmbește",
+          "meaning": "smile",
+          "sound": "zâm-beș-te"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "spune",
+          "meaning": "say",
+          "sound": "spu-ne"
+        },
+        {
+          "word": "mulțumesc",
+          "meaning": "thank you",
+          "sound": "mul-țu-mesc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Apoi",
+          "meaning": "then",
+          "sound": "a-po-i"
+        },
+        {
+          "word": "ma",
+          "meaning": "ma",
+          "sound": "ma"
+        },
+        {
+          "word": "duc",
+          "meaning": "i'm going",
+          "sound": "duc"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "casierie",
+          "meaning": "cashier",
+          "sound": "ca-si-e-ri-e"
+        },
+        {
+          "word": "si",
+          "meaning": "and",
+          "sound": "si"
+        },
+        {
+          "word": "platesc",
+          "meaning": "i pay",
+          "sound": "pla-tesc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Plec",
+          "meaning": "i'm leaving",
+          "sound": "plec"
+        },
+        {
+          "word": "din",
+          "meaning": "from",
+          "sound": "din"
+        },
+        {
+          "word": "magazin",
+          "meaning": "shop",
+          "sound": "ma-ga-zin"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "geanta",
+          "meaning": "the bag",
+          "sound": "ge-an-ta"
+        },
+        {
+          "word": "plină",
+          "meaning": "full",
+          "sound": "pli-nă"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simt",
+          "meaning": "i feel",
+          "sound": "simt"
+        },
+        {
+          "word": "fericită",
+          "meaning": "happy",
+          "sound": "fe-ri-ci-tă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "în autobuz",
+      "content": [
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": "iau",
+          "meaning": "i take",
+          "sound": "i-a-u"
+        },
+        {
+          "word": "autobuzul",
+          "meaning": "the bus",
+          "sound": "a-u-to-bu-zul"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "merg",
+          "meaning": "i'm going",
+          "sound": "merg"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "serviciu",
+          "meaning": "service",
+          "sound": "ser-vi-ci-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Autobuzul",
+          "meaning": "the bus",
+          "sound": "a-u-to-bu-zul"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "plin",
+          "meaning": "full",
+          "sound": "plin"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "e",
+          "meaning": "e",
+          "sound": "e"
+        },
+        {
+          "word": "prea",
+          "meaning": "too",
+          "sound": "pre-a"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": "spațiu",
+          "meaning": "space",
+          "sound": "spa-ți-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simt",
+          "meaning": "i feel",
+          "sound": "simt"
+        },
+        {
+          "word": "puțin",
+          "meaning": "a little",
+          "sound": "pu-țin"
+        },
+        {
+          "word": "obosit",
+          "meaning": "tired",
+          "sound": "o-bo-sit"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "văd",
+          "meaning": "i see",
+          "sound": "văd"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "persoană",
+          "meaning": "person",
+          "sound": "per-so-a-nă"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "vârstă",
+          "meaning": "age",
+          "sound": "vâr-stă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Îți",
+          "meaning": "you",
+          "sound": "î-ți"
+        },
+        {
+          "word": "ofer",
+          "meaning": "i offer",
+          "sound": "o-fer"
+        },
+        {
+          "word": "locul",
+          "meaning": "the place",
+          "sound": "lo-cul"
+        },
+        {
+          "word": "meu",
+          "meaning": "my",
+          "sound": "me-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "he",
+          "sound": "el"
+        },
+        {
+          "word": "îmi",
+          "meaning": "me",
+          "sound": "î-mi"
+        },
+        {
+          "word": "spune",
+          "meaning": "say",
+          "sound": "spu-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ești",
+          "meaning": "you are",
+          "sound": "eș-ti"
+        },
+        {
+          "word": "sigur",
+          "meaning": "for sure",
+          "sound": "si-gur"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Răspund",
+          "meaning": "i answer",
+          "sound": "răs-pund"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Da",
+          "meaning": "yes",
+          "sound": "da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nicio",
+          "meaning": "none",
+          "sound": "ni-ci-o"
+        },
+        {
+          "word": "problemă",
+          "meaning": "problem",
+          "sound": "pro-ble-mă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "he",
+          "sound": "el"
+        },
+        {
+          "word": "zâmbește",
+          "meaning": "smile",
+          "sound": "zâm-beș-te"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "îmi",
+          "meaning": "me",
+          "sound": "î-mi"
+        },
+        {
+          "word": "mulțumește",
+          "meaning": "thanks",
+          "sound": "mul-țu-meș-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "În",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "timpul",
+          "meaning": "the time",
+          "sound": "tim-pul"
+        },
+        {
+          "word": "călătoriei",
+          "meaning": "the journey",
+          "sound": "că-lă-to-ri-e-i"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "uit",
+          "meaning": "i forget",
+          "sound": "u-it"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "fereastră",
+          "meaning": "window",
+          "sound": "fe-re-as-tră"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "gândesc",
+          "meaning": "i think",
+          "sound": "gân-desc"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "ziua",
+          "meaning": "day",
+          "sound": "zi-u-a"
+        },
+        {
+          "word": "mea",
+          "meaning": "my",
+          "sound": "me-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Chiar",
+          "meaning": "really",
+          "sound": "chi-ar"
+        },
+        {
+          "word": "dacă",
+          "meaning": "if",
+          "sound": "da-că"
+        },
+        {
+          "word": "sunt",
+          "meaning": "i am",
+          "sound": "sunt"
+        },
+        {
+          "word": "obosit",
+          "meaning": "tired",
+          "sound": "o-bo-sit"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simt",
+          "meaning": "i feel",
+          "sound": "simt"
+        },
+        {
+          "word": "bine",
+          "meaning": "good",
+          "sound": "bi-ne"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "ajut",
+          "meaning": "i help",
+          "sound": "a-jut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Ieri la plajă",
+      "content": [
+        {
+          "word": "Ieri",
+          "meaning": "yesterday",
+          "sound": "i-e-ri"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "plajă",
+          "meaning": "beach",
+          "sound": "pla-jă"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "prietenii",
+          "meaning": "friends",
+          "sound": "pri-e-te-ni-i"
+        },
+        {
+          "word": "mei",
+          "meaning": "mine",
+          "sound": "me-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Vremea",
+          "meaning": "the weather",
+          "sound": "vre-me-a"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "perfectă",
+          "meaning": "perfect",
+          "sound": "per-fec-tă"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "marea",
+          "meaning": "the sea",
+          "sound": "ma-re-a"
+        },
+        {
+          "word": "calmă",
+          "meaning": "calm",
+          "sound": "cal-mă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "plimbat",
+          "meaning": "walked",
+          "sound": "plim-bat"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "nisip",
+          "meaning": "sand",
+          "sound": "ni-sip"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "vorbit",
+          "meaning": "spoken",
+          "sound": "vor-bit"
+        },
+        {
+          "word": "despre",
+          "meaning": "about",
+          "sound": "des-pre"
+        },
+        {
+          "word": "multe",
+          "meaning": "many",
+          "sound": "mul-te"
+        },
+        {
+          "word": "lucruri",
+          "meaning": "things",
+          "sound": "lu-cru-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "După",
+          "meaning": "after",
+          "sound": "du-pă"
+        },
+        {
+          "word": "aceea",
+          "meaning": "that",
+          "sound": "a-ce-e-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "înotat",
+          "meaning": "swam",
+          "sound": "î-no-tat"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "apa",
+          "meaning": "water",
+          "sound": "a-pa"
+        },
+        {
+          "word": "rece",
+          "meaning": "cold",
+          "sound": "re-ce"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "at",
+          "sound": "la"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "puțin",
+          "meaning": "a little",
+          "sound": "pu-țin"
+        },
+        {
+          "word": "frică",
+          "meaning": "fear",
+          "sound": "fri-că"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "apoi",
+          "meaning": "then",
+          "sound": "a-po-i"
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "simțit",
+          "meaning": "felt",
+          "sound": "sim-țit"
+        },
+        {
+          "word": "grozav",
+          "meaning": "great",
+          "sound": "gro-zav"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "jucat",
+          "meaning": "played",
+          "sound": "ju-cat"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "minge",
+          "meaning": "ball",
+          "sound": "min-ge"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "râs",
+          "meaning": "laugh",
+          "sound": "râs"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "După",
+          "meaning": "after",
+          "sound": "du-pă"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "amiaza",
+          "meaning": "noon",
+          "sound": "a-mi-a-za"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "mâncat",
+          "meaning": "eaten",
+          "sound": "mân-cat"
+        },
+        {
+          "word": "împreună",
+          "meaning": "together",
+          "sound": "îm-pre-u-nă"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "privit",
+          "meaning": "watched",
+          "sound": "pri-vit"
+        },
+        {
+          "word": "apusul",
+          "meaning": "the sunset",
+          "sound": "a-pu-sul"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "specială",
+          "meaning": "special",
+          "sound": "spe-ci-a-lă"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "voi",
+          "meaning": "you",
+          "sound": "vo-i"
+        },
+        {
+          "word": "uita",
+          "meaning": "forget it",
+          "sound": "u-i-ta"
+        },
+        {
+          "word": "niciodată",
+          "meaning": "never",
+          "sound": "ni-ci-o-da-tă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "O conversație importantă",
+      "content": [
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "întâlnit",
+          "meaning": "met",
+          "sound": "în-tâl-nit"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "vechi",
+          "meaning": "old",
+          "sound": "vec-hi"
+        },
+        {
+          "word": "prieten",
+          "meaning": "friend",
+          "sound": "pri-e-ten"
+        },
+        {
+          "word": "într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "cafenea",
+          "meaning": "the cafe",
+          "sound": "ca-fe-ne-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "l",
+          "meaning": "l",
+          "sound": "l"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "văzut",
+          "meaning": "seen",
+          "sound": "vă-zut"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "așa",
+          "meaning": "like that",
+          "sound": "a-șa"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "bucurat",
+          "meaning": "glad",
+          "sound": "bu-cu-rat"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "l",
+          "meaning": "l",
+          "sound": "l"
+        },
+        {
+          "word": "văd",
+          "meaning": "i see",
+          "sound": "văd"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ne",
+          "meaning": "no",
+          "sound": "ne"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "așezat",
+          "meaning": "seated",
+          "sound": "a-șe-zat"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "vorbim",
+          "meaning": "we talk",
+          "sound": "vor-bim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "mi",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "spus",
+          "meaning": "said",
+          "sound": "spus"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "acum",
+          "meaning": "now",
+          "sound": "a-cum"
+        },
+        {
+          "word": "locuiește",
+          "meaning": "lives",
+          "sound": "lo-cu-i-eș-te"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "alt",
+          "meaning": "other",
+          "sound": "alt"
+        },
+        {
+          "word": "oraș",
+          "meaning": "city",
+          "sound": "o-raș"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lucrează",
+          "meaning": "it works",
+          "sound": "lu-cre-a-ză"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "companie",
+          "meaning": "company",
+          "sound": "com-pa-ni-e"
+        },
+        {
+          "word": "mare",
+          "meaning": "big",
+          "sound": "ma-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "I",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "spus",
+          "meaning": "said",
+          "sound": "spus"
+        },
+        {
+          "word": "despre",
+          "meaning": "about",
+          "sound": "des-pre"
+        },
+        {
+          "word": "studiile",
+          "meaning": "the studies",
+          "sound": "stu-di-i-le"
+        },
+        {
+          "word": "mele",
+          "meaning": "my",
+          "sound": "me-le"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "despre",
+          "meaning": "about",
+          "sound": "des-pre"
+        },
+        {
+          "word": "planurile",
+          "meaning": "the plans",
+          "sound": "pla-nu-ri-le"
+        },
+        {
+          "word": "mele",
+          "meaning": "my",
+          "sound": "me-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "vorbit",
+          "meaning": "spoken",
+          "sound": "vor-bit"
+        },
+        {
+          "word": "ore",
+          "meaning": "hours",
+          "sound": "o-re"
+        },
+        {
+          "word": "întregi",
+          "meaning": "whole",
+          "sound": "în-tre-gi"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "ne",
+          "meaning": "us",
+          "sound": "ne"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "amintit",
+          "meaning": "remembered",
+          "sound": "a-min-tit"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "multe",
+          "meaning": "many",
+          "sound": "mul-te"
+        },
+        {
+          "word": "momente",
+          "meaning": "moments",
+          "sound": "mo-men-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Înainte",
+          "meaning": "before",
+          "sound": "î-na-in-te"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "plecăm",
+          "meaning": "we are leaving",
+          "sound": "ple-căm"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "spus",
+          "meaning": "said",
+          "sound": "spus"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ar",
+          "meaning": "would",
+          "sound": "ar"
+        },
+        {
+          "word": "trebui",
+          "meaning": "have to",
+          "sound": "tre-bu-i"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "ne",
+          "meaning": "us",
+          "sound": "ne"
+        },
+        {
+          "word": "vedem",
+          "meaning": "we see",
+          "sound": "ve-dem"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "des",
+          "meaning": "often",
+          "sound": "des"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "zâmbit",
+          "meaning": "smiled",
+          "sound": "zâm-bit"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "i",
+          "meaning": "i",
+          "sound": "i"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "răspuns",
+          "meaning": "answer",
+          "sound": "răs-puns"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sigur",
+          "meaning": "sure",
+          "sound": "si-gur"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "plăcut",
+          "meaning": "pleasant",
+          "sound": "plă-cut"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": "această",
+          "meaning": "this one",
+          "sound": "a-ce-as-tă"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "O decizie dificilă",
+      "content": [
+        {
+          "word": "Acum",
+          "meaning": "now",
+          "sound": "a-cum"
+        },
+        {
+          "word": "câteva",
+          "meaning": "a few",
+          "sound": "câ-te-va"
+        },
+        {
+          "word": "zile",
+          "meaning": "days",
+          "sound": "zi-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "primit",
+          "meaning": "received",
+          "sound": "pri-mit"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "ofertă",
+          "meaning": "offer",
+          "sound": "o-fer-tă"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "muncă",
+          "meaning": "work",
+          "sound": "mun-că"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Era",
+          "meaning": "it was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "alt",
+          "meaning": "other",
+          "sound": "alt"
+        },
+        {
+          "word": "oraș",
+          "meaning": "city",
+          "sound": "o-raș"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "interesant",
+          "meaning": "interesting",
+          "sound": "in-te-re-sant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "at",
+          "sound": "la"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "simțit",
+          "meaning": "felt",
+          "sound": "sim-țit"
+        },
+        {
+          "word": "entuziasmat",
+          "meaning": "excited",
+          "sound": "en-tu-zi-as-mat"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "nervos",
+          "meaning": "nervous",
+          "sound": "ner-vos"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "vorbit",
+          "meaning": "spoken",
+          "sound": "vor-bit"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "familia",
+          "meaning": "the family",
+          "sound": "fa-mi-li-a"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "prietenii",
+          "meaning": "friends",
+          "sound": "pri-e-te-ni-i"
+        },
+        {
+          "word": "mei",
+          "meaning": "mine",
+          "sound": "me-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "mi",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "au",
+          "meaning": "they have",
+          "sound": "au"
+        },
+        {
+          "word": "dat",
+          "meaning": "given",
+          "sound": "dat"
+        },
+        {
+          "word": "multe",
+          "meaning": "many",
+          "sound": "mul-te"
+        },
+        {
+          "word": "sfaturi",
+          "meaning": "advice",
+          "sound": "sfa-tu-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mama",
+          "meaning": "mother",
+          "sound": "ma-ma"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "spus",
+          "meaning": "said",
+          "sound": "spus"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Trebuie",
+          "meaning": "i have to",
+          "sound": "tre-bu-i-e"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ți",
+          "meaning": "you",
+          "sound": "ți"
+        },
+        {
+          "word": "urmezi",
+          "meaning": "you follow",
+          "sound": "ur-me-zi"
+        },
+        {
+          "word": "visele",
+          "meaning": "the dreams",
+          "sound": "vi-se-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "prietenul",
+          "meaning": "the friend",
+          "sound": "pri-e-te-nul"
+        },
+        {
+          "word": "meu",
+          "meaning": "my",
+          "sound": "me-u"
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "întrebat",
+          "meaning": "asked",
+          "sound": "în-tre-bat"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ești",
+          "meaning": "you are",
+          "sound": "eș-ti"
+        },
+        {
+          "word": "sigur",
+          "meaning": "for sure",
+          "sound": "si-gur"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "stat",
+          "meaning": "state",
+          "sound": "stat"
+        },
+        {
+          "word": "câteva",
+          "meaning": "a few",
+          "sound": "câ-te-va"
+        },
+        {
+          "word": "zile",
+          "meaning": "days",
+          "sound": "zi-le"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "gânduri",
+          "meaning": "thoughts",
+          "sound": "gân-du-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "În",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "cele",
+          "meaning": "those",
+          "sound": "ce-le"
+        },
+        {
+          "word": "din",
+          "meaning": "from",
+          "sound": "din"
+        },
+        {
+          "word": "urmă",
+          "meaning": "trail",
+          "sound": "ur-mă"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "decis",
+          "meaning": "decided",
+          "sound": "de-cis"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "accept",
+          "meaning": "i accept",
+          "sound": "ac-cept"
+        },
+        {
+          "word": "postul",
+          "meaning": "post",
+          "sound": "pos-tul"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Știu",
+          "meaning": "i know",
+          "sound": "ști-u"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "va",
+          "meaning": "will",
+          "sound": "va"
+        },
+        {
+          "word": "fi",
+          "meaning": "be",
+          "sound": "fi"
+        },
+        {
+          "word": "ușor",
+          "meaning": "easy",
+          "sound": "u-șor"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "vreau",
+          "meaning": "i want",
+          "sound": "vre-a-u"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "încerc",
+          "meaning": "i try",
+          "sound": "în-cerc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "O ceartă cu un prieten",
+      "content": [
+        {
+          "word": "Ieri",
+          "meaning": "yesterday",
+          "sound": "i-e-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "certat",
+          "meaning": "argued",
+          "sound": "cer-tat"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "cel",
+          "meaning": "the one",
+          "sound": "cel"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "bun",
+          "meaning": "good",
+          "sound": "bun"
+        },
+        {
+          "word": "prieten",
+          "meaning": "friend",
+          "sound": "pri-e-ten"
+        },
+        {
+          "word": "al",
+          "meaning": "al",
+          "sound": "al"
+        },
+        {
+          "word": "meu",
+          "meaning": "my",
+          "sound": "me-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Totul",
+          "meaning": "everything",
+          "sound": "to-tul"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": "când",
+          "meaning": "when",
+          "sound": "când"
+        },
+        {
+          "word": "vorbeam",
+          "meaning": "we were talking",
+          "sound": "vor-be-am"
+        },
+        {
+          "word": "despre",
+          "meaning": "about",
+          "sound": "des-pre"
+        },
+        {
+          "word": "planurile",
+          "meaning": "the plans",
+          "sound": "pla-nu-ri-le"
+        },
+        {
+          "word": "noastre",
+          "meaning": "ours",
+          "sound": "no-as-tre"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "vrut",
+          "meaning": "wanted",
+          "sound": "vrut"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "călătoresc",
+          "meaning": "i travel",
+          "sound": "că-lă-to-resc"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "el",
+          "meaning": "he",
+          "sound": "el"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "preferat",
+          "meaning": "preferred",
+          "sound": "pre-fe-rat"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "rămână",
+          "meaning": "remain",
+          "sound": "ră-mâ-nă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "El",
+          "meaning": "he",
+          "sound": "el"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "spus",
+          "meaning": "said",
+          "sound": "spus"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "avem",
+          "meaning": "we have",
+          "sound": "a-vem"
+        },
+        {
+          "word": "destui",
+          "meaning": "enough",
+          "sound": "des-tu-i"
+        },
+        {
+          "word": "bani",
+          "meaning": "money",
+          "sound": "ba-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "răspuns",
+          "meaning": "answer",
+          "sound": "răs-puns"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Putem",
+          "meaning": "we can",
+          "sound": "pu-tem"
+        },
+        {
+          "word": "salva",
+          "meaning": "save",
+          "sound": "sal-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "el",
+          "meaning": "he",
+          "sound": "el"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "acord",
+          "meaning": "agreement",
+          "sound": "a-cord"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Conversația",
+          "meaning": "the conversation",
+          "sound": "con-ver-sa-ți-a"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "devenit",
+          "meaning": "became",
+          "sound": "de-ve-nit"
+        },
+        {
+          "word": "tensionată",
+          "meaning": "tense",
+          "sound": "ten-si-o-na-tă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Până",
+          "meaning": "until",
+          "sound": "pâ-nă"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "urmă",
+          "meaning": "trail",
+          "sound": "ur-mă"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "amândoi",
+          "meaning": "both of them",
+          "sound": "a-mân-do-i"
+        },
+        {
+          "word": "supărați",
+          "meaning": "angry",
+          "sound": "su-pă-ra-ți"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "cred",
+          "meaning": "i think",
+          "sound": "cred"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "poate",
+          "meaning": "maybe",
+          "sound": "po-a-te"
+        },
+        {
+          "word": "ar",
+          "meaning": "would",
+          "sound": "ar"
+        },
+        {
+          "word": "trebui",
+          "meaning": "have to",
+          "sound": "tre-bu-i"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "vorbesc",
+          "meaning": "i speak",
+          "sound": "vor-besc"
+        },
+        {
+          "word": "din",
+          "meaning": "from",
+          "sound": "din"
+        },
+        {
+          "word": "nou",
+          "meaning": "new",
+          "sound": "no-u"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "el",
+          "meaning": "he",
+          "sound": "el"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Prietenia",
+          "meaning": "friendship",
+          "sound": "pri-e-te-ni-a"
+        },
+        {
+          "word": "noastră",
+          "meaning": "our",
+          "sound": "no-as-tră"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "importantă",
+          "meaning": "important",
+          "sound": "im-por-tan-tă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "O schimbare importantă",
+      "content": [
+        {
+          "word": "Acum",
+          "meaning": "now",
+          "sound": "a-cum"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "an",
+          "meaning": "year",
+          "sound": "an"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "viața",
+          "meaning": "life",
+          "sound": "vi-a-ța"
+        },
+        {
+          "word": "mea",
+          "meaning": "my",
+          "sound": "me-a"
+        },
+        {
+          "word": "era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "foarte",
+          "meaning": "very",
+          "sound": "fo-ar-te"
+        },
+        {
+          "word": "diferită",
+          "meaning": "different",
+          "sound": "di-fe-ri-tă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "lucrat",
+          "meaning": "worked",
+          "sound": "lu-crat"
+        },
+        {
+          "word": "într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "loc",
+          "meaning": "place",
+          "sound": "loc"
+        },
+        {
+          "word": "care",
+          "meaning": "which",
+          "sound": "ca-re"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "plăcut",
+          "meaning": "pleasant",
+          "sound": "plă-cut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "În",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "fiecare",
+          "meaning": "each one",
+          "sound": "fi-e-ca-re"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simțeam",
+          "meaning": "i felt",
+          "sound": "sim-țe-am"
+        },
+        {
+          "word": "obosită",
+          "meaning": "tired",
+          "sound": "o-bo-si-tă"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "nemotivată",
+          "meaning": "unmotivated",
+          "sound": "ne-mo-ti-va-tă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "decis",
+          "meaning": "decided",
+          "sound": "de-cis"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "schimb",
+          "meaning": "exchange",
+          "sound": "schimb"
+        },
+        {
+          "word": "totul",
+          "meaning": "everything",
+          "sound": "to-tul"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "ușor",
+          "meaning": "easy",
+          "sound": "u-șor"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "pentru",
+          "meaning": "for",
+          "sound": "pen-tru"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "îmi",
+          "meaning": "me",
+          "sound": "î-mi"
+        },
+        {
+          "word": "era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "frică",
+          "meaning": "fear",
+          "sound": "fri-că"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "reușesc",
+          "meaning": "i succeed",
+          "sound": "re-u-șesc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "știam",
+          "meaning": "i knew",
+          "sound": "ști-am"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "pot",
+          "meaning": "i can",
+          "sound": "pot"
+        },
+        {
+          "word": "continua",
+          "meaning": "continue",
+          "sound": "con-ti-nu-a"
+        },
+        {
+          "word": "așa",
+          "meaning": "like that",
+          "sound": "a-șa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "învăț",
+          "meaning": "i learn",
+          "sound": "în-văț"
+        },
+        {
+          "word": "lucruri",
+          "meaning": "things",
+          "sound": "lu-cru-ri"
+        },
+        {
+          "word": "noi",
+          "meaning": "us",
+          "sound": "no-i"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "lucrez",
+          "meaning": "i work",
+          "sound": "lu-crez"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "obiectivele",
+          "meaning": "the objectives",
+          "sound": "o-bi-ec-ti-ve-le"
+        },
+        {
+          "word": "mele",
+          "meaning": "my",
+          "sound": "me-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Încetul",
+          "meaning": "the slow",
+          "sound": "în-ce-tul"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "încetul",
+          "meaning": "slowly",
+          "sound": "în-ce-tul"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "viața",
+          "meaning": "life",
+          "sound": "vi-a-ța"
+        },
+        {
+          "word": "mea",
+          "meaning": "my",
+          "sound": "me-a"
+        },
+        {
+          "word": "s",
+          "meaning": "s",
+          "sound": "s"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "schimbat",
+          "meaning": "changed",
+          "sound": "schim-bat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "simt",
+          "meaning": "i feel",
+          "sound": "simt"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "încrezător",
+          "meaning": "confident",
+          "sound": "în-cre-ză-tor"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "fericit",
+          "meaning": "happy",
+          "sound": "fe-ri-cit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "învățat",
+          "meaning": "learned",
+          "sound": "în-vă-țat"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "schimbările",
+          "meaning": "the changes",
+          "sound": "schim-bă-ri-le"
+        },
+        {
+          "word": "sunt",
+          "meaning": "i am",
+          "sound": "sunt"
+        },
+        {
+          "word": "dificile",
+          "meaning": "difficult",
+          "sound": "di-fi-ci-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "necesare",
+          "meaning": "necessary",
+          "sound": "ne-ce-sa-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Sensul căii",
+      "content": [
+        {
+          "word": "Multă",
+          "meaning": "a lot",
+          "sound": "mul-tă"
+        },
+        {
+          "word": "vreme",
+          "meaning": "time",
+          "sound": "vre-me"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "crezut",
+          "meaning": "believed",
+          "sound": "cre-zut"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "succesul",
+          "meaning": "success",
+          "sound": "suc-ce-sul"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "cel",
+          "meaning": "the one",
+          "sound": "cel"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "important",
+          "meaning": "important",
+          "sound": "im-por-tant"
+        },
+        {
+          "word": "lucru",
+          "meaning": "thing",
+          "sound": "lu-cru"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "crezut",
+          "meaning": "believed",
+          "sound": "cre-zut"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "avea",
+          "meaning": "had",
+          "sound": "a-ve-a"
+        },
+        {
+          "word": "bani",
+          "meaning": "money",
+          "sound": "ba-ni"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "recunoaștere",
+          "meaning": "recognition",
+          "sound": "re-cu-no-aș-te-re"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "va",
+          "meaning": "will",
+          "sound": "va"
+        },
+        {
+          "word": "face",
+          "meaning": "do",
+          "sound": "fa-ce"
+        },
+        {
+          "word": "fericit",
+          "meaning": "happy",
+          "sound": "fe-ri-cit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "toate",
+          "meaning": "all",
+          "sound": "to-a-te"
+        },
+        {
+          "word": "acestea",
+          "meaning": "these",
+          "sound": "a-ces-te-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "lungul",
+          "meaning": "long",
+          "sound": "lun-gul"
+        },
+        {
+          "word": "timpului",
+          "meaning": "of time",
+          "sound": "tim-pu-lu-i"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "dat",
+          "meaning": "given",
+          "sound": "dat"
+        },
+        {
+          "word": "seama",
+          "meaning": "account",
+          "sound": "se-a-ma"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "greșit",
+          "meaning": "wrong",
+          "sound": "gre-șit"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ceea",
+          "meaning": "what",
+          "sound": "ce-e-a"
+        },
+        {
+          "word": "ce",
+          "meaning": "what",
+          "sound": "ce"
+        },
+        {
+          "word": "contează",
+          "meaning": "it matters",
+          "sound": "con-te-a-ză"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "adevărat",
+          "meaning": "true",
+          "sound": "a-de-vă-rat"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "calea",
+          "meaning": "the way",
+          "sound": "ca-le-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Experiențele",
+          "meaning": "the experiences",
+          "sound": "ex-pe-ri-en-țe-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "greșelile",
+          "meaning": "the mistakes",
+          "sound": "gre-șe-li-le"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "învățăturile",
+          "meaning": "the teachings",
+          "sound": "în-vă-ță-tu-ri-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "vorbit",
+          "meaning": "spoken",
+          "sound": "vor-bit"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "mentor",
+          "meaning": "mentor",
+          "sound": "men-tor"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mi",
+          "meaning": "mi",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "spus",
+          "meaning": "said",
+          "sound": "spus"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "te",
+          "meaning": "you",
+          "sound": "te"
+        },
+        {
+          "word": "grăbi",
+          "meaning": "hurry up",
+          "sound": "gră-bi"
+        },
+        {
+          "word": "doar",
+          "meaning": "just",
+          "sound": "do-ar"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "ajungi",
+          "meaning": "you arrive",
+          "sound": "a-jun-gi"
+        },
+        {
+          "word": "acolo",
+          "meaning": "there",
+          "sound": "a-co-lo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "învață",
+          "meaning": "learn",
+          "sound": "în-va-ță"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "te",
+          "meaning": "you",
+          "sound": "te"
+        },
+        {
+          "word": "bucuri",
+          "meaning": "enjoy",
+          "sound": "bu-cu-ri"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "proces",
+          "meaning": "process",
+          "sound": "pro-ces"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Din",
+          "meaning": "from",
+          "sound": "din"
+        },
+        {
+          "word": "acel",
+          "meaning": "that one",
+          "sound": "a-cel"
+        },
+        {
+          "word": "moment",
+          "meaning": "moment",
+          "sound": "mo-ment"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "modul",
+          "meaning": "mode",
+          "sound": "mo-dul"
+        },
+        {
+          "word": "meu",
+          "meaning": "my",
+          "sound": "me-u"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "gândi",
+          "meaning": "think",
+          "sound": "gân-di"
+        },
+        {
+          "word": "s",
+          "meaning": "s",
+          "sound": "s"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "schimbat",
+          "meaning": "changed",
+          "sound": "schim-bat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Acum",
+          "meaning": "now",
+          "sound": "a-cum"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "prețuiesc",
+          "meaning": "i value",
+          "sound": "pre-țu-i-esc"
+        },
+        {
+          "word": "fiecare",
+          "meaning": "each one",
+          "sound": "fi-e-ca-re"
+        },
+        {
+          "word": "pas",
+          "meaning": "step",
+          "sound": "pas"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "învăț",
+          "meaning": "i learn",
+          "sound": "în-văț"
+        },
+        {
+          "word": "din",
+          "meaning": "from",
+          "sound": "din"
+        },
+        {
+          "word": "fiecare",
+          "meaning": "each one",
+          "sound": "fi-e-ca-re"
+        },
+        {
+          "word": "greșeală",
+          "meaning": "mistake",
+          "sound": "gre-șe-a-lă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "cine sunt eu cu adevărat",
+      "content": [
+        {
+          "word": "Timp",
+          "meaning": "time",
+          "sound": "timp"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "mulți",
+          "meaning": "many",
+          "sound": "mul-ți"
+        },
+        {
+          "word": "ani",
+          "meaning": "years",
+          "sound": "a-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "întrebat",
+          "meaning": "asked",
+          "sound": "în-tre-bat"
+        },
+        {
+          "word": "cine",
+          "meaning": "who",
+          "sound": "ci-ne"
+        },
+        {
+          "word": "sunt",
+          "meaning": "i am",
+          "sound": "sunt"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "adevărat",
+          "meaning": "true",
+          "sound": "a-de-vă-rat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "La",
+          "meaning": "at",
+          "sound": "la"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "crezut",
+          "meaning": "believed",
+          "sound": "cre-zut"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "identitatea",
+          "meaning": "identity",
+          "sound": "i-den-ti-ta-te-a"
+        },
+        {
+          "word": "mea",
+          "meaning": "my",
+          "sound": "me-a"
+        },
+        {
+          "word": "depinde",
+          "meaning": "it depends",
+          "sound": "de-pin-de"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "ceea",
+          "meaning": "what",
+          "sound": "ce-e-a"
+        },
+        {
+          "word": "ce",
+          "meaning": "what",
+          "sound": "ce"
+        },
+        {
+          "word": "cred",
+          "meaning": "i think",
+          "sound": "cred"
+        },
+        {
+          "word": "alții",
+          "meaning": "others",
+          "sound": "al-ți-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Căutam",
+          "meaning": "i was looking",
+          "sound": "că-u-tam"
+        },
+        {
+          "word": "aprobare",
+          "meaning": "approval",
+          "sound": "a-pro-ba-re"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "îmi",
+          "meaning": "me",
+          "sound": "î-mi"
+        },
+        {
+          "word": "era",
+          "meaning": "was",
+          "sound": "e-ra"
+        },
+        {
+          "word": "frică",
+          "meaning": "fear",
+          "sound": "fri-că"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "greșesc",
+          "meaning": "i'm wrong",
+          "sound": "gre-șesc"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "toate",
+          "meaning": "all",
+          "sound": "to-a-te"
+        },
+        {
+          "word": "acestea",
+          "meaning": "these",
+          "sound": "a-ces-te-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "lungul",
+          "meaning": "long",
+          "sound": "lun-gul"
+        },
+        {
+          "word": "timpului",
+          "meaning": "of time",
+          "sound": "tim-pu-lu-i"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "înțeles",
+          "meaning": "understood",
+          "sound": "în-țe-les"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "valoarea",
+          "meaning": "the value",
+          "sound": "va-lo-a-re-a"
+        },
+        {
+          "word": "mea",
+          "meaning": "my",
+          "sound": "me-a"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "depinde",
+          "meaning": "it depends",
+          "sound": "de-pin-de"
+        },
+        {
+          "word": "de",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "alții",
+          "meaning": "others",
+          "sound": "al-ți-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "decis",
+          "meaning": "decided",
+          "sound": "de-cis"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "ascult",
+          "meaning": "i listen",
+          "sound": "as-cult"
+        },
+        {
+          "word": "propria",
+          "meaning": "own",
+          "sound": "pro-pri-a"
+        },
+        {
+          "word": "voce",
+          "meaning": "voice",
+          "sound": "vo-ce"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "iau",
+          "meaning": "i take",
+          "sound": "i-a-u"
+        },
+        {
+          "word": "decizii",
+          "meaning": "decisions",
+          "sound": "de-ci-zi-i"
+        },
+        {
+          "word": "pentru",
+          "meaning": "for",
+          "sound": "pen-tru"
+        },
+        {
+          "word": "mine",
+          "meaning": "me",
+          "sound": "mi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "întotdeauna",
+          "meaning": "always",
+          "sound": "în-tot-de-a-u-na"
+        },
+        {
+          "word": "ușor",
+          "meaning": "easy",
+          "sound": "u-șor"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "învățat",
+          "meaning": "learned",
+          "sound": "în-vă-țat"
+        },
+        {
+          "word": "din",
+          "meaning": "from",
+          "sound": "din"
+        },
+        {
+          "word": "fiecare",
+          "meaning": "each one",
+          "sound": "fi-e-ca-re"
+        },
+        {
+          "word": "greșeală",
+          "meaning": "mistake",
+          "sound": "gre-șe-a-lă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "știu",
+          "meaning": "i know",
+          "sound": "ști-u"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fi",
+          "meaning": "be",
+          "sound": "fi"
+        },
+        {
+          "word": "tu",
+          "meaning": "you",
+          "sound": "tu"
+        },
+        {
+          "word": "însuți",
+          "meaning": "yourself",
+          "sound": "în-su-ți"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "cea",
+          "meaning": "the one",
+          "sound": "ce-a"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "mare",
+          "meaning": "big",
+          "sound": "ma-re"
+        },
+        {
+          "word": "realizare",
+          "meaning": "achievement",
+          "sound": "re-a-li-za-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Valoarea timpului",
+      "content": [
+        {
+          "word": "În",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "urmă",
+          "meaning": "trail",
+          "sound": "ur-mă"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "câțiva",
+          "meaning": "a few",
+          "sound": "câ-ți-va"
+        },
+        {
+          "word": "ani",
+          "meaning": "years",
+          "sound": "a-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "acordat",
+          "meaning": "granted",
+          "sound": "a-cor-dat"
+        },
+        {
+          "word": "prea",
+          "meaning": "too",
+          "sound": "pre-a"
+        },
+        {
+          "word": "multă",
+          "meaning": "a lot",
+          "sound": "mul-tă"
+        },
+        {
+          "word": "atenție",
+          "meaning": "attention",
+          "sound": "a-ten-ți-e"
+        },
+        {
+          "word": "timpului",
+          "meaning": "of time",
+          "sound": "tim-pu-lu-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "crezut",
+          "meaning": "believed",
+          "sound": "cre-zut"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "întotdeauna",
+          "meaning": "always",
+          "sound": "în-tot-de-a-u-na"
+        },
+        {
+          "word": "vor",
+          "meaning": "they will",
+          "sound": "vor"
+        },
+        {
+          "word": "fi",
+          "meaning": "be",
+          "sound": "fi"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "multe",
+          "meaning": "many",
+          "sound": "mul-te"
+        },
+        {
+          "word": "oportunități",
+          "meaning": "opportunities",
+          "sound": "o-por-tu-ni-tă-ți"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "A",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "lăsat",
+          "meaning": "left",
+          "sound": "lă-sat"
+        },
+        {
+          "word": "multe",
+          "meaning": "many",
+          "sound": "mul-te"
+        },
+        {
+          "word": "lucruri",
+          "meaning": "things",
+          "sound": "lu-cru-ri"
+        },
+        {
+          "word": "pentru",
+          "meaning": "for",
+          "sound": "pen-tru"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "târziu",
+          "meaning": "late",
+          "sound": "târ-zi-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "spus",
+          "meaning": "said",
+          "sound": "spus"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "prieten",
+          "meaning": "friend",
+          "sound": "pri-e-ten"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "timpul",
+          "meaning": "the time",
+          "sound": "tim-pul"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "așteaptă",
+          "meaning": "wait",
+          "sound": "aș-te-ap-tă"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "nimeni",
+          "meaning": "no one",
+          "sound": "ni-me-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Acea",
+          "meaning": "that one",
+          "sound": "a-ce-a"
+        },
+        {
+          "word": "frază",
+          "meaning": "phrase",
+          "sound": "fra-ză"
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "rămas",
+          "meaning": "left",
+          "sound": "ră-mas"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "minte",
+          "meaning": "lie",
+          "sound": "min-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "atunci",
+          "meaning": "then",
+          "sound": "a-tun-ci"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "început",
+          "meaning": "started",
+          "sound": "în-ce-put"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "prețuiesc",
+          "meaning": "i value",
+          "sound": "pre-țu-i-esc"
+        },
+        {
+          "word": "fiecare",
+          "meaning": "each one",
+          "sound": "fi-e-ca-re"
+        },
+        {
+          "word": "clipă",
+          "meaning": "moment",
+          "sound": "cli-pă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "învățat",
+          "meaning": "learned",
+          "sound": "în-vă-țat"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mi",
+          "meaning": "me",
+          "sound": "mi"
+        },
+        {
+          "word": "organizez",
+          "meaning": "organize",
+          "sound": "or-ga-ni-zez"
+        },
+        {
+          "word": "ziua",
+          "meaning": "day",
+          "sound": "zi-u-a"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "prioritizez",
+          "meaning": "i prioritize",
+          "sound": "pri-o-ri-ti-zez"
+        },
+        {
+          "word": "ceea",
+          "meaning": "what",
+          "sound": "ce-e-a"
+        },
+        {
+          "word": "ce",
+          "meaning": "what",
+          "sound": "ce"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "important",
+          "meaning": "important",
+          "sound": "im-por-tant"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "asemenea",
+          "meaning": "also",
+          "sound": "a-se-me-ne-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "înțeles",
+          "meaning": "understood",
+          "sound": "în-țe-les"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "totul",
+          "meaning": "everything",
+          "sound": "to-tul"
+        },
+        {
+          "word": "trebuie",
+          "meaning": "must",
+          "sound": "tre-bu-i-e"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "fie",
+          "meaning": "either",
+          "sound": "fi-e"
+        },
+        {
+          "word": "perfect",
+          "meaning": "perfect",
+          "sound": "per-fect"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "încerc",
+          "meaning": "i try",
+          "sound": "în-cerc"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "trăiesc",
+          "meaning": "i live",
+          "sound": "tră-i-esc"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "multă",
+          "meaning": "a lot",
+          "sound": "mul-tă"
+        },
+        {
+          "word": "conștientizare",
+          "meaning": "awareness",
+          "sound": "con-ști-en-ti-za-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pentru",
+          "meaning": "for",
+          "sound": "pen-tru"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "timpul",
+          "meaning": "the time",
+          "sound": "tim-pul"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "cel",
+          "meaning": "the one",
+          "sound": "cel"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "valoros",
+          "meaning": "valuable",
+          "sound": "va-lo-ros"
+        },
+        {
+          "word": "lucru",
+          "meaning": "thing",
+          "sound": "lu-cru"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "care",
+          "meaning": "which",
+          "sound": "ca-re"
+        },
+        {
+          "word": "îl",
+          "meaning": "him",
+          "sound": "îl"
+        },
+        {
+          "word": "avem",
+          "meaning": "we have",
+          "sound": "a-vem"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Decizii care schimbă viața",
+      "content": [
+        {
+          "word": "Uneori",
+          "meaning": "sometimes",
+          "sound": "u-ne-o-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "gândesc",
+          "meaning": "i think",
+          "sound": "gân-desc"
+        },
+        {
+          "word": "la",
+          "meaning": "to",
+          "sound": "la"
+        },
+        {
+          "word": "deciziile",
+          "meaning": "the decisions",
+          "sound": "de-ci-zi-i-le"
+        },
+        {
+          "word": "pe",
+          "meaning": "on",
+          "sound": "pe"
+        },
+        {
+          "word": "care",
+          "meaning": "which",
+          "sound": "ca-re"
+        },
+        {
+          "word": "le",
+          "meaning": "them",
+          "sound": "le"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "luat",
+          "meaning": "taken",
+          "sound": "lu-at"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "trecut",
+          "meaning": "past",
+          "sound": "tre-cut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Unele",
+          "meaning": "some",
+          "sound": "u-ne-le"
+        },
+        {
+          "word": "erau",
+          "meaning": "they were",
+          "sound": "e-ra-u"
+        },
+        {
+          "word": "corecte",
+          "meaning": "correct",
+          "sound": "co-rec-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "altele",
+          "meaning": "others",
+          "sound": "al-te-le"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uneori",
+          "meaning": "sometimes",
+          "sound": "u-ne-o-ri"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "întreb",
+          "meaning": "i ask",
+          "sound": "în-treb"
+        },
+        {
+          "word": "ce",
+          "meaning": "what",
+          "sound": "ce"
+        },
+        {
+          "word": "s",
+          "meaning": "s",
+          "sound": "s"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ar",
+          "meaning": "would",
+          "sound": "ar"
+        },
+        {
+          "word": "fi",
+          "meaning": "be",
+          "sound": "fi"
+        },
+        {
+          "word": "întâmplat",
+          "meaning": "happened",
+          "sound": "în-tâm-plat"
+        },
+        {
+          "word": "dacă",
+          "meaning": "if",
+          "sound": "da-că"
+        },
+        {
+          "word": "aș",
+          "meaning": "i would",
+          "sound": "aș"
+        },
+        {
+          "word": "fi",
+          "meaning": "be",
+          "sound": "fi"
+        },
+        {
+          "word": "ales",
+          "meaning": "chosen",
+          "sound": "a-les"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "altă",
+          "meaning": "other",
+          "sound": "al-tă"
+        },
+        {
+          "word": "cale",
+          "meaning": "way",
+          "sound": "ca-le"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Poate",
+          "meaning": "maybe",
+          "sound": "po-a-te"
+        },
+        {
+          "word": "aș",
+          "meaning": "i would",
+          "sound": "aș"
+        },
+        {
+          "word": "fi",
+          "meaning": "be",
+          "sound": "fi"
+        },
+        {
+          "word": "avut",
+          "meaning": "had",
+          "sound": "a-vut"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "mult",
+          "meaning": "much",
+          "sound": "mult"
+        },
+        {
+          "word": "succes",
+          "meaning": "success",
+          "sound": "suc-ces"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sau",
+          "meaning": "or",
+          "sound": "sa-u"
+        },
+        {
+          "word": "poate",
+          "meaning": "maybe",
+          "sound": "po-a-te"
+        },
+        {
+          "word": "aș",
+          "meaning": "i would",
+          "sound": "aș"
+        },
+        {
+          "word": "fi",
+          "meaning": "be",
+          "sound": "fi"
+        },
+        {
+          "word": "învățat",
+          "meaning": "learned",
+          "sound": "în-vă-țat"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "puțin",
+          "meaning": "a little",
+          "sound": "pu-țin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Totuși",
+          "meaning": "however",
+          "sound": "to-tu-și"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "înțeles",
+          "meaning": "understood",
+          "sound": "în-țe-les"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "are",
+          "meaning": "has",
+          "sound": "a-re"
+        },
+        {
+          "word": "rost",
+          "meaning": "point",
+          "sound": "rost"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "trăiești",
+          "meaning": "you live",
+          "sound": "tră-i-eș-ti"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "trecut",
+          "meaning": "past",
+          "sound": "tre-cut"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Fiecare",
+          "meaning": "each one",
+          "sound": "fi-e-ca-re"
+        },
+        {
+          "word": "decizie",
+          "meaning": "decision",
+          "sound": "de-ci-zi-e"
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "învățat",
+          "meaning": "learned",
+          "sound": "în-vă-țat"
+        },
+        {
+          "word": "ceva",
+          "meaning": "something",
+          "sound": "ce-va"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Chiar",
+          "meaning": "really",
+          "sound": "chi-ar"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "greșelile",
+          "meaning": "the mistakes",
+          "sound": "gre-șe-li-le"
+        },
+        {
+          "word": "au",
+          "meaning": "they have",
+          "sound": "au"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "lecții",
+          "meaning": "lessons",
+          "sound": "lec-ți-i"
+        },
+        {
+          "word": "importante",
+          "meaning": "important",
+          "sound": "im-por-tan-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Astăzi",
+          "meaning": "today",
+          "sound": "as-tă-zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "încerc",
+          "meaning": "i try",
+          "sound": "în-cerc"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "iau",
+          "meaning": "i take",
+          "sound": "i-a-u"
+        },
+        {
+          "word": "decizii",
+          "meaning": "decisions",
+          "sound": "de-ci-zi-i"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "multă",
+          "meaning": "a lot",
+          "sound": "mul-tă"
+        },
+        {
+          "word": "conștientizare",
+          "meaning": "awareness",
+          "sound": "con-ști-en-ti-za-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "pot",
+          "meaning": "i can",
+          "sound": "pot"
+        },
+        {
+          "word": "schimba",
+          "meaning": "change",
+          "sound": "schim-ba"
+        },
+        {
+          "word": "ceea",
+          "meaning": "what",
+          "sound": "ce-e-a"
+        },
+        {
+          "word": "ce",
+          "meaning": "what",
+          "sound": "ce"
+        },
+        {
+          "word": "sa",
+          "meaning": "to",
+          "sound": "sa"
+        },
+        {
+          "word": "întâmplat",
+          "meaning": "happened",
+          "sound": "în-tâm-plat"
+        },
+        {
+          "word": "deja",
+          "meaning": "already",
+          "sound": "de-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "pot",
+          "meaning": "i can",
+          "sound": "pot"
+        },
+        {
+          "word": "decide",
+          "meaning": "decide",
+          "sound": "de-ci-de"
+        },
+        {
+          "word": "viitorul",
+          "meaning": "the future",
+          "sound": "vi-i-to-rul"
+        },
+        {
+          "word": "meu",
+          "meaning": "my",
+          "sound": "me-u"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Vocea interioară",
+      "content": [
+        {
+          "word": "Multă",
+          "meaning": "a lot",
+          "sound": "mul-tă"
+        },
+        {
+          "word": "vreme",
+          "meaning": "time",
+          "sound": "vre-me"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "trăit",
+          "meaning": "lived",
+          "sound": "tră-it"
+        },
+        {
+          "word": "conform",
+          "meaning": "according",
+          "sound": "con-form"
+        },
+        {
+          "word": "așteptărilor",
+          "meaning": "expectations",
+          "sound": "aș-tep-tă-ri-lor"
+        },
+        {
+          "word": "celorlalți",
+          "meaning": "to the others",
+          "sound": "ce-lor-lal-ți"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "crezut",
+          "meaning": "believed",
+          "sound": "cre-zut"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "aceasta",
+          "meaning": "this",
+          "sound": "a-ce-as-ta"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "calea",
+          "meaning": "the way",
+          "sound": "ca-le-a"
+        },
+        {
+          "word": "cea",
+          "meaning": "the one",
+          "sound": "ce-a"
+        },
+        {
+          "word": "bună",
+          "meaning": "hello",
+          "sound": "bu-nă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "toate",
+          "meaning": "all",
+          "sound": "to-a-te"
+        },
+        {
+          "word": "acestea",
+          "meaning": "these",
+          "sound": "a-ces-te-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "adâncul",
+          "meaning": "the deep",
+          "sound": "a-dân-cul"
+        },
+        {
+          "word": "sufletului",
+          "meaning": "the soul",
+          "sound": "su-fle-tu-lu-i"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "exista",
+          "meaning": "there is",
+          "sound": "e-xis-ta"
+        },
+        {
+          "word": "întotdeauna",
+          "meaning": "always",
+          "sound": "în-tot-de-a-u-na"
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "voce",
+          "meaning": "voice",
+          "sound": "vo-ce"
+        },
+        {
+          "word": "care",
+          "meaning": "which",
+          "sound": "ca-re"
+        },
+        {
+          "word": "îmi",
+          "meaning": "me",
+          "sound": "î-mi"
+        },
+        {
+          "word": "spunea",
+          "meaning": "he said",
+          "sound": "spu-ne-a"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "ceva",
+          "meaning": "something",
+          "sound": "ce-va"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "în",
+          "meaning": "in",
+          "sound": "în"
+        },
+        {
+          "word": "regulă",
+          "meaning": "rule",
+          "sound": "re-gu-lă"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "încercat",
+          "meaning": "tried",
+          "sound": "în-cer-cat"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "l",
+          "meaning": "l",
+          "sound": "l"
+        },
+        {
+          "word": "ignor",
+          "meaning": "i ignore",
+          "sound": "ig-nor"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "continuat",
+          "meaning": "continued",
+          "sound": "con-ti-nu-at"
+        },
+        {
+          "word": "să",
+          "meaning": "to",
+          "sound": "să"
+        },
+        {
+          "word": "devină",
+          "meaning": "become",
+          "sound": "de-vi-nă"
+        },
+        {
+          "word": "mai",
+          "meaning": "may",
+          "sound": "ma-i"
+        },
+        {
+          "word": "tare",
+          "meaning": "loud",
+          "sound": "ta-re"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Într",
+          "meaning": "in",
+          "sound": "într"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "o",
+          "meaning": "o",
+          "sound": "o"
+        },
+        {
+          "word": "zi",
+          "meaning": "day",
+          "sound": "zi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "oprit",
+          "meaning": "off",
+          "sound": "o-prit"
+        },
+        {
+          "word": "și",
+          "meaning": "and",
+          "sound": "și"
+        },
+        {
+          "word": "m",
+          "meaning": "m",
+          "sound": "m"
+        },
+        {
+          "word": "-",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "întrebat",
+          "meaning": "asked",
+          "sound": "în-tre-bat"
+        },
+        {
+          "word": "ce",
+          "meaning": "what",
+          "sound": "ce"
+        },
+        {
+          "word": "vreau",
+          "meaning": "i want",
+          "sound": "vre-a-u"
+        },
+        {
+          "word": "cu",
+          "meaning": "with",
+          "sound": "cu"
+        },
+        {
+          "word": "adevărat",
+          "meaning": "true",
+          "sound": "a-de-vă-rat"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Răspunsul",
+          "meaning": "the answer",
+          "sound": "răs-pun-sul"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "a",
+          "meaning": "a",
+          "sound": "a"
+        },
+        {
+          "word": "fost",
+          "meaning": "been",
+          "sound": "fost"
+        },
+        {
+          "word": "imediat",
+          "meaning": "immediately",
+          "sound": "i-me-di-at"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dar",
+          "meaning": "but",
+          "sound": "dar"
+        },
+        {
+          "word": "pentru",
+          "meaning": "for",
+          "sound": "pen-tru"
+        },
+        {
+          "word": "prima",
+          "meaning": "the first",
+          "sound": "pri-ma"
+        },
+        {
+          "word": "dată",
+          "meaning": "given",
+          "sound": "da-tă"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "simțit",
+          "meaning": "felt",
+          "sound": "sim-țit"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "mă",
+          "meaning": "me",
+          "sound": "mă"
+        },
+        {
+          "word": "asculta",
+          "meaning": "listen",
+          "sound": "as-cul-ta"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "De",
+          "meaning": "of",
+          "sound": "de"
+        },
+        {
+          "word": "atunci",
+          "meaning": "then",
+          "sound": "a-tun-ci"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "am",
+          "meaning": "i have",
+          "sound": "am"
+        },
+        {
+          "word": "învățat",
+          "meaning": "learned",
+          "sound": "în-vă-țat"
+        },
+        {
+          "word": "că",
+          "meaning": "that",
+          "sound": "că"
+        },
+        {
+          "word": "vocea",
+          "meaning": "the voice",
+          "sound": "vo-ce-a"
+        },
+        {
+          "word": "interioară",
+          "meaning": "interior",
+          "sound": "in-te-ri-o-a-ră"
+        },
+        {
+          "word": "nu",
+          "meaning": "no",
+          "sound": "nu"
+        },
+        {
+          "word": "este",
+          "meaning": "it is",
+          "sound": "es-te"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "obstacol",
+          "meaning": "obstacle",
+          "sound": "ob-sta-col"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ci",
+          "meaning": "but",
+          "sound": "ci"
+        },
+        {
+          "word": "un",
+          "meaning": "one",
+          "sound": "un"
+        },
+        {
+          "word": "ghid",
+          "meaning": "guide",
+          "sound": "ghid"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "romanian": {
+        "present": [
+          "Mănânc",
+          "un",
+          "măr"
+        ],
+        "past": [
+          "Am",
+          "mâncat",
+          "un",
+          "măr"
+        ],
+        "future": [
+          "Voi",
+          "mânca",
+          "un",
+          "măr"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "citește",
+          "o",
+          "carte"
+        ],
+        "past": [
+          "Ea",
+          "a",
+          "citit",
+          "o",
+          "carte"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "citi",
+          "o",
+          "carte"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "romanian": {
+        "present": [
+          "Mergem",
+          "la",
+          "școală"
+        ],
+        "past": [
+          "Am",
+          "mers",
+          "la",
+          "școală"
+        ],
+        "future": [
+          "Vom",
+          "merge",
+          "la",
+          "școală"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "romanian": {
+        "present": [
+          "El",
+          "bea",
+          "apă"
+        ],
+        "past": [
+          "A",
+          "băut",
+          "apă"
+        ],
+        "future": [
+          "El",
+          "va",
+          "bea",
+          "apă"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "joacă",
+          "fotbal"
+        ],
+        "past": [
+          "Au",
+          "jucat",
+          "fotbal"
+        ],
+        "future": [
+          "Vor",
+          "juca",
+          "fotbal"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "romanian": {
+        "present": [
+          "scriu",
+          "o",
+          "scrisoare"
+        ],
+        "past": [
+          "Am",
+          "scris",
+          "o",
+          "scrisoare"
+        ],
+        "future": [
+          "Voi",
+          "scrie",
+          "o",
+          "scrisoare"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "mănâncă",
+          "orez"
+        ],
+        "past": [
+          "Ea",
+          "a",
+          "mâncat",
+          "orez"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "mânca",
+          "orez"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "romanian": {
+        "present": [
+          "Ne",
+          "uităm",
+          "la",
+          "un",
+          "film"
+        ],
+        "past": [
+          "Ne-am",
+          "uitat",
+          "la",
+          "un",
+          "film"
+        ],
+        "future": [
+          "Vom",
+          "privi",
+          "un",
+          "film"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "romanian": {
+        "present": [
+          "El",
+          "deschide",
+          "ușa"
+        ],
+        "past": [
+          "A",
+          "deschis",
+          "ușa"
+        ],
+        "future": [
+          "El",
+          "va",
+          "deschide",
+          "ușa"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "cumpără",
+          "mâncare"
+        ],
+        "past": [
+          "Au",
+          "cumpărat",
+          "mâncare"
+        ],
+        "future": [
+          "Vor",
+          "cumpăra",
+          "mâncare"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "romanian": {
+        "present": [
+          "Mănânc",
+          "un",
+          "măr",
+          "și",
+          "beau",
+          "apă"
+        ],
+        "past": [
+          "Am",
+          "mâncat",
+          "un",
+          "măr",
+          "și",
+          "am",
+          "băut",
+          "apă"
+        ],
+        "future": [
+          "Voi",
+          "mânca",
+          "un",
+          "măr",
+          "și",
+          "voi",
+          "bea",
+          "apă"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "citește",
+          "o",
+          "carte",
+          "pentru",
+          "că",
+          "îi",
+          "plac",
+          "poveștile"
+        ],
+        "past": [
+          "A",
+          "citit",
+          "o",
+          "carte",
+          "pentru",
+          "că",
+          "îi",
+          "plăceau",
+          "poveștile"
+        ],
+        "future": [
+          "Va",
+          "citi",
+          "o",
+          "carte",
+          "pentru",
+          "că",
+          "îi",
+          "plac",
+          "poveștile"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "romanian": {
+        "present": [
+          "Mergem",
+          "la",
+          "școală",
+          "și",
+          "studiem",
+          "împreună"
+        ],
+        "past": [
+          "Am",
+          "mers",
+          "la",
+          "școală",
+          "și",
+          "am",
+          "studiat",
+          "împreună"
+        ],
+        "future": [
+          "Vom",
+          "merge",
+          "la",
+          "școală",
+          "și",
+          "vom",
+          "studia",
+          "împreună"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "romanian": {
+        "present": [
+          "Bea",
+          "apă",
+          "dar",
+          "mănâncă",
+          "fast-food"
+        ],
+        "past": [
+          "A",
+          "băut",
+          "apă",
+          "dar",
+          "a",
+          "mâncat",
+          "fast-food"
+        ],
+        "future": [
+          "Va",
+          "bea",
+          "apă",
+          "dar",
+          "va",
+          "mânca",
+          "fast-food"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "joacă",
+          "fotbal",
+          "și",
+          "aleargă",
+          "în",
+          "parc"
+        ],
+        "past": [
+          "Au",
+          "jucat",
+          "fotbal",
+          "și",
+          "au",
+          "alergat",
+          "în",
+          "parc"
+        ],
+        "future": [
+          "Vor",
+          "juca",
+          "fotbal",
+          "și",
+          "vor",
+          "alerga",
+          "în",
+          "parc"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "romanian": {
+        "present": [
+          "Scriu",
+          "o",
+          "scrisoare",
+          "pentru",
+          "că",
+          "mi-e",
+          "dor",
+          "de",
+          "tine"
+        ],
+        "past": [
+          "Am",
+          "scris",
+          "o",
+          "scrisoare",
+          "pentru",
+          "că",
+          "mi-a",
+          "fost",
+          "dor",
+          "de",
+          "tine"
+        ],
+        "future": [
+          "Voi",
+          "scrie",
+          "o",
+          "scrisoare",
+          "pentru",
+          "că",
+          "mi-e",
+          "dor",
+          "de",
+          "tine"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "mănâncă",
+          "orez",
+          "și",
+          "gătește",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "past": [
+          "Ea",
+          "a",
+          "mâncat",
+          "orez",
+          "și",
+          "a",
+          "gătit",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "mânca",
+          "orez",
+          "și",
+          "va",
+          "găti",
+          "în",
+          "fiecare",
+          "zi"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "romanian": {
+        "present": [
+          "Ne",
+          "uităm",
+          "la",
+          "un",
+          "film",
+          "dar",
+          "dormim",
+          "până",
+          "târziu"
+        ],
+        "past": [
+          "Ne-am",
+          "uitat",
+          "la",
+          "un",
+          "film",
+          "dar",
+          "am",
+          "dormit",
+          "târziu"
+        ],
+        "future": [
+          "Ne",
+          "vom",
+          "uita",
+          "la",
+          "un",
+          "film",
+          "dar",
+          "dormim",
+          "târziu"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "romanian": {
+        "present": [
+          "Deschide",
+          "ușa",
+          "și",
+          "salută",
+          "oamenii"
+        ],
+        "past": [
+          "A",
+          "deschis",
+          "ușa",
+          "și",
+          "a",
+          "salutat",
+          "oamenii"
+        ],
+        "future": [
+          "El",
+          "va",
+          "deschide",
+          "ușa",
+          "și",
+          "va",
+          "saluta",
+          "oamenii"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "cumpără",
+          "mâncare",
+          "pentru",
+          "că",
+          "le",
+          "este",
+          "foame"
+        ],
+        "past": [
+          "Au",
+          "cumpărat",
+          "mâncare",
+          "pentru",
+          "că",
+          "le",
+          "era",
+          "foame"
+        ],
+        "future": [
+          "Vor",
+          "cumpăra",
+          "mâncare",
+          "pentru",
+          "că",
+          "le",
+          "este",
+          "foame"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "romanian": {
+        "present": [
+          "Eu",
+          "iau",
+          "micul",
+          "dejun",
+          "dimineata"
+        ],
+        "past": [
+          "Am",
+          "luat",
+          "micul",
+          "dejun",
+          "dimineata"
+        ],
+        "future": [
+          "Voi",
+          "lua",
+          "micul",
+          "dejun",
+          "dimineața"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "învață",
+          "acasă",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "past": [
+          "Ea",
+          "a",
+          "studiat",
+          "acasă",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "studia",
+          "acasă",
+          "în",
+          "fiecare",
+          "zi"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "romanian": {
+        "present": [
+          "Ne",
+          "plimbăm",
+          "seara",
+          "în",
+          "parc"
+        ],
+        "past": [
+          "Ne-am",
+          "plimbat",
+          "seara",
+          "prin",
+          "parc"
+        ],
+        "future": [
+          "Ne",
+          "vom",
+          "plimba",
+          "seara",
+          "prin",
+          "parc"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "romanian": {
+        "present": [
+          "Lucrează",
+          "într-un",
+          "birou",
+          "din",
+          "oraș"
+        ],
+        "past": [
+          "A",
+          "lucrat",
+          "într-un",
+          "birou",
+          "din",
+          "oraș"
+        ],
+        "future": [
+          "Va",
+          "lucra",
+          "într-un",
+          "birou",
+          "din",
+          "oraș"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "călătoresc",
+          "în",
+          "altă",
+          "țară",
+          "în",
+          "fiecare",
+          "an"
+        ],
+        "past": [
+          "Au",
+          "călătorit",
+          "în",
+          "altă",
+          "țară",
+          "în",
+          "fiecare",
+          "an"
+        ],
+        "future": [
+          "Ei",
+          "vor",
+          "călători",
+          "în",
+          "altă",
+          "țară",
+          "în",
+          "fiecare",
+          "an"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "romanian": {
+        "present": [
+          "Am",
+          "citit",
+          "o",
+          "carte",
+          "noaptea",
+          "înainte",
+          "de",
+          "culcare"
+        ],
+        "past": [
+          "Am",
+          "citit",
+          "o",
+          "carte",
+          "noaptea",
+          "înainte",
+          "de",
+          "culcare"
+        ],
+        "future": [
+          "O",
+          "să",
+          "citesc",
+          "o",
+          "carte",
+          "noaptea",
+          "înainte",
+          "de",
+          "culcare"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "bea",
+          "cafea",
+          "dimineața",
+          "acasă"
+        ],
+        "past": [
+          "Ea",
+          "a",
+          "băut",
+          "cafea",
+          "dimineața",
+          "acasă"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "bea",
+          "cafea",
+          "dimineața",
+          "acasă"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "romanian": {
+        "present": [
+          "Ne",
+          "întâlnim",
+          "cu",
+          "prieteni",
+          "la",
+          "restaurant",
+          "în",
+          "seara",
+          "asta"
+        ],
+        "past": [
+          "Ne-am",
+          "întâlnit",
+          "cu",
+          "prieteni",
+          "la",
+          "restaurant",
+          "în",
+          "seara",
+          "asta"
+        ],
+        "future": [
+          "Ne",
+          "vom",
+          "întâlni",
+          "cu",
+          "prieteni",
+          "la",
+          "restaurant",
+          "în",
+          "seara",
+          "asta"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "romanian": {
+        "present": [
+          "Învață",
+          "spaniolă",
+          "la",
+          "școală",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "past": [
+          "A",
+          "studiat",
+          "spaniola",
+          "la",
+          "școală",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "future": [
+          "Va",
+          "studia",
+          "spaniola",
+          "la",
+          "școală",
+          "în",
+          "fiecare",
+          "zi"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "se",
+          "uită",
+          "la",
+          "televizor",
+          "seara",
+          "acasă"
+        ],
+        "past": [
+          "S-au",
+          "uitat",
+          "la",
+          "televizor",
+          "seara",
+          "acasă"
+        ],
+        "future": [
+          "Ei",
+          "se",
+          "vor",
+          "uita",
+          "la",
+          "televizor",
+          "seara",
+          "acasă"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "romanian": {
+        "present": [
+          "Îmi",
+          "place",
+          "muzica",
+          "asta"
+        ],
+        "past": [
+          "Mi-a",
+          "placut",
+          "muzica",
+          "asta"
+        ],
+        "future": [
+          "Îmi",
+          "va",
+          "plăcea",
+          "această",
+          "muzică"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "se",
+          "simte",
+          "fericită",
+          "astăzi"
+        ],
+        "past": [
+          "S-a",
+          "simțit",
+          "fericită",
+          "astăzi"
+        ],
+        "future": [
+          "Ea",
+          "se",
+          "va",
+          "simți",
+          "fericită",
+          "astăzi"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "romanian": {
+        "present": [
+          "Credem",
+          "că",
+          "această",
+          "idee",
+          "este",
+          "bună"
+        ],
+        "past": [
+          "Am",
+          "crezut",
+          "că",
+          "această",
+          "idee",
+          "este",
+          "bună"
+        ],
+        "future": [
+          "Vom",
+          "crede",
+          "că",
+          "această",
+          "idee",
+          "este",
+          "bună"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "romanian": {
+        "present": [
+          "Vrea",
+          "să",
+          "învețe",
+          "spaniolă"
+        ],
+        "past": [
+          "Voia",
+          "să",
+          "învețe",
+          "spaniola"
+        ],
+        "future": [
+          "Va",
+          "dori",
+          "să",
+          "învețe",
+          "spaniolă"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "romanian": {
+        "present": [
+          "Își",
+          "iubesc",
+          "familia",
+          "foarte",
+          "mult"
+        ],
+        "past": [
+          "Și-au",
+          "iubit",
+          "familia",
+          "foarte",
+          "mult"
+        ],
+        "future": [
+          "Își",
+          "vor",
+          "iubi",
+          "familia",
+          "foarte",
+          "mult"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "romanian": {
+        "present": [
+          "Mă",
+          "simt",
+          "obosită",
+          "după",
+          "muncă"
+        ],
+        "past": [
+          "M-am",
+          "simțit",
+          "obosit",
+          "după",
+          "muncă"
+        ],
+        "future": [
+          "Mă",
+          "voi",
+          "simți",
+          "obosit",
+          "după",
+          "muncă"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "crede",
+          "în",
+          "ea",
+          "însăși"
+        ],
+        "past": [
+          "Ea",
+          "credea",
+          "în",
+          "ea",
+          "însăși"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "crede",
+          "în",
+          "ea",
+          "însăși"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "romanian": {
+        "present": [
+          "Ne",
+          "place",
+          "să",
+          "călătorim",
+          "împreună"
+        ],
+        "past": [
+          "Ne",
+          "plăcea",
+          "să",
+          "călătorim",
+          "împreună"
+        ],
+        "future": [
+          "Ne",
+          "va",
+          "plăcea",
+          "să",
+          "călătorim",
+          "împreună"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "romanian": {
+        "present": [
+          "Se",
+          "gândește",
+          "la",
+          "viitorul",
+          "său"
+        ],
+        "past": [
+          "S-a",
+          "gândit",
+          "la",
+          "viitorul",
+          "său"
+        ],
+        "future": [
+          "Se",
+          "va",
+          "gândi",
+          "la",
+          "viitorul",
+          "său"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "romanian": {
+        "present": [
+          "Se",
+          "simt",
+          "încântați",
+          "de",
+          "călătorie"
+        ],
+        "past": [
+          "S-au",
+          "simțit",
+          "entuziasmați",
+          "de",
+          "călătorie"
+        ],
+        "future": [
+          "Se",
+          "vor",
+          "simți",
+          "încântați",
+          "de",
+          "călătorie"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "romanian": {
+        "present": [
+          "Încerc",
+          "să",
+          "mă",
+          "perfecționez",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "past": [
+          "Am",
+          "încercat",
+          "să",
+          "mă",
+          "perfecționez",
+          "în",
+          "fiecare",
+          "zi"
+        ],
+        "future": [
+          "Voi",
+          "încerca",
+          "să",
+          "mă",
+          "perfecționez",
+          "în",
+          "fiecare",
+          "zi"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "vrea",
+          "să-și",
+          "atingă",
+          "obiectivele"
+        ],
+        "past": [
+          "Ea",
+          "a",
+          "vrut",
+          "să-și",
+          "atingă",
+          "obiectivele"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "dori",
+          "să-și",
+          "atingă",
+          "obiectivele"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "romanian": {
+        "present": [
+          "Învățăm",
+          "din",
+          "greșelile",
+          "noastre"
+        ],
+        "past": [
+          "Am",
+          "învățat",
+          "din",
+          "greșelile",
+          "noastre"
+        ],
+        "future": [
+          "Vom",
+          "învăța",
+          "din",
+          "greșelile",
+          "noastre"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "romanian": {
+        "present": [
+          "Lucrează",
+          "din",
+          "greu",
+          "pentru",
+          "a-și",
+          "construi",
+          "viitorul"
+        ],
+        "past": [
+          "A",
+          "muncit",
+          "din",
+          "greu",
+          "pentru",
+          "a-și",
+          "construi",
+          "viitorul"
+        ],
+        "future": [
+          "Va",
+          "munci",
+          "din",
+          "greu",
+          "pentru",
+          "a-și",
+          "construi",
+          "viitorul"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "cred",
+          "că",
+          "totul",
+          "este",
+          "posibil"
+        ],
+        "past": [
+          "Ei",
+          "credeau",
+          "că",
+          "totul",
+          "este",
+          "posibil"
+        ],
+        "future": [
+          "Vor",
+          "crede",
+          "că",
+          "totul",
+          "este",
+          "posibil"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "romanian": {
+        "present": [
+          "Mă",
+          "gândesc",
+          "la",
+          "viitorul",
+          "meu",
+          "în",
+          "fiecare",
+          "seară"
+        ],
+        "past": [
+          "Mă",
+          "gândeam",
+          "la",
+          "viitorul",
+          "meu",
+          "în",
+          "fiecare",
+          "seară"
+        ],
+        "future": [
+          "Mă",
+          "voi",
+          "gândi",
+          "la",
+          "viitorul",
+          "meu",
+          "în",
+          "fiecare",
+          "seară"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "romanian": {
+        "present": [
+          "Ea",
+          "încearcă",
+          "să",
+          "rămână",
+          "pozitivă",
+          "în",
+          "momentele",
+          "dificile"
+        ],
+        "past": [
+          "Ea",
+          "a",
+          "încercat",
+          "să",
+          "rămână",
+          "pozitivă",
+          "în",
+          "momentele",
+          "dificile"
+        ],
+        "future": [
+          "Ea",
+          "va",
+          "încerca",
+          "să",
+          "rămână",
+          "pozitivă",
+          "în",
+          "momentele",
+          "dificile"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "romanian": {
+        "present": [
+          "Vrem",
+          "să",
+          "trăim",
+          "o",
+          "viață",
+          "plină",
+          "de",
+          "sens"
+        ],
+        "past": [
+          "Am",
+          "vrut",
+          "să",
+          "trăim",
+          "o",
+          "viață",
+          "plină",
+          "de",
+          "sens"
+        ],
+        "future": [
+          "Vom",
+          "dori",
+          "să",
+          "trăim",
+          "o",
+          "viață",
+          "plină",
+          "de",
+          "sens"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "romanian": {
+        "present": [
+          "El",
+          "înțelege",
+          "că",
+          "schimbarea",
+          "necesită",
+          "timp"
+        ],
+        "past": [
+          "A",
+          "înțeles",
+          "că",
+          "schimbarea",
+          "a",
+          "luat",
+          "timp"
+        ],
+        "future": [
+          "El",
+          "va",
+          "înțelege",
+          "că",
+          "schimbarea",
+          "necesită",
+          "timp"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "romanian": {
+        "present": [
+          "Ei",
+          "decid",
+          "să-și",
+          "urmeze",
+          "visele"
+        ],
+        "past": [
+          "Au",
+          "decis",
+          "să-și",
+          "urmeze",
+          "visele"
+        ],
+        "future": [
+          "Vor",
+          "decide",
+          "să-și",
+          "urmeze",
+          "visele"
+        ]
+      }
+    }
+  ]
+}

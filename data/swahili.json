@@ -1,0 +1,7286 @@
+{
+  "language": "Swahili",
+  "stories": {
+    "story1": {
+      "title": "katika cafe",
+      "content": [
+        {
+          "word": "Ninaenda",
+          "meaning": "i'm going",
+          "sound": "ni-na-en-da"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "cafe",
+          "meaning": "cafe",
+          "sound": "ca-fe"
+        },
+        {
+          "word": "ndogo",
+          "meaning": "small",
+          "sound": "ndo-go"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "asubuhi",
+          "meaning": "in the morning",
+          "sound": "a-su-bu-hi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cafe",
+          "meaning": "cafe",
+          "sound": "ca-fe"
+        },
+        {
+          "word": "iko",
+          "meaning": "is there",
+          "sound": "i-ko"
+        },
+        {
+          "word": "karibu",
+          "meaning": "almost",
+          "sound": "ka-ri-bu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "nyumba",
+          "meaning": "house",
+          "sound": "ny-um-ba"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "kimya",
+          "meaning": "silent",
+          "sound": "ki-my-a"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mimi",
+          "meaning": "me",
+          "sound": "mi-mi"
+        },
+        {
+          "word": "huketi",
+          "meaning": "he sits down",
+          "sound": "hu-ke-ti"
+        },
+        {
+          "word": "karibu",
+          "meaning": "almost",
+          "sound": "ka-ri-bu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "dirisha",
+          "meaning": "the window",
+          "sound": "di-ris-ha"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuagiza",
+          "meaning": "order",
+          "sound": "ku-a-gi-za"
+        },
+        {
+          "word": "kikombe",
+          "meaning": "cup",
+          "sound": "ki-kom-be"
+        },
+        {
+          "word": "cha",
+          "meaning": "no",
+          "sound": "cha"
+        },
+        {
+          "word": "kahawa",
+          "meaning": "coffee",
+          "sound": "ka-ha-wa"
+        },
+        {
+          "word": "moto",
+          "meaning": "fire",
+          "sound": "mo-to"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mhudumu",
+          "meaning": "waiter",
+          "sound": "mhu-du-mu"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "rafiki",
+          "meaning": "a friend",
+          "sound": "ra-fi-ki"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "hunisalimia",
+          "meaning": "he doesn't greet me",
+          "sound": "hu-ni-sa-li-mi-a"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "mara",
+          "meaning": "times",
+          "sound": "ma-ra"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "tabasamu",
+          "meaning": "smile",
+          "sound": "ta-ba-sa-mu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "mwingine",
+          "meaning": "another",
+          "sound": "mwin-gi-ne"
+        },
+        {
+          "word": "ninasoma",
+          "meaning": "i am reading",
+          "sound": "ni-na-so-ma"
+        },
+        {
+          "word": "kitabu",
+          "meaning": "book",
+          "sound": "ki-ta-bu"
+        },
+        {
+          "word": "cha",
+          "meaning": "no",
+          "sound": "cha"
+        },
+        {
+          "word": "kuvutia",
+          "meaning": "interesting",
+          "sound": "ku-vu-ti-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "mwingine",
+          "meaning": "another",
+          "sound": "mwin-gi-ne"
+        },
+        {
+          "word": "ninaandika",
+          "meaning": "i am writing",
+          "sound": "ni-na-an-di-ka"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "daftari",
+          "meaning": "notebook",
+          "sound": "daf-ta-ri"
+        },
+        {
+          "word": "langu",
+          "meaning": "my",
+          "sound": "lan-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": "naona",
+          "meaning": "i see",
+          "sound": "na-o-na"
+        },
+        {
+          "word": "mtu",
+          "meaning": "a person",
+          "sound": "mtu"
+        },
+        {
+          "word": "mpya",
+          "meaning": "new",
+          "sound": "mpy-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Anasoma",
+          "meaning": "he is studying",
+          "sound": "a-na-so-ma"
+        },
+        {
+          "word": "riwaya",
+          "meaning": "novel",
+          "sound": "ri-wa-y-a"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kunywa",
+          "meaning": "to drink",
+          "sound": "ku-ny-wa"
+        },
+        {
+          "word": "chai",
+          "meaning": "tea",
+          "sound": "cha-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Najisikia",
+          "meaning": "i feel it",
+          "sound": "na-ji-si-ki-a"
+        },
+        {
+          "word": "kutaka",
+          "meaning": "to want",
+          "sound": "ku-ta-ka"
+        },
+        {
+          "word": "kujua",
+          "meaning": "to know",
+          "sound": "ku-ju-a"
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "naona",
+          "meaning": "i see",
+          "sound": "na-o-na"
+        },
+        {
+          "word": "aibu",
+          "meaning": "shame",
+          "sound": "a-i-bu"
+        },
+        {
+          "word": "kidogo",
+          "meaning": "a little",
+          "sound": "ki-do-go"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Baada",
+          "meaning": "after",
+          "sound": "ba-a-da"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "dakika",
+          "meaning": "minutes",
+          "sound": "da-ki-ka"
+        },
+        {
+          "word": "chache",
+          "meaning": "few",
+          "sound": "chac-he"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nasema",
+          "meaning": "i say",
+          "sound": "na-se-ma"
+        },
+        {
+          "word": "hello",
+          "meaning": "hello",
+          "sound": "hel-lo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Anajibu",
+          "meaning": "he answers",
+          "sound": "a-na-ji-bu"
+        },
+        {
+          "word": "huku",
+          "meaning": "here",
+          "sound": "hu-ku"
+        },
+        {
+          "word": "akitabasamu",
+          "meaning": "smiling",
+          "sound": "a-ki-ta-ba-sa-mu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "tukaanza",
+          "meaning": "we started",
+          "sound": "tu-ka-an-za"
+        },
+        {
+          "word": "kuongea",
+          "meaning": "to speak",
+          "sound": "ku-on-ge-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninahisi",
+          "meaning": "i feel it",
+          "sound": "ni-na-hi-si"
+        },
+        {
+          "word": "furaha",
+          "meaning": "happiness",
+          "sound": "fu-ra-ha"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "utulivu",
+          "meaning": "stability",
+          "sound": "u-tu-li-vu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "katika bustani",
+      "content": [
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": "naenda",
+          "meaning": "i'm going",
+          "sound": "na-en-da"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "bustani",
+          "meaning": "garden",
+          "sound": "bus-ta-ni"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "rafiki",
+          "meaning": "a friend",
+          "sound": "ra-fi-ki"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hali",
+          "meaning": "status",
+          "sound": "ha-li"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "hewa",
+          "meaning": "air",
+          "sound": "he-wa"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "kupendeza",
+          "meaning": "pleasant",
+          "sound": "ku-pen-de-za"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "jua",
+          "meaning": "the sun",
+          "sound": "ju-a"
+        },
+        {
+          "word": "linawaka",
+          "meaning": "it burns",
+          "sound": "li-na-wa-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninaona",
+          "meaning": "i see",
+          "sound": "ni-na-o-na"
+        },
+        {
+          "word": "watu",
+          "meaning": "people",
+          "sound": "wa-tu"
+        },
+        {
+          "word": "wengi",
+          "meaning": "many",
+          "sound": "wen-gi"
+        },
+        {
+          "word": "wakitembea",
+          "meaning": "walking",
+          "sound": "wa-ki-tem-be-a"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kucheka",
+          "meaning": "to laugh",
+          "sound": "kuc-he-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Watoto",
+          "meaning": "children",
+          "sound": "wa-to-to"
+        },
+        {
+          "word": "wengine",
+          "meaning": "others",
+          "sound": "wen-gi-ne"
+        },
+        {
+          "word": "hucheza",
+          "meaning": "plays",
+          "sound": "huc-he-za"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mpira",
+          "meaning": "the ball",
+          "sound": "mpi-ra"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "wengine",
+          "meaning": "others",
+          "sound": "wen-gi-ne"
+        },
+        {
+          "word": "hukimbia",
+          "meaning": "runs away",
+          "sound": "hu-kim-bi-a"
+        },
+        {
+          "word": "haraka",
+          "meaning": "quickly",
+          "sound": "ha-ra-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Rafiki",
+          "meaning": "a friend",
+          "sound": "ra-fi-ki"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mimi",
+          "meaning": "me",
+          "sound": "mi-mi"
+        },
+        {
+          "word": "tuliketi",
+          "meaning": "we sat down",
+          "sound": "tu-li-ke-ti"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "benchi",
+          "meaning": "the bench",
+          "sound": "ben-chi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tulizungumza",
+          "meaning": "we talked",
+          "sound": "tu-li-zun-gum-za"
+        },
+        {
+          "word": "kuhusu",
+          "meaning": "about",
+          "sound": "ku-hu-su"
+        },
+        {
+          "word": "maisha",
+          "meaning": "life",
+          "sound": "ma-is-ha"
+        },
+        {
+          "word": "yetu",
+          "meaning": "ours",
+          "sound": "y-e-tu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kucheka",
+          "meaning": "to laugh",
+          "sound": "kuc-he-ka"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Baadaye",
+          "meaning": "later on",
+          "sound": "ba-a-da-y-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tulinunua",
+          "meaning": "we bought it",
+          "sound": "tu-li-nu-nu-a"
+        },
+        {
+          "word": "ice",
+          "meaning": "ice",
+          "sound": "i-ce"
+        },
+        {
+          "word": "cream",
+          "meaning": "cream",
+          "sound": "cre-am"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "rahisi",
+          "meaning": "simple",
+          "sound": "ra-hi-si"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "nzuri",
+          "meaning": "good",
+          "sound": "nzu-ri"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "katika maktaba",
+      "content": [
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": "naenda",
+          "meaning": "i'm going",
+          "sound": "na-en-da"
+        },
+        {
+          "word": "maktaba",
+          "meaning": "the library",
+          "sound": "mak-ta-ba"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "sehemu",
+          "meaning": "part",
+          "sound": "se-he-mu"
+        },
+        {
+          "word": "tulivu",
+          "meaning": "quiet",
+          "sound": "tu-li-vu"
+        },
+        {
+          "word": "iliyojaa",
+          "meaning": "full of",
+          "sound": "i-li-y-o-ja-a"
+        },
+        {
+          "word": "vitabu",
+          "meaning": "books",
+          "sound": "vi-ta-bu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninapenda",
+          "meaning": "i like",
+          "sound": "ni-na-pen-da"
+        },
+        {
+          "word": "kusoma",
+          "meaning": "reading",
+          "sound": "ku-so-ma"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kujifunza",
+          "meaning": "to learn",
+          "sound": "ku-ji-fun-za"
+        },
+        {
+          "word": "mambo",
+          "meaning": "things",
+          "sound": "mam-bo"
+        },
+        {
+          "word": "mapya",
+          "meaning": "new ones",
+          "sound": "ma-py-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Natafuta",
+          "meaning": "i'm looking for",
+          "sound": "na-ta-fu-ta"
+        },
+        {
+          "word": "kitabu",
+          "meaning": "book",
+          "sound": "ki-ta-bu"
+        },
+        {
+          "word": "cha",
+          "meaning": "no",
+          "sound": "cha"
+        },
+        {
+          "word": "kuvutia",
+          "meaning": "interesting",
+          "sound": "ku-vu-ti-a"
+        },
+        {
+          "word": "kuhusu",
+          "meaning": "about",
+          "sound": "ku-hu-su"
+        },
+        {
+          "word": "historia",
+          "meaning": "history",
+          "sound": "his-to-ri-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Baadaye",
+          "meaning": "later on",
+          "sound": "ba-a-da-y-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mimi",
+          "meaning": "me",
+          "sound": "mi-mi"
+        },
+        {
+          "word": "huketi",
+          "meaning": "he sits down",
+          "sound": "hu-ke-ti"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "meza",
+          "meaning": "the table",
+          "sound": "me-za"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuanza",
+          "meaning": "start",
+          "sound": "ku-an-za"
+        },
+        {
+          "word": "kusoma",
+          "meaning": "reading",
+          "sound": "ku-so-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kuna",
+          "meaning": "there is",
+          "sound": "ku-na"
+        },
+        {
+          "word": "watu",
+          "meaning": "people",
+          "sound": "wa-tu"
+        },
+        {
+          "word": "wengine",
+          "meaning": "others",
+          "sound": "wen-gi-ne"
+        },
+        {
+          "word": "wanasoma",
+          "meaning": "they are studying",
+          "sound": "wa-na-so-ma"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuandika",
+          "meaning": "to write",
+          "sound": "ku-an-di-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mazingira",
+          "meaning": "environment",
+          "sound": "ma-zin-gi-ra"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "tulivu",
+          "meaning": "quiet",
+          "sound": "tu-li-vu"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Baada",
+          "meaning": "after",
+          "sound": "ba-a-da"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "muda",
+          "meaning": "time",
+          "sound": "mu-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ninafunga",
+          "meaning": "i am fasting",
+          "sound": "ni-na-fun-ga"
+        },
+        {
+          "word": "kitabu",
+          "meaning": "book",
+          "sound": "ki-ta-bu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kujisikia",
+          "meaning": "to feel",
+          "sound": "ku-ji-si-ki-a"
+        },
+        {
+          "word": "kuridhika",
+          "meaning": "satisfied",
+          "sound": "ku-rid-hi-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "katika duka",
+      "content": [
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": "naenda",
+          "meaning": "i'm going",
+          "sound": "na-en-da"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "duka",
+          "meaning": "shop",
+          "sound": "du-ka"
+        },
+        {
+          "word": "kubwa",
+          "meaning": "big",
+          "sound": "kub-wa"
+        },
+        {
+          "word": "kununua",
+          "meaning": "to buy",
+          "sound": "ku-nu-nu-a"
+        },
+        {
+          "word": "chakula",
+          "meaning": "food",
+          "sound": "cha-ku-la"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nahitaji",
+          "meaning": "i need",
+          "sound": "na-hi-ta-ji"
+        },
+        {
+          "word": "mkate",
+          "meaning": "bread",
+          "sound": "mka-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "maziwa",
+          "meaning": "milk",
+          "sound": "ma-zi-wa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "matunda",
+          "meaning": "fruits",
+          "sound": "ma-tun-da"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mboga",
+          "meaning": "vegetables",
+          "sound": "mbo-ga"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Duka",
+          "meaning": "shop",
+          "sound": "du-ka"
+        },
+        {
+          "word": "limejaa",
+          "meaning": "it is full",
+          "sound": "li-me-ja-a"
+        },
+        {
+          "word": "watu",
+          "meaning": "people",
+          "sound": "wa-tu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuna",
+          "meaning": "there is",
+          "sound": "ku-na"
+        },
+        {
+          "word": "kelele",
+          "meaning": "noise",
+          "sound": "ke-le-le"
+        },
+        {
+          "word": "nyingi",
+          "meaning": "many",
+          "sound": "ny-in-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninatafuta",
+          "meaning": "i'm looking for",
+          "sound": "ni-na-ta-fu-ta"
+        },
+        {
+          "word": "bidhaa",
+          "meaning": "product",
+          "sound": "bid-ha-a"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "rafu",
+          "meaning": "shelf",
+          "sound": "ra-fu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mwanamke",
+          "meaning": "a woman",
+          "sound": "mwa-nam-ke"
+        },
+        {
+          "word": "ananiuliza",
+          "meaning": "he asks me",
+          "sound": "a-na-ni-u-li-za"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yako",
+          "meaning": "yours",
+          "sound": "y-a-ko"
+        },
+        {
+          "word": "wapi",
+          "meaning": "where",
+          "sound": "wa-pi"
+        },
+        {
+          "word": "maziwa",
+          "meaning": "milk",
+          "sound": "ma-zi-wa"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninamwambia",
+          "meaning": "i tell him",
+          "sound": "ni-nam-wam-bi-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Iko",
+          "meaning": "it is there",
+          "sound": "i-ko"
+        },
+        {
+          "word": "pale",
+          "meaning": "there",
+          "sound": "pa-le"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "karibu",
+          "meaning": "almost",
+          "sound": "ka-ri-bu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mkate",
+          "meaning": "bread",
+          "sound": "mka-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Anatabasamu",
+          "meaning": "he smiles",
+          "sound": "a-na-ta-ba-sa-mu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kusema",
+          "meaning": "say",
+          "sound": "ku-se-ma"
+        },
+        {
+          "word": "asante",
+          "meaning": "thank you",
+          "sound": "a-san-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kisha",
+          "meaning": "then",
+          "sound": "kis-ha"
+        },
+        {
+          "word": "mimi",
+          "meaning": "me",
+          "sound": "mi-mi"
+        },
+        {
+          "word": "kwenda",
+          "meaning": "to go",
+          "sound": "kwen-da"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "cashier",
+          "meaning": "cashier",
+          "sound": "cas-hi-er"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kulipa",
+          "meaning": "to pay",
+          "sound": "ku-li-pa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninaondoka",
+          "meaning": "i'm leaving",
+          "sound": "ni-na-on-do-ka"
+        },
+        {
+          "word": "dukani",
+          "meaning": "in the shop",
+          "sound": "du-ka-ni"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "begi",
+          "meaning": "bag",
+          "sound": "be-gi"
+        },
+        {
+          "word": "kamili",
+          "meaning": "complete",
+          "sound": "ka-mi-li"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "ninahisi",
+          "meaning": "i feel",
+          "sound": "ni-na-hi-si"
+        },
+        {
+          "word": "furaha",
+          "meaning": "happiness",
+          "sound": "fu-ra-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "kwenye basi",
+      "content": [
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": "napanda",
+          "meaning": "i ride",
+          "sound": "na-pan-da"
+        },
+        {
+          "word": "basi",
+          "meaning": "then",
+          "sound": "ba-si"
+        },
+        {
+          "word": "kwenda",
+          "meaning": "to go",
+          "sound": "kwen-da"
+        },
+        {
+          "word": "kazini",
+          "meaning": "at work",
+          "sound": "ka-zi-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Basi",
+          "meaning": "then",
+          "sound": "ba-si"
+        },
+        {
+          "word": "limejaa",
+          "meaning": "it is full",
+          "sound": "li-me-ja-a"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "hakuna",
+          "meaning": "there is none",
+          "sound": "ha-ku-na"
+        },
+        {
+          "word": "nafasi",
+          "meaning": "space",
+          "sound": "na-fa-si"
+        },
+        {
+          "word": "nyingi",
+          "meaning": "many",
+          "sound": "ny-in-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninahisi",
+          "meaning": "i feel it",
+          "sound": "ni-na-hi-si"
+        },
+        {
+          "word": "uchovu",
+          "meaning": "fatigue",
+          "sound": "uc-ho-vu"
+        },
+        {
+          "word": "kidogo",
+          "meaning": "a little",
+          "sound": "ki-do-go"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "naona",
+          "meaning": "i see",
+          "sound": "na-o-na"
+        },
+        {
+          "word": "mtu",
+          "meaning": "a person",
+          "sound": "mtu"
+        },
+        {
+          "word": "mzee",
+          "meaning": "old man",
+          "sound": "mze-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninakupa",
+          "meaning": "i give it to you",
+          "sound": "ni-na-ku-pa"
+        },
+        {
+          "word": "kiti",
+          "meaning": "seat",
+          "sound": "ki-ti"
+        },
+        {
+          "word": "changu",
+          "meaning": "my",
+          "sound": "chan-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ananiambia",
+          "meaning": "he tells me",
+          "sound": "a-na-ni-am-bi-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Una",
+          "meaning": "you have",
+          "sound": "u-na"
+        },
+        {
+          "word": "uhakika",
+          "meaning": "sure",
+          "sound": "u-ha-ki-ka"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ninajibu",
+          "meaning": "i answer",
+          "sound": "ni-na-ji-bu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ndiyo",
+          "meaning": "yes",
+          "sound": "ndi-y-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hakuna",
+          "meaning": "there is none",
+          "sound": "ha-ku-na"
+        },
+        {
+          "word": "shida",
+          "meaning": "trouble",
+          "sound": "shi-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Anatabasamu",
+          "meaning": "he smiles",
+          "sound": "a-na-ta-ba-sa-mu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kunishukuru",
+          "meaning": "to thank me",
+          "sound": "ku-nis-hu-ku-ru"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "wa",
+          "meaning": "of",
+          "sound": "wa"
+        },
+        {
+          "word": "safari",
+          "meaning": "trip",
+          "sound": "sa-fa-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mimi",
+          "meaning": "me",
+          "sound": "mi-mi"
+        },
+        {
+          "word": "hutazama",
+          "meaning": "looks",
+          "sound": "hu-ta-za-ma"
+        },
+        {
+          "word": "nje",
+          "meaning": "out",
+          "sound": "nje"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "dirisha",
+          "meaning": "the window",
+          "sound": "di-ris-ha"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kufikiria",
+          "meaning": "to think",
+          "sound": "ku-fi-ki-ri-a"
+        },
+        {
+          "word": "siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ingawa",
+          "meaning": "although",
+          "sound": "in-ga-wa"
+        },
+        {
+          "word": "nimechoka",
+          "meaning": "i'm tired",
+          "sound": "ni-mec-ho-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ninahisi",
+          "meaning": "i feel",
+          "sound": "ni-na-hi-si"
+        },
+        {
+          "word": "vizuri",
+          "meaning": "well",
+          "sound": "vi-zu-ri"
+        },
+        {
+          "word": "kusaidia",
+          "meaning": "to help",
+          "sound": "ku-sa-i-di-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Jana kwenye pwani",
+      "content": [
+        {
+          "word": "Jana",
+          "meaning": "yesterday",
+          "sound": "ja-na"
+        },
+        {
+          "word": "nilienda",
+          "meaning": "i went",
+          "sound": "ni-li-en-da"
+        },
+        {
+          "word": "ufukweni",
+          "meaning": "on the beach",
+          "sound": "u-fuk-we-ni"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "marafiki",
+          "meaning": "friends",
+          "sound": "ma-ra-fi-ki"
+        },
+        {
+          "word": "zangu",
+          "meaning": "mine",
+          "sound": "zan-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hali",
+          "meaning": "status",
+          "sound": "ha-li"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "hewa",
+          "meaning": "air",
+          "sound": "he-wa"
+        },
+        {
+          "word": "ilikuwa",
+          "meaning": "it was",
+          "sound": "i-li-ku-wa"
+        },
+        {
+          "word": "nzuri",
+          "meaning": "good",
+          "sound": "nzu-ri"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "bahari",
+          "meaning": "the sea",
+          "sound": "ba-ha-ri"
+        },
+        {
+          "word": "ilikuwa",
+          "meaning": "it was",
+          "sound": "i-li-ku-wa"
+        },
+        {
+          "word": "shwari",
+          "meaning": "calm",
+          "sound": "shwa-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tulitembea",
+          "meaning": "we walked",
+          "sound": "tu-li-tem-be-a"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "mchanga",
+          "meaning": "sand",
+          "sound": "mchan-ga"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuongea",
+          "meaning": "to speak",
+          "sound": "ku-on-ge-a"
+        },
+        {
+          "word": "mambo",
+          "meaning": "things",
+          "sound": "mam-bo"
+        },
+        {
+          "word": "mengi",
+          "meaning": "a lot",
+          "sound": "men-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Baadaye",
+          "meaning": "later on",
+          "sound": "ba-a-da-y-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "tuliogelea",
+          "meaning": "we swam",
+          "sound": "tu-li-o-ge-le-a"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "maji",
+          "meaning": "water",
+          "sound": "ma-ji"
+        },
+        {
+          "word": "baridi",
+          "meaning": "cold",
+          "sound": "ba-ri-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mwanzoni",
+          "meaning": "in the beginning",
+          "sound": "mwan-zo-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "niliogopa",
+          "meaning": "i was afraid",
+          "sound": "ni-li-o-go-pa"
+        },
+        {
+          "word": "kidogo",
+          "meaning": "a little",
+          "sound": "ki-do-go"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "baadaye",
+          "meaning": "later on",
+          "sound": "ba-a-da-y-e"
+        },
+        {
+          "word": "nilihisi",
+          "meaning": "i felt it",
+          "sound": "ni-li-hi-si"
+        },
+        {
+          "word": "vizuri",
+          "meaning": "well",
+          "sound": "vi-zu-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pia",
+          "meaning": "also",
+          "sound": "pi-a"
+        },
+        {
+          "word": "tulicheza",
+          "meaning": "we played",
+          "sound": "tu-lic-he-za"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mpira",
+          "meaning": "the ball",
+          "sound": "mpi-ra"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kucheka",
+          "meaning": "to laugh",
+          "sound": "kuc-he-ka"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alasiri",
+          "meaning": "afternoon",
+          "sound": "a-la-si-ri"
+        },
+        {
+          "word": "tulikula",
+          "meaning": "we ate",
+          "sound": "tu-li-ku-la"
+        },
+        {
+          "word": "pamoja",
+          "meaning": "together",
+          "sound": "pa-mo-ja"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kutazama",
+          "meaning": "to watch",
+          "sound": "ku-ta-za-ma"
+        },
+        {
+          "word": "machweo",
+          "meaning": "sunset",
+          "sound": "mac-hwe-o"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "jua",
+          "meaning": "the sun",
+          "sound": "ju-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ilikuwa",
+          "meaning": "it was",
+          "sound": "i-li-ku-wa"
+        },
+        {
+          "word": "siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "pekee",
+          "meaning": "only",
+          "sound": "pe-ke-e"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "sitaisahau",
+          "meaning": "i will not forget it",
+          "sound": "si-ta-i-sa-ha-u"
+        },
+        {
+          "word": "kamwe",
+          "meaning": "never",
+          "sound": "kam-we"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Mazungumzo muhimu",
+      "content": [
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": "nilikutana",
+          "meaning": "i met",
+          "sound": "ni-li-ku-ta-na"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "rafiki",
+          "meaning": "a friend",
+          "sound": "ra-fi-ki"
+        },
+        {
+          "word": "wa",
+          "meaning": "of",
+          "sound": "wa"
+        },
+        {
+          "word": "zamani",
+          "meaning": "in the past",
+          "sound": "za-ma-ni"
+        },
+        {
+          "word": "kwenye",
+          "meaning": "on",
+          "sound": "kwe-ny-e"
+        },
+        {
+          "word": "cafe",
+          "meaning": "cafe",
+          "sound": "ca-fe"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilikuwa",
+          "meaning": "i was",
+          "sound": "ni-li-ku-wa"
+        },
+        {
+          "word": "sijamuona",
+          "meaning": "i haven't seen him",
+          "sound": "si-ja-mu-o-na"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "muda",
+          "meaning": "time",
+          "sound": "mu-da"
+        },
+        {
+          "word": "mrefu",
+          "meaning": "tall",
+          "sound": "mre-fu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hivyo",
+          "meaning": "so",
+          "sound": "hi-vy-o"
+        },
+        {
+          "word": "nilifurahi",
+          "meaning": "i was happy",
+          "sound": "ni-li-fu-ra-hi"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": "kumuona",
+          "meaning": "to see him",
+          "sound": "ku-mu-o-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tuliketi",
+          "meaning": "we sat down",
+          "sound": "tu-li-ke-ti"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuanza",
+          "meaning": "start",
+          "sound": "ku-an-za"
+        },
+        {
+          "word": "kuzungumza",
+          "meaning": "to talk",
+          "sound": "ku-zun-gum-za"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aliniambia",
+          "meaning": "he told me",
+          "sound": "a-li-ni-am-bi-a"
+        },
+        {
+          "word": "kuwa",
+          "meaning": "to be",
+          "sound": "ku-wa"
+        },
+        {
+          "word": "sasa",
+          "meaning": "now",
+          "sound": "sa-sa"
+        },
+        {
+          "word": "anaishi",
+          "meaning": "he lives",
+          "sound": "a-na-is-hi"
+        },
+        {
+          "word": "katika",
+          "meaning": "in",
+          "sound": "ka-ti-ka"
+        },
+        {
+          "word": "mji",
+          "meaning": "city",
+          "sound": "mji"
+        },
+        {
+          "word": "mwingine",
+          "meaning": "another",
+          "sound": "mwin-gi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pia",
+          "meaning": "also",
+          "sound": "pi-a"
+        },
+        {
+          "word": "anafanya",
+          "meaning": "he does",
+          "sound": "a-na-fa-ny-a"
+        },
+        {
+          "word": "kazi",
+          "meaning": "work",
+          "sound": "ka-zi"
+        },
+        {
+          "word": "katika",
+          "meaning": "in",
+          "sound": "ka-ti-ka"
+        },
+        {
+          "word": "kampuni",
+          "meaning": "company",
+          "sound": "kam-pu-ni"
+        },
+        {
+          "word": "kubwa",
+          "meaning": "big",
+          "sound": "kub-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilimweleza",
+          "meaning": "i told him",
+          "sound": "ni-lim-we-le-za"
+        },
+        {
+          "word": "kuhusu",
+          "meaning": "about",
+          "sound": "ku-hu-su"
+        },
+        {
+          "word": "masomo",
+          "meaning": "lessons",
+          "sound": "ma-so-mo"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mipango",
+          "meaning": "plans",
+          "sound": "mi-pan-go"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tulizungumza",
+          "meaning": "we talked",
+          "sound": "tu-li-zun-gum-za"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "masaa",
+          "meaning": "hours",
+          "sound": "ma-sa-a"
+        },
+        {
+          "word": "mengi",
+          "meaning": "a lot",
+          "sound": "men-gi"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kukumbuka",
+          "meaning": "to remember",
+          "sound": "ku-kum-bu-ka"
+        },
+        {
+          "word": "nyakati",
+          "meaning": "times",
+          "sound": "ny-a-ka-ti"
+        },
+        {
+          "word": "nyingi",
+          "meaning": "many",
+          "sound": "ny-in-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kabla",
+          "meaning": "before",
+          "sound": "ka-bla"
+        },
+        {
+          "word": "hatujaondoka",
+          "meaning": "we haven't left",
+          "sound": "ha-tu-ja-on-do-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "aliniambia",
+          "meaning": "he told me",
+          "sound": "a-li-ni-am-bi-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tunapaswa",
+          "meaning": "we should",
+          "sound": "tu-na-pas-wa"
+        },
+        {
+          "word": "kuonana",
+          "meaning": "see each other",
+          "sound": "ku-o-na-na"
+        },
+        {
+          "word": "mara",
+          "meaning": "times",
+          "sound": "ma-ra"
+        },
+        {
+          "word": "nyingi",
+          "meaning": "many",
+          "sound": "ny-in-gi"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilitabasamu",
+          "meaning": "i smiled",
+          "sound": "ni-li-ta-ba-sa-mu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuitikia",
+          "meaning": "respond",
+          "sound": "ku-i-ti-ki-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hakika",
+          "meaning": "indeed",
+          "sound": "ha-ki-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "niliipenda",
+          "meaning": "i loved it",
+          "sound": "ni-li-i-pen-da"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": "siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "hii",
+          "meaning": "this",
+          "sound": "hi-i"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Uamuzi mgumu",
+      "content": [
+        {
+          "word": "Siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "chache",
+          "meaning": "few",
+          "sound": "chac-he"
+        },
+        {
+          "word": "zilizopita",
+          "meaning": "the past",
+          "sound": "zi-li-zo-pi-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilipokea",
+          "meaning": "i received it",
+          "sound": "ni-li-po-ke-a"
+        },
+        {
+          "word": "ofa",
+          "meaning": "offer",
+          "sound": "o-fa"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "kazi",
+          "meaning": "work",
+          "sound": "ka-zi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ilikuwa",
+          "meaning": "it was",
+          "sound": "i-li-ku-wa"
+        },
+        {
+          "word": "katika",
+          "meaning": "in",
+          "sound": "ka-ti-ka"
+        },
+        {
+          "word": "mji",
+          "meaning": "city",
+          "sound": "mji"
+        },
+        {
+          "word": "mwingine",
+          "meaning": "another",
+          "sound": "mwin-gi-ne"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuvutia",
+          "meaning": "interesting",
+          "sound": "ku-vu-ti-a"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mwanzoni",
+          "meaning": "in the beginning",
+          "sound": "mwan-zo-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilihisi",
+          "meaning": "i felt it",
+          "sound": "ni-li-hi-si"
+        },
+        {
+          "word": "msisimko",
+          "meaning": "excitement",
+          "sound": "msi-sim-ko"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "pia",
+          "meaning": "too",
+          "sound": "pi-a"
+        },
+        {
+          "word": "nilikuwa",
+          "meaning": "i was",
+          "sound": "ni-li-ku-wa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "wasiwasi",
+          "meaning": "anxiety",
+          "sound": "wa-si-wa-si"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilizungumza",
+          "meaning": "i spoke",
+          "sound": "ni-li-zun-gum-za"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "familia",
+          "meaning": "family",
+          "sound": "fa-mi-li-a"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "marafiki",
+          "meaning": "friends",
+          "sound": "ma-ra-fi-ki"
+        },
+        {
+          "word": "zangu",
+          "meaning": "mine",
+          "sound": "zan-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Walinipa",
+          "meaning": "they gave it to me",
+          "sound": "wa-li-ni-pa"
+        },
+        {
+          "word": "ushauri",
+          "meaning": "advice",
+          "sound": "us-ha-u-ri"
+        },
+        {
+          "word": "mwingi",
+          "meaning": "a lot",
+          "sound": "mwin-gi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mama",
+          "meaning": "mother",
+          "sound": "ma-ma"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "alisema",
+          "meaning": "he said",
+          "sound": "a-li-se-ma"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lazima",
+          "meaning": "must",
+          "sound": "la-zi-ma"
+        },
+        {
+          "word": "ufuate",
+          "meaning": "follow",
+          "sound": "u-fu-a-te"
+        },
+        {
+          "word": "ndoto",
+          "meaning": "dream",
+          "sound": "ndo-to"
+        },
+        {
+          "word": "zako",
+          "meaning": "yours",
+          "sound": "za-ko"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "rafiki",
+          "meaning": "a friend",
+          "sound": "ra-fi-ki"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "akaniuliza",
+          "meaning": "he asked me",
+          "sound": "a-ka-ni-u-li-za"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Una",
+          "meaning": "you have",
+          "sound": "u-na"
+        },
+        {
+          "word": "uhakika",
+          "meaning": "sure",
+          "sound": "u-ha-ki-ka"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilitumia",
+          "meaning": "i used it",
+          "sound": "ni-li-tu-mi-a"
+        },
+        {
+          "word": "siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "kadhaa",
+          "meaning": "several",
+          "sound": "kad-ha-a"
+        },
+        {
+          "word": "kufikiria",
+          "meaning": "to think",
+          "sound": "ku-fi-ki-ri-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hatimaye",
+          "meaning": "finally",
+          "sound": "ha-ti-ma-y-e"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "niliamua",
+          "meaning": "i decided",
+          "sound": "ni-li-a-mu-a"
+        },
+        {
+          "word": "kukubali",
+          "meaning": "to accept",
+          "sound": "ku-ku-ba-li"
+        },
+        {
+          "word": "kazi",
+          "meaning": "work",
+          "sound": "ka-zi"
+        },
+        {
+          "word": "hiyo",
+          "meaning": "that",
+          "sound": "hi-y-o"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Najua",
+          "meaning": "i know",
+          "sound": "na-ju-a"
+        },
+        {
+          "word": "haitakuwa",
+          "meaning": "it won't be",
+          "sound": "ha-i-ta-ku-wa"
+        },
+        {
+          "word": "rahisi",
+          "meaning": "simple",
+          "sound": "ra-hi-si"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "nataka",
+          "meaning": "i want",
+          "sound": "na-ta-ka"
+        },
+        {
+          "word": "kujaribu",
+          "meaning": "to try",
+          "sound": "ku-ja-ri-bu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Mabishano na rafiki",
+      "content": [
+        {
+          "word": "Jana",
+          "meaning": "yesterday",
+          "sound": "ja-na"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "niligombana",
+          "meaning": "i argued",
+          "sound": "ni-li-gom-ba-na"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "rafiki",
+          "meaning": "a friend",
+          "sound": "ra-fi-ki"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "wa",
+          "meaning": "of",
+          "sound": "wa"
+        },
+        {
+          "word": "karibu",
+          "meaning": "almost",
+          "sound": "ka-ri-bu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yote",
+          "meaning": "all",
+          "sound": "y-o-te"
+        },
+        {
+          "word": "ilianza",
+          "meaning": "it started",
+          "sound": "i-li-an-za"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "tunazungumza",
+          "meaning": "we are talking",
+          "sound": "tu-na-zun-gum-za"
+        },
+        {
+          "word": "juu",
+          "meaning": "up",
+          "sound": "ju-u"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "mipango",
+          "meaning": "plans",
+          "sound": "mi-pan-go"
+        },
+        {
+          "word": "yetu",
+          "meaning": "ours",
+          "sound": "y-e-tu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilitaka",
+          "meaning": "i wanted to",
+          "sound": "ni-li-ta-ka"
+        },
+        {
+          "word": "kusafiri",
+          "meaning": "to travel",
+          "sound": "ku-sa-fi-ri"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "alipendelea",
+          "meaning": "he preferred",
+          "sound": "a-li-pen-de-le-a"
+        },
+        {
+          "word": "kubaki",
+          "meaning": "remain",
+          "sound": "ku-ba-ki"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Alisema",
+          "meaning": "he said",
+          "sound": "a-li-se-ma"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hatuna",
+          "meaning": "we don't have",
+          "sound": "ha-tu-na"
+        },
+        {
+          "word": "pesa",
+          "meaning": "money",
+          "sound": "pe-sa"
+        },
+        {
+          "word": "za",
+          "meaning": "of",
+          "sound": "za"
+        },
+        {
+          "word": "kutosha",
+          "meaning": "enough",
+          "sound": "ku-tos-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilijibu",
+          "meaning": "i answered",
+          "sound": "ni-li-ji-bu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tunaweza",
+          "meaning": "we can",
+          "sound": "tu-na-we-za"
+        },
+        {
+          "word": "kuokoa",
+          "meaning": "to save",
+          "sound": "ku-o-ko-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "hakukubali",
+          "meaning": "he did not agree",
+          "sound": "ha-ku-ku-ba-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Maongezi",
+          "meaning": "conversations",
+          "sound": "ma-on-ge-zi"
+        },
+        {
+          "word": "yakawa",
+          "meaning": "it happened",
+          "sound": "y-a-ka-wa"
+        },
+        {
+          "word": "magumu",
+          "meaning": "difficult",
+          "sound": "ma-gu-mu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mwishowe",
+          "meaning": "in the end",
+          "sound": "mwis-ho-we"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sote",
+          "meaning": "all of us",
+          "sound": "so-te"
+        },
+        {
+          "word": "wawili",
+          "meaning": "two",
+          "sound": "wa-wi-li"
+        },
+        {
+          "word": "tulikasirika",
+          "meaning": "we were angry",
+          "sound": "tu-li-ka-si-ri-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nafikiri",
+          "meaning": "i think",
+          "sound": "na-fi-ki-ri"
+        },
+        {
+          "word": "labda",
+          "meaning": "maybe",
+          "sound": "lab-da"
+        },
+        {
+          "word": "nizungumze",
+          "meaning": "talk to me",
+          "sound": "ni-zun-gum-ze"
+        },
+        {
+          "word": "naye",
+          "meaning": "with him",
+          "sound": "na-y-e"
+        },
+        {
+          "word": "tena",
+          "meaning": "again",
+          "sound": "te-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Urafiki",
+          "meaning": "friendship",
+          "sound": "u-ra-fi-ki"
+        },
+        {
+          "word": "wetu",
+          "meaning": "ours",
+          "sound": "we-tu"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "muhimu",
+          "meaning": "important",
+          "sound": "mu-hi-mu"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Mabadiliko muhimu",
+      "content": [
+        {
+          "word": "Mwaka",
+          "meaning": "a year",
+          "sound": "mwa-ka"
+        },
+        {
+          "word": "mmoja",
+          "meaning": "one",
+          "sound": "mmo-ja"
+        },
+        {
+          "word": "uliopita",
+          "meaning": "previous",
+          "sound": "u-li-o-pi-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "maisha",
+          "meaning": "life",
+          "sound": "ma-is-ha"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "yalikuwa",
+          "meaning": "were",
+          "sound": "y-a-li-ku-wa"
+        },
+        {
+          "word": "tofauti",
+          "meaning": "difference",
+          "sound": "to-fa-u-ti"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilifanya",
+          "meaning": "i did",
+          "sound": "ni-li-fa-ny-a"
+        },
+        {
+          "word": "kazi",
+          "meaning": "work",
+          "sound": "ka-zi"
+        },
+        {
+          "word": "mahali",
+          "meaning": "place",
+          "sound": "ma-ha-li"
+        },
+        {
+          "word": "ambapo",
+          "meaning": "where",
+          "sound": "am-ba-po"
+        },
+        {
+          "word": "sikuipenda",
+          "meaning": "i didn't like it",
+          "sound": "si-ku-i-pen-da"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kila",
+          "meaning": "every",
+          "sound": "ki-la"
+        },
+        {
+          "word": "siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "nilihisi",
+          "meaning": "i felt it",
+          "sound": "ni-li-hi-si"
+        },
+        {
+          "word": "uchovu",
+          "meaning": "fatigue",
+          "sound": "uc-ho-vu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kutokuwa",
+          "meaning": "not to be",
+          "sound": "ku-to-ku-wa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "motisha",
+          "meaning": "motivation",
+          "sound": "mo-tis-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "moja",
+          "meaning": "one",
+          "sound": "mo-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "niliamua",
+          "meaning": "i decided",
+          "sound": "ni-li-a-mu-a"
+        },
+        {
+          "word": "kubadilisha",
+          "meaning": "change",
+          "sound": "ku-ba-di-lis-ha"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "kitu",
+          "meaning": "something",
+          "sound": "ki-tu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Haikuwa",
+          "meaning": "it wasn't",
+          "sound": "ha-i-ku-wa"
+        },
+        {
+          "word": "rahisi",
+          "meaning": "simple",
+          "sound": "ra-hi-si"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "sababu",
+          "meaning": "reason",
+          "sound": "sa-ba-bu"
+        },
+        {
+          "word": "niliogopa",
+          "meaning": "i was afraid",
+          "sound": "ni-li-o-go-pa"
+        },
+        {
+          "word": "kushindwa",
+          "meaning": "failure",
+          "sound": "kus-hin-dwa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "pia",
+          "meaning": "too",
+          "sound": "pi-a"
+        },
+        {
+          "word": "nilijua",
+          "meaning": "i knew",
+          "sound": "ni-li-ju-a"
+        },
+        {
+          "word": "kuwa",
+          "meaning": "to be",
+          "sound": "ku-wa"
+        },
+        {
+          "word": "singeweza",
+          "meaning": "i couldn't",
+          "sound": "sin-ge-we-za"
+        },
+        {
+          "word": "kuendelea",
+          "meaning": "to continue",
+          "sound": "ku-en-de-le-a"
+        },
+        {
+          "word": "hivi",
+          "meaning": "like this",
+          "sound": "hi-vi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilianza",
+          "meaning": "i started",
+          "sound": "ni-li-an-za"
+        },
+        {
+          "word": "kujifunza",
+          "meaning": "to learn",
+          "sound": "ku-ji-fun-za"
+        },
+        {
+          "word": "mambo",
+          "meaning": "things",
+          "sound": "mam-bo"
+        },
+        {
+          "word": "mapya",
+          "meaning": "new ones",
+          "sound": "ma-py-a"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kufanyia",
+          "meaning": "to do",
+          "sound": "ku-fa-ny-i-a"
+        },
+        {
+          "word": "kazi",
+          "meaning": "work",
+          "sound": "ka-zi"
+        },
+        {
+          "word": "malengo",
+          "meaning": "goals",
+          "sound": "ma-len-go"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hatua",
+          "meaning": "steps",
+          "sound": "ha-tu-a"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "hatua",
+          "meaning": "action",
+          "sound": "ha-tu-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "maisha",
+          "meaning": "life",
+          "sound": "ma-is-ha"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "yalibadilika",
+          "meaning": "they changed",
+          "sound": "y-a-li-ba-di-li-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ninahisi",
+          "meaning": "i feel",
+          "sound": "ni-na-hi-si"
+        },
+        {
+          "word": "kujiamini",
+          "meaning": "confidence",
+          "sound": "ku-ji-a-mi-ni"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "furaha",
+          "meaning": "happiness",
+          "sound": "fu-ra-ha"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilijifunza",
+          "meaning": "i learned",
+          "sound": "ni-li-ji-fun-za"
+        },
+        {
+          "word": "kwamba",
+          "meaning": "that",
+          "sound": "kwam-ba"
+        },
+        {
+          "word": "mabadiliko",
+          "meaning": "changes",
+          "sound": "ma-ba-di-li-ko"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "magumu",
+          "meaning": "difficult",
+          "sound": "ma-gu-mu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "lazima",
+          "meaning": "must",
+          "sound": "la-zi-ma"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Maana ya njia",
+      "content": [
+        {
+          "word": "Kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "muda",
+          "meaning": "time",
+          "sound": "mu-da"
+        },
+        {
+          "word": "mrefu",
+          "meaning": "tall",
+          "sound": "mre-fu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilifikiri",
+          "meaning": "i thought",
+          "sound": "ni-li-fi-ki-ri"
+        },
+        {
+          "word": "mafanikio",
+          "meaning": "success",
+          "sound": "ma-fa-ni-ki-o"
+        },
+        {
+          "word": "ndiyo",
+          "meaning": "yes",
+          "sound": "ndi-y-o"
+        },
+        {
+          "word": "jambo",
+          "meaning": "matter",
+          "sound": "jam-bo"
+        },
+        {
+          "word": "muhimu",
+          "meaning": "important",
+          "sound": "mu-hi-mu"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Niliamini",
+          "meaning": "i believed",
+          "sound": "ni-li-a-mi-ni"
+        },
+        {
+          "word": "kwamba",
+          "meaning": "that",
+          "sound": "kwam-ba"
+        },
+        {
+          "word": "kuwa",
+          "meaning": "to be",
+          "sound": "ku-wa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "pesa",
+          "meaning": "money",
+          "sound": "pe-sa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kutambuliwa",
+          "meaning": "to be recognized",
+          "sound": "ku-tam-bu-li-wa"
+        },
+        {
+          "word": "kungenifurahisha",
+          "meaning": "it would make me happy",
+          "sound": "kun-ge-ni-fu-ra-his-ha"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hata",
+          "meaning": "even",
+          "sound": "ha-ta"
+        },
+        {
+          "word": "hivyo",
+          "meaning": "so",
+          "sound": "hi-vy-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "baada",
+          "meaning": "after",
+          "sound": "ba-a-da"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "muda",
+          "meaning": "time",
+          "sound": "mu-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilitambua",
+          "meaning": "i realized",
+          "sound": "ni-li-tam-bu-a"
+        },
+        {
+          "word": "kwamba",
+          "meaning": "that",
+          "sound": "kwam-ba"
+        },
+        {
+          "word": "nilikosea",
+          "meaning": "i was wrong",
+          "sound": "ni-li-ko-se-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jambo",
+          "meaning": "hello",
+          "sound": "jam-bo"
+        },
+        {
+          "word": "kuu",
+          "meaning": "main",
+          "sound": "ku-u"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "njia",
+          "meaning": "way",
+          "sound": "nji-a"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Uzoefu",
+          "meaning": "experience",
+          "sound": "u-zo-e-fu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "makosa",
+          "meaning": "mistakes",
+          "sound": "ma-ko-sa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mafunzo",
+          "meaning": "training",
+          "sound": "ma-fun-zo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "moja",
+          "meaning": "one",
+          "sound": "mo-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilizungumza",
+          "meaning": "i spoke",
+          "sound": "ni-li-zun-gum-za"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mshauri",
+          "meaning": "a counselor",
+          "sound": "msha-u-ri"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aliniambia",
+          "meaning": "he told me",
+          "sound": "a-li-ni-am-bi-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Usikimbilie",
+          "meaning": "don't rush",
+          "sound": "u-si-kim-bi-li-e"
+        },
+        {
+          "word": "kufika",
+          "meaning": "to arrive",
+          "sound": "ku-fi-ka"
+        },
+        {
+          "word": "tu",
+          "meaning": "only",
+          "sound": "tu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "jifunze",
+          "meaning": "learn it",
+          "sound": "ji-fun-ze"
+        },
+        {
+          "word": "kufurahia",
+          "meaning": "to enjoy",
+          "sound": "ku-fu-ra-hi-a"
+        },
+        {
+          "word": "mchakato",
+          "meaning": "the process",
+          "sound": "mcha-ka-to"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kuanzia",
+          "meaning": "starting from",
+          "sound": "ku-an-zi-a"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "huo",
+          "meaning": "that",
+          "sound": "hu-o"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuendelea",
+          "meaning": "to continue",
+          "sound": "ku-en-de-le-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "njia",
+          "meaning": "way",
+          "sound": "nji-a"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "kufikiria",
+          "meaning": "to think",
+          "sound": "ku-fi-ki-ri-a"
+        },
+        {
+          "word": "ilibadilika",
+          "meaning": "it changed",
+          "sound": "i-li-ba-di-li-ka"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sasa",
+          "meaning": "now",
+          "sound": "sa-sa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ninathamini",
+          "meaning": "i appreciate it",
+          "sound": "ni-nat-ha-mi-ni"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "hatua",
+          "meaning": "action",
+          "sound": "ha-tu-a"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kujifunza",
+          "meaning": "to learn",
+          "sound": "ku-ji-fun-za"
+        },
+        {
+          "word": "kutoka",
+          "meaning": "from",
+          "sound": "ku-to-ka"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "kosa",
+          "meaning": "mistake",
+          "sound": "ko-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "mimi ni nani hasa",
+      "content": [
+        {
+          "word": "Kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "miaka",
+          "meaning": "years",
+          "sound": "mi-a-ka"
+        },
+        {
+          "word": "mingi",
+          "meaning": "many",
+          "sound": "min-gi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilijiuliza",
+          "meaning": "i asked myself",
+          "sound": "ni-li-ji-u-li-za"
+        },
+        {
+          "word": "mimi",
+          "meaning": "me",
+          "sound": "mi-mi"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "nani",
+          "meaning": "who",
+          "sound": "na-ni"
+        },
+        {
+          "word": "hasa",
+          "meaning": "especially",
+          "sound": "ha-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mwanzoni",
+          "meaning": "in the beginning",
+          "sound": "mwan-zo-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilifikiri",
+          "meaning": "i thought",
+          "sound": "ni-li-fi-ki-ri"
+        },
+        {
+          "word": "utambulisho",
+          "meaning": "identity",
+          "sound": "u-tam-bu-lis-ho"
+        },
+        {
+          "word": "wangu",
+          "meaning": "my",
+          "sound": "wan-gu"
+        },
+        {
+          "word": "ulitegemea",
+          "meaning": "you depended on",
+          "sound": "u-li-te-ge-me-a"
+        },
+        {
+          "word": "maoni",
+          "meaning": "comments",
+          "sound": "ma-o-ni"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "wengine",
+          "meaning": "others",
+          "sound": "wen-gi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilikuwa",
+          "meaning": "i was",
+          "sound": "ni-li-ku-wa"
+        },
+        {
+          "word": "nikitafuta",
+          "meaning": "looking for",
+          "sound": "ni-ki-ta-fu-ta"
+        },
+        {
+          "word": "kibali",
+          "meaning": "permit",
+          "sound": "ki-ba-li"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kuogopa",
+          "meaning": "to be afraid",
+          "sound": "ku-o-go-pa"
+        },
+        {
+          "word": "kufanya",
+          "meaning": "to do",
+          "sound": "ku-fa-ny-a"
+        },
+        {
+          "word": "makosa",
+          "meaning": "mistakes",
+          "sound": "ma-ko-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hata",
+          "meaning": "even",
+          "sound": "ha-ta"
+        },
+        {
+          "word": "hivyo",
+          "meaning": "so",
+          "sound": "hi-vy-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "baada",
+          "meaning": "after",
+          "sound": "ba-a-da"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "muda",
+          "meaning": "time",
+          "sound": "mu-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilielewa",
+          "meaning": "i understood",
+          "sound": "ni-li-e-le-wa"
+        },
+        {
+          "word": "kwamba",
+          "meaning": "that",
+          "sound": "kwam-ba"
+        },
+        {
+          "word": "thamani",
+          "meaning": "value",
+          "sound": "tha-ma-ni"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "haitegemei",
+          "meaning": "it doesn't depend",
+          "sound": "ha-i-te-ge-me-i"
+        },
+        {
+          "word": "wengine",
+          "meaning": "others",
+          "sound": "wen-gi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "moja",
+          "meaning": "one",
+          "sound": "mo-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "niliamua",
+          "meaning": "i decided",
+          "sound": "ni-li-a-mu-a"
+        },
+        {
+          "word": "kusikiliza",
+          "meaning": "to listen",
+          "sound": "ku-si-ki-li-za"
+        },
+        {
+          "word": "sauti",
+          "meaning": "sound",
+          "sound": "sa-u-ti"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "mwenyewe",
+          "meaning": "himself",
+          "sound": "mwe-ny-e-we"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilianza",
+          "meaning": "i started",
+          "sound": "ni-li-an-za"
+        },
+        {
+          "word": "kujifanyia",
+          "meaning": "do it yourself",
+          "sound": "ku-ji-fa-ny-i-a"
+        },
+        {
+          "word": "maamuzi",
+          "meaning": "decisions",
+          "sound": "ma-a-mu-zi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Haikuwa",
+          "meaning": "it wasn't",
+          "sound": "ha-i-ku-wa"
+        },
+        {
+          "word": "rahisi",
+          "meaning": "simple",
+          "sound": "ra-hi-si"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "nilijifunza",
+          "meaning": "i learned",
+          "sound": "ni-li-ji-fun-za"
+        },
+        {
+          "word": "kutoka",
+          "meaning": "from",
+          "sound": "ku-to-ka"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "kosa",
+          "meaning": "mistake",
+          "sound": "ko-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "najua",
+          "meaning": "i know",
+          "sound": "na-ju-a"
+        },
+        {
+          "word": "kuwa",
+          "meaning": "to be",
+          "sound": "ku-wa"
+        },
+        {
+          "word": "kuwa",
+          "meaning": "to be",
+          "sound": "ku-wa"
+        },
+        {
+          "word": "wewe",
+          "meaning": "you",
+          "sound": "we-we"
+        },
+        {
+          "word": "mwenyewe",
+          "meaning": "himself",
+          "sound": "mwe-ny-e-we"
+        },
+        {
+          "word": "ndio",
+          "meaning": "yes",
+          "sound": "ndi-o"
+        },
+        {
+          "word": "mafanikio",
+          "meaning": "success",
+          "sound": "ma-fa-ni-ki-o"
+        },
+        {
+          "word": "makubwa",
+          "meaning": "large",
+          "sound": "ma-kub-wa"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Thamani ya wakati",
+      "content": [
+        {
+          "word": "Miaka",
+          "meaning": "years",
+          "sound": "mi-a-ka"
+        },
+        {
+          "word": "michache",
+          "meaning": "a couple",
+          "sound": "mic-hac-he"
+        },
+        {
+          "word": "iliyopita",
+          "meaning": "ago",
+          "sound": "i-li-y-o-pi-ta"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sikuzingatia",
+          "meaning": "i didn't pay attention",
+          "sound": "si-ku-zin-ga-ti-a"
+        },
+        {
+          "word": "sana",
+          "meaning": "very much",
+          "sound": "sa-na"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilidhani",
+          "meaning": "i thought",
+          "sound": "ni-lid-ha-ni"
+        },
+        {
+          "word": "kutakuwa",
+          "meaning": "there will be",
+          "sound": "ku-ta-ku-wa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "fursa",
+          "meaning": "opportunity",
+          "sound": "fur-sa"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aliacha",
+          "meaning": "he stopped",
+          "sound": "a-li-ac-ha"
+        },
+        {
+          "word": "mambo",
+          "meaning": "things",
+          "sound": "mam-bo"
+        },
+        {
+          "word": "mengi",
+          "meaning": "a lot",
+          "sound": "men-gi"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "ajili",
+          "meaning": "for",
+          "sound": "a-ji-li"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "baadaye",
+          "meaning": "later on",
+          "sound": "ba-a-da-y-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "moja",
+          "meaning": "one",
+          "sound": "mo-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "rafiki",
+          "meaning": "a friend",
+          "sound": "ra-fi-ki"
+        },
+        {
+          "word": "aliniambia",
+          "meaning": "he told me",
+          "sound": "a-li-ni-am-bi-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Muda",
+          "meaning": "time",
+          "sound": "mu-da"
+        },
+        {
+          "word": "haungojei",
+          "meaning": "you don't wait",
+          "sound": "ha-un-go-je-i"
+        },
+        {
+          "word": "mtu",
+          "meaning": "a person",
+          "sound": "mtu"
+        },
+        {
+          "word": "yeyote",
+          "meaning": "whoever",
+          "sound": "y-e-y-o-te"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Maneno",
+          "meaning": "words",
+          "sound": "ma-ne-no"
+        },
+        {
+          "word": "hayo",
+          "meaning": "that",
+          "sound": "ha-y-o"
+        },
+        {
+          "word": "yalikaa",
+          "meaning": "it stayed",
+          "sound": "y-a-li-ka-a"
+        },
+        {
+          "word": "akilini",
+          "meaning": "in mind",
+          "sound": "a-ki-li-ni"
+        },
+        {
+          "word": "mwangu",
+          "meaning": "mine",
+          "sound": "mwan-gu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tangu",
+          "meaning": "since",
+          "sound": "tan-gu"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "huo",
+          "meaning": "that",
+          "sound": "hu-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilianza",
+          "meaning": "i started",
+          "sound": "ni-li-an-za"
+        },
+        {
+          "word": "kuthamini",
+          "meaning": "appreciate",
+          "sound": "kut-ha-mi-ni"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilijifunza",
+          "meaning": "i learned",
+          "sound": "ni-li-ji-fun-za"
+        },
+        {
+          "word": "kupanga",
+          "meaning": "to arrange",
+          "sound": "ku-pan-ga"
+        },
+        {
+          "word": "siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kutanguliza",
+          "meaning": "prioritize",
+          "sound": "ku-tan-gu-li-za"
+        },
+        {
+          "word": "kile",
+          "meaning": "what",
+          "sound": "ki-le"
+        },
+        {
+          "word": "ambacho",
+          "meaning": "which",
+          "sound": "am-bac-ho"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "muhimu",
+          "meaning": "important",
+          "sound": "mu-hi-mu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilielewa",
+          "meaning": "i understood",
+          "sound": "ni-li-e-le-wa"
+        },
+        {
+          "word": "pia",
+          "meaning": "too",
+          "sound": "pi-a"
+        },
+        {
+          "word": "kuwa",
+          "meaning": "to be",
+          "sound": "ku-wa"
+        },
+        {
+          "word": "sio",
+          "meaning": "it is not",
+          "sound": "si-o"
+        },
+        {
+          "word": "lazima",
+          "meaning": "must",
+          "sound": "la-zi-ma"
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "kitu",
+          "meaning": "something",
+          "sound": "ki-tu"
+        },
+        {
+          "word": "kiwe",
+          "meaning": "be",
+          "sound": "ki-we"
+        },
+        {
+          "word": "kamili",
+          "meaning": "complete",
+          "sound": "ka-mi-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ninajaribu",
+          "meaning": "i'm trying",
+          "sound": "ni-na-ja-ri-bu"
+        },
+        {
+          "word": "kuishi",
+          "meaning": "to live",
+          "sound": "ku-is-hi"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "ufahamu",
+          "meaning": "understanding",
+          "sound": "u-fa-ha-mu"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "sababu",
+          "meaning": "reason",
+          "sound": "sa-ba-bu"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "ndio",
+          "meaning": "yes",
+          "sound": "ndi-o"
+        },
+        {
+          "word": "kitu",
+          "meaning": "something",
+          "sound": "ki-tu"
+        },
+        {
+          "word": "chenye",
+          "meaning": "with",
+          "sound": "che-ny-e"
+        },
+        {
+          "word": "thamani",
+          "meaning": "value",
+          "sound": "tha-ma-ni"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": "tulicho",
+          "meaning": "what we are",
+          "sound": "tu-lic-ho"
+        },
+        {
+          "word": "nacho",
+          "meaning": "with it",
+          "sound": "nac-ho"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Maamuzi yanayobadilisha maisha",
+      "content": [
+        {
+          "word": "Wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "mwingine",
+          "meaning": "another",
+          "sound": "mwin-gi-ne"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "mimi",
+          "meaning": "me",
+          "sound": "mi-mi"
+        },
+        {
+          "word": "hufikiria",
+          "meaning": "thinks",
+          "sound": "hu-fi-ki-ri-a"
+        },
+        {
+          "word": "juu",
+          "meaning": "up",
+          "sound": "ju-u"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "maamuzi",
+          "meaning": "decisions",
+          "sound": "ma-a-mu-zi"
+        },
+        {
+          "word": "niliyofanya",
+          "meaning": "what i did",
+          "sound": "ni-li-y-o-fa-ny-a"
+        },
+        {
+          "word": "hapo",
+          "meaning": "there",
+          "sound": "ha-po"
+        },
+        {
+          "word": "awali",
+          "meaning": "originally",
+          "sound": "a-wa-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Baadhi",
+          "meaning": "some",
+          "sound": "ba-ad-hi"
+        },
+        {
+          "word": "walikuwa",
+          "meaning": "they were",
+          "sound": "wa-li-ku-wa"
+        },
+        {
+          "word": "sahihi",
+          "meaning": "correct",
+          "sound": "sa-hi-hi"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "wengine",
+          "meaning": "others",
+          "sound": "wen-gi-ne"
+        },
+        {
+          "word": "hawakuwa",
+          "meaning": "they weren't",
+          "sound": "ha-wa-ku-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "mwingine",
+          "meaning": "another",
+          "sound": "mwin-gi-ne"
+        },
+        {
+          "word": "huwa",
+          "meaning": "always",
+          "sound": "hu-wa"
+        },
+        {
+          "word": "najiuliza",
+          "meaning": "i wonder",
+          "sound": "na-ji-u-li-za"
+        },
+        {
+          "word": "nini",
+          "meaning": "what",
+          "sound": "ni-ni"
+        },
+        {
+          "word": "kingetokea",
+          "meaning": "would happen",
+          "sound": "kin-ge-to-ke-a"
+        },
+        {
+          "word": "ikiwa",
+          "meaning": "if",
+          "sound": "i-ki-wa"
+        },
+        {
+          "word": "ningechagua",
+          "meaning": "i would choose",
+          "sound": "nin-gec-ha-gu-a"
+        },
+        {
+          "word": "njia",
+          "meaning": "way",
+          "sound": "nji-a"
+        },
+        {
+          "word": "nyingine",
+          "meaning": "another",
+          "sound": "ny-in-gi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Labda",
+          "meaning": "maybe",
+          "sound": "lab-da"
+        },
+        {
+          "word": "ningekuwa",
+          "meaning": "i would be",
+          "sound": "nin-ge-ku-wa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "mafanikio",
+          "meaning": "success",
+          "sound": "ma-fa-ni-ki-o"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "au",
+          "meaning": "or",
+          "sound": "au"
+        },
+        {
+          "word": "labda",
+          "meaning": "maybe",
+          "sound": "lab-da"
+        },
+        {
+          "word": "ningejifunza",
+          "meaning": "i would learn",
+          "sound": "nin-ge-ji-fun-za"
+        },
+        {
+          "word": "kidogo",
+          "meaning": "a little",
+          "sound": "ki-do-go"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hata",
+          "meaning": "even",
+          "sound": "ha-ta"
+        },
+        {
+          "word": "hivyo",
+          "meaning": "so",
+          "sound": "hi-vy-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nimeelewa",
+          "meaning": "i understand",
+          "sound": "ni-me-e-le-wa"
+        },
+        {
+          "word": "kwamba",
+          "meaning": "that",
+          "sound": "kwam-ba"
+        },
+        {
+          "word": "hakuna",
+          "meaning": "there is none",
+          "sound": "ha-ku-na"
+        },
+        {
+          "word": "maana",
+          "meaning": "meaning",
+          "sound": "ma-a-na"
+        },
+        {
+          "word": "katika",
+          "meaning": "in",
+          "sound": "ka-ti-ka"
+        },
+        {
+          "word": "kuishi",
+          "meaning": "to live",
+          "sound": "ku-is-hi"
+        },
+        {
+          "word": "zamani",
+          "meaning": "in the past",
+          "sound": "za-ma-ni"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kila",
+          "meaning": "every",
+          "sound": "ki-la"
+        },
+        {
+          "word": "uamuzi",
+          "meaning": "decision",
+          "sound": "u-a-mu-zi"
+        },
+        {
+          "word": "umenifunza",
+          "meaning": "you have taught me",
+          "sound": "u-me-ni-fun-za"
+        },
+        {
+          "word": "kitu",
+          "meaning": "something",
+          "sound": "ki-tu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hata",
+          "meaning": "even",
+          "sound": "ha-ta"
+        },
+        {
+          "word": "makosa",
+          "meaning": "mistakes",
+          "sound": "ma-ko-sa"
+        },
+        {
+          "word": "yamekuwa",
+          "meaning": "have been",
+          "sound": "y-a-me-ku-wa"
+        },
+        {
+          "word": "mafunzo",
+          "meaning": "training",
+          "sound": "ma-fun-zo"
+        },
+        {
+          "word": "muhimu",
+          "meaning": "important",
+          "sound": "mu-hi-mu"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Leo",
+          "meaning": "today",
+          "sound": "le-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ninajaribu",
+          "meaning": "i'm trying",
+          "sound": "ni-na-ja-ri-bu"
+        },
+        {
+          "word": "kufanya",
+          "meaning": "to do",
+          "sound": "ku-fa-ny-a"
+        },
+        {
+          "word": "maamuzi",
+          "meaning": "decisions",
+          "sound": "ma-a-mu-zi"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "ufahamu",
+          "meaning": "understanding",
+          "sound": "u-fa-ha-mu"
+        },
+        {
+          "word": "zaidi",
+          "meaning": "more",
+          "sound": "za-i-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siwezi",
+          "meaning": "i can't",
+          "sound": "si-we-zi"
+        },
+        {
+          "word": "kubadilisha",
+          "meaning": "change",
+          "sound": "ku-ba-di-lis-ha"
+        },
+        {
+          "word": "kile",
+          "meaning": "what",
+          "sound": "ki-le"
+        },
+        {
+          "word": "ambacho",
+          "meaning": "which",
+          "sound": "am-bac-ho"
+        },
+        {
+          "word": "tayari",
+          "meaning": "already",
+          "sound": "ta-y-a-ri"
+        },
+        {
+          "word": "kimetokea",
+          "meaning": "has happened",
+          "sound": "ki-me-to-ke-a"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "ninaweza",
+          "meaning": "i can",
+          "sound": "ni-na-we-za"
+        },
+        {
+          "word": "kuamua",
+          "meaning": "to decide",
+          "sound": "ku-a-mu-a"
+        },
+        {
+          "word": "maisha",
+          "meaning": "life",
+          "sound": "ma-is-ha"
+        },
+        {
+          "word": "yangu",
+          "meaning": "mine",
+          "sound": "y-an-gu"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "baadaye",
+          "meaning": "later on",
+          "sound": "ba-a-da-y-e"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "Sauti ya ndani",
+      "content": [
+        {
+          "word": "Kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "muda",
+          "meaning": "time",
+          "sound": "mu-da"
+        },
+        {
+          "word": "mrefu",
+          "meaning": "tall",
+          "sound": "mre-fu"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "niliishi",
+          "meaning": "i lived",
+          "sound": "ni-li-is-hi"
+        },
+        {
+          "word": "kulingana",
+          "meaning": "according to",
+          "sound": "ku-lin-ga-na"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "matarajio",
+          "meaning": "expectations",
+          "sound": "ma-ta-ra-ji-o"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "wengine",
+          "meaning": "others",
+          "sound": "wen-gi-ne"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Niliamini",
+          "meaning": "i believed",
+          "sound": "ni-li-a-mi-ni"
+        },
+        {
+          "word": "hiyo",
+          "meaning": "that",
+          "sound": "hi-y-o"
+        },
+        {
+          "word": "ndiyo",
+          "meaning": "yes",
+          "sound": "ndi-y-o"
+        },
+        {
+          "word": "njia",
+          "meaning": "way",
+          "sound": "nji-a"
+        },
+        {
+          "word": "sahihi",
+          "meaning": "correct",
+          "sound": "sa-hi-hi"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Walakini",
+          "meaning": "however",
+          "sound": "wa-la-ki-ni"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ndani",
+          "meaning": "inside",
+          "sound": "nda-ni"
+        },
+        {
+          "word": "kabisa",
+          "meaning": "absolutely",
+          "sound": "ka-bi-sa"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "kila",
+          "meaning": "each",
+          "sound": "ki-la"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "kulikuwa",
+          "meaning": "there was",
+          "sound": "ku-li-ku-wa"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "sauti",
+          "meaning": "sound",
+          "sound": "sa-u-ti"
+        },
+        {
+          "word": "ikiniambia",
+          "meaning": "telling me",
+          "sound": "i-ki-ni-am-bi-a"
+        },
+        {
+          "word": "kuwa",
+          "meaning": "to be",
+          "sound": "ku-wa"
+        },
+        {
+          "word": "kuna",
+          "meaning": "there is",
+          "sound": "ku-na"
+        },
+        {
+          "word": "kitu",
+          "meaning": "something",
+          "sound": "ki-tu"
+        },
+        {
+          "word": "hakikuwa",
+          "meaning": "it wasn't",
+          "sound": "ha-ki-ku-wa"
+        },
+        {
+          "word": "sawa",
+          "meaning": "okay",
+          "sound": "sa-wa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Nilijaribu",
+          "meaning": "i tried",
+          "sound": "ni-li-ja-ri-bu"
+        },
+        {
+          "word": "kupuuza",
+          "meaning": "ignore",
+          "sound": "ku-pu-u-za"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "iliendelea",
+          "meaning": "it continued",
+          "sound": "i-li-en-de-le-a"
+        },
+        {
+          "word": "kupata",
+          "meaning": "get",
+          "sound": "ku-pa-ta"
+        },
+        {
+          "word": "sauti",
+          "meaning": "sound",
+          "sound": "sa-u-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Siku",
+          "meaning": "day",
+          "sound": "si-ku"
+        },
+        {
+          "word": "moja",
+          "meaning": "one",
+          "sound": "mo-ja"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilisimama",
+          "meaning": "i stood up",
+          "sound": "ni-li-si-ma-ma"
+        },
+        {
+          "word": "na",
+          "meaning": "and",
+          "sound": "na"
+        },
+        {
+          "word": "kujiuliza",
+          "meaning": "wondering",
+          "sound": "ku-ji-u-li-za"
+        },
+        {
+          "word": "nilitaka",
+          "meaning": "i wanted",
+          "sound": "ni-li-ta-ka"
+        },
+        {
+          "word": "nini",
+          "meaning": "what",
+          "sound": "ni-ni"
+        },
+        {
+          "word": "hasa",
+          "meaning": "especially",
+          "sound": "ha-sa"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Jibu",
+          "meaning": "answer",
+          "sound": "ji-bu"
+        },
+        {
+          "word": "halikuwa",
+          "meaning": "it wasn't",
+          "sound": "ha-li-ku-wa"
+        },
+        {
+          "word": "la",
+          "meaning": "no",
+          "sound": "la"
+        },
+        {
+          "word": "haraka",
+          "meaning": "quickly",
+          "sound": "ha-ra-ka"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "lakini",
+          "meaning": "but",
+          "sound": "la-ki-ni"
+        },
+        {
+          "word": "kwa",
+          "meaning": "for",
+          "sound": "kwa"
+        },
+        {
+          "word": "mara",
+          "meaning": "times",
+          "sound": "ma-ra"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "kwanza",
+          "meaning": "first",
+          "sound": "kwan-za"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nilihisi",
+          "meaning": "i felt it",
+          "sound": "ni-li-hi-si"
+        },
+        {
+          "word": "kama",
+          "meaning": "like",
+          "sound": "ka-ma"
+        },
+        {
+          "word": "alikuwa",
+          "meaning": "he was",
+          "sound": "a-li-ku-wa"
+        },
+        {
+          "word": "akinisikiliza",
+          "meaning": "listening to me",
+          "sound": "a-ki-ni-si-ki-li-za"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tangu",
+          "meaning": "since",
+          "sound": "tan-gu"
+        },
+        {
+          "word": "wakati",
+          "meaning": "time",
+          "sound": "wa-ka-ti"
+        },
+        {
+          "word": "huo",
+          "meaning": "that",
+          "sound": "hu-o"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "nimejifunza",
+          "meaning": "i have learned",
+          "sound": "ni-me-ji-fun-za"
+        },
+        {
+          "word": "kwamba",
+          "meaning": "that",
+          "sound": "kwam-ba"
+        },
+        {
+          "word": "sauti",
+          "meaning": "sound",
+          "sound": "sa-u-ti"
+        },
+        {
+          "word": "ya",
+          "meaning": "of",
+          "sound": "ya"
+        },
+        {
+          "word": "ndani",
+          "meaning": "inside",
+          "sound": "nda-ni"
+        },
+        {
+          "word": "sio",
+          "meaning": "it is not",
+          "sound": "si-o"
+        },
+        {
+          "word": "kikwazo",
+          "meaning": "obstacle",
+          "sound": "kik-wa-zo"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bali",
+          "meaning": "but",
+          "sound": "ba-li"
+        },
+        {
+          "word": "ni",
+          "meaning": "it is",
+          "sound": "ni"
+        },
+        {
+          "word": "mwongozo",
+          "meaning": "guidance",
+          "sound": "mwon-go-zo"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "swahili": {
+        "present": [
+          "Ninakula",
+          "tufaha"
+        ],
+        "past": [
+          "Nilikula",
+          "tufaha"
+        ],
+        "future": [
+          "Nitakula",
+          "tufaha"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "swahili": {
+        "present": [
+          "Anasoma",
+          "kitabu"
+        ],
+        "past": [
+          "Alisoma",
+          "kitabu"
+        ],
+        "future": [
+          "Atasoma",
+          "kitabu"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "swahili": {
+        "present": [
+          "Tunaenda",
+          "shule"
+        ],
+        "past": [
+          "Tulienda",
+          "shule"
+        ],
+        "future": [
+          "Tutaenda",
+          "shule"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "swahili": {
+        "present": [
+          "Anakunywa",
+          "maji"
+        ],
+        "past": [
+          "Alikunywa",
+          "maji"
+        ],
+        "future": [
+          "Atakunywa",
+          "maji"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "swahili": {
+        "present": [
+          "Wanacheza",
+          "mpira",
+          "wa",
+          "miguu"
+        ],
+        "past": [
+          "Walicheza",
+          "mpira",
+          "wa",
+          "miguu"
+        ],
+        "future": [
+          "Watacheza",
+          "soka"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "swahili": {
+        "present": [
+          "Ninaandika",
+          "barua"
+        ],
+        "past": [
+          "Niliandika",
+          "barua"
+        ],
+        "future": [
+          "Nitaandika",
+          "barua"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "swahili": {
+        "present": [
+          "Anakula",
+          "wali"
+        ],
+        "past": [
+          "Alikula",
+          "wali"
+        ],
+        "future": [
+          "Atakula",
+          "wali"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "swahili": {
+        "present": [
+          "Tunatazama",
+          "filamu"
+        ],
+        "past": [
+          "Tulitazama",
+          "filamu"
+        ],
+        "future": [
+          "Tutatazama",
+          "filamu"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "swahili": {
+        "present": [
+          "Anafungua",
+          "mlango"
+        ],
+        "past": [
+          "Akafungua",
+          "mlango"
+        ],
+        "future": [
+          "Atafungua",
+          "mlango"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "swahili": {
+        "present": [
+          "Wananunua",
+          "chakula"
+        ],
+        "past": [
+          "Walinunua",
+          "chakula"
+        ],
+        "future": [
+          "Watanunua",
+          "chakula"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "swahili": {
+        "present": [
+          "Ninakula",
+          "tufaha",
+          "na",
+          "kunywa",
+          "maji"
+        ],
+        "past": [
+          "Nilikula",
+          "tufaha",
+          "na",
+          "kunywa",
+          "maji"
+        ],
+        "future": [
+          "Nitakula",
+          "tufaha",
+          "na",
+          "kunywa",
+          "maji"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "swahili": {
+        "present": [
+          "Anasoma",
+          "kitabu",
+          "kwa",
+          "sababu",
+          "anapenda",
+          "hadithi"
+        ],
+        "past": [
+          "Alisoma",
+          "kitabu",
+          "kwa",
+          "sababu",
+          "alipenda",
+          "hadithi"
+        ],
+        "future": [
+          "Atasoma",
+          "kitabu",
+          "kwa",
+          "sababu",
+          "anapenda",
+          "hadithi"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "swahili": {
+        "present": [
+          "Tunaenda",
+          "shule",
+          "na",
+          "kusoma",
+          "pamoja"
+        ],
+        "past": [
+          "Tulienda",
+          "shule",
+          "na",
+          "kusoma",
+          "pamoja"
+        ],
+        "future": [
+          "Tutaenda",
+          "shule",
+          "na",
+          "kusoma",
+          "pamoja"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "swahili": {
+        "present": [
+          "Anakunywa",
+          "maji",
+          "lakini",
+          "anakula",
+          "chakula",
+          "cha",
+          "haraka"
+        ],
+        "past": [
+          "Alikunywa",
+          "maji",
+          "lakini",
+          "alikula",
+          "chakula",
+          "cha",
+          "haraka"
+        ],
+        "future": [
+          "Atakunywa",
+          "maji",
+          "lakini",
+          "atakula",
+          "chakula",
+          "cha",
+          "haraka"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "swahili": {
+        "present": [
+          "Wanacheza",
+          "mpira",
+          "wa",
+          "miguu",
+          "na",
+          "kukimbia",
+          "kwenye",
+          "bustani"
+        ],
+        "past": [
+          "Walicheza",
+          "mpira",
+          "wa",
+          "miguu",
+          "na",
+          "kukimbia",
+          "kwenye",
+          "bustani"
+        ],
+        "future": [
+          "Watacheza",
+          "mpira",
+          "wa",
+          "miguu",
+          "na",
+          "kukimbia",
+          "kwenye",
+          "bustani"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "swahili": {
+        "present": [
+          "Ninaandika",
+          "barua",
+          "kwa",
+          "sababu",
+          "ninakukosa"
+        ],
+        "past": [
+          "Niliandika",
+          "barua",
+          "kwa",
+          "sababu",
+          "nilikukosa"
+        ],
+        "future": [
+          "Nitaandika",
+          "barua",
+          "kwa",
+          "sababu",
+          "nimekukosa"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "swahili": {
+        "present": [
+          "Anakula",
+          "wali",
+          "na",
+          "kupika",
+          "kila",
+          "siku"
+        ],
+        "past": [
+          "Alikula",
+          "wali",
+          "na",
+          "kupika",
+          "kila",
+          "siku"
+        ],
+        "future": [
+          "Atakula",
+          "wali",
+          "na",
+          "kupika",
+          "kila",
+          "siku"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "swahili": {
+        "present": [
+          "Tunatazama",
+          "sinema",
+          "lakini",
+          "tunachelewa",
+          "kulala"
+        ],
+        "past": [
+          "Tulitazama",
+          "filamu",
+          "lakini",
+          "tulichelewa",
+          "kulala"
+        ],
+        "future": [
+          "Tutatazama",
+          "filamu",
+          "lakini",
+          "tutachelewa",
+          "kulala"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "swahili": {
+        "present": [
+          "Anafungua",
+          "mlango",
+          "na",
+          "kuwasalimia",
+          "watu"
+        ],
+        "past": [
+          "Alifungua",
+          "mlango",
+          "na",
+          "kuwasalimia",
+          "watu"
+        ],
+        "future": [
+          "Atafungua",
+          "mlango",
+          "na",
+          "kusalimia",
+          "watu"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "swahili": {
+        "present": [
+          "Wananunua",
+          "chakula",
+          "kwa",
+          "sababu",
+          "wana",
+          "njaa"
+        ],
+        "past": [
+          "Walinunua",
+          "chakula",
+          "kwa",
+          "sababu",
+          "walikuwa",
+          "na",
+          "njaa"
+        ],
+        "future": [
+          "Watanunua",
+          "chakula",
+          "kwa",
+          "sababu",
+          "wana",
+          "njaa"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "swahili": {
+        "present": [
+          "Ninakula",
+          "kifungua",
+          "kinywa",
+          "asubuhi"
+        ],
+        "past": [
+          "Nilikula",
+          "kifungua",
+          "kinywa",
+          "asubuhi"
+        ],
+        "future": [
+          "Nitakula",
+          "kifungua",
+          "kinywa",
+          "asubuhi"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "swahili": {
+        "present": [
+          "Anasoma",
+          "nyumbani",
+          "kila",
+          "siku"
+        ],
+        "past": [
+          "Alisoma",
+          "nyumbani",
+          "kila",
+          "siku"
+        ],
+        "future": [
+          "Atasoma",
+          "nyumbani",
+          "kila",
+          "siku"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "swahili": {
+        "present": [
+          "Tunatembea",
+          "kwenye",
+          "bustani",
+          "jioni"
+        ],
+        "past": [
+          "Tulitembea",
+          "kwenye",
+          "bustani",
+          "jioni"
+        ],
+        "future": [
+          "Tutatembea",
+          "kwenye",
+          "bustani",
+          "jioni"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "swahili": {
+        "present": [
+          "Anafanya",
+          "kazi",
+          "katika",
+          "ofisi",
+          "moja",
+          "mjini"
+        ],
+        "past": [
+          "Alifanya",
+          "kazi",
+          "katika",
+          "ofisi",
+          "moja",
+          "mjini"
+        ],
+        "future": [
+          "Atafanya",
+          "kazi",
+          "katika",
+          "ofisi",
+          "mjini"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "swahili": {
+        "present": [
+          "Wanasafiri",
+          "kwenda",
+          "nchi",
+          "nyingine",
+          "kila",
+          "mwaka"
+        ],
+        "past": [
+          "Walisafiri",
+          "kwenda",
+          "nchi",
+          "nyingine",
+          "kila",
+          "mwaka"
+        ],
+        "future": [
+          "Watasafiri",
+          "kwenda",
+          "nchi",
+          "nyingine",
+          "kila",
+          "mwaka"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "swahili": {
+        "present": [
+          "Nilisoma",
+          "kitabu",
+          "usiku",
+          "kabla",
+          "ya",
+          "kulala"
+        ],
+        "past": [
+          "Nilisoma",
+          "kitabu",
+          "usiku",
+          "kabla",
+          "ya",
+          "kulala"
+        ],
+        "future": [
+          "Nitasoma",
+          "kitabu",
+          "usiku",
+          "kabla",
+          "ya",
+          "kulala"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "swahili": {
+        "present": [
+          "Anakunywa",
+          "kahawa",
+          "asubuhi",
+          "nyumbani"
+        ],
+        "past": [
+          "Alikunywa",
+          "kahawa",
+          "asubuhi",
+          "nyumbani"
+        ],
+        "future": [
+          "Atakunywa",
+          "kahawa",
+          "asubuhi",
+          "nyumbani"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "swahili": {
+        "present": [
+          "Tunakutana",
+          "na",
+          "marafiki",
+          "kwenye",
+          "mgahawa",
+          "usiku",
+          "wa",
+          "leo"
+        ],
+        "past": [
+          "Tulikutana",
+          "na",
+          "marafiki",
+          "kwenye",
+          "mgahawa",
+          "usiku",
+          "wa",
+          "leo"
+        ],
+        "future": [
+          "Tutakutana",
+          "na",
+          "marafiki",
+          "kwenye",
+          "mgahawa",
+          "leo",
+          "usiku"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "swahili": {
+        "present": [
+          "Anasoma",
+          "Kihispania",
+          "shuleni",
+          "kila",
+          "siku"
+        ],
+        "past": [
+          "Alisoma",
+          "Kihispania",
+          "shuleni",
+          "kila",
+          "siku"
+        ],
+        "future": [
+          "Atasoma",
+          "Kihispania",
+          "shuleni",
+          "kila",
+          "siku"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "swahili": {
+        "present": [
+          "Wanatazama",
+          "televisheni",
+          "jioni",
+          "nyumbani"
+        ],
+        "past": [
+          "Walitazama",
+          "televisheni",
+          "jioni",
+          "nyumbani"
+        ],
+        "future": [
+          "Watatazama",
+          "televisheni",
+          "jioni",
+          "nyumbani"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "swahili": {
+        "present": [
+          "Napenda",
+          "muziki",
+          "huu"
+        ],
+        "past": [
+          "Nilipenda",
+          "muziki",
+          "huu"
+        ],
+        "future": [
+          "Nitapenda",
+          "muziki",
+          "huu"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "swahili": {
+        "present": [
+          "Anahisi",
+          "furaha",
+          "leo"
+        ],
+        "past": [
+          "Alijisikia",
+          "furaha",
+          "leo"
+        ],
+        "future": [
+          "Atajisikia",
+          "furaha",
+          "leo"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "swahili": {
+        "present": [
+          "Tunadhani",
+          "wazo",
+          "hili",
+          "ni",
+          "zuri"
+        ],
+        "past": [
+          "Tulifikiri",
+          "wazo",
+          "hili",
+          "lilikuwa",
+          "zuri"
+        ],
+        "future": [
+          "Tutafikiri",
+          "wazo",
+          "hili",
+          "ni",
+          "zuri"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "swahili": {
+        "present": [
+          "Anataka",
+          "kujifunza",
+          "Kihispania"
+        ],
+        "past": [
+          "Alitaka",
+          "kujifunza",
+          "Kihispania"
+        ],
+        "future": [
+          "Atataka",
+          "kujifunza",
+          "Kihispania"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "swahili": {
+        "present": [
+          "Wanaipenda",
+          "familia",
+          "yao",
+          "sana"
+        ],
+        "past": [
+          "Waliipenda",
+          "sana",
+          "familia",
+          "yao"
+        ],
+        "future": [
+          "Wataipenda",
+          "familia",
+          "yao",
+          "sana"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "swahili": {
+        "present": [
+          "Ninahisi",
+          "uchovu",
+          "baada",
+          "ya",
+          "kazi"
+        ],
+        "past": [
+          "Nilihisi",
+          "uchovu",
+          "baada",
+          "ya",
+          "kazi"
+        ],
+        "future": [
+          "Nitahisi",
+          "uchovu",
+          "baada",
+          "ya",
+          "kazi"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "swahili": {
+        "present": [
+          "Anajiamini"
+        ],
+        "past": [
+          "Alijiamini"
+        ],
+        "future": [
+          "Atajiamini",
+          "mwenyewe"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "swahili": {
+        "present": [
+          "Tunapenda",
+          "kusafiri",
+          "pamoja"
+        ],
+        "past": [
+          "Tulipenda",
+          "kusafiri",
+          "pamoja"
+        ],
+        "future": [
+          "Tutapenda",
+          "kusafiri",
+          "pamoja"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "swahili": {
+        "present": [
+          "Anafikiria",
+          "juu",
+          "ya",
+          "maisha",
+          "yake",
+          "ya",
+          "baadaye"
+        ],
+        "past": [
+          "Alifikiria",
+          "kuhusu",
+          "maisha",
+          "yake",
+          "ya",
+          "baadaye"
+        ],
+        "future": [
+          "Atafikiria",
+          "juu",
+          "ya",
+          "maisha",
+          "yake",
+          "ya",
+          "baadaye"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "swahili": {
+        "present": [
+          "Wanahisi",
+          "kufurahishwa",
+          "na",
+          "safari"
+        ],
+        "past": [
+          "Walihisi",
+          "kufurahishwa",
+          "na",
+          "safari",
+          "hiyo"
+        ],
+        "future": [
+          "Watajisikia",
+          "msisimko",
+          "kuhusu",
+          "safari"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "swahili": {
+        "present": [
+          "Ninajaribu",
+          "kuboresha",
+          "kila",
+          "siku"
+        ],
+        "past": [
+          "Nilijaribu",
+          "kuboresha",
+          "kila",
+          "siku"
+        ],
+        "future": [
+          "Nitajaribu",
+          "kuboresha",
+          "kila",
+          "siku"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "swahili": {
+        "present": [
+          "Anataka",
+          "kufikia",
+          "malengo",
+          "yake"
+        ],
+        "past": [
+          "Alitaka",
+          "kufikia",
+          "malengo",
+          "yake"
+        ],
+        "future": [
+          "Atataka",
+          "kufikia",
+          "malengo",
+          "yake"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "swahili": {
+        "present": [
+          "Tunajifunza",
+          "kutokana",
+          "na",
+          "makosa",
+          "yetu"
+        ],
+        "past": [
+          "Tulijifunza",
+          "kutokana",
+          "na",
+          "makosa",
+          "yetu"
+        ],
+        "future": [
+          "Tutajifunza",
+          "kutokana",
+          "na",
+          "makosa",
+          "yetu"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "swahili": {
+        "present": [
+          "Anafanya",
+          "kazi",
+          "kwa",
+          "bidii",
+          "ili",
+          "kujenga",
+          "maisha",
+          "yake",
+          "ya",
+          "baadaye"
+        ],
+        "past": [
+          "Alifanya",
+          "kazi",
+          "kwa",
+          "bidii",
+          "ili",
+          "kujenga",
+          "maisha",
+          "yake",
+          "ya",
+          "baadaye"
+        ],
+        "future": [
+          "Atafanya",
+          "bidii",
+          "kujenga",
+          "maisha",
+          "yake",
+          "ya",
+          "baadaye"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "swahili": {
+        "present": [
+          "Wanaamini",
+          "kuwa",
+          "kila",
+          "kitu",
+          "kinawezekana"
+        ],
+        "past": [
+          "Waliamini",
+          "kuwa",
+          "kila",
+          "kitu",
+          "kinawezekana"
+        ],
+        "future": [
+          "Wataamini",
+          "kuwa",
+          "kila",
+          "kitu",
+          "kinawezekana"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "swahili": {
+        "present": [
+          "Ninafikiria",
+          "maisha",
+          "yangu",
+          "ya",
+          "baadaye",
+          "kila",
+          "usiku"
+        ],
+        "past": [
+          "Nilifikiria",
+          "maisha",
+          "yangu",
+          "ya",
+          "baadaye",
+          "kila",
+          "usiku"
+        ],
+        "future": [
+          "Nitafikiria",
+          "juu",
+          "ya",
+          "maisha",
+          "yangu",
+          "ya",
+          "baadaye",
+          "kila",
+          "usiku"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "swahili": {
+        "present": [
+          "Anajaribu",
+          "kukaa",
+          "chanya",
+          "katika",
+          "nyakati",
+          "ngumu"
+        ],
+        "past": [
+          "Alijaribu",
+          "kukaa",
+          "chanya",
+          "katika",
+          "nyakati",
+          "ngumu"
+        ],
+        "future": [
+          "Atajaribu",
+          "kukaa",
+          "chanya",
+          "katika",
+          "nyakati",
+          "ngumu"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "swahili": {
+        "present": [
+          "Tunataka",
+          "kuishi",
+          "maisha",
+          "yenye",
+          "maana"
+        ],
+        "past": [
+          "Tulitaka",
+          "kuishi",
+          "maisha",
+          "yenye",
+          "maana"
+        ],
+        "future": [
+          "Tutataka",
+          "kuishi",
+          "maisha",
+          "yenye",
+          "maana"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "swahili": {
+        "present": [
+          "Anaelewa",
+          "kuwa",
+          "mabadiliko",
+          "huchukua",
+          "muda"
+        ],
+        "past": [
+          "Alielewa",
+          "kuwa",
+          "mabadiliko",
+          "yalichukua",
+          "muda"
+        ],
+        "future": [
+          "Ataelewa",
+          "kuwa",
+          "mabadiliko",
+          "huchukua",
+          "muda"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "swahili": {
+        "present": [
+          "Wanaamua",
+          "kufuata",
+          "ndoto",
+          "zao"
+        ],
+        "past": [
+          "Waliamua",
+          "kufuata",
+          "ndoto",
+          "zao"
+        ],
+        "future": [
+          "Wataamua",
+          "kufuata",
+          "ndoto",
+          "zao"
+        ]
+      }
+    }
+  ]
+}

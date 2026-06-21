@@ -1,0 +1,6596 @@
+{
+  "language": "Turkish",
+  "stories": {
+    "story1": {
+      "title": "kafede",
+      "content": [
+        {
+          "word": "Her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "sabah",
+          "meaning": "morning",
+          "sound": "sa-bah"
+        },
+        {
+          "word": "küçük",
+          "meaning": "small",
+          "sound": "kü-çük"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kafeye",
+          "meaning": "to the cafe",
+          "sound": "ka-fe-y-e"
+        },
+        {
+          "word": "giderim",
+          "meaning": "i go",
+          "sound": "gi-de-rim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kafe",
+          "meaning": "cafe",
+          "sound": "ka-fe"
+        },
+        {
+          "word": "evime",
+          "meaning": "to my house",
+          "sound": "e-vi-me"
+        },
+        {
+          "word": "yakın",
+          "meaning": "close",
+          "sound": "y-a-kın"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "sessiz",
+          "meaning": "quiet",
+          "sound": "ses-siz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "zaman",
+          "meaning": "time",
+          "sound": "za-man"
+        },
+        {
+          "word": "pencerenin",
+          "meaning": "of the window",
+          "sound": "pen-ce-re-nin"
+        },
+        {
+          "word": "kenarına",
+          "meaning": "to the edge",
+          "sound": "ke-na-rı-na"
+        },
+        {
+          "word": "oturup",
+          "meaning": "sit down",
+          "sound": "o-tu-rup"
+        },
+        {
+          "word": "sıcak",
+          "meaning": "hot",
+          "sound": "sı-cak"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "fincan",
+          "meaning": "cup",
+          "sound": "fin-can"
+        },
+        {
+          "word": "kahve",
+          "meaning": "coffee",
+          "sound": "kah-ve"
+        },
+        {
+          "word": "sipariş",
+          "meaning": "order",
+          "sound": "si-pa-riş"
+        },
+        {
+          "word": "ederim",
+          "meaning": "i do",
+          "sound": "e-de-rim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Garson",
+          "meaning": "waiter",
+          "sound": "gar-son"
+        },
+        {
+          "word": "dost",
+          "meaning": "friend",
+          "sound": "dost"
+        },
+        {
+          "word": "canlısı",
+          "meaning": "lively",
+          "sound": "can-lı-sı"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "beni",
+          "meaning": "me",
+          "sound": "be-ni"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "zaman",
+          "meaning": "time",
+          "sound": "za-man"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "gülümsemeyle",
+          "meaning": "with a smile",
+          "sound": "gü-lüm-se-me-y-le"
+        },
+        {
+          "word": "karşılıyor",
+          "meaning": "welcomes",
+          "sound": "kar-şı-lı-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bazen",
+          "meaning": "sometimes",
+          "sound": "ba-zen"
+        },
+        {
+          "word": "ilginç",
+          "meaning": "interesting",
+          "sound": "il-ginç"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kitap",
+          "meaning": "book",
+          "sound": "ki-tap"
+        },
+        {
+          "word": "okurum",
+          "meaning": "i read",
+          "sound": "o-ku-rum"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bazen",
+          "meaning": "sometimes",
+          "sound": "ba-zen"
+        },
+        {
+          "word": "de",
+          "meaning": "also",
+          "sound": "de"
+        },
+        {
+          "word": "defterime",
+          "meaning": "to my notebook",
+          "sound": "def-te-ri-me"
+        },
+        {
+          "word": "yazarım",
+          "meaning": "i write",
+          "sound": "y-a-za-rım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "yeni",
+          "meaning": "new",
+          "sound": "y-e-ni"
+        },
+        {
+          "word": "birini",
+          "meaning": "someone",
+          "sound": "bi-ri-ni"
+        },
+        {
+          "word": "görüyorum",
+          "meaning": "i see",
+          "sound": "gö-rü-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Roman",
+          "meaning": "novel",
+          "sound": "ro-man"
+        },
+        {
+          "word": "okuyor",
+          "meaning": "reading",
+          "sound": "o-ku-y-or"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "çay",
+          "meaning": "tea",
+          "sound": "ça-y"
+        },
+        {
+          "word": "içiyor",
+          "meaning": "is drinking",
+          "sound": "i-çi-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Meraklıyım",
+          "meaning": "i'm curious",
+          "sound": "me-rak-lı-y-ım"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "biraz",
+          "meaning": "a little bit",
+          "sound": "bi-raz"
+        },
+        {
+          "word": "utanıyorum",
+          "meaning": "i'm ashamed",
+          "sound": "u-ta-nı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Birkaç",
+          "meaning": "several",
+          "sound": "bir-kaç"
+        },
+        {
+          "word": "dakika",
+          "meaning": "minutes",
+          "sound": "da-ki-ka"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "merhaba",
+          "meaning": "hello",
+          "sound": "mer-ha-ba"
+        },
+        {
+          "word": "diyorum",
+          "meaning": "i say",
+          "sound": "di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gülümseyerek",
+          "meaning": "smiling",
+          "sound": "gü-lüm-se-y-e-rek"
+        },
+        {
+          "word": "cevap",
+          "meaning": "answer",
+          "sound": "ce-vap"
+        },
+        {
+          "word": "verdi",
+          "meaning": "gave",
+          "sound": "ver-di"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "konuşmaya",
+          "meaning": "to talk",
+          "sound": "ko-nuş-ma-y-a"
+        },
+        {
+          "word": "başladık",
+          "meaning": "we started",
+          "sound": "baş-la-dık"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kendimi",
+          "meaning": "myself",
+          "sound": "ken-di-mi"
+        },
+        {
+          "word": "mutlu",
+          "meaning": "happy",
+          "sound": "mu-tlu"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "rahatlamış",
+          "meaning": "relieved",
+          "sound": "ra-ha-tla-mış"
+        },
+        {
+          "word": "hissediyorum",
+          "meaning": "i feel",
+          "sound": "his-se-di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story2": {
+      "title": "parkta",
+      "content": [
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "arkadaşımla",
+          "meaning": "with my friend",
+          "sound": "ar-ka-da-şım-la"
+        },
+        {
+          "word": "parka",
+          "meaning": "to the park",
+          "sound": "par-ka"
+        },
+        {
+          "word": "gideceğim",
+          "meaning": "i will go",
+          "sound": "gi-de-ce-ğim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hava",
+          "meaning": "weather",
+          "sound": "ha-va"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "güzel",
+          "meaning": "beautiful",
+          "sound": "gü-zel"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "güneş",
+          "meaning": "sun",
+          "sound": "gü-neş"
+        },
+        {
+          "word": "parlıyor",
+          "meaning": "it shines",
+          "sound": "par-lı-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yürüyen",
+          "meaning": "walking",
+          "sound": "y-ü-rü-y-en"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "gülen",
+          "meaning": "smiling",
+          "sound": "gü-len"
+        },
+        {
+          "word": "birçok",
+          "meaning": "many",
+          "sound": "bir-çok"
+        },
+        {
+          "word": "insan",
+          "meaning": "human",
+          "sound": "in-san"
+        },
+        {
+          "word": "görüyorum",
+          "meaning": "i see",
+          "sound": "gö-rü-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bazı",
+          "meaning": "some",
+          "sound": "ba-zı"
+        },
+        {
+          "word": "çocuklar",
+          "meaning": "kids",
+          "sound": "ço-cuk-lar"
+        },
+        {
+          "word": "topla",
+          "meaning": "collect",
+          "sound": "to-pla"
+        },
+        {
+          "word": "oynar",
+          "meaning": "plays",
+          "sound": "o-y-nar"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bazıları",
+          "meaning": "some",
+          "sound": "ba-zı-la-rı"
+        },
+        {
+          "word": "ise",
+          "meaning": "if",
+          "sound": "i-se"
+        },
+        {
+          "word": "hızlı",
+          "meaning": "fast",
+          "sound": "hız-lı"
+        },
+        {
+          "word": "koşar",
+          "meaning": "runs",
+          "sound": "ko-şar"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ben",
+          "meaning": "i",
+          "sound": "ben"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "arkadaşım",
+          "meaning": "my friend",
+          "sound": "ar-ka-da-şım"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "bankta",
+          "meaning": "on the bench",
+          "sound": "ban-kta"
+        },
+        {
+          "word": "oturuyorduk",
+          "meaning": "we were sitting",
+          "sound": "o-tu-ru-y-or-duk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hayatlarımızdan",
+          "meaning": "from our lives",
+          "sound": "ha-y-a-tla-rı-mız-dan"
+        },
+        {
+          "word": "bahsettik",
+          "meaning": "we mentioned",
+          "sound": "bah-set-tik"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "güldük",
+          "meaning": "we laughed",
+          "sound": "gül-dük"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "dondurma",
+          "meaning": "ice cream",
+          "sound": "don-dur-ma"
+        },
+        {
+          "word": "aldık",
+          "meaning": "we got",
+          "sound": "al-dık"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "basit",
+          "meaning": "simple",
+          "sound": "ba-sit"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "güzel",
+          "meaning": "beautiful",
+          "sound": "gü-zel"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story3": {
+      "title": "kütüphanede",
+      "content": [
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "kütüphaneye",
+          "meaning": "to the library",
+          "sound": "kü-tüp-ha-ne-y-e"
+        },
+        {
+          "word": "gidiyorum",
+          "meaning": "i'm going",
+          "sound": "gi-di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kitaplarla",
+          "meaning": "with books",
+          "sound": "ki-ta-plar-la"
+        },
+        {
+          "word": "dolu",
+          "meaning": "full",
+          "sound": "do-lu"
+        },
+        {
+          "word": "sessiz",
+          "meaning": "quiet",
+          "sound": "ses-siz"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "yer",
+          "meaning": "place",
+          "sound": "y-er"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Okumayı",
+          "meaning": "to read",
+          "sound": "o-ku-ma-y-ı"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "yeni",
+          "meaning": "new",
+          "sound": "y-e-ni"
+        },
+        {
+          "word": "şeyler",
+          "meaning": "things",
+          "sound": "şe-y-ler"
+        },
+        {
+          "word": "öğrenmeyi",
+          "meaning": "to learn",
+          "sound": "öğ-ren-me-y-i"
+        },
+        {
+          "word": "severim",
+          "meaning": "i like",
+          "sound": "se-ve-rim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Tarihle",
+          "meaning": "with date",
+          "sound": "ta-ri-hle"
+        },
+        {
+          "word": "ilgili",
+          "meaning": "related",
+          "sound": "il-gi-li"
+        },
+        {
+          "word": "ilginç",
+          "meaning": "interesting",
+          "sound": "il-ginç"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kitap",
+          "meaning": "book",
+          "sound": "ki-tap"
+        },
+        {
+          "word": "arıyorum",
+          "meaning": "i'm looking for",
+          "sound": "a-rı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "masaya",
+          "meaning": "on the table",
+          "sound": "ma-sa-y-a"
+        },
+        {
+          "word": "oturup",
+          "meaning": "sit down",
+          "sound": "o-tu-rup"
+        },
+        {
+          "word": "okumaya",
+          "meaning": "to read",
+          "sound": "o-ku-ma-y-a"
+        },
+        {
+          "word": "başlıyorum",
+          "meaning": "i'm starting",
+          "sound": "baş-lı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Okuyan",
+          "meaning": "reading",
+          "sound": "o-ku-y-an"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "yazan",
+          "meaning": "written by",
+          "sound": "y-a-zan"
+        },
+        {
+          "word": "başka",
+          "meaning": "else",
+          "sound": "baş-ka"
+        },
+        {
+          "word": "insanlar",
+          "meaning": "people",
+          "sound": "in-san-lar"
+        },
+        {
+          "word": "da",
+          "meaning": "also",
+          "sound": "da"
+        },
+        {
+          "word": "var",
+          "meaning": "there is",
+          "sound": "var"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Atmosfer",
+          "meaning": "atmosphere",
+          "sound": "at-mos-fer"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "sessiz",
+          "meaning": "quiet",
+          "sound": "ses-siz"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "süre",
+          "meaning": "duration",
+          "sound": "sü-re"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "kitabı",
+          "meaning": "book",
+          "sound": "ki-ta-bı"
+        },
+        {
+          "word": "kapatıyorum",
+          "meaning": "i'm closing",
+          "sound": "ka-pa-tı-y-o-rum"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "tatmin",
+          "meaning": "satisfaction",
+          "sound": "tat-min"
+        },
+        {
+          "word": "oluyorum",
+          "meaning": "i'm becoming",
+          "sound": "o-lu-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story4": {
+      "title": "mağazada",
+      "content": [
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "yiyecek",
+          "meaning": "food",
+          "sound": "y-i-y-e-cek"
+        },
+        {
+          "word": "almak",
+          "meaning": "get",
+          "sound": "al-mak"
+        },
+        {
+          "word": "için",
+          "meaning": "for",
+          "sound": "i-çin"
+        },
+        {
+          "word": "büyük",
+          "meaning": "big",
+          "sound": "bü-y-ük"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "mağazaya",
+          "meaning": "to the store",
+          "sound": "ma-ğa-za-y-a"
+        },
+        {
+          "word": "gideceğim",
+          "meaning": "i will go",
+          "sound": "gi-de-ce-ğim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ekmeğe",
+          "meaning": "to bread",
+          "sound": "ek-me-ğe"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "süte",
+          "meaning": "into milk",
+          "sound": "sü-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "meyveye",
+          "meaning": "to the fruit",
+          "sound": "me-y-ve-y-e"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "sebzeye",
+          "meaning": "to vegetables",
+          "sound": "seb-ze-y-e"
+        },
+        {
+          "word": "ihtiyacım",
+          "meaning": "i need",
+          "sound": "ih-ti-y-a-cım"
+        },
+        {
+          "word": "var",
+          "meaning": "there is",
+          "sound": "var"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mağaza",
+          "meaning": "store",
+          "sound": "ma-ğa-za"
+        },
+        {
+          "word": "insanlarla",
+          "meaning": "with people",
+          "sound": "in-san-lar-la"
+        },
+        {
+          "word": "dolu",
+          "meaning": "full",
+          "sound": "do-lu"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "fazla",
+          "meaning": "too much",
+          "sound": "faz-la"
+        },
+        {
+          "word": "gürültü",
+          "meaning": "noise",
+          "sound": "gü-rül-tü"
+        },
+        {
+          "word": "var",
+          "meaning": "there is",
+          "sound": "var"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Raflardaki",
+          "meaning": "on the shelves",
+          "sound": "ra-flar-da-ki"
+        },
+        {
+          "word": "ürünlere",
+          "meaning": "to products",
+          "sound": "ü-rün-le-re"
+        },
+        {
+          "word": "bakıyorum",
+          "meaning": "i'm looking",
+          "sound": "ba-kı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kadın",
+          "meaning": "woman",
+          "sound": "ka-dın"
+        },
+        {
+          "word": "bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Süt",
+          "meaning": "milk",
+          "sound": "süt"
+        },
+        {
+          "word": "nerede",
+          "meaning": "where",
+          "sound": "ne-re-de"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "diye",
+          "meaning": "so that",
+          "sound": "di-y-e"
+        },
+        {
+          "word": "soruyor",
+          "meaning": "he asks",
+          "sound": "so-ru-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ona",
+          "meaning": "to him",
+          "sound": "o-na"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Orada",
+          "meaning": "there",
+          "sound": "o-ra-da"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "ekmeğin",
+          "meaning": "your bread",
+          "sound": "ek-me-ğin"
+        },
+        {
+          "word": "yanında",
+          "meaning": "next to",
+          "sound": "y-a-nın-da"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "diyorum",
+          "meaning": "i say",
+          "sound": "di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gülümseyerek",
+          "meaning": "smiling",
+          "sound": "gü-lüm-se-y-e-rek"
+        },
+        {
+          "word": "teşekkür",
+          "meaning": "thank you",
+          "sound": "te-şek-kür"
+        },
+        {
+          "word": "ediyor",
+          "meaning": "does",
+          "sound": "e-di-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "kasaya",
+          "meaning": "to the safe",
+          "sound": "ka-sa-y-a"
+        },
+        {
+          "word": "gidip",
+          "meaning": "go and go",
+          "sound": "gi-dip"
+        },
+        {
+          "word": "ödeme",
+          "meaning": "payment",
+          "sound": "ö-de-me"
+        },
+        {
+          "word": "yapıyorum",
+          "meaning": "i'm doing",
+          "sound": "y-a-pı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Mağazadan",
+          "meaning": "from the store",
+          "sound": "ma-ğa-za-dan"
+        },
+        {
+          "word": "dolu",
+          "meaning": "full",
+          "sound": "do-lu"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "çantayla",
+          "meaning": "with bag",
+          "sound": "çan-ta-y-la"
+        },
+        {
+          "word": "ayrılıyorum",
+          "meaning": "i'm leaving",
+          "sound": "a-y-rı-lı-y-o-rum"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "kendimi",
+          "meaning": "myself",
+          "sound": "ken-di-mi"
+        },
+        {
+          "word": "mutlu",
+          "meaning": "happy",
+          "sound": "mu-tlu"
+        },
+        {
+          "word": "hissediyorum",
+          "meaning": "i feel",
+          "sound": "his-se-di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story5": {
+      "title": "otobüste",
+      "content": [
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "işe",
+          "meaning": "to work",
+          "sound": "i-şe"
+        },
+        {
+          "word": "gitmek",
+          "meaning": "to go",
+          "sound": "git-mek"
+        },
+        {
+          "word": "için",
+          "meaning": "for",
+          "sound": "i-çin"
+        },
+        {
+          "word": "otobüse",
+          "meaning": "to the bus",
+          "sound": "o-to-bü-se"
+        },
+        {
+          "word": "biniyorum",
+          "meaning": "i'm riding",
+          "sound": "bi-ni-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Otobüs",
+          "meaning": "bus",
+          "sound": "o-to-büs"
+        },
+        {
+          "word": "dolu",
+          "meaning": "full",
+          "sound": "do-lu"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "fazla",
+          "meaning": "too much",
+          "sound": "faz-la"
+        },
+        {
+          "word": "yer",
+          "meaning": "place",
+          "sound": "y-er"
+        },
+        {
+          "word": "yok",
+          "meaning": "no",
+          "sound": "y-ok"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kendimi",
+          "meaning": "myself",
+          "sound": "ken-di-mi"
+        },
+        {
+          "word": "biraz",
+          "meaning": "a little bit",
+          "sound": "bi-raz"
+        },
+        {
+          "word": "yorgun",
+          "meaning": "tired",
+          "sound": "y-or-gun"
+        },
+        {
+          "word": "hissediyorum",
+          "meaning": "i feel",
+          "sound": "his-se-di-y-o-rum"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "yaşlı",
+          "meaning": "old",
+          "sound": "y-aş-lı"
+        },
+        {
+          "word": "birini",
+          "meaning": "someone",
+          "sound": "bi-ri-ni"
+        },
+        {
+          "word": "görüyorum",
+          "meaning": "i see",
+          "sound": "gö-rü-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sana",
+          "meaning": "to you",
+          "sound": "sa-na"
+        },
+        {
+          "word": "koltuğumu",
+          "meaning": "my seat",
+          "sound": "kol-tu-ğu-mu"
+        },
+        {
+          "word": "teklif",
+          "meaning": "offer",
+          "sound": "tek-lif"
+        },
+        {
+          "word": "ediyorum",
+          "meaning": "i do",
+          "sound": "e-di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "diyor",
+          "meaning": "says",
+          "sound": "di-y-or"
+        },
+        {
+          "word": "ki",
+          "meaning": "that",
+          "sound": "ki"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Emin",
+          "meaning": "sure",
+          "sound": "e-min"
+        },
+        {
+          "word": "misin",
+          "meaning": "are you",
+          "sound": "mi-sin"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Cevap",
+          "meaning": "answer",
+          "sound": "ce-vap"
+        },
+        {
+          "word": "veriyorum",
+          "meaning": "i give",
+          "sound": "ve-ri-y-o-rum"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Evet",
+          "meaning": "yes",
+          "sound": "e-vet"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sorun",
+          "meaning": "problem",
+          "sound": "so-run"
+        },
+        {
+          "word": "değil",
+          "meaning": "not",
+          "sound": "de-ğil"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gülümsüyor",
+          "meaning": "smiling",
+          "sound": "gü-lüm-sü-y-or"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "teşekkür",
+          "meaning": "thank you",
+          "sound": "te-şek-kür"
+        },
+        {
+          "word": "ediyor",
+          "meaning": "does",
+          "sound": "e-di-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yolculuk",
+          "meaning": "journey",
+          "sound": "y-ol-cu-luk"
+        },
+        {
+          "word": "sırasında",
+          "meaning": "during",
+          "sound": "sı-ra-sın-da"
+        },
+        {
+          "word": "pencereden",
+          "meaning": "from the window",
+          "sound": "pen-ce-re-den"
+        },
+        {
+          "word": "dışarı",
+          "meaning": "out",
+          "sound": "dı-şa-rı"
+        },
+        {
+          "word": "bakıp",
+          "meaning": "looking at",
+          "sound": "ba-kıp"
+        },
+        {
+          "word": "günümü",
+          "meaning": "my day",
+          "sound": "gü-nü-mü"
+        },
+        {
+          "word": "düşünüyorum",
+          "meaning": "i think",
+          "sound": "dü-şü-nü-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yorgun",
+          "meaning": "tired",
+          "sound": "y-or-gun"
+        },
+        {
+          "word": "olsam",
+          "meaning": "if i were",
+          "sound": "ol-sam"
+        },
+        {
+          "word": "da",
+          "meaning": "also",
+          "sound": "da"
+        },
+        {
+          "word": "yardım",
+          "meaning": "help",
+          "sound": "y-ar-dım"
+        },
+        {
+          "word": "etmek",
+          "meaning": "to do",
+          "sound": "et-mek"
+        },
+        {
+          "word": "iyi",
+          "meaning": "good",
+          "sound": "i-y-i"
+        },
+        {
+          "word": "hissettiriyor",
+          "meaning": "it feels",
+          "sound": "his-set-ti-ri-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story6": {
+      "title": "Dün sahilde",
+      "content": [
+        {
+          "word": "Dün",
+          "meaning": "yesterday",
+          "sound": "dün"
+        },
+        {
+          "word": "arkadaşlarımla",
+          "meaning": "with my friends",
+          "sound": "ar-ka-daş-la-rım-la"
+        },
+        {
+          "word": "sahile",
+          "meaning": "to the beach",
+          "sound": "sa-hi-le"
+        },
+        {
+          "word": "gittik",
+          "meaning": "we went",
+          "sound": "git-tik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hava",
+          "meaning": "weather",
+          "sound": "ha-va"
+        },
+        {
+          "word": "mükemmeldi",
+          "meaning": "it was perfect",
+          "sound": "mü-kem-mel-di"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "deniz",
+          "meaning": "sea",
+          "sound": "de-niz"
+        },
+        {
+          "word": "sakindi",
+          "meaning": "was calm",
+          "sound": "sa-kin-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kumların",
+          "meaning": "of the sands",
+          "sound": "kum-la-rın"
+        },
+        {
+          "word": "üzerinde",
+          "meaning": "on",
+          "sound": "ü-ze-rin-de"
+        },
+        {
+          "word": "yürüdük",
+          "meaning": "we walked",
+          "sound": "y-ü-rü-dük"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "birçok",
+          "meaning": "many",
+          "sound": "bir-çok"
+        },
+        {
+          "word": "şey",
+          "meaning": "thing",
+          "sound": "şe-y"
+        },
+        {
+          "word": "hakkında",
+          "meaning": "about",
+          "sound": "hak-kın-da"
+        },
+        {
+          "word": "konuştuk",
+          "meaning": "we talked",
+          "sound": "ko-nuş-tuk"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "soğuk",
+          "meaning": "cold",
+          "sound": "so-ğuk"
+        },
+        {
+          "word": "suda",
+          "meaning": "in the water",
+          "sound": "su-da"
+        },
+        {
+          "word": "yüzdük",
+          "meaning": "we swam",
+          "sound": "y-üz-dük"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "İlk",
+          "meaning": "first",
+          "sound": "i̇lk"
+        },
+        {
+          "word": "başta",
+          "meaning": "at first",
+          "sound": "baş-ta"
+        },
+        {
+          "word": "biraz",
+          "meaning": "a little bit",
+          "sound": "bi-raz"
+        },
+        {
+          "word": "korktum",
+          "meaning": "i was scared",
+          "sound": "kor-ktum"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "kendimi",
+          "meaning": "myself",
+          "sound": "ken-di-mi"
+        },
+        {
+          "word": "harika",
+          "meaning": "great",
+          "sound": "ha-ri-ka"
+        },
+        {
+          "word": "hissettim",
+          "meaning": "i felt",
+          "sound": "his-set-tim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "de",
+          "meaning": "also",
+          "sound": "de"
+        },
+        {
+          "word": "topla",
+          "meaning": "collect",
+          "sound": "to-pla"
+        },
+        {
+          "word": "oynadık",
+          "meaning": "we played",
+          "sound": "o-y-na-dık"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "güldük",
+          "meaning": "we laughed",
+          "sound": "gül-dük"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Öğleden",
+          "meaning": "in the afternoon",
+          "sound": "öğ-le-den"
+        },
+        {
+          "word": "sonra",
+          "meaning": "after",
+          "sound": "son-ra"
+        },
+        {
+          "word": "birlikte",
+          "meaning": "together",
+          "sound": "bir-lik-te"
+        },
+        {
+          "word": "yemek",
+          "meaning": "eat",
+          "sound": "y-e-mek"
+        },
+        {
+          "word": "yedik",
+          "meaning": "we ate",
+          "sound": "y-e-dik"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "batımını",
+          "meaning": "the sunset",
+          "sound": "ba-tı-mı-nı"
+        },
+        {
+          "word": "izledik",
+          "meaning": "we watched",
+          "sound": "iz-le-dik"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "özel",
+          "meaning": "special",
+          "sound": "ö-zel"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "gündü",
+          "meaning": "it was the day",
+          "sound": "gün-dü"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "asla",
+          "meaning": "never",
+          "sound": "as-la"
+        },
+        {
+          "word": "unutmayacağım",
+          "meaning": "i won't forget",
+          "sound": "u-nut-ma-y-a-ca-ğım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story7": {
+      "title": "Önemli bir konuşma",
+      "content": [
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "kafede",
+          "meaning": "in the cafe",
+          "sound": "ka-fe-de"
+        },
+        {
+          "word": "eski",
+          "meaning": "old",
+          "sound": "es-ki"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "arkadaşımla",
+          "meaning": "with my friend",
+          "sound": "ar-ka-da-şım-la"
+        },
+        {
+          "word": "tanıştım",
+          "meaning": "i met",
+          "sound": "ta-nış-tım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Onu",
+          "meaning": "him",
+          "sound": "o-nu"
+        },
+        {
+          "word": "uzun",
+          "meaning": "long",
+          "sound": "u-zun"
+        },
+        {
+          "word": "zamandır",
+          "meaning": "is time",
+          "sound": "za-man-dır"
+        },
+        {
+          "word": "görmüyordum",
+          "meaning": "i wasn't seeing",
+          "sound": "gör-mü-y-or-dum"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "yüzden",
+          "meaning": "that's why",
+          "sound": "y-üz-den"
+        },
+        {
+          "word": "onu",
+          "meaning": "him",
+          "sound": "o-nu"
+        },
+        {
+          "word": "gördüğüme",
+          "meaning": "to what i see",
+          "sound": "gör-dü-ğü-me"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "sevindim",
+          "meaning": "i'm glad",
+          "sound": "se-vin-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oturup",
+          "meaning": "sit down",
+          "sound": "o-tu-rup"
+        },
+        {
+          "word": "konuşmaya",
+          "meaning": "to talk",
+          "sound": "ko-nuş-ma-y-a"
+        },
+        {
+          "word": "başladık",
+          "meaning": "we started",
+          "sound": "baş-la-dık"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Artık",
+          "meaning": "anymore",
+          "sound": "ar-tık"
+        },
+        {
+          "word": "başka",
+          "meaning": "else",
+          "sound": "baş-ka"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "şehirde",
+          "meaning": "in the city",
+          "sound": "şe-hir-de"
+        },
+        {
+          "word": "yaşadığını",
+          "meaning": "you are living",
+          "sound": "y-a-şa-dı-ğı-nı"
+        },
+        {
+          "word": "söyledi",
+          "meaning": "said",
+          "sound": "sö-y-le-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aynı",
+          "meaning": "same",
+          "sound": "a-y-nı"
+        },
+        {
+          "word": "zamanda",
+          "meaning": "in time",
+          "sound": "za-man-da"
+        },
+        {
+          "word": "büyük",
+          "meaning": "big",
+          "sound": "bü-y-ük"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "şirkette",
+          "meaning": "in the company",
+          "sound": "şir-ket-te"
+        },
+        {
+          "word": "çalışıyor",
+          "meaning": "working",
+          "sound": "ça-lı-şı-y-or"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ona",
+          "meaning": "to him",
+          "sound": "o-na"
+        },
+        {
+          "word": "çalışmalarımdan",
+          "meaning": "from my works",
+          "sound": "ça-lış-ma-la-rım-dan"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "planlarımdan",
+          "meaning": "from my plans",
+          "sound": "plan-la-rım-dan"
+        },
+        {
+          "word": "bahsettim",
+          "meaning": "i mentioned",
+          "sound": "bah-set-tim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Saatlerce",
+          "meaning": "for hours",
+          "sound": "sa-a-tler-ce"
+        },
+        {
+          "word": "konuştuk",
+          "meaning": "we talked",
+          "sound": "ko-nuş-tuk"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "birçok",
+          "meaning": "many",
+          "sound": "bir-çok"
+        },
+        {
+          "word": "anı",
+          "meaning": "memory",
+          "sound": "a-nı"
+        },
+        {
+          "word": "hatırladık",
+          "meaning": "we remembered",
+          "sound": "ha-tır-la-dık"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ayrılmadan",
+          "meaning": "without leaving",
+          "sound": "a-y-rıl-ma-dan"
+        },
+        {
+          "word": "önce",
+          "meaning": "before",
+          "sound": "ön-ce"
+        },
+        {
+          "word": "bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Birbirimizi",
+          "meaning": "each other",
+          "sound": "bir-bi-ri-mi-zi"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "sık",
+          "meaning": "frequently",
+          "sound": "sık"
+        },
+        {
+          "word": "görmemiz",
+          "meaning": "us to see",
+          "sound": "gör-me-miz"
+        },
+        {
+          "word": "gerektiğini",
+          "meaning": "should",
+          "sound": "ge-rek-ti-ği-ni"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "söyledi",
+          "meaning": "said",
+          "sound": "sö-y-le-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Gülümsedim",
+          "meaning": "i smiled",
+          "sound": "gü-lüm-se-dim"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "cevap",
+          "meaning": "answer",
+          "sound": "ce-vap"
+        },
+        {
+          "word": "verdim",
+          "meaning": "i gave",
+          "sound": "ver-dim"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Elbette",
+          "meaning": "of course",
+          "sound": "el-bet-te"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "günü",
+          "meaning": "day",
+          "sound": "gü-nü"
+        },
+        {
+          "word": "gerçekten",
+          "meaning": "really",
+          "sound": "ger-çek-ten"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "beğendim",
+          "meaning": "i liked it",
+          "sound": "be-ğen-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story8": {
+      "title": "Zor bir karar",
+      "content": [
+        {
+          "word": "Birkaç",
+          "meaning": "several",
+          "sound": "bir-kaç"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "önce",
+          "meaning": "before",
+          "sound": "ön-ce"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "iş",
+          "meaning": "work",
+          "sound": "iş"
+        },
+        {
+          "word": "teklifi",
+          "meaning": "offer",
+          "sound": "tek-li-fi"
+        },
+        {
+          "word": "aldım",
+          "meaning": "i bought",
+          "sound": "al-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Başka",
+          "meaning": "else",
+          "sound": "baş-ka"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "şehirdeydi",
+          "meaning": "was in the city",
+          "sound": "şe-hir-de-y-di"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "ilginçti",
+          "meaning": "it was interesting",
+          "sound": "il-gin-çti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "İlk",
+          "meaning": "first",
+          "sound": "i̇lk"
+        },
+        {
+          "word": "başta",
+          "meaning": "at first",
+          "sound": "baş-ta"
+        },
+        {
+          "word": "heyecanlıydım",
+          "meaning": "i was excited",
+          "sound": "he-y-e-can-lı-y-dım"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "aynı",
+          "meaning": "same",
+          "sound": "a-y-nı"
+        },
+        {
+          "word": "zamanda",
+          "meaning": "in time",
+          "sound": "za-man-da"
+        },
+        {
+          "word": "gergindim",
+          "meaning": "i was nervous",
+          "sound": "ger-gin-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ailem",
+          "meaning": "my family",
+          "sound": "a-i-lem"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "arkadaşlarımla",
+          "meaning": "with my friends",
+          "sound": "ar-ka-daş-la-rım-la"
+        },
+        {
+          "word": "konuştum",
+          "meaning": "i spoke",
+          "sound": "ko-nuş-tum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "birçok",
+          "meaning": "many",
+          "sound": "bir-çok"
+        },
+        {
+          "word": "tavsiye",
+          "meaning": "advice",
+          "sound": "tav-si-y-e"
+        },
+        {
+          "word": "verdiler",
+          "meaning": "they gave",
+          "sound": "ver-di-ler"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Annem",
+          "meaning": "my mother",
+          "sound": "an-nem"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hayallerinin",
+          "meaning": "of your dreams",
+          "sound": "ha-y-al-le-ri-nin"
+        },
+        {
+          "word": "peşinden",
+          "meaning": "after you",
+          "sound": "pe-şin-den"
+        },
+        {
+          "word": "gitmelisin",
+          "meaning": "you should go",
+          "sound": "git-me-li-sin"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "dedi",
+          "meaning": "he said",
+          "sound": "de-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "arkadaşım",
+          "meaning": "my friend",
+          "sound": "ar-ka-da-şım"
+        },
+        {
+          "word": "bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "şunu",
+          "meaning": "this",
+          "sound": "şu-nu"
+        },
+        {
+          "word": "sordu",
+          "meaning": "he asked",
+          "sound": "sor-du"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Emin",
+          "meaning": "sure",
+          "sound": "e-min"
+        },
+        {
+          "word": "misin",
+          "meaning": "are you",
+          "sound": "mi-sin"
+        },
+        {
+          "word": "?",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Birkaç",
+          "meaning": "several",
+          "sound": "bir-kaç"
+        },
+        {
+          "word": "günümü",
+          "meaning": "my day",
+          "sound": "gü-nü-mü"
+        },
+        {
+          "word": "düşünerek",
+          "meaning": "thinking",
+          "sound": "dü-şü-ne-rek"
+        },
+        {
+          "word": "geçirdim",
+          "meaning": "i spent",
+          "sound": "ge-çir-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sonunda",
+          "meaning": "finally",
+          "sound": "so-nun-da"
+        },
+        {
+          "word": "işi",
+          "meaning": "job",
+          "sound": "i-şi"
+        },
+        {
+          "word": "kabul",
+          "meaning": "acceptance",
+          "sound": "ka-bul"
+        },
+        {
+          "word": "etmeye",
+          "meaning": "to do",
+          "sound": "et-me-y-e"
+        },
+        {
+          "word": "karar",
+          "meaning": "decision",
+          "sound": "ka-rar"
+        },
+        {
+          "word": "verdim",
+          "meaning": "i gave",
+          "sound": "ver-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kolay",
+          "meaning": "easy",
+          "sound": "ko-la-y"
+        },
+        {
+          "word": "olmayacağını",
+          "meaning": "it won't happen",
+          "sound": "ol-ma-y-a-ca-ğı-nı"
+        },
+        {
+          "word": "biliyorum",
+          "meaning": "i know",
+          "sound": "bi-li-y-o-rum"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "denemek",
+          "meaning": "try",
+          "sound": "de-ne-mek"
+        },
+        {
+          "word": "istiyorum",
+          "meaning": "i want",
+          "sound": "is-ti-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story9": {
+      "title": "Bir arkadaşla tartışma",
+      "content": [
+        {
+          "word": "Dün",
+          "meaning": "yesterday",
+          "sound": "dün"
+        },
+        {
+          "word": "en",
+          "meaning": "most",
+          "sound": "en"
+        },
+        {
+          "word": "yakın",
+          "meaning": "close",
+          "sound": "y-a-kın"
+        },
+        {
+          "word": "arkadaşımla",
+          "meaning": "with my friend",
+          "sound": "ar-ka-da-şım-la"
+        },
+        {
+          "word": "tartıştık",
+          "meaning": "we discussed",
+          "sound": "tar-tış-tık"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "şey",
+          "meaning": "thing",
+          "sound": "şe-y"
+        },
+        {
+          "word": "biz",
+          "meaning": "we",
+          "sound": "biz"
+        },
+        {
+          "word": "planlarımızı",
+          "meaning": "our plans",
+          "sound": "plan-la-rı-mı-zı"
+        },
+        {
+          "word": "konuşurken",
+          "meaning": "talking",
+          "sound": "ko-nu-şur-ken"
+        },
+        {
+          "word": "başladı",
+          "meaning": "started",
+          "sound": "baş-la-dı"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ben",
+          "meaning": "i",
+          "sound": "ben"
+        },
+        {
+          "word": "seyahat",
+          "meaning": "travel",
+          "sound": "se-y-a-hat"
+        },
+        {
+          "word": "etmek",
+          "meaning": "to do",
+          "sound": "et-mek"
+        },
+        {
+          "word": "istedim",
+          "meaning": "i wanted",
+          "sound": "is-te-dim"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "o",
+          "meaning": "it",
+          "sound": "o"
+        },
+        {
+          "word": "kalmayı",
+          "meaning": "to stay",
+          "sound": "kal-ma-y-ı"
+        },
+        {
+          "word": "tercih",
+          "meaning": "preference",
+          "sound": "ter-cih"
+        },
+        {
+          "word": "etti",
+          "meaning": "did",
+          "sound": "et-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yeterli",
+          "meaning": "enough",
+          "sound": "y-e-ter-li"
+        },
+        {
+          "word": "paramız",
+          "meaning": "our money",
+          "sound": "pa-ra-mız"
+        },
+        {
+          "word": "yok",
+          "meaning": "no",
+          "sound": "y-ok"
+        },
+        {
+          "word": "dedi",
+          "meaning": "he said",
+          "sound": "de-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ben",
+          "meaning": "i",
+          "sound": "ben"
+        },
+        {
+          "word": "de",
+          "meaning": "also",
+          "sound": "de"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kurtarabiliriz",
+          "meaning": "we can save",
+          "sound": "kur-ta-ra-bi-li-riz"
+        },
+        {
+          "word": "\"",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "diye",
+          "meaning": "so that",
+          "sound": "di-y-e"
+        },
+        {
+          "word": "yanıt",
+          "meaning": "reply",
+          "sound": "y-a-nıt"
+        },
+        {
+          "word": "verdim",
+          "meaning": "i gave",
+          "sound": "ver-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "o",
+          "meaning": "it",
+          "sound": "o"
+        },
+        {
+          "word": "aynı",
+          "meaning": "same",
+          "sound": "a-y-nı"
+        },
+        {
+          "word": "fikirde",
+          "meaning": "in opinion",
+          "sound": "fi-kir-de"
+        },
+        {
+          "word": "değildi",
+          "meaning": "wasn't",
+          "sound": "de-ğil-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Konuşma",
+          "meaning": "speech",
+          "sound": "ko-nuş-ma"
+        },
+        {
+          "word": "gerginleşti",
+          "meaning": "became tense",
+          "sound": "ger-gin-leş-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sonunda",
+          "meaning": "finally",
+          "sound": "so-nun-da"
+        },
+        {
+          "word": "ikimiz",
+          "meaning": "both of us",
+          "sound": "i-ki-miz"
+        },
+        {
+          "word": "de",
+          "meaning": "also",
+          "sound": "de"
+        },
+        {
+          "word": "üzüldük",
+          "meaning": "we are sad",
+          "sound": "ü-zül-dük"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "sanırım",
+          "meaning": "i think",
+          "sound": "sa-nı-rım"
+        },
+        {
+          "word": "onunla",
+          "meaning": "with it",
+          "sound": "o-nun-la"
+        },
+        {
+          "word": "tekrar",
+          "meaning": "again",
+          "sound": "tek-rar"
+        },
+        {
+          "word": "konuşmalıyım",
+          "meaning": "i have to talk",
+          "sound": "ko-nuş-ma-lı-y-ım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Dostluğumuz",
+          "meaning": "our friendship",
+          "sound": "dos-tlu-ğu-muz"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "önemli",
+          "meaning": "important",
+          "sound": "ö-nem-li"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story10": {
+      "title": "Önemli bir değişiklik",
+      "content": [
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "yıl",
+          "meaning": "year",
+          "sound": "y-ıl"
+        },
+        {
+          "word": "önce",
+          "meaning": "before",
+          "sound": "ön-ce"
+        },
+        {
+          "word": "hayatım",
+          "meaning": "my dear",
+          "sound": "ha-y-a-tım"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "farklıydı",
+          "meaning": "it was different",
+          "sound": "far-klı-y-dı"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Sevmediğim",
+          "meaning": "dislike",
+          "sound": "sev-me-di-ğim"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "yerde",
+          "meaning": "on the ground",
+          "sound": "y-er-de"
+        },
+        {
+          "word": "çalıştım",
+          "meaning": "i worked",
+          "sound": "ça-lış-tım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "kendimi",
+          "meaning": "myself",
+          "sound": "ken-di-mi"
+        },
+        {
+          "word": "yorgun",
+          "meaning": "tired",
+          "sound": "y-or-gun"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "motivasyonsuz",
+          "meaning": "unmotivated",
+          "sound": "mo-ti-va-sy-on-suz"
+        },
+        {
+          "word": "hissediyordum",
+          "meaning": "i was feeling",
+          "sound": "his-se-di-y-or-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "şeyi",
+          "meaning": "thing",
+          "sound": "şe-y-i"
+        },
+        {
+          "word": "değiştirmeye",
+          "meaning": "to change",
+          "sound": "de-ğiş-tir-me-y-e"
+        },
+        {
+          "word": "karar",
+          "meaning": "decision",
+          "sound": "ka-rar"
+        },
+        {
+          "word": "verdim",
+          "meaning": "i gave",
+          "sound": "ver-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kolay",
+          "meaning": "easy",
+          "sound": "ko-la-y"
+        },
+        {
+          "word": "olmadı",
+          "meaning": "it didn't happen",
+          "sound": "ol-ma-dı"
+        },
+        {
+          "word": "çünkü",
+          "meaning": "because",
+          "sound": "çün-kü"
+        },
+        {
+          "word": "başarısız",
+          "meaning": "failed",
+          "sound": "ba-şa-rı-sız"
+        },
+        {
+          "word": "olmaktan",
+          "meaning": "from being",
+          "sound": "ol-mak-tan"
+        },
+        {
+          "word": "korkuyordum",
+          "meaning": "i was afraid",
+          "sound": "kor-ku-y-or-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "şekilde",
+          "meaning": "way",
+          "sound": "şe-kil-de"
+        },
+        {
+          "word": "devam",
+          "meaning": "continue",
+          "sound": "de-vam"
+        },
+        {
+          "word": "edemeyeceğimi",
+          "meaning": "i can't",
+          "sound": "e-de-me-y-e-ce-ği-mi"
+        },
+        {
+          "word": "de",
+          "meaning": "also",
+          "sound": "de"
+        },
+        {
+          "word": "biliyordum",
+          "meaning": "i knew",
+          "sound": "bi-li-y-or-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yeni",
+          "meaning": "new",
+          "sound": "y-e-ni"
+        },
+        {
+          "word": "şeyler",
+          "meaning": "things",
+          "sound": "şe-y-ler"
+        },
+        {
+          "word": "öğrenmeye",
+          "meaning": "to learn",
+          "sound": "öğ-ren-me-y-e"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "hedeflerim",
+          "meaning": "my goals",
+          "sound": "he-de-fle-rim"
+        },
+        {
+          "word": "üzerinde",
+          "meaning": "on",
+          "sound": "ü-ze-rin-de"
+        },
+        {
+          "word": "çalışmaya",
+          "meaning": "to work",
+          "sound": "ça-lış-ma-y-a"
+        },
+        {
+          "word": "başladım",
+          "meaning": "i started",
+          "sound": "baş-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yavaş",
+          "meaning": "slow",
+          "sound": "y-a-vaş"
+        },
+        {
+          "word": "yavaş",
+          "meaning": "slow",
+          "sound": "y-a-vaş"
+        },
+        {
+          "word": "hayatım",
+          "meaning": "my dear",
+          "sound": "ha-y-a-tım"
+        },
+        {
+          "word": "değişti",
+          "meaning": "changed",
+          "sound": "de-ğiş-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "kendimi",
+          "meaning": "myself",
+          "sound": "ken-di-mi"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "güvende",
+          "meaning": "safe",
+          "sound": "gü-ven-de"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "mutlu",
+          "meaning": "happy",
+          "sound": "mu-tlu"
+        },
+        {
+          "word": "hissediyorum",
+          "meaning": "i feel",
+          "sound": "his-se-di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Değişikliklerin",
+          "meaning": "your changes",
+          "sound": "de-ği-şik-lik-le-rin"
+        },
+        {
+          "word": "zor",
+          "meaning": "hard",
+          "sound": "zor"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "gerekli",
+          "meaning": "necessary",
+          "sound": "ge-rek-li"
+        },
+        {
+          "word": "olduğunu",
+          "meaning": "is",
+          "sound": "ol-du-ğu-nu"
+        },
+        {
+          "word": "öğrendim",
+          "meaning": "i learned",
+          "sound": "öğ-ren-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story11": {
+      "title": "Yolun anlamı",
+      "content": [
+        {
+          "word": "Uzun",
+          "meaning": "long",
+          "sound": "u-zun"
+        },
+        {
+          "word": "süre",
+          "meaning": "duration",
+          "sound": "sü-re"
+        },
+        {
+          "word": "başarının",
+          "meaning": "of success",
+          "sound": "ba-şa-rı-nın"
+        },
+        {
+          "word": "en",
+          "meaning": "most",
+          "sound": "en"
+        },
+        {
+          "word": "önemli",
+          "meaning": "important",
+          "sound": "ö-nem-li"
+        },
+        {
+          "word": "şey",
+          "meaning": "thing",
+          "sound": "şe-y"
+        },
+        {
+          "word": "olduğunu",
+          "meaning": "is",
+          "sound": "ol-du-ğu-nu"
+        },
+        {
+          "word": "düşündüm",
+          "meaning": "i thought",
+          "sound": "dü-şün-düm"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Paraya",
+          "meaning": "to money",
+          "sound": "pa-ra-y-a"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "tanınmaya",
+          "meaning": "to be recognized",
+          "sound": "ta-nın-ma-y-a"
+        },
+        {
+          "word": "sahip",
+          "meaning": "have",
+          "sound": "sa-hip"
+        },
+        {
+          "word": "olmanın",
+          "meaning": "being",
+          "sound": "ol-ma-nın"
+        },
+        {
+          "word": "beni",
+          "meaning": "me",
+          "sound": "be-ni"
+        },
+        {
+          "word": "mutlu",
+          "meaning": "happy",
+          "sound": "mu-tlu"
+        },
+        {
+          "word": "edeceğine",
+          "meaning": "that you will",
+          "sound": "e-de-ce-ği-ne"
+        },
+        {
+          "word": "inanıyordum",
+          "meaning": "i believed",
+          "sound": "i-na-nı-y-or-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ancak",
+          "meaning": "however",
+          "sound": "an-cak"
+        },
+        {
+          "word": "zamanla",
+          "meaning": "over time",
+          "sound": "za-man-la"
+        },
+        {
+          "word": "yanıldığımı",
+          "meaning": "i was wrong",
+          "sound": "y-a-nıl-dı-ğı-mı"
+        },
+        {
+          "word": "anladım",
+          "meaning": "i understand",
+          "sound": "an-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Aslında",
+          "meaning": "actually",
+          "sound": "as-lın-da"
+        },
+        {
+          "word": "önemli",
+          "meaning": "important",
+          "sound": "ö-nem-li"
+        },
+        {
+          "word": "olan",
+          "meaning": "which is",
+          "sound": "o-lan"
+        },
+        {
+          "word": "yoldur",
+          "meaning": "is the way",
+          "sound": "y-ol-dur"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Deneyimler",
+          "meaning": "experiences",
+          "sound": "de-ne-y-im-ler"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "hatalar",
+          "meaning": "mistakes",
+          "sound": "ha-ta-lar"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "öğrendikler",
+          "meaning": "what we learned",
+          "sound": "öğ-ren-dik-ler"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "akıl",
+          "meaning": "mind",
+          "sound": "a-kıl"
+        },
+        {
+          "word": "hocamla",
+          "meaning": "with my teacher",
+          "sound": "ho-cam-la"
+        },
+        {
+          "word": "konuştum",
+          "meaning": "i spoke",
+          "sound": "ko-nuş-tum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "şunu",
+          "meaning": "this",
+          "sound": "şu-nu"
+        },
+        {
+          "word": "söyledi",
+          "meaning": "said",
+          "sound": "sö-y-le-di"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Oraya",
+          "meaning": "there",
+          "sound": "o-ra-y-a"
+        },
+        {
+          "word": "varmak",
+          "meaning": "arrive",
+          "sound": "var-mak"
+        },
+        {
+          "word": "için",
+          "meaning": "for",
+          "sound": "i-çin"
+        },
+        {
+          "word": "acele",
+          "meaning": "rush",
+          "sound": "a-ce-le"
+        },
+        {
+          "word": "etmeyin",
+          "meaning": "don't",
+          "sound": "et-me-y-in"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "sürecin",
+          "meaning": "of the process",
+          "sound": "sü-re-cin"
+        },
+        {
+          "word": "tadını",
+          "meaning": "enjoy",
+          "sound": "ta-dı-nı"
+        },
+        {
+          "word": "çıkarmayı",
+          "meaning": "take out",
+          "sound": "çı-kar-ma-y-ı"
+        },
+        {
+          "word": "öğrenin",
+          "meaning": "learn",
+          "sound": "öğ-re-nin"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "O",
+          "meaning": "he/she",
+          "sound": "o"
+        },
+        {
+          "word": "andan",
+          "meaning": "from the moment",
+          "sound": "an-dan"
+        },
+        {
+          "word": "itibaren",
+          "meaning": "from",
+          "sound": "i-ti-ba-ren"
+        },
+        {
+          "word": "düşünce",
+          "meaning": "thought",
+          "sound": "dü-şün-ce"
+        },
+        {
+          "word": "tarzım",
+          "meaning": "my style",
+          "sound": "tar-zım"
+        },
+        {
+          "word": "değişti",
+          "meaning": "changed",
+          "sound": "de-ğiş-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Artık",
+          "meaning": "anymore",
+          "sound": "ar-tık"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "adıma",
+          "meaning": "to my name",
+          "sound": "a-dı-ma"
+        },
+        {
+          "word": "değer",
+          "meaning": "value",
+          "sound": "de-ğer"
+        },
+        {
+          "word": "veriyorum",
+          "meaning": "i give",
+          "sound": "ve-ri-y-o-rum"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "hatadan",
+          "meaning": "from mistake",
+          "sound": "ha-ta-dan"
+        },
+        {
+          "word": "ders",
+          "meaning": "lesson",
+          "sound": "ders"
+        },
+        {
+          "word": "alıyorum",
+          "meaning": "i'm getting",
+          "sound": "a-lı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story12": {
+      "title": "ben gerçekte kimim",
+      "content": [
+        {
+          "word": "Yıllarca",
+          "meaning": "for years",
+          "sound": "y-ıl-lar-ca"
+        },
+        {
+          "word": "gerçekte",
+          "meaning": "in reality",
+          "sound": "ger-çek-te"
+        },
+        {
+          "word": "kim",
+          "meaning": "who",
+          "sound": "kim"
+        },
+        {
+          "word": "olduğumu",
+          "meaning": "i am",
+          "sound": "ol-du-ğu-mu"
+        },
+        {
+          "word": "sorguladım",
+          "meaning": "i questioned",
+          "sound": "sor-gu-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "İlk",
+          "meaning": "first",
+          "sound": "i̇lk"
+        },
+        {
+          "word": "başta",
+          "meaning": "at first",
+          "sound": "baş-ta"
+        },
+        {
+          "word": "kimliğimin",
+          "meaning": "my identity",
+          "sound": "kim-li-ği-min"
+        },
+        {
+          "word": "başkalarının",
+          "meaning": "others",
+          "sound": "baş-ka-la-rı-nın"
+        },
+        {
+          "word": "ne",
+          "meaning": "what",
+          "sound": "ne"
+        },
+        {
+          "word": "düşündüğüne",
+          "meaning": "what you think",
+          "sound": "dü-şün-dü-ğü-ne"
+        },
+        {
+          "word": "bağlı",
+          "meaning": "bound",
+          "sound": "bağ-lı"
+        },
+        {
+          "word": "olduğunu",
+          "meaning": "is",
+          "sound": "ol-du-ğu-nu"
+        },
+        {
+          "word": "düşündüm",
+          "meaning": "i thought",
+          "sound": "dü-şün-düm"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Onay",
+          "meaning": "approval",
+          "sound": "o-na-y"
+        },
+        {
+          "word": "arıyordum",
+          "meaning": "i was looking for",
+          "sound": "a-rı-y-or-dum"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "hata",
+          "meaning": "error",
+          "sound": "ha-ta"
+        },
+        {
+          "word": "yapmaktan",
+          "meaning": "from doing",
+          "sound": "y-ap-mak-tan"
+        },
+        {
+          "word": "korkuyordum",
+          "meaning": "i was afraid",
+          "sound": "kor-ku-y-or-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ancak",
+          "meaning": "however",
+          "sound": "an-cak"
+        },
+        {
+          "word": "zamanla",
+          "meaning": "over time",
+          "sound": "za-man-la"
+        },
+        {
+          "word": "değerimin",
+          "meaning": "my value",
+          "sound": "de-ğe-ri-min"
+        },
+        {
+          "word": "başkalarına",
+          "meaning": "to others",
+          "sound": "baş-ka-la-rı-na"
+        },
+        {
+          "word": "bağlı",
+          "meaning": "bound",
+          "sound": "bağ-lı"
+        },
+        {
+          "word": "olmadığını",
+          "meaning": "is not",
+          "sound": "ol-ma-dı-ğı-nı"
+        },
+        {
+          "word": "anladım",
+          "meaning": "i understand",
+          "sound": "an-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "kendi",
+          "meaning": "own",
+          "sound": "ken-di"
+        },
+        {
+          "word": "sesimi",
+          "meaning": "my voice",
+          "sound": "se-si-mi"
+        },
+        {
+          "word": "dinlemeye",
+          "meaning": "to listen",
+          "sound": "din-le-me-y-e"
+        },
+        {
+          "word": "karar",
+          "meaning": "decision",
+          "sound": "ka-rar"
+        },
+        {
+          "word": "verdim",
+          "meaning": "i gave",
+          "sound": "ver-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Kendim",
+          "meaning": "myself",
+          "sound": "ken-dim"
+        },
+        {
+          "word": "için",
+          "meaning": "for",
+          "sound": "i-çin"
+        },
+        {
+          "word": "kararlar",
+          "meaning": "decisions",
+          "sound": "ka-rar-lar"
+        },
+        {
+          "word": "almaya",
+          "meaning": "to take",
+          "sound": "al-ma-y-a"
+        },
+        {
+          "word": "başladım",
+          "meaning": "i started",
+          "sound": "baş-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "zaman",
+          "meaning": "time",
+          "sound": "za-man"
+        },
+        {
+          "word": "kolay",
+          "meaning": "easy",
+          "sound": "ko-la-y"
+        },
+        {
+          "word": "olmadı",
+          "meaning": "it didn't happen",
+          "sound": "ol-ma-dı"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "hatadan",
+          "meaning": "from mistake",
+          "sound": "ha-ta-dan"
+        },
+        {
+          "word": "ders",
+          "meaning": "lesson",
+          "sound": "ders"
+        },
+        {
+          "word": "aldım",
+          "meaning": "i bought",
+          "sound": "al-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "kendin",
+          "meaning": "yourself",
+          "sound": "ken-din"
+        },
+        {
+          "word": "olmanın",
+          "meaning": "being",
+          "sound": "ol-ma-nın"
+        },
+        {
+          "word": "en",
+          "meaning": "most",
+          "sound": "en"
+        },
+        {
+          "word": "büyük",
+          "meaning": "big",
+          "sound": "bü-y-ük"
+        },
+        {
+          "word": "başarı",
+          "meaning": "success",
+          "sound": "ba-şa-rı"
+        },
+        {
+          "word": "olduğunu",
+          "meaning": "is",
+          "sound": "ol-du-ğu-nu"
+        },
+        {
+          "word": "biliyorum",
+          "meaning": "i know",
+          "sound": "bi-li-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story13": {
+      "title": "Zamanın değeri",
+      "content": [
+        {
+          "word": "Birkaç",
+          "meaning": "several",
+          "sound": "bir-kaç"
+        },
+        {
+          "word": "yıl",
+          "meaning": "year",
+          "sound": "y-ıl"
+        },
+        {
+          "word": "önce",
+          "meaning": "before",
+          "sound": "ön-ce"
+        },
+        {
+          "word": "zamana",
+          "meaning": "to time",
+          "sound": "za-ma-na"
+        },
+        {
+          "word": "pek",
+          "meaning": "hardly",
+          "sound": "pek"
+        },
+        {
+          "word": "dikkat",
+          "meaning": "attention",
+          "sound": "dik-kat"
+        },
+        {
+          "word": "etmiyordum",
+          "meaning": "i wasn't",
+          "sound": "et-mi-y-or-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "zaman",
+          "meaning": "time",
+          "sound": "za-man"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "fazla",
+          "meaning": "too much",
+          "sound": "faz-la"
+        },
+        {
+          "word": "fırsat",
+          "meaning": "opportunity",
+          "sound": "fır-sat"
+        },
+        {
+          "word": "olacağını",
+          "meaning": "will happen",
+          "sound": "o-la-ca-ğı-nı"
+        },
+        {
+          "word": "düşündüm",
+          "meaning": "i thought",
+          "sound": "dü-şün-düm"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Pek",
+          "meaning": "very much",
+          "sound": "pek"
+        },
+        {
+          "word": "çok",
+          "meaning": "a lot",
+          "sound": "çok"
+        },
+        {
+          "word": "şeyi",
+          "meaning": "thing",
+          "sound": "şe-y-i"
+        },
+        {
+          "word": "sonraya",
+          "meaning": "later",
+          "sound": "son-ra-y-a"
+        },
+        {
+          "word": "bıraktı",
+          "meaning": "left",
+          "sound": "bı-rak-tı"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "arkadaşım",
+          "meaning": "my friend",
+          "sound": "ar-ka-da-şım"
+        },
+        {
+          "word": "bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "şöyle",
+          "meaning": "like this",
+          "sound": "şö-y-le"
+        },
+        {
+          "word": "dedi",
+          "meaning": "he said",
+          "sound": "de-di"
+        },
+        {
+          "word": ":",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Zaman",
+          "meaning": "time",
+          "sound": "za-man"
+        },
+        {
+          "word": "kimseyi",
+          "meaning": "nobody",
+          "sound": "kim-se-y-i"
+        },
+        {
+          "word": "beklemez",
+          "meaning": "doesn't wait",
+          "sound": "bek-le-mez"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bu",
+          "meaning": "this",
+          "sound": "bu"
+        },
+        {
+          "word": "cümle",
+          "meaning": "sentence",
+          "sound": "cüm-le"
+        },
+        {
+          "word": "aklımda",
+          "meaning": "on my mind",
+          "sound": "ak-lım-da"
+        },
+        {
+          "word": "kaldı",
+          "meaning": "stayed",
+          "sound": "kal-dı"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "O",
+          "meaning": "he/she",
+          "sound": "o"
+        },
+        {
+          "word": "zamandan",
+          "meaning": "from time",
+          "sound": "za-man-dan"
+        },
+        {
+          "word": "beri",
+          "meaning": "since",
+          "sound": "be-ri"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "anın",
+          "meaning": "of the moment",
+          "sound": "a-nın"
+        },
+        {
+          "word": "kıymetini",
+          "meaning": "its value",
+          "sound": "kı-y-me-ti-ni"
+        },
+        {
+          "word": "bilmeye",
+          "meaning": "to know",
+          "sound": "bil-me-y-e"
+        },
+        {
+          "word": "başladım",
+          "meaning": "i started",
+          "sound": "baş-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Günümü",
+          "meaning": "my day",
+          "sound": "gü-nü-mü"
+        },
+        {
+          "word": "organize",
+          "meaning": "organized",
+          "sound": "or-ga-ni-ze"
+        },
+        {
+          "word": "etmeyi",
+          "meaning": "to do",
+          "sound": "et-me-y-i"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "önemli",
+          "meaning": "important",
+          "sound": "ö-nem-li"
+        },
+        {
+          "word": "olana",
+          "meaning": "to what happened",
+          "sound": "o-la-na"
+        },
+        {
+          "word": "öncelik",
+          "meaning": "priority",
+          "sound": "ön-ce-lik"
+        },
+        {
+          "word": "vermeyi",
+          "meaning": "to give",
+          "sound": "ver-me-y-i"
+        },
+        {
+          "word": "öğrendim",
+          "meaning": "i learned",
+          "sound": "öğ-ren-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ayrıca",
+          "meaning": "also",
+          "sound": "a-y-rı-ca"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "şeyin",
+          "meaning": "of the thing",
+          "sound": "şe-y-in"
+        },
+        {
+          "word": "mükemmel",
+          "meaning": "perfect",
+          "sound": "mü-kem-mel"
+        },
+        {
+          "word": "olması",
+          "meaning": "to be",
+          "sound": "ol-ma-sı"
+        },
+        {
+          "word": "gerekmediğini",
+          "meaning": "that it is not necessary",
+          "sound": "ge-rek-me-di-ği-ni"
+        },
+        {
+          "word": "de",
+          "meaning": "also",
+          "sound": "de"
+        },
+        {
+          "word": "anladım",
+          "meaning": "i understand",
+          "sound": "an-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "bilinçli",
+          "meaning": "conscious",
+          "sound": "bi-lin-çli"
+        },
+        {
+          "word": "yaşamaya",
+          "meaning": "to live",
+          "sound": "y-a-şa-ma-y-a"
+        },
+        {
+          "word": "çalışıyorum",
+          "meaning": "i am working",
+          "sound": "ça-lı-şı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Çünkü",
+          "meaning": "because",
+          "sound": "çün-kü"
+        },
+        {
+          "word": "zaman",
+          "meaning": "time",
+          "sound": "za-man"
+        },
+        {
+          "word": "sahip",
+          "meaning": "have",
+          "sound": "sa-hip"
+        },
+        {
+          "word": "olduğumuz",
+          "meaning": "we are",
+          "sound": "ol-du-ğu-muz"
+        },
+        {
+          "word": "en",
+          "meaning": "most",
+          "sound": "en"
+        },
+        {
+          "word": "değerli",
+          "meaning": "valuable",
+          "sound": "de-ğer-li"
+        },
+        {
+          "word": "şeydir",
+          "meaning": "is something",
+          "sound": "şe-y-dir"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story14": {
+      "title": "Hayatı değiştiren kararlar",
+      "content": [
+        {
+          "word": "Bazen",
+          "meaning": "sometimes",
+          "sound": "ba-zen"
+        },
+        {
+          "word": "geçmişte",
+          "meaning": "in the past",
+          "sound": "geç-miş-te"
+        },
+        {
+          "word": "verdiğim",
+          "meaning": "i gave",
+          "sound": "ver-di-ğim"
+        },
+        {
+          "word": "kararları",
+          "meaning": "decisions",
+          "sound": "ka-rar-la-rı"
+        },
+        {
+          "word": "düşünüyorum",
+          "meaning": "i think",
+          "sound": "dü-şü-nü-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bazıları",
+          "meaning": "some",
+          "sound": "ba-zı-la-rı"
+        },
+        {
+          "word": "doğruydu",
+          "meaning": "it was true",
+          "sound": "doğ-ru-y-du"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "bazıları",
+          "meaning": "some",
+          "sound": "ba-zı-la-rı"
+        },
+        {
+          "word": "değildi",
+          "meaning": "wasn't",
+          "sound": "de-ğil-di"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bazen",
+          "meaning": "sometimes",
+          "sound": "ba-zen"
+        },
+        {
+          "word": "başka",
+          "meaning": "else",
+          "sound": "baş-ka"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "yol",
+          "meaning": "road",
+          "sound": "y-ol"
+        },
+        {
+          "word": "seçseydim",
+          "meaning": "if i chose",
+          "sound": "seç-se-y-dim"
+        },
+        {
+          "word": "ne",
+          "meaning": "what",
+          "sound": "ne"
+        },
+        {
+          "word": "olurdu",
+          "meaning": "would be",
+          "sound": "o-lur-du"
+        },
+        {
+          "word": "diye",
+          "meaning": "so that",
+          "sound": "di-y-e"
+        },
+        {
+          "word": "merak",
+          "meaning": "curiosity",
+          "sound": "me-rak"
+        },
+        {
+          "word": "ediyorum",
+          "meaning": "i do",
+          "sound": "e-di-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Belki",
+          "meaning": "maybe",
+          "sound": "bel-ki"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "başarılı",
+          "meaning": "successful",
+          "sound": "ba-şa-rı-lı"
+        },
+        {
+          "word": "olurdum",
+          "meaning": "i would be",
+          "sound": "o-lur-dum"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "belki",
+          "meaning": "maybe",
+          "sound": "bel-ki"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "az",
+          "meaning": "little",
+          "sound": "az"
+        },
+        {
+          "word": "öğrenirdim",
+          "meaning": "i would learn",
+          "sound": "öğ-re-nir-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ancak",
+          "meaning": "however",
+          "sound": "an-cak"
+        },
+        {
+          "word": "geçmişte",
+          "meaning": "in the past",
+          "sound": "geç-miş-te"
+        },
+        {
+          "word": "yaşamanın",
+          "meaning": "of living",
+          "sound": "y-a-şa-ma-nın"
+        },
+        {
+          "word": "hiçbir",
+          "meaning": "none",
+          "sound": "hiç-bir"
+        },
+        {
+          "word": "anlamı",
+          "meaning": "meaning",
+          "sound": "an-la-mı"
+        },
+        {
+          "word": "olmadığını",
+          "meaning": "is not",
+          "sound": "ol-ma-dı-ğı-nı"
+        },
+        {
+          "word": "anladım",
+          "meaning": "i understand",
+          "sound": "an-la-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "kararım",
+          "meaning": "my decision",
+          "sound": "ka-ra-rım"
+        },
+        {
+          "word": "bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "şeyler",
+          "meaning": "things",
+          "sound": "şe-y-ler"
+        },
+        {
+          "word": "öğretti",
+          "meaning": "taught",
+          "sound": "öğ-ret-ti"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Hatalar",
+          "meaning": "errors",
+          "sound": "ha-ta-lar"
+        },
+        {
+          "word": "bile",
+          "meaning": "even",
+          "sound": "bi-le"
+        },
+        {
+          "word": "önemli",
+          "meaning": "important",
+          "sound": "ö-nem-li"
+        },
+        {
+          "word": "dersler",
+          "meaning": "lessons",
+          "sound": "der-sler"
+        },
+        {
+          "word": "oldu",
+          "meaning": "happened",
+          "sound": "ol-du"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bugün",
+          "meaning": "today",
+          "sound": "bu-gün"
+        },
+        {
+          "word": "daha",
+          "meaning": "more",
+          "sound": "da-ha"
+        },
+        {
+          "word": "bilinçli",
+          "meaning": "conscious",
+          "sound": "bi-lin-çli"
+        },
+        {
+          "word": "kararlar",
+          "meaning": "decisions",
+          "sound": "ka-rar-lar"
+        },
+        {
+          "word": "almaya",
+          "meaning": "to take",
+          "sound": "al-ma-y-a"
+        },
+        {
+          "word": "çalışıyorum",
+          "meaning": "i am working",
+          "sound": "ça-lı-şı-y-o-rum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Olanları",
+          "meaning": "what happened",
+          "sound": "o-lan-la-rı"
+        },
+        {
+          "word": "değiştiremem",
+          "meaning": "i can't change",
+          "sound": "de-ğiş-ti-re-mem"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "geleceğime",
+          "meaning": "to my future",
+          "sound": "ge-le-ce-ği-me"
+        },
+        {
+          "word": "karar",
+          "meaning": "decision",
+          "sound": "ka-rar"
+        },
+        {
+          "word": "verebilirim",
+          "meaning": "i can give",
+          "sound": "ve-re-bi-li-rim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    },
+    "story15": {
+      "title": "İç ses",
+      "content": [
+        {
+          "word": "Uzun",
+          "meaning": "long",
+          "sound": "u-zun"
+        },
+        {
+          "word": "süre",
+          "meaning": "duration",
+          "sound": "sü-re"
+        },
+        {
+          "word": "başkalarının",
+          "meaning": "others",
+          "sound": "baş-ka-la-rı-nın"
+        },
+        {
+          "word": "beklentilerine",
+          "meaning": "to your expectations",
+          "sound": "bek-len-ti-le-ri-ne"
+        },
+        {
+          "word": "göre",
+          "meaning": "according to",
+          "sound": "gö-re"
+        },
+        {
+          "word": "yaşadım",
+          "meaning": "i lived",
+          "sound": "y-a-şa-dım"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bunun",
+          "meaning": "of this",
+          "sound": "bu-nun"
+        },
+        {
+          "word": "doğru",
+          "meaning": "true",
+          "sound": "doğ-ru"
+        },
+        {
+          "word": "yol",
+          "meaning": "road",
+          "sound": "y-ol"
+        },
+        {
+          "word": "olduğuna",
+          "meaning": "that it is",
+          "sound": "ol-du-ğu-na"
+        },
+        {
+          "word": "inanıyordum",
+          "meaning": "i believed",
+          "sound": "i-na-nı-y-or-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Ancak",
+          "meaning": "however",
+          "sound": "an-cak"
+        },
+        {
+          "word": "derinlerde",
+          "meaning": "deep down",
+          "sound": "de-rin-ler-de"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "ses",
+          "meaning": "sound",
+          "sound": "ses"
+        },
+        {
+          "word": "bana",
+          "meaning": "to me",
+          "sound": "ba-na"
+        },
+        {
+          "word": "her",
+          "meaning": "every",
+          "sound": "her"
+        },
+        {
+          "word": "zaman",
+          "meaning": "time",
+          "sound": "za-man"
+        },
+        {
+          "word": "bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "şeylerin",
+          "meaning": "of things",
+          "sound": "şe-y-le-rin"
+        },
+        {
+          "word": "doğru",
+          "meaning": "true",
+          "sound": "doğ-ru"
+        },
+        {
+          "word": "olmadığını",
+          "meaning": "is not",
+          "sound": "ol-ma-dı-ğı-nı"
+        },
+        {
+          "word": "söylüyordu",
+          "meaning": "was saying",
+          "sound": "sö-y-lü-y-or-du"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Görmezden",
+          "meaning": "ignore",
+          "sound": "gör-mez-den"
+        },
+        {
+          "word": "gelmeye",
+          "meaning": "to come",
+          "sound": "gel-me-y-e"
+        },
+        {
+          "word": "çalıştım",
+          "meaning": "i worked",
+          "sound": "ça-lış-tım"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "sesi",
+          "meaning": "sound",
+          "sound": "se-si"
+        },
+        {
+          "word": "giderek",
+          "meaning": "increasingly",
+          "sound": "gi-de-rek"
+        },
+        {
+          "word": "artıyordu",
+          "meaning": "was increasing",
+          "sound": "ar-tı-y-or-du"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Bir",
+          "meaning": "one",
+          "sound": "bir"
+        },
+        {
+          "word": "gün",
+          "meaning": "day",
+          "sound": "gün"
+        },
+        {
+          "word": "durdum",
+          "meaning": "i stopped",
+          "sound": "dur-dum"
+        },
+        {
+          "word": "ve",
+          "meaning": "and",
+          "sound": "ve"
+        },
+        {
+          "word": "kendime",
+          "meaning": "to myself",
+          "sound": "ken-di-me"
+        },
+        {
+          "word": "gerçekten",
+          "meaning": "really",
+          "sound": "ger-çek-ten"
+        },
+        {
+          "word": "ne",
+          "meaning": "what",
+          "sound": "ne"
+        },
+        {
+          "word": "istediğimi",
+          "meaning": "what i want",
+          "sound": "is-te-di-ği-mi"
+        },
+        {
+          "word": "sordum",
+          "meaning": "i asked",
+          "sound": "sor-dum"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "Yanıt",
+          "meaning": "reply",
+          "sound": "y-a-nıt"
+        },
+        {
+          "word": "hemen",
+          "meaning": "immediately",
+          "sound": "he-men"
+        },
+        {
+          "word": "gelmedi",
+          "meaning": "did not come",
+          "sound": "gel-me-di"
+        },
+        {
+          "word": "ama",
+          "meaning": "but",
+          "sound": "a-ma"
+        },
+        {
+          "word": "ilk",
+          "meaning": "first",
+          "sound": "ilk"
+        },
+        {
+          "word": "defa",
+          "meaning": "times",
+          "sound": "de-fa"
+        },
+        {
+          "word": "beni",
+          "meaning": "me",
+          "sound": "be-ni"
+        },
+        {
+          "word": "dinlediğini",
+          "meaning": "that you were listening",
+          "sound": "din-le-di-ği-ni"
+        },
+        {
+          "word": "hissettim",
+          "meaning": "i felt",
+          "sound": "his-set-tim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "O",
+          "meaning": "he/she",
+          "sound": "o"
+        },
+        {
+          "word": "zamandan",
+          "meaning": "from time",
+          "sound": "za-man-dan"
+        },
+        {
+          "word": "beri",
+          "meaning": "since",
+          "sound": "be-ri"
+        },
+        {
+          "word": "iç",
+          "meaning": "interior",
+          "sound": "iç"
+        },
+        {
+          "word": "sesin",
+          "meaning": "your voice",
+          "sound": "se-sin"
+        },
+        {
+          "word": "engel",
+          "meaning": "obstacle",
+          "sound": "en-gel"
+        },
+        {
+          "word": "değil",
+          "meaning": "not",
+          "sound": "de-ğil"
+        },
+        {
+          "word": ",",
+          "meaning": "",
+          "sound": ""
+        },
+        {
+          "word": "yol",
+          "meaning": "road",
+          "sound": "y-ol"
+        },
+        {
+          "word": "gösterici",
+          "meaning": "demonstrator",
+          "sound": "gös-te-ri-ci"
+        },
+        {
+          "word": "olduğunu",
+          "meaning": "is",
+          "sound": "ol-du-ğu-nu"
+        },
+        {
+          "word": "öğrendim",
+          "meaning": "i learned",
+          "sound": "öğ-ren-dim"
+        },
+        {
+          "word": ".",
+          "meaning": "",
+          "sound": ""
+        }
+      ]
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      },
+      "turkish": {
+        "present": [
+          "bir",
+          "elma",
+          "yerim"
+        ],
+        "past": [
+          "bir",
+          "elma",
+          "yedim"
+        ],
+        "future": [
+          "bir",
+          "elma",
+          "yiyeceğim"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      },
+      "turkish": {
+        "present": [
+          "Bir",
+          "kitap",
+          "okuyor"
+        ],
+        "past": [
+          "Bir",
+          "kitap",
+          "okudu"
+        ],
+        "future": [
+          "Kitap",
+          "okuyacak"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      },
+      "turkish": {
+        "present": [
+          "okula",
+          "gidiyoruz"
+        ],
+        "past": [
+          "okula",
+          "gittik"
+        ],
+        "future": [
+          "okula",
+          "gideceğiz"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      },
+      "turkish": {
+        "present": [
+          "O",
+          "su",
+          "içer"
+        ],
+        "past": [
+          "Su",
+          "içti"
+        ],
+        "future": [
+          "O",
+          "su",
+          "içecek"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      },
+      "turkish": {
+        "present": [
+          "Futbol",
+          "oynuyorlar"
+        ],
+        "past": [
+          "Futbol",
+          "oynadılar"
+        ],
+        "future": [
+          "Futbol",
+          "oynayacaklar"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      },
+      "turkish": {
+        "present": [
+          "bir",
+          "mektup",
+          "yazarım"
+        ],
+        "past": [
+          "bir",
+          "mektup",
+          "yazdım"
+        ],
+        "future": [
+          "bir",
+          "mektup",
+          "yazacağım"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      },
+      "turkish": {
+        "present": [
+          "Pirinç",
+          "yiyor"
+        ],
+        "past": [
+          "Pirinç",
+          "yedi"
+        ],
+        "future": [
+          "Pirinç",
+          "yiyecek"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      },
+      "turkish": {
+        "present": [
+          "Bir",
+          "film",
+          "izliyoruz"
+        ],
+        "past": [
+          "Bir",
+          "film",
+          "izledik"
+        ],
+        "future": [
+          "Bir",
+          "film",
+          "izleyeceğiz"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      },
+      "turkish": {
+        "present": [
+          "Kapıyı",
+          "açıyor"
+        ],
+        "past": [
+          "Kapıyı",
+          "açtı"
+        ],
+        "future": [
+          "Kapıyı",
+          "açacak"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      },
+      "turkish": {
+        "present": [
+          "Yiyecek",
+          "satın",
+          "alıyorlar"
+        ],
+        "past": [
+          "Yiyecek",
+          "satın",
+          "aldılar"
+        ],
+        "future": [
+          "Yiyecek",
+          "satın",
+          "alacaklar"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      },
+      "turkish": {
+        "present": [
+          "Elma",
+          "yiyorum",
+          "ve",
+          "su",
+          "içiyorum"
+        ],
+        "past": [
+          "elma",
+          "yedim",
+          "su",
+          "içtim"
+        ],
+        "future": [
+          "Bir",
+          "elma",
+          "yiyeceğim",
+          "ve",
+          "su",
+          "içeceğim"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      },
+      "turkish": {
+        "present": [
+          "Hikayeleri",
+          "sevdiği",
+          "için",
+          "kitap",
+          "okuyor"
+        ],
+        "past": [
+          "Hikayeleri",
+          "sevdiği",
+          "için",
+          "kitap",
+          "okudu"
+        ],
+        "future": [
+          "Hikayeleri",
+          "sevdiği",
+          "için",
+          "kitap",
+          "okuyacak"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      },
+      "turkish": {
+        "present": [
+          "Okula",
+          "gidiyoruz",
+          "ve",
+          "birlikte",
+          "çalışıyoruz"
+        ],
+        "past": [
+          "Birlikte",
+          "okula",
+          "gittik",
+          "ve",
+          "okuduk"
+        ],
+        "future": [
+          "Birlikte",
+          "okula",
+          "gidip",
+          "ders",
+          "çalışacağız"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      },
+      "turkish": {
+        "present": [
+          "Su",
+          "içiyor",
+          "ama",
+          "fast",
+          "food",
+          "yiyor"
+        ],
+        "past": [
+          "Su",
+          "içti",
+          "ama",
+          "fast",
+          "food",
+          "yedi"
+        ],
+        "future": [
+          "Su",
+          "içecek",
+          "ama",
+          "fast",
+          "food",
+          "yiyecek"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      },
+      "turkish": {
+        "present": [
+          "Futbol",
+          "oynuyorlar",
+          "ve",
+          "parkta",
+          "koşuyorlar"
+        ],
+        "past": [
+          "Futbol",
+          "oynadılar",
+          "ve",
+          "parkta",
+          "koştular"
+        ],
+        "future": [
+          "Futbol",
+          "oynayacaklar",
+          "ve",
+          "parkta",
+          "koşacaklar"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      },
+      "turkish": {
+        "present": [
+          "Bir",
+          "mektup",
+          "yazıyorum",
+          "çünkü",
+          "seni",
+          "özlüyorum"
+        ],
+        "past": [
+          "Seni",
+          "özlediğim",
+          "için",
+          "bir",
+          "mektup",
+          "yazdım"
+        ],
+        "future": [
+          "Bir",
+          "mektup",
+          "yazacağım",
+          "çünkü",
+          "seni",
+          "özledim"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      },
+      "turkish": {
+        "present": [
+          "Her",
+          "gün",
+          "pilav",
+          "yiyor",
+          "ve",
+          "yemek",
+          "pişiriyor"
+        ],
+        "past": [
+          "Her",
+          "gün",
+          "pilav",
+          "yer",
+          "ve",
+          "yemek",
+          "pişirirdi"
+        ],
+        "future": [
+          "Her",
+          "gün",
+          "pilav",
+          "yiyecek",
+          "ve",
+          "yemek",
+          "pişirecek"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      },
+      "turkish": {
+        "present": [
+          "Film",
+          "izliyoruz",
+          "ama",
+          "geç",
+          "uyuyoruz"
+        ],
+        "past": [
+          "Film",
+          "izledik",
+          "ama",
+          "geç",
+          "uyuduk"
+        ],
+        "future": [
+          "Film",
+          "izleriz",
+          "ama",
+          "geç",
+          "uyuruz"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      },
+      "turkish": {
+        "present": [
+          "Kapıyı",
+          "açar",
+          "ve",
+          "insanları",
+          "selamlar"
+        ],
+        "past": [
+          "Kapıyı",
+          "açıp",
+          "insanları",
+          "selamladı"
+        ],
+        "future": [
+          "Kapıyı",
+          "açacak",
+          "ve",
+          "insanları",
+          "selamlayacak"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      },
+      "turkish": {
+        "present": [
+          "Aç",
+          "oldukları",
+          "için",
+          "yiyecek",
+          "alıyorlar"
+        ],
+        "past": [
+          "Aç",
+          "oldukları",
+          "için",
+          "yiyecek",
+          "aldılar"
+        ],
+        "future": [
+          "Aç",
+          "oldukları",
+          "için",
+          "yiyecek",
+          "alacaklar"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      },
+      "turkish": {
+        "present": [
+          "sabahları",
+          "kahvaltı",
+          "yapıyorum"
+        ],
+        "past": [
+          "sabah",
+          "kahvaltısını",
+          "yaptım"
+        ],
+        "future": [
+          "sabah",
+          "kahvaltı",
+          "yapacağım"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      },
+      "turkish": {
+        "present": [
+          "Her",
+          "gün",
+          "evde",
+          "ders",
+          "çalışıyor"
+        ],
+        "past": [
+          "Her",
+          "gün",
+          "evde",
+          "ders",
+          "çalıştı"
+        ],
+        "future": [
+          "Her",
+          "gün",
+          "evde",
+          "ders",
+          "çalışacak"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      },
+      "turkish": {
+        "present": [
+          "Akşam",
+          "parkta",
+          "yürüyoruz"
+        ],
+        "past": [
+          "Akşam",
+          "parkta",
+          "yürüdük"
+        ],
+        "future": [
+          "Akşam",
+          "parkta",
+          "yürüyeceğiz"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      },
+      "turkish": {
+        "present": [
+          "Şehirdeki",
+          "bir",
+          "ofiste",
+          "çalışıyor"
+        ],
+        "past": [
+          "Şehirdeki",
+          "bir",
+          "ofiste",
+          "çalıştı"
+        ],
+        "future": [
+          "Şehirdeki",
+          "bir",
+          "ofiste",
+          "çalışacak"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      },
+      "turkish": {
+        "present": [
+          "Her",
+          "yıl",
+          "başka",
+          "bir",
+          "ülkeye",
+          "seyahat",
+          "ediyorlar"
+        ],
+        "past": [
+          "Her",
+          "yıl",
+          "başka",
+          "bir",
+          "ülkeye",
+          "seyahat",
+          "ediyorlardı"
+        ],
+        "future": [
+          "Her",
+          "yıl",
+          "başka",
+          "bir",
+          "ülkeye",
+          "seyahat",
+          "edecekler"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      },
+      "turkish": {
+        "present": [
+          "Gece",
+          "uyumadan",
+          "önce",
+          "kitap",
+          "okurum"
+        ],
+        "past": [
+          "Gece",
+          "uyumadan",
+          "önce",
+          "kitap",
+          "okurum"
+        ],
+        "future": [
+          "Gece",
+          "uyumadan",
+          "önce",
+          "kitap",
+          "okuyacağım"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      },
+      "turkish": {
+        "present": [
+          "Sabahları",
+          "evde",
+          "kahve",
+          "içer"
+        ],
+        "past": [
+          "Sabahları",
+          "evde",
+          "kahve",
+          "içti"
+        ],
+        "future": [
+          "Sabahları",
+          "evde",
+          "kahve",
+          "içecek"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      },
+      "turkish": {
+        "present": [
+          "Bu",
+          "akşam",
+          "restoranda",
+          "arkadaşlarla",
+          "buluşuyoruz"
+        ],
+        "past": [
+          "Bu",
+          "akşam",
+          "restoranda",
+          "arkadaşlarla",
+          "buluştuk"
+        ],
+        "future": [
+          "Bu",
+          "akşam",
+          "restoranda",
+          "arkadaşlarla",
+          "buluşacağız"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      },
+      "turkish": {
+        "present": [
+          "Her",
+          "gün",
+          "okulda",
+          "İspanyolca",
+          "çalışıyor"
+        ],
+        "past": [
+          "Okulda",
+          "her",
+          "gün",
+          "İspanyolca",
+          "çalıştı"
+        ],
+        "future": [
+          "Her",
+          "gün",
+          "okulda",
+          "İspanyolca",
+          "öğrenecek"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      },
+      "turkish": {
+        "present": [
+          "Akşamları",
+          "evde",
+          "televizyon",
+          "izliyorlar"
+        ],
+        "past": [
+          "Akşam",
+          "evde",
+          "televizyon",
+          "izlediler"
+        ],
+        "future": [
+          "Akşam",
+          "evde",
+          "televizyon",
+          "izleyecekler"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      },
+      "turkish": {
+        "present": [
+          "Bu",
+          "müziği",
+          "seviyorum"
+        ],
+        "past": [
+          "Bu",
+          "müziği",
+          "beğendim"
+        ],
+        "future": [
+          "Bu",
+          "müziği",
+          "beğeneceğim"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      },
+      "turkish": {
+        "present": [
+          "Bugün",
+          "mutlu",
+          "hissediyor"
+        ],
+        "past": [
+          "Bugün",
+          "kendini",
+          "mutlu",
+          "hissetti"
+        ],
+        "future": [
+          "Bugün",
+          "mutlu",
+          "hissedecek"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      },
+      "turkish": {
+        "present": [
+          "Bu",
+          "fikrin",
+          "iyi",
+          "olduğunu",
+          "düşünüyoruz"
+        ],
+        "past": [
+          "Bu",
+          "fikrin",
+          "iyi",
+          "olduğunu",
+          "düşündük"
+        ],
+        "future": [
+          "Bu",
+          "fikrin",
+          "iyi",
+          "olduğunu",
+          "düşüneceğiz"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      },
+      "turkish": {
+        "present": [
+          "İspanyolca",
+          "öğrenmek",
+          "istiyor"
+        ],
+        "past": [
+          "İspanyolca",
+          "öğrenmek",
+          "istiyordu"
+        ],
+        "future": [
+          "İspanyolca",
+          "öğrenmek",
+          "isteyecek"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      },
+      "turkish": {
+        "present": [
+          "Ailelerini",
+          "çok",
+          "seviyorlar"
+        ],
+        "past": [
+          "Ailelerini",
+          "çok",
+          "seviyorlardı"
+        ],
+        "future": [
+          "Ailelerini",
+          "çok",
+          "sevecekler"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      },
+      "turkish": {
+        "present": [
+          "İşten",
+          "sonra",
+          "kendimi",
+          "yorgun",
+          "hissediyorum"
+        ],
+        "past": [
+          "İşten",
+          "sonra",
+          "kendimi",
+          "yorgun",
+          "hissettim"
+        ],
+        "future": [
+          "İşten",
+          "sonra",
+          "kendimi",
+          "yorgun",
+          "hissedeceğim"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      },
+      "turkish": {
+        "present": [
+          "Kendine",
+          "inanıyor"
+        ],
+        "past": [
+          "Kendine",
+          "inandı"
+        ],
+        "future": [
+          "Kendine",
+          "inanacak"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      },
+      "turkish": {
+        "present": [
+          "Birlikte",
+          "seyahat",
+          "etmeyi",
+          "seviyoruz"
+        ],
+        "past": [
+          "Birlikte",
+          "seyahat",
+          "etmeyi",
+          "severdik"
+        ],
+        "future": [
+          "Birlikte",
+          "seyahat",
+          "etmek",
+          "isteriz"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      },
+      "turkish": {
+        "present": [
+          "Geleceğini",
+          "düşünüyor"
+        ],
+        "past": [
+          "Geleceğini",
+          "düşündü"
+        ],
+        "future": [
+          "Geleceğini",
+          "düşünecek"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      },
+      "turkish": {
+        "present": [
+          "Gezinin",
+          "heyecanını",
+          "yaşıyorlar"
+        ],
+        "past": [
+          "Gezinin",
+          "heyecanını",
+          "yaşadılar"
+        ],
+        "future": [
+          "Gezi",
+          "heyecanını",
+          "yaşayacaklar"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      },
+      "turkish": {
+        "present": [
+          "Her",
+          "gün",
+          "gelişmeye",
+          "çalışıyorum"
+        ],
+        "past": [
+          "Her",
+          "gün",
+          "gelişmeye",
+          "çalıştım"
+        ],
+        "future": [
+          "Her",
+          "gün",
+          "gelişmeye",
+          "çalışacağım"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      },
+      "turkish": {
+        "present": [
+          "Hedeflerine",
+          "ulaşmak",
+          "istiyor"
+        ],
+        "past": [
+          "Hedeflerine",
+          "ulaşmak",
+          "istiyordu"
+        ],
+        "future": [
+          "Hedeflerine",
+          "ulaşmak",
+          "isteyecek"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      },
+      "turkish": {
+        "present": [
+          "Hatalarımızdan",
+          "ders",
+          "alıyoruz"
+        ],
+        "past": [
+          "Hatalarımızdan",
+          "ders",
+          "aldık"
+        ],
+        "future": [
+          "Hatalarımızdan",
+          "ders",
+          "çıkaracağız"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      },
+      "turkish": {
+        "present": [
+          "Geleceğini",
+          "inşa",
+          "etmek",
+          "için",
+          "çok",
+          "çalışıyor"
+        ],
+        "past": [
+          "Geleceğini",
+          "inşa",
+          "etmek",
+          "için",
+          "çok",
+          "çalıştı"
+        ],
+        "future": [
+          "Geleceğini",
+          "inşa",
+          "etmek",
+          "için",
+          "çok",
+          "çalışacak"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      },
+      "turkish": {
+        "present": [
+          "Her",
+          "şeyin",
+          "mümkün",
+          "olduğuna",
+          "inanıyorlar"
+        ],
+        "past": [
+          "Her",
+          "şeyin",
+          "mümkün",
+          "olduğuna",
+          "inanıyorlardı"
+        ],
+        "future": [
+          "Her",
+          "şeyin",
+          "mümkün",
+          "olduğuna",
+          "inanacaklar"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      },
+      "turkish": {
+        "present": [
+          "Her",
+          "gece",
+          "geleceğimi",
+          "düşünüyorum"
+        ],
+        "past": [
+          "Her",
+          "gece",
+          "geleceğimi",
+          "düşündüm"
+        ],
+        "future": [
+          "Her",
+          "gece",
+          "geleceğimi",
+          "düşüneceğim"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      },
+      "turkish": {
+        "present": [
+          "Zor",
+          "zamanlarda",
+          "pozitif",
+          "kalmaya",
+          "çalışır"
+        ],
+        "past": [
+          "Zor",
+          "zamanlarda",
+          "pozitif",
+          "kalmaya",
+          "çalıştı"
+        ],
+        "future": [
+          "Zor",
+          "zamanlarda",
+          "pozitif",
+          "kalmaya",
+          "çalışacak"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      },
+      "turkish": {
+        "present": [
+          "Anlamlı",
+          "bir",
+          "hayat",
+          "yaşamak",
+          "istiyoruz"
+        ],
+        "past": [
+          "Anlamlı",
+          "bir",
+          "hayat",
+          "yaşamak",
+          "istedik"
+        ],
+        "future": [
+          "Anlamlı",
+          "bir",
+          "hayat",
+          "yaşamak",
+          "isteyeceğiz"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      },
+      "turkish": {
+        "present": [
+          "Değişimin",
+          "zaman",
+          "aldığını",
+          "biliyor"
+        ],
+        "past": [
+          "Değişimin",
+          "zaman",
+          "aldığını",
+          "anladı"
+        ],
+        "future": [
+          "Değişimin",
+          "zaman",
+          "aldığını",
+          "anlayacak"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      },
+      "turkish": {
+        "present": [
+          "Hayallerinin",
+          "peşinden",
+          "gitmeye",
+          "karar",
+          "verirler"
+        ],
+        "past": [
+          "Hayallerinin",
+          "peşinden",
+          "gitmeye",
+          "karar",
+          "verdiler"
+        ],
+        "future": [
+          "Hayallerinin",
+          "peşinden",
+          "gitmeye",
+          "karar",
+          "verecekler"
+        ]
+      }
+    }
+  ]
+}

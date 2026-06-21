@@ -1,0 +1,466 @@
+{
+  "stories": {
+    "story1": {
+      "title": "in the cafe",
+      "text": "I go to a small cafe every morning. The cafe is close to my house and it is very quiet. I always sit by the window and order a hot cup of coffee. The waiter is friendly and always greets me with a smile. Sometimes I read an interesting book, and other times I write in my notebook. Today I see a new person. She is reading a novel and drinking tea. I feel curious but a little shy. After a few minutes, I say hello. She responds with a smile and we start talking. I feel happy and relaxed."
+    },
+    "story2": {
+      "title": "in the park",
+      "text": "Today I'm going to the park with my friend. The weather is very pleasant and the sun is shining. I see many people walking and laughing. Some children play with a ball, and others run fast. My friend and I sat on a bench. We talked about our lives and laughed a lot. Afterwards, we bought ice cream. The day is simple, but very beautiful."
+    },
+    "story3": {
+      "title": "in the library",
+      "text": "Today I'm going to the library. It is a quiet place full of books. I like to read and learn new things. I'm looking for an interesting book about history. Afterwards, I sit at a table and start reading. There are other people studying and writing. The atmosphere is very quiet. After a while, I close the book and feel content."
+    },
+    "story4": {
+      "title": "in the store",
+      "text": "Today I'm going to a big store to buy food. I need bread, milk, fruit and vegetables. The store is full of people and there is a lot of noise. I look for the products on the shelves. A woman asks me, Where is the milk? I tell him, It's there, next to the bread. She smiles and says thank you. Then I go to the cashier and pay. I leave the store with a full bag and feel happy."
+    },
+    "story5": {
+      "title": "on the bus",
+      "text": "Today I take the bus to go to work. The bus is full and there is not much space. I feel a little tired, but I see an old person. I offer you my seat. He tells me, Are you sure? I answer, Yes, no problem. He smiles and thanks me. During the trip, I look out the window and think about my day. Even though I'm tired, it feels good to help."
+    },
+    "story6": {
+      "title": "Yesterday at the beach",
+      "text": "Yesterday I went to the beach with my friends. The weather was perfect and the sea was calm. We walked on the sand and talked about many things. Afterwards, we swam in the cold water. At first, I was a little scared, but then I felt great. We also played with a ball and laughed a lot. In the afternoon, we ate together and watched the sunset. It was a very special day and I will never forget it."
+    },
+    "story7": {
+      "title": "An important conversation",
+      "text": "Today I met an old friend in a cafe. I hadn't seen him in a long time, so I was very happy to see him. We sat down and started talking. He told me that he now lives in another city. He also works in a large company. I told him about my studies and my plans. We talked for hours and remembered many moments. Before we left, he told me, We should see each other more often. I smiled and responded, Sure, I really liked this day."
+    },
+    "story8": {
+      "title": "A difficult decision",
+      "text": "A few days ago, I received a job offer. It was in another city and very interesting. At first, I felt excited, but also nervous. I talked to my family and my friends. They gave me a lot of advice. My mother said, You must follow your dreams. But my friend asked me, Are you sure? I spent several days thinking. Finally, I decided to accept the job. I know it won't be easy, but I want to try."
+    },
+    "story9": {
+      "title": "An argument with a friend",
+      "text": "Yesterday, I had an argument with my best friend. It all started when we were talking about our plans. I wanted to travel, but he preferred to stay. He said, We don't have enough money. I responded, We can save. But he did not agree. The conversation became tense. In the end, we were both upset. Today, I think maybe I should talk to him again. Our friendship is more important."
+    },
+    "story10": {
+      "title": "An important change",
+      "text": "A year ago, my life was very different. I worked in a place I didn't like. Every day I felt tired and unmotivated. One day, I decided to change everything. It wasn't easy, because I was afraid of failing. But I also knew that I couldn't continue like this. I started learning new things and working on my goals. Little by little, my life changed. Today, I feel more confident and happy. I learned that changes are difficult, but necessary."
+    },
+    "story11": {
+      "title": "The meaning of the path",
+      "text": "For a long time, I thought success was the most important thing. I believed that having money and recognition would make me happy. However, over time, I realized that I was wrong. What really matters is the path. The experiences, the mistakes and the learnings. One day, I talked to a mentor. He told me, Don't rush just to get there, learn to enjoy the process. From that moment on, my way of thinking changed. Now, I value every step and learn from every mistake."
+    },
+    "story12": {
+      "title": "who i really am",
+      "text": "For many years, I questioned who I really am. At first, I thought my identity depended on what others thought. I was looking for approval and afraid of making mistakes. However, over time, I understood that my value does not depend on others. One day, I decided to listen to my own voice. I started making decisions for myself. It wasn't always easy, but I learned from every mistake. Today, I know that being yourself is the greatest achievement."
+    },
+    "story13": {
+      "title": "The value of time",
+      "text": "A few years ago, I didn't pay much attention to time. I thought there would always be more opportunities. He left many things for later. One day, a friend told me, Time waits for no one. That phrase stayed in my mind. Since then, I began to value every moment. I learned to organize my day and prioritize what is important. I also understood that not everything has to be perfect. Today, I try to live with more awareness. Because time is the most valuable thing we have."
+    },
+    "story14": {
+      "title": "Decisions that change life",
+      "text": "Sometimes, I think about the decisions I made in the past. Some were correct, but others were not. Sometimes I wonder what would have happened if I had chosen another path. Maybe I would have been more successful, or maybe I would have learned less. However, I have understood that there is no point in living in the past. Every decision has taught me something. Even the mistakes have been important lessons. Today, I try to make decisions with more awareness. I can't change what has already happened, but I can decide my future."
+    },
+    "story15": {
+      "title": "The inner voice",
+      "text": "For a long time, I lived according to the expectations of others. I believed that was the right path. However, deep down, there was always a voice telling me that something wasn't right. I tried to ignore it, but it kept getting louder. One day, I stopped and asked myself what I really wanted. The response wasn't immediate, but for the first time, I felt like he was listening to me. Since then, I have learned that the inner voice is not an obstacle, but a guide."
+    }
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": {
+        "present": "I eat an apple",
+        "past": "I ate an apple",
+        "future": "I will eat an apple"
+      }
+    },
+    {
+      "id": 2,
+      "english": {
+        "present": "She reads a book",
+        "past": "She read a book",
+        "future": "She will read a book"
+      }
+    },
+    {
+      "id": 3,
+      "english": {
+        "present": "We go to school",
+        "past": "We went to school",
+        "future": "We will go to school"
+      }
+    },
+    {
+      "id": 4,
+      "english": {
+        "present": "He drinks water",
+        "past": "He drank water",
+        "future": "He will drink water"
+      }
+    },
+    {
+      "id": 5,
+      "english": {
+        "present": "They play football",
+        "past": "They played football",
+        "future": "They will play football"
+      }
+    },
+    {
+      "id": 6,
+      "english": {
+        "present": "I write a letter",
+        "past": "I wrote a letter",
+        "future": "I will write a letter"
+      }
+    },
+    {
+      "id": 7,
+      "english": {
+        "present": "She eats rice",
+        "past": "She ate rice",
+        "future": "She will eat rice"
+      }
+    },
+    {
+      "id": 8,
+      "english": {
+        "present": "We watch a movie",
+        "past": "We watched a movie",
+        "future": "We will watch a movie"
+      }
+    },
+    {
+      "id": 9,
+      "english": {
+        "present": "He opens the door",
+        "past": "He opened the door",
+        "future": "He will open the door"
+      }
+    },
+    {
+      "id": 10,
+      "english": {
+        "present": "They buy food",
+        "past": "They bought food",
+        "future": "They will buy food"
+      }
+    },
+    {
+      "id": 11,
+      "english": {
+        "present": "I eat an apple and drink water",
+        "past": "I ate an apple and drank water",
+        "future": "I will eat an apple and drink water"
+      }
+    },
+    {
+      "id": 12,
+      "english": {
+        "present": "She reads a book because she likes stories",
+        "past": "She read a book because she liked stories",
+        "future": "She will read a book because she likes stories"
+      }
+    },
+    {
+      "id": 13,
+      "english": {
+        "present": "We go to school and study together",
+        "past": "We went to school and studied together",
+        "future": "We will go to school and study together"
+      }
+    },
+    {
+      "id": 14,
+      "english": {
+        "present": "He drinks water but eats fast food",
+        "past": "He drank water but ate fast food",
+        "future": "He will drink water but eat fast food"
+      }
+    },
+    {
+      "id": 15,
+      "english": {
+        "present": "They play football and run in the park",
+        "past": "They played football and ran in the park",
+        "future": "They will play football and run in the park"
+      }
+    },
+    {
+      "id": 16,
+      "english": {
+        "present": "I write a letter because I miss you",
+        "past": "I wrote a letter because I missed you",
+        "future": "I will write a letter because I miss you"
+      }
+    },
+    {
+      "id": 17,
+      "english": {
+        "present": "She eats rice and cooks every day",
+        "past": "She ate rice and cooked every day",
+        "future": "She will eat rice and cook every day"
+      }
+    },
+    {
+      "id": 18,
+      "english": {
+        "present": "We watch a movie but sleep late",
+        "past": "We watched a movie but slept late",
+        "future": "We will watch a movie but sleep late"
+      }
+    },
+    {
+      "id": 19,
+      "english": {
+        "present": "He opens the door and greets people",
+        "past": "He opened the door and greeted people",
+        "future": "He will open the door and greet people"
+      }
+    },
+    {
+      "id": 20,
+      "english": {
+        "present": "They buy food because they are hungry",
+        "past": "They bought food because they were hungry",
+        "future": "They will buy food because they are hungry"
+      }
+    },
+    {
+      "id": 21,
+      "english": {
+        "present": "I eat breakfast in the morning",
+        "past": "I ate breakfast in the morning",
+        "future": "I will eat breakfast in the morning"
+      }
+    },
+    {
+      "id": 22,
+      "english": {
+        "present": "She studies at home every day",
+        "past": "She studied at home every day",
+        "future": "She will study at home every day"
+      }
+    },
+    {
+      "id": 23,
+      "english": {
+        "present": "We walk in the park in the evening",
+        "past": "We walked in the park in the evening",
+        "future": "We will walk in the park in the evening"
+      }
+    },
+    {
+      "id": 24,
+      "english": {
+        "present": "He works in an office in the city",
+        "past": "He worked in an office in the city",
+        "future": "He will work in an office in the city"
+      }
+    },
+    {
+      "id": 25,
+      "english": {
+        "present": "They travel to another country every year",
+        "past": "They traveled to another country every year",
+        "future": "They will travel to another country every year"
+      }
+    },
+    {
+      "id": 26,
+      "english": {
+        "present": "I read a book at night before sleeping",
+        "past": "I read a book at night before sleeping",
+        "future": "I will read a book at night before sleeping"
+      }
+    },
+    {
+      "id": 27,
+      "english": {
+        "present": "She drinks coffee in the morning at home",
+        "past": "She drank coffee in the morning at home",
+        "future": "She will drink coffee in the morning at home"
+      }
+    },
+    {
+      "id": 28,
+      "english": {
+        "present": "We meet friends at the restaurant tonight",
+        "past": "We met friends at the restaurant tonight",
+        "future": "We will meet friends at the restaurant tonight"
+      }
+    },
+    {
+      "id": 29,
+      "english": {
+        "present": "He studies Spanish at school every day",
+        "past": "He studied Spanish at school every day",
+        "future": "He will study Spanish at school every day"
+      }
+    },
+    {
+      "id": 30,
+      "english": {
+        "present": "They watch television in the evening at home",
+        "past": "They watched television in the evening at home",
+        "future": "They will watch television in the evening at home"
+      }
+    },
+    {
+      "id": 31,
+      "english": {
+        "present": "I like this music",
+        "past": "I liked this music",
+        "future": "I will like this music"
+      }
+    },
+    {
+      "id": 32,
+      "english": {
+        "present": "She feels happy today",
+        "past": "She felt happy today",
+        "future": "She will feel happy today"
+      }
+    },
+    {
+      "id": 33,
+      "english": {
+        "present": "We think this idea is good",
+        "past": "We thought this idea was good",
+        "future": "We will think this idea is good"
+      }
+    },
+    {
+      "id": 34,
+      "english": {
+        "present": "He wants to learn Spanish",
+        "past": "He wanted to learn Spanish",
+        "future": "He will want to learn Spanish"
+      }
+    },
+    {
+      "id": 35,
+      "english": {
+        "present": "They love their family very much",
+        "past": "They loved their family very much",
+        "future": "They will love their family very much"
+      }
+    },
+    {
+      "id": 36,
+      "english": {
+        "present": "I feel tired after work",
+        "past": "I felt tired after work",
+        "future": "I will feel tired after work"
+      }
+    },
+    {
+      "id": 37,
+      "english": {
+        "present": "She believes in herself",
+        "past": "She believed in herself",
+        "future": "She will believe in herself"
+      }
+    },
+    {
+      "id": 38,
+      "english": {
+        "present": "We like to travel together",
+        "past": "We liked to travel together",
+        "future": "We will like to travel together"
+      }
+    },
+    {
+      "id": 39,
+      "english": {
+        "present": "He thinks about his future",
+        "past": "He thought about his future",
+        "future": "He will think about his future"
+      }
+    },
+    {
+      "id": 40,
+      "english": {
+        "present": "They feel excited about the trip",
+        "past": "They felt excited about the trip",
+        "future": "They will feel excited about the trip"
+      }
+    },
+    {
+      "id": 41,
+      "english": {
+        "present": "I try to improve every day",
+        "past": "I tried to improve every day",
+        "future": "I will try to improve every day"
+      }
+    },
+    {
+      "id": 42,
+      "english": {
+        "present": "She wants to achieve her goals",
+        "past": "She wanted to achieve her goals",
+        "future": "She will want to achieve her goals"
+      }
+    },
+    {
+      "id": 43,
+      "english": {
+        "present": "We learn from our mistakes",
+        "past": "We learned from our mistakes",
+        "future": "We will learn from our mistakes"
+      }
+    },
+    {
+      "id": 44,
+      "english": {
+        "present": "He works hard to build his future",
+        "past": "He worked hard to build his future",
+        "future": "He will work hard to build his future"
+      }
+    },
+    {
+      "id": 45,
+      "english": {
+        "present": "They believe that everything is possible",
+        "past": "They believed that everything was possible",
+        "future": "They will believe that everything is possible"
+      }
+    },
+    {
+      "id": 46,
+      "english": {
+        "present": "I think about my future every night",
+        "past": "I thought about my future every night",
+        "future": "I will think about my future every night"
+      }
+    },
+    {
+      "id": 47,
+      "english": {
+        "present": "She tries to stay positive in difficult times",
+        "past": "She tried to stay positive in difficult times",
+        "future": "She will try to stay positive in difficult times"
+      }
+    },
+    {
+      "id": 48,
+      "english": {
+        "present": "We want to live a meaningful life",
+        "past": "We wanted to live a meaningful life",
+        "future": "We will want to live a meaningful life"
+      }
+    },
+    {
+      "id": 49,
+      "english": {
+        "present": "He understands that change takes time",
+        "past": "He understood that change took time",
+        "future": "He will understand that change takes time"
+      }
+    },
+    {
+      "id": 50,
+      "english": {
+        "present": "They decide to follow their dreams",
+        "past": "They decided to follow their dreams",
+        "future": "They will decide to follow their dreams"
+      }
+    }
+  ]
+}

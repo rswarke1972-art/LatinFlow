@@ -9,7 +9,36 @@ const flags = {
   german: "images/flags/germany.jpg",
   french: "images/flags/france.jpg",
   spanish: "images/flags/spain.jpg",
-  indonesian: "images/flags/indonesia.jpg"
+  indonesian: "images/flags/indonesia.jpg",
+  albanian: "images/flags/albanian.jpg",
+  azerbaijani: "images/flags/azerbaijani.jpg",
+  bosnian: "images/flags/bosnian.jpg",
+  catalan: "images/flags/catalan.jpg",
+  croatian: "images/flags/croatian.jpg",
+  czech: "images/flags/czech.jpg",
+  danish: "images/flags/danish.jpg",
+  esperanto: "images/flags/esperanto.jpg",
+  estonian: "images/flags/estonian.jpg",
+  finnish: "images/flags/finnish.jpg",
+  hawaiian: "images/flags/hawaiian.jpg",
+  hungarian: "images/flags/hungarian.jpg",
+  icelandic: "images/flags/icelandic.jpg",
+  kosovo: "images/flags/kosovo.jpg",
+  malay: "images/flags/malay.jpg",
+  maori: "images/flags/maori.jpg",
+  norwegian: "images/flags/norwegian.jpg",
+  polish: "images/flags/polish.jpg",
+  romanian: "images/flags/romanian.jpg",
+  samoan: "images/flags/samoan.jpg",
+  slovak: "images/flags/slovak.jpg",
+  slovenian: "images/flags/slovenian.jpg",
+  swahili: "images/flags/swahili.jpg",
+  swedish: "images/flags/swedish.jpg",
+  tagalog: "images/flags/tagalog.jpg",
+  turkish: "images/flags/turkish.jpg",
+  uzbek: "images/flags/uzbek.jpg",
+  vietnamese: "images/flags/vietnamese.jpg",
+  zulu: "images/flags/zulu.jpg"
 };
 
 function setLanguageBackground(lang) {
@@ -126,27 +155,7 @@ function playSound() {
   );
 
   // 🔥 LANGUAGE BASED VOICE
-  if (currentLang === "spanish") {
-    utterance.lang = "es-ES";
-
-  } else if (currentLang === "french") {
-    utterance.lang = "fr-FR";
-
-  } else if (currentLang === "german") {
-    utterance.lang = "de-DE";
-
-  } else if (currentLang === "italian") {
-    utterance.lang = "it-IT";
-
-  } else if (currentLang === "indonesian") {
-    utterance.lang = "id-ID";
-
-    } else if (currentLang === "portuguese") {
-    utterance.lang = "pt-BR";
-
-  } else {
-    utterance.lang = "en-US";
-  }
+  utterance.lang = getTtsLocale(currentLang);
 
   speechSynthesis.speak(utterance);
 }

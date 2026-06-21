@@ -6,7 +6,7 @@ let correctAnswer;
 let score = 0;
 
 // ===== QUIZ TYPE =====
-const quizType = localStorage.getItem("quizType") || "wordToMeaning";
+let quizType = localStorage.getItem("quizType") || "wordToMeaning";
 
 // ===== INIT =====
 async function init() {
@@ -16,6 +16,7 @@ async function init() {
     const langName = data.language || currentLanguage || "Language";
     document.getElementById("langTitle").innerText = langName;
 
+    updateQuizTypeButtonsUI();
     prepareData();
 
     if (allItems.length === 0) {
@@ -31,6 +32,26 @@ async function init() {
 }
 
 init();
+
+function changeQuizType(type) {
+  quizType = type;
+  localStorage.setItem("quizType", type);
+  updateQuizTypeButtonsUI();
+  nextQuestion();
+}
+
+function updateQuizTypeButtonsUI() {
+  ["wordToMeaning", "meaningToWord"].forEach(type => {
+    const btn = document.getElementById(`quiztype-${type}`);
+    if (btn) {
+      if (type === quizType) {
+        btn.classList.add("active-quiz-type");
+      } else {
+        btn.classList.remove("active-quiz-type");
+      }
+    }
+  });
+}
 
 
 // ===== PREPARE DATA =====
@@ -148,15 +169,23 @@ function generateOptions() {
 function checkAnswer(selected) {
 
   const result = document.getElementById("result");
+  const container = document.querySelector(".container");
+
+  if (container) {
+    container.classList.remove("correct-pulse", "incorrect-shake");
+    void container.offsetWidth;
+  }
 
   if (selected === correctAnswer) {
     score++;
     result.innerText = "✅ Correct!";
-    result.style.color = "lightgreen";
+    result.style.color = "#34d399";
+    if (container) container.classList.add("correct-pulse");
   } else {
     score--;
     result.innerText = `❌ Wrong! Correct: ${correctAnswer}`;
-    result.style.color = "red";
+    result.style.color = "#f87171";
+    if (container) container.classList.add("incorrect-shake");
   }
 
   document.getElementById("score").innerText = "Score: " + score;
